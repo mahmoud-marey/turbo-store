@@ -3,15 +3,21 @@ import { RouterLink } from '@angular/router';
 import { ProductListItem } from '../core/models/catalog.models';
 import { EgpPipe } from '../core/i18n/egp.pipe';
 import { TranslatePipe } from '../core/i18n/translate.pipe';
+import { OverlayDirective } from './overlay';
 
 @Component({
   selector: 'app-quick-view',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [RouterLink, EgpPipe, TranslatePipe],
+  imports: [RouterLink, EgpPipe, TranslatePipe, OverlayDirective],
   template: `
     @if (product(); as p) {
       <div class="fixed inset-0 z-50 grid place-items-center bg-black/70 p-4" (click)="closed.emit()">
-        <div class="grid max-h-[90vh] w-full max-w-3xl overflow-auto rounded-2xl bg-[var(--bg-elevated)] md:grid-cols-2" (click)="$event.stopPropagation()">
+        <div
+          appOverlay
+          class="grid max-h-[90vh] w-full max-w-3xl overflow-auto rounded-2xl bg-[var(--bg-elevated)] md:grid-cols-2"
+          (click)="$event.stopPropagation()"
+          (closed)="closed.emit()"
+        >
           <img [src]="p.image" [alt]="p.name" class="h-72 w-full object-contain bg-black/20 p-6 md:h-full" />
           <div class="p-6">
             <p class="text-xs uppercase text-[var(--text-muted)]">{{ p.brand }}</p>

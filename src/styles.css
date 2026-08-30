@@ -103,3 +103,47 @@ a {
   scrollbar-width: thin;
   scrollbar-color: var(--color-line) transparent;
 }
+
+@keyframes cart-bump {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.18);
+  }
+}
+
+.cart-bump {
+  animation: cart-bump 0.4s ease;
+}
+
+.rail-snap {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 0.5rem;
+}
+
+.rail-snap > * {
+  min-width: 78%;
+  scroll-snap-align: start;
+}
+
+@media (min-width: 640px) {
+  .rail-snap > * {
+    min-width: 45%;
+  }
+}
+
+@media (min-width: 768px) {
+  .rail-snap {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    overflow: visible;
+  }
+  .rail-snap > * {
+    min-width: 0;
+  }
+}

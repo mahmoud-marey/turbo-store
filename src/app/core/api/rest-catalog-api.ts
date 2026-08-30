@@ -25,7 +25,14 @@ export class RestCatalogApi implements CatalogApi {
   list(query: CatalogQuery): Observable<Page<ProductListItem>> {
     let params = new HttpParams();
     Object.entries(query).forEach(([k, v]) => {
-      if (v != null && v !== '') params = params.set(k, String(v));
+      if (v == null || v === '') return;
+      if (Array.isArray(v)) {
+        v.forEach((item) => {
+          if (item !== '') params = params.append(k, String(item));
+        });
+      } else {
+        params = params.set(k, String(v));
+      }
     });
     return this.http.get<Page<ProductListItem>>(`${this.base}/products`, { params });
   }

@@ -7,19 +7,25 @@ import {
   ProductListItem,
 } from '../models/catalog.models';
 
+export function asList(v?: string | string[] | null): string[] {
+  if (v == null || v === '') return [];
+  const arr = Array.isArray(v) ? v : String(v).split(',');
+  return arr.map((s) => s.trim()).filter(Boolean);
+}
+
 @Injectable({ providedIn: 'root' })
 export class CatalogQueryService {
   query(products: ProductListItem[], q: CatalogQuery, filters?: FilterMeta): Page<ProductListItem> {
     let items = products.slice();
     const category = q.category?.toLowerCase();
-    const brand = q.brand?.toLowerCase();
+    const brands = asList(q.brand).map((s) => s.toLowerCase());
     const search = q.q?.trim().toLowerCase();
 
     if (category) {
       items = items.filter((p) => p.categorySlugs.includes(category));
     }
-    if (brand) {
-      items = items.filter((p) => p.brandSlug === brand || p.brand.toLowerCase() === brand);
+    if (brands.length) {
+      items = items.filter((p) => brands.some((b) => p.brandSlug === b || p.brand.toLowerCase() === b));
     }
     if (search) {
       items = items.filter((p) =>
@@ -29,11 +35,17 @@ export class CatalogQueryService {
     if (q.minPrice != null) items = items.filter((p) => p.price >= q.minPrice!);
     if (q.maxPrice != null) items = items.filter((p) => p.price <= q.maxPrice!);
     if (q.inStock) items = items.filter((p) => p.inStock);
-    if (q.cpu) items = items.filter((p) => this.blob(p).includes(q.cpu!.toLowerCase()));
-    if (q.gpu) items = items.filter((p) => this.blob(p).includes(q.gpu!.toLowerCase()));
-    if (q.ram) items = items.filter((p) => this.blob(p).includes(q.ram!.toLowerCase()));
-    if (q.storage) items = items.filter((p) => this.blob(p).includes(q.storage!.toLowerCase()));
-    if (q.refresh) items = items.filter((p) => this.blob(p).includes(q.refresh!.toLowerCase()));
+
+    const matchAny = (field: string | string[] | undefined) => {
+      const vals = asList(field).map((s) => s.toLowerCase());
+      if (!vals.length) return;
+      items = items.filter((p) => vals.some((v) => this.blob(p).includes(v)));
+    };
+    matchAny(q.cpu);
+    matchAny(q.gpu);
+    matchAny(q.ram);
+    matchAny(q.storage);
+    matchAny(q.refresh);
 
     const facets = this.buildFacets(items, filters);
 

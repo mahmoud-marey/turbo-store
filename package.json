@@ -10,7 +10,7 @@
     "scrape": "node tools/scrape/index.mjs",
     "scrape:slice": "node tools/scrape/index.mjs --limit 20",
     "scrape:normalize": "node tools/scrape/normalize.mjs",
-    "build:pages": "ng build --base-href /E-Commerce/ && node tools/pages-fallback.mjs"
+    "build:pages": "ng build --base-href /turbo-store/ && node tools/pages-fallback.mjs"
   },
   "prettier": {
     "printWidth": 100,

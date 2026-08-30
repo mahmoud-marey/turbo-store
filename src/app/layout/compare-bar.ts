@@ -9,7 +9,10 @@ import { TranslatePipe } from '../core/i18n/translate.pipe';
   imports: [RouterLink, TranslatePipe],
   template: `
     @if (compare.count()) {
-      <div class="fixed inset-x-0 bottom-0 z-30 border-t border-[var(--border)] bg-[var(--bg-elevated)]/95 backdrop-blur">
+      <div
+        class="fixed inset-x-0 z-30 border-t border-[var(--border)] bg-[var(--bg-elevated)]/95 backdrop-blur md:bottom-0"
+        style="bottom: calc(3.75rem + env(safe-area-inset-bottom, 0px))"
+      >
         <div class="container-page flex items-center gap-3 py-3">
           @for (p of compare.items(); track p.slug) {
             <img [src]="p.image" [alt]="p.name" class="h-10 w-10 object-contain" />

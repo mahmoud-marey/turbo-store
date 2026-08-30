@@ -34,7 +34,7 @@ import { SeoService } from '../../core/services/seo.service';
           <aside class="h-fit rounded-2xl border border-[var(--border)] p-5">
             <div class="mb-3 flex gap-2">
               <input class="flex-1 rounded-lg border border-[var(--border)] bg-transparent px-3 py-2" [placeholder]="'promo.code' | t" [value]="code()" (input)="code.set(($any($event.target)).value)" />
-              <button type="button" class="rounded-lg border border-[var(--border)] px-3" (click)="cart.promo.set(code())">{{ 'promo.apply' | t }}</button>
+              <button type="button" class="rounded-lg border border-[var(--border)] px-3" (click)="cart.applyPromo(code())">{{ 'promo.apply' | t }}</button>
             </div>
             <p class="mb-4 text-xs text-[var(--text-muted)]">{{ 'promo.invalid' | t }}</p>
             <div class="flex justify-between py-1"><span>{{ 'cart.subtotal' | t }}</span><span>{{ cart.subtotal() | egp }}</span></div>

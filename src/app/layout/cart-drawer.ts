@@ -5,15 +5,21 @@ import { UiStore } from '../core/stores/ui.store';
 import { TranslatePipe } from '../core/i18n/translate.pipe';
 import { EgpPipe } from '../core/i18n/egp.pipe';
 import { QtyStepper } from '../shared/qty-stepper';
+import { OverlayDirective } from '../shared/overlay';
 
 @Component({
   selector: 'app-cart-drawer',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [RouterLink, TranslatePipe, EgpPipe, QtyStepper],
+  imports: [RouterLink, TranslatePipe, EgpPipe, QtyStepper, OverlayDirective],
   template: `
     @if (ui.cartOpen()) {
       <div class="fixed inset-0 z-50 bg-black/60" (click)="ui.cartOpen.set(false)">
-        <aside class="ms-auto flex h-full w-full max-w-md flex-col bg-[var(--bg-elevated)] shadow-[var(--shadow)]" (click)="$event.stopPropagation()">
+        <aside
+          appOverlay
+          class="ms-auto flex h-full w-full max-w-md flex-col bg-[var(--bg-elevated)] shadow-[var(--shadow)]"
+          (click)="$event.stopPropagation()"
+          (closed)="ui.cartOpen.set(false)"
+        >
           <div class="flex items-center justify-between border-b border-[var(--border)] px-5 py-4">
             <h2 class="font-display text-xl">{{ 'cart.title' | t }}</h2>
             <button type="button" (click)="ui.cartOpen.set(false)" aria-label="Close">✕</button>
@@ -35,7 +41,7 @@ import { QtyStepper } from '../shared/qty-stepper';
               }
             }
           </div>
-          <div class="border-t border-[var(--border)] p-5">
+          <div class="border-t border-[var(--border)] p-5" style="padding-bottom: calc(1.25rem + env(safe-area-inset-bottom, 0px))">
             <div class="mb-3 flex justify-between"><span>{{ 'cart.subtotal' | t }}</span><span>{{ cart.subtotal() | egp }}</span></div>
             <a routerLink="/cart" class="mb-2 block rounded-xl border border-[var(--border)] py-3 text-center" (click)="ui.cartOpen.set(false)">{{ 'cart.view' | t }}</a>
             <a routerLink="/checkout" class="block rounded-xl bg-[var(--accent)] py-3 text-center font-bold text-[var(--accent-ink)]" (click)="ui.cartOpen.set(false)">{{ 'cart.checkout' | t }}</a>

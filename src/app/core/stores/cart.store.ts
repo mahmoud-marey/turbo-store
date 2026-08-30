@@ -1,11 +1,15 @@
 import { computed, effect, inject, Injectable, signal } from '@angular/core';
+import { firstValueFrom } from 'rxjs';
 import { CartLine, ProductListItem } from '../models/catalog.models';
 import { CatalogFacade } from '../facades/catalog.facade';
-import { firstValueFrom } from 'rxjs';
+import { ToastService } from '../services/toast.service';
+import { UiStore } from './ui.store';
 
 @Injectable({ providedIn: 'root' })
 export class CartStore {
   private readonly catalog = inject(CatalogFacade);
+  private readonly toast = inject(ToastService);
+  private readonly ui = inject(UiStore);
   readonly lines = signal<CartLine[]>(this.read());
   readonly promo = signal('');
   readonly catalogCache = signal<ProductListItem[]>([]);
@@ -26,12 +30,29 @@ export class CartStore {
     void this.hydrate();
   }
 
-  add(slug: string, qty = 1): void {
+  add(slug: string, qty = 1, silent = false): void {
     this.lines.update((lines) => {
       const found = lines.find((l) => l.slug === slug);
       if (found) return lines.map((l) => (l.slug === slug ? { ...l, qty: l.qty + qty } : l));
       return [...lines, { slug, qty }];
     });
+    if (!silent) {
+      this.toast.show(this.ui.t('cart.added'), { action: this.ui.t('cart.view'), href: '/cart' });
+    }
+  }
+
+  addMany(slugs: string[]): void {
+    for (const slug of slugs) this.add(slug, 1, true);
+    if (slugs.length) {
+      this.toast.show(this.ui.t('builder.added'), { action: this.ui.t('cart.view'), href: '/cart' });
+    }
+  }
+
+  applyPromo(code: string): void {
+    const c = code.trim().toUpperCase();
+    this.promo.set(c);
+    if (c === 'TURBO10') this.toast.show(this.ui.t('promo.applied'));
+    else this.toast.show(this.ui.t('promo.rejected'), { kind: 'warn' });
   }
 
   setQty(slug: string, qty: number): void {

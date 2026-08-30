@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, computed, inject, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component, computed, effect, inject, signal, untracked } from '@angular/core';
 import { NavigationEnd, Router, RouterLink } from '@angular/router';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { filter } from 'rxjs';
@@ -8,11 +8,12 @@ import { CartStore } from '../core/stores/cart.store';
 import { CompareStore, WishlistStore } from '../core/stores/lists.store';
 import { UiStore } from '../core/stores/ui.store';
 import { SearchOverlay } from './search-overlay';
+import { OverlayDirective } from '../shared/overlay';
 
 @Component({
   selector: 'app-header',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [RouterLink, TranslatePipe, SearchOverlay],
+  imports: [RouterLink, TranslatePipe, SearchOverlay, OverlayDirective],
   template: `
     <header class="sticky top-0 z-40 border-b border-[var(--border)] bg-[color-mix(in_oklab,var(--bg)_88%,transparent)] backdrop-blur-xl">
       <div class="container-page flex items-center gap-3 py-3">
@@ -46,9 +47,14 @@ import { SearchOverlay } from './search-overlay';
           <button type="button" class="rounded-lg border border-[var(--border)] px-2 py-1 text-xs" (click)="ui.toggleTheme()">
             {{ ui.theme() === 'dark' ? ('theme.light' | t) : ('theme.dark' | t) }}
           </button>
-          <a routerLink="/wishlist" class="relative rounded-lg px-2 py-1">♡ <span class="text-xs">{{ wish.count() }}</span></a>
-          <a routerLink="/compare" class="relative rounded-lg px-2 py-1 text-sm">⇄ <span class="text-xs">{{ compare.count() }}</span></a>
-          <button type="button" class="relative rounded-xl bg-[var(--accent)] px-3 py-2 font-bold text-[var(--accent-ink)]" (click)="ui.cartOpen.set(true)">
+          <a routerLink="/wishlist" class="relative hidden rounded-lg px-2 py-1 sm:inline">♡ <span class="text-xs">{{ wish.count() }}</span></a>
+          <a routerLink="/compare" class="relative hidden rounded-lg px-2 py-1 text-sm sm:inline">⇄ <span class="text-xs">{{ compare.count() }}</span></a>
+          <button
+            type="button"
+            class="relative rounded-xl bg-[var(--accent)] px-3 py-2 font-bold text-[var(--accent-ink)]"
+            [class.cart-bump]="bump()"
+            (click)="ui.cartOpen.set(true)"
+          >
             {{ 'cart.title' | t }}
             <span class="ms-1">{{ cart.count() }}</span>
           </button>
@@ -57,7 +63,12 @@ import { SearchOverlay } from './search-overlay';
     </header>
     @if (ui.navOpen()) {
       <div class="fixed inset-0 z-50 bg-black/60 lg:hidden" (click)="ui.navOpen.set(false)">
-        <nav class="h-full w-80 max-w-[85%] overflow-auto bg-[var(--bg-elevated)] p-6" (click)="$event.stopPropagation()" [style.margin-inline-start]="0">
+        <nav
+          appOverlay
+          class="h-full w-80 max-w-[85%] overflow-auto bg-[var(--bg-elevated)] p-6"
+          (click)="$event.stopPropagation()"
+          (closed)="ui.navOpen.set(false)"
+        >
           <p class="mb-4 font-display text-lg">{{ 'brand' | t }}</p>
           @for (cat of cats(); track cat.slug) {
             <a [routerLink]="['/c', cat.slug]" class="block border-b border-[var(--border)] py-3" (click)="ui.navOpen.set(false)">
@@ -77,10 +88,22 @@ export class Header {
   private readonly catalog = inject(CatalogFacade);
   private readonly router = inject(Router);
   readonly mega = signal(false);
+  readonly bump = signal(false);
   readonly cats = toSignal(this.catalog.categories(), { initialValue: [] });
   readonly topCats = computed(() => this.cats().filter((c) => !c.parentSlug).slice(0, 16));
+  private prevCount = -1;
 
   constructor() {
     this.router.events.pipe(filter((e) => e instanceof NavigationEnd)).subscribe(() => this.ui.navOpen.set(false));
+    effect(() => {
+      const n = this.cart.count();
+      untracked(() => {
+        if (this.prevCount >= 0 && n > this.prevCount) {
+          this.bump.set(true);
+          setTimeout(() => this.bump.set(false), 420);
+        }
+        this.prevCount = n;
+      });
+    });
   }
 }

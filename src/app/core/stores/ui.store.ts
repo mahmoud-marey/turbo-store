@@ -15,6 +15,11 @@ export class UiStore {
   readonly cartOpen = signal(false);
   readonly searchOpen = signal(false);
   readonly navOpen = signal(false);
+  readonly assistantOpen = signal(false);
+  readonly assistantSeed = signal('');
+  readonly assistantMode = signal<'chat' | 'builder'>('chat');
+  readonly filtersOpen = signal(false);
+  readonly hideTabs = signal(false);
   readonly dict = signal<Record<string, string>>({});
 
   readonly dir = computed(() => (this.lang() === 'ar' ? 'rtl' : 'ltr'));
@@ -31,8 +36,12 @@ export class UiStore {
     void this.load(this.lang());
   }
 
-  t(key: string): string {
-    return this.dict()[key] ?? key;
+  t(key: string, vars?: Record<string, string | number>): string {
+    let s = this.dict()[key] ?? key;
+    if (vars) {
+      for (const [k, v] of Object.entries(vars)) s = s.replaceAll(`{${k}}`, String(v));
+    }
+    return s;
   }
 
   async setLang(lang: Lang): Promise<void> {

@@ -6,7 +6,7 @@ Today that token is bound to `JsonCatalogApi`, which loads files from `public/da
 
 To switch to a real backend:
 
-1. Add `src/app/core/api/rest-catalog-api.ts` that implements the same `CatalogApi` interface with `HttpClient`.
+1. `src/app/core/api/rest-catalog-api.ts` already implements `CatalogApi` with `HttpClient`.
 2. In `app.config.ts` replace:
 
 ```ts
@@ -21,9 +21,17 @@ with:
 { provide: CATALOG_API, useExisting: RestCatalogApi },
 ```
 
-## Endpoints the backend must expose
+## Product list query string
 
-Query string matches `CatalogQuery` (`category`, `brand`, `q`, `minPrice`, `maxPrice`, `cpu`, `gpu`, `ram`, `storage`, `refresh`, `inStock`, `sort`, `order`, `page`, `pageSize`).
+`CatalogQuery` facet fields (`brand`, `cpu`, `gpu`, `ram`, `storage`, `refresh`) are `string | string[]`.
+
+- Storefront URLs serialize multi-select as **comma-joined** values: `?brand=ASUS,MSI&gpu=RTX%205060`.
+- `RestCatalogApi` sends arrays as **repeatable** query params: `brand=ASUS&brand=MSI`.
+- Also: `q`, `category`, `minPrice`, `maxPrice`, `inStock`, `sort`, `order`, `page`, `pageSize` (UI `show` maps to `pageSize` 12/24/48).
+
+Match **any-of** for each multi-select facet.
+
+## Endpoints the backend must expose
 
 | Method | Path | Returns |
 | --- | --- | --- |
@@ -38,6 +46,7 @@ Query string matches `CatalogQuery` (`category`, `brand`, `q`, `minPrice`, `maxP
 | GET | `/api/blog` | `BlogPost[]` |
 | GET | `/api/blog/:slug` | `BlogPost` |
 | GET | `/api/pages/:id` | `ContentPage` (`about`, `warranty`, `privacy`, `terms`, `delivery`) |
+| POST | `/api/assistant` | Assistant action JSON (see [AI-ASSISTANT.md](AI-ASSISTANT.md)). Demo uses a browser key; production should hold the key here. |
 
 Cart, wishlist, compare, and checkout stay client-side until you add `/api/cart` and `/api/orders`. Checkout currently writes a demo order to `sessionStorage`.
 

@@ -39,7 +39,11 @@ Use `--resume` to skip product files that already exist.
 
 ## Pages
 
-Home, category + brand listing with facets, product detail, search, cart, guest checkout, wishlist, compare, PC Builder, brands, blog, warranty/FAQ, about, terms, privacy, contact.
+Home, category + brand listing with multi-select facets, product detail, search, cart, guest checkout, wishlist, compare, stepped PC Builder, brands, blog, warranty/FAQ, about, terms, privacy, contact, and a bring-your-own-key shopping assistant.
+
+## Assistant
+
+Optional. The shopper pastes an OpenAI (or compatible) key in the browser. The model returns a structured catalog action; the app runs it against the real JSON. See [docs/AI-ASSISTANT.md](docs/AI-ASSISTANT.md). The public demo has a **Play sample conversation** path so it works without a key.
 
 ## Backend
 
@@ -48,3 +52,8 @@ See [docs/BACKEND-SWAP.md](docs/BACKEND-SWAP.md). Change two lines in `src/app/a
 ## Deploy
 
 GitHub Pages via `.github/workflows/deploy.yml`. Deep links copy `index.html` to `404.html`.
+
+```bash
+npx ng build --base-href /turbo-store/ && node tools/pages-fallback.mjs
+```
+

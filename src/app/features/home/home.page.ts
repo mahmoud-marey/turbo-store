@@ -5,17 +5,24 @@ import { CatalogFacade } from '../../core/facades/catalog.facade';
 import { ProductListItem } from '../../core/models/catalog.models';
 import { SeoService } from '../../core/services/seo.service';
 import { TranslatePipe } from '../../core/i18n/translate.pipe';
-import { ProductCard } from '../../shared/product-card';
+import { EgpPipe } from '../../core/i18n/egp.pipe';
+import { ProductRail } from '../../shared/product-rail';
 import { SkeletonGrid } from '../../shared/skeleton';
 import { QuickView } from '../../shared/quick-view';
+import { ErrorState } from '../../shared/error-state';
 import { UiStore } from '../../core/stores/ui.store';
+import { RecentlyViewedStore } from '../../core/stores/recently-viewed.store';
+import { CartStore } from '../../core/stores/cart.store';
+import { BuilderStore } from '../../core/stores/builder.store';
 
 @Component({
   selector: 'app-home',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  imports: [RouterLink, TranslatePipe, ProductCard, SkeletonGrid, QuickView],
+  imports: [RouterLink, TranslatePipe, EgpPipe, ProductRail, SkeletonGrid, QuickView, ErrorState],
   template: `
-    @if (home.value(); as data) {
+    @if (home.error() || products.error()) {
+      <div class="container-page py-10"><app-error (retry)="reload()" /></div>
+    } @else if (home.value(); as data) {
       <section class="relative overflow-hidden border-b border-[var(--border)]">
         <div class="container-page grid items-center gap-8 py-10 lg:grid-cols-2">
           @let slide = data.hero[heroIndex()] || data.hero[0];
@@ -36,6 +43,35 @@ import { UiStore } from '../../core/stores/ui.store';
           <img [src]="slide?.image" [alt]="slide?.title" class="w-full rounded-3xl border border-[var(--border)] object-cover" />
         </div>
       </section>
+
+      @if (showContinue()) {
+        <section class="container-page py-8">
+          <h2 class="mb-4 font-display text-xl font-bold">{{ 'home.continue' | t }}</h2>
+          <div class="grid gap-3 md:grid-cols-3">
+            @if (recent.last(); as p) {
+              <a [routerLink]="['/p', p.slug]" class="flex gap-3 rounded-2xl border border-[var(--border)] p-3">
+                <img [src]="p.image" alt="" class="h-16 w-16 object-contain" />
+                <span class="min-w-0">
+                  <span class="text-xs text-[var(--text-muted)]">{{ 'home.recent' | t }}</span>
+                  <span class="line-clamp-2 block text-sm font-semibold">{{ p.name }}</span>
+                </span>
+              </a>
+            }
+            @if (builder.total()) {
+              <a routerLink="/builder" class="rounded-2xl border border-[var(--border)] p-3">
+                <span class="text-xs text-[var(--text-muted)]">{{ 'home.savedBuild' | t }}</span>
+                <span class="mt-1 block font-display text-lg text-[var(--accent)]">{{ builder.total() | egp }}</span>
+              </a>
+            }
+            @if (cart.count()) {
+              <button type="button" class="rounded-2xl border border-[var(--border)] p-3 text-start" (click)="ui.cartOpen.set(true)">
+                <span class="text-xs text-[var(--text-muted)]">{{ 'home.cartNudge' | t }}</span>
+                <span class="mt-1 block font-display text-lg">{{ cart.count() }} · {{ cart.total() | egp }}</span>
+              </button>
+            }
+          </div>
+        </section>
+      }
 
       <section class="container-page grid gap-4 py-10 sm:grid-cols-2 lg:grid-cols-4">
         @for (tile of data.categoryTiles; track tile.slug) {
@@ -58,17 +94,20 @@ import { UiStore } from '../../core/stores/ui.store';
         }
       </section>
 
+      @if (recent.items().length) {
+        <section class="container-page py-10">
+          <h2 class="mb-4 font-display text-2xl font-bold">{{ 'home.recent' | t }}</h2>
+          <app-rail [products]="recent.items().slice(0, 4)" (quick)="quick.set($event)" />
+        </section>
+      }
+
       @for (rail of rails(); track rail.id) {
         <section class="container-page py-10">
           <div class="mb-4 flex items-end justify-between">
             <h2 class="font-display text-2xl font-bold">{{ rail.title }}</h2>
             <a routerLink="/c/laptops" class="text-sm text-[var(--accent)]">{{ 'shop.now' | t }}</a>
           </div>
-          <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-            @for (p of rail.products; track p.slug) {
-              <app-product-card [product]="p" (quick)="quick.set($event)" />
-            }
-          </div>
+          <app-rail [products]="rail.products" (quick)="quick.set($event)" />
         </section>
       }
 
@@ -98,6 +137,9 @@ export class HomePage {
   private readonly catalog = inject(CatalogFacade);
   private readonly seo = inject(SeoService);
   readonly ui = inject(UiStore);
+  readonly recent = inject(RecentlyViewedStore);
+  readonly cart = inject(CartStore);
+  readonly builder = inject(BuilderStore);
   readonly heroIndex = signal(0);
   readonly quick = signal<ProductListItem | null>(null);
   readonly home = resource({ loader: () => firstValueFrom(this.catalog.home()) });
@@ -113,7 +155,14 @@ export class HomePage {
       .filter((r) => r.products.length);
   });
 
+  readonly showContinue = computed(() => !!(this.recent.last() || this.builder.total() || this.cart.count()));
+
   constructor() {
     this.seo.set('Turbo Store', 'Gaming PCs, laptops and accessories — the Turbo upgrade.');
+  }
+
+  reload(): void {
+    this.home.reload();
+    this.products.reload();
   }
 }

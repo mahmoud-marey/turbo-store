@@ -159,15 +159,15 @@ export type BuilderSlot = keyof BuilderCatalog;
 
 export interface CatalogQuery {
   category?: string;
-  brand?: string;
+  brand?: string | string[];
   q?: string;
   minPrice?: number;
   maxPrice?: number;
-  cpu?: string;
-  gpu?: string;
-  ram?: string;
-  storage?: string;
-  refresh?: string;
+  cpu?: string | string[];
+  gpu?: string | string[];
+  ram?: string | string[];
+  storage?: string | string[];
+  refresh?: string | string[];
   inStock?: boolean;
   sort?: 'default' | 'name' | 'price' | 'model' | 'rating';
   order?: 'asc' | 'desc';

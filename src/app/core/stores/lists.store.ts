@@ -2,10 +2,14 @@ import { computed, effect, inject, Injectable, signal } from '@angular/core';
 import { firstValueFrom } from 'rxjs';
 import { ProductListItem } from '../models/catalog.models';
 import { CatalogFacade } from '../facades/catalog.facade';
+import { ToastService } from '../services/toast.service';
+import { UiStore } from './ui.store';
 
 @Injectable({ providedIn: 'root' })
 export class WishlistStore {
   private readonly catalog = inject(CatalogFacade);
+  private readonly toast = inject(ToastService);
+  private readonly ui = inject(UiStore);
   readonly slugs = signal<string[]>(this.read('turbo.wishlist'));
   readonly catalogCache = signal<ProductListItem[]>([]);
   readonly items = computed(() => {
@@ -24,7 +28,9 @@ export class WishlistStore {
   }
 
   toggle(slug: string): void {
+    const adding = !this.has(slug);
     this.slugs.update((list) => (list.includes(slug) ? list.filter((s) => s !== slug) : [...list, slug]));
+    this.toast.show(this.ui.t(adding ? 'wishlist.added' : 'wishlist.removed'));
   }
 
   private async hydrate(): Promise<void> {
@@ -44,6 +50,8 @@ export class WishlistStore {
 @Injectable({ providedIn: 'root' })
 export class CompareStore {
   private readonly catalog = inject(CatalogFacade);
+  private readonly toast = inject(ToastService);
+  private readonly ui = inject(UiStore);
   readonly slugs = signal<string[]>(this.read());
   readonly catalogCache = signal<ProductListItem[]>([]);
   readonly items = computed(() => {
@@ -62,11 +70,20 @@ export class CompareStore {
   }
 
   toggle(slug: string): void {
+    if (this.has(slug)) {
+      this.slugs.update((list) => list.filter((s) => s !== slug));
+      this.toast.show(this.ui.t('compare.removed'));
+      return;
+    }
+    let evicted = false;
     this.slugs.update((list) => {
-      if (list.includes(slug)) return list.filter((s) => s !== slug);
-      if (list.length >= 4) return [...list.slice(1), slug];
+      if (list.length >= 4) {
+        evicted = true;
+        return [...list.slice(1), slug];
+      }
       return [...list, slug];
     });
+    this.toast.show(this.ui.t(evicted ? 'compare.evicted' : 'compare.added'), evicted ? { kind: 'warn' } : {});
   }
 
   clear(): void {
