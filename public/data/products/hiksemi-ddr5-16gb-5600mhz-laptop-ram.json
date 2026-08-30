@@ -1,0 +1,96 @@
+{
+  "id": 897,
+  "slug": "hiksemi-ddr5-16gb-5600mhz-laptop-ram",
+  "name": "Hiksemi HIKER DDR5 16GB 5600MHz CL19 Laptop Ram",
+  "model": "HIKER",
+  "brand": "Hiksemi",
+  "brandSlug": "hiksemi",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 9500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523181738-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523181738-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523181738-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523181738-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "hiksemi",
+    "ddr5",
+    "16gb",
+    "5600mhz",
+    "laptop",
+    "ram"
+  ],
+  "shortDescription": "Hiksemi DDR5 SO-DIMM 16GB 5600MHz — Full Specifications\r\n&nbsp;Performance\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nType\r\nDDR5 SO-DIMM (Laptop)\r\n\r\n\r\nCapacity\r\n16GB (1× 16GB)\r\n\r\n\r\nSpeed\r\n5600 MHz\r\n\r\n\r\nCAS Latency\r\nCL19\r\n\r\n\r\nVoltage\r\n",
+  "descriptionHtml": "<p><span>Hiksemi DDR5 SO-DIMM 16GB 5600MHz — Full Specifications</span></p><h4><br></h4><h4>&nbsp;Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR5 SO-DIMM (Laptop)</td></tr><tr><td>Capacity</td><td>16GB (1× 16GB)</td></tr><tr><td>Speed</td><td>5600 MHz</td></tr><tr><td>CAS Latency</td><td>CL19</td></tr><tr><td>Voltage</td><td>1.1V</td></tr></tbody></table><h4>???? Technical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>262-pin SO-DIMM</td></tr><tr><td>On-Die ECC</td><td>✅ Internal error correction for reliable, stable operation</td></tr><tr><td>PMIC</td><td>✅ Integrated onboard PMIC for efficient power management</td></tr><tr><td>Thermal Management</td><td>✅ Intelligent thermal control (S.M.A.R.T. + TRPM)</td></tr><tr><td>Buffered</td><td>❌ Unbuffered</td></tr><tr><td>XMP</td><td>❌ No</td></tr><tr><td>AMD EXPO</td><td>❌ No</td></tr><tr><td>JEDEC Standard</td><td>✅ Yes</td></tr><tr><td>RGB</td><td>❌ None</td></tr><tr><td>Heat Spreader</td><td>❌ None (bare SO-DIMM module)</td></tr><tr><td>Brand Parent</td><td>Hiksemi — backed by Hikvision manufacturing quality</td></tr></tbody></table><h4>????️ Temperature</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Operating Temp</td><td>0°C to 85°C</td></tr><tr><td>Storage Temp</td><td>-20°C to 65°C</td></tr></tbody></table><h4>????️ Platform Compatibility</h4><table><thead><tr><th>Platform</th><th>Compatible</th></tr></thead><tbody><tr><td>Intel 12th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 13th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 14th Gen Laptop</td><td>✅</td></tr><tr><td>AMD Ryzen 7000 Laptop</td><td>✅</td></tr><tr><td>AMD Ryzen 8000 Laptop</td><td>✅</td></tr><tr><td>DDR4 Laptops</td><td>❌</td></tr></tbody></table><h4>&nbsp;Warranty 1 year</h4><p><br></p><p><br></p><table><thead><tr><th><br></th><th><br></th></tr></thead><tbody><tr><td><br></td><td><br></td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "DDR5 SO-DIMM (Laptop)"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "16GB (1× 16GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "5600 MHz"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL19"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.1V"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-10",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 650,
+  "slug": "redragon-m806-rgb",
+  "name": "Redragon M806 RGB Gaming Mouse",
+  "model": "M806",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 1150,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260310223352-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260310223352-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260310223352-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260310223352-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260310223414-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260310223414-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260310223414-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Redragon",
+    "M806",
+    "RGB",
+    "Gaming",
+    "Mouse"
+  ],
+  "shortDescription": "ضمان عام من الوكيل????️ Redragon M806 RGB Gaming Mouseماوس جيمينج من شركة Redragon مخصص للألعاب وبيجي بإضاءة RGB وأزرار قابلة للبرمجة.???? المواصفاتنوع الاتصال: سلكي (USB)المستشعر: Optical PixArt 3327أقصى DPI: حتى 12400 ",
+  "descriptionHtml": "<h2><br></h2><h2>ضمان عام من الوكيل</h2><div><br></div><div><br></div><div><br></div><h2><br></h2><h2><img src=\"https://turbo-computer.com/image/catalog/accessories/M806 2.jpeg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/M806.jpg\"><br></h2><h2><br></h2><h2><br></h2><h2>????️ Redragon M806 RGB Gaming Mouse</h2><div><br></div><div>ماوس جيمينج من شركة Redragon مخصص للألعاب وبيجي بإضاءة RGB وأزرار قابلة للبرمجة.</div><div><br></div><div>???? المواصفات</div><div><br></div><div>نوع الاتصال: سلكي (USB)</div><div><br></div><div>المستشعر: Optical PixArt 3327</div><div><br></div><div>أقصى DPI: حتى 12400 DPI (قابل للتعديل)</div><div><br></div><div>مستويات DPI: 500 / 1000 / 2000 / 3000 / 6200 ويمكن زيادتها بالبرنامج حتى 12400</div><div><br></div><div>Polling Rate: حتى 1000Hz</div><div><br></div><div>عدد الأزرار: 7 أزرار قابلة للبرمجة</div><div><br></div><div>الإضاءة: RGB بـ 16.8 مليون لون مع عدة أوضاع إضاءة</div><div><br></div><div>العمر الافتراضي للأزرار: حوالي 20 مليون ضغطة</div><div><br></div><div>التسارع: 30G</div><div><br></div><div>الوزن: حوالي 100 جرام (jojware.com)</div><div><br></div><div>???? الأبعاد</div><div><br></div><div>الطول: 120.5 مم</div><div><br></div><div>العرض: 100 مم</div><div><br></div><div>الارتفاع: 49.5 مم</div><div><br></div><div>طول الكابل: 1.8 متر مضفر (Braided) (jojware.com)</div><div><br></div><div>⭐ المميزات</div><div><br></div><div>تصميم Ergonomic مريح لليد للاستخدام الطويل.</div><div><br></div><div>RGB Lighting لتجميل Setup الجيمينج.</div><div><br></div><div>7 أزرار قابلة للتخصيص بالماكرو.</div><div><br></div><div>دعم برنامج Redragon Software لتعديل الأزرار والإضاءة وDPI. (redragonmouse.com)</div><div><br></div><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 20,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-27",
+      "demo": true
+    }
+  ]
+}

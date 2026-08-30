@@ -1,0 +1,95 @@
+{
+  "id": 688,
+  "slug": "rahala-ral-902",
+  "name": "Rahala RAL 902 Laptop Backpack",
+  "model": "RAL 902",
+  "brand": "Rahala",
+  "brandSlug": "rahala",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1250,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234921-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234921-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234921-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234921-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235051-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235051-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235051-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235038-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235038-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235038-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234954-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234954-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234954-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235008-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235008-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318235008-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234938-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234938-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318234938-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Rahala",
+    "RAL",
+    "902",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "مواصفات Rahala RAL 901 Laptop Backpackالماركة Rahalaالموديل RAL 902اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر متين مقاوم للماءالوزن خفيفالسعة مناسبة للاستخدام اليوميالمميزاتجيوب متعددة لتنظيم اللابتوب والملحقا",
+  "descriptionHtml": "<p>مواصفات</p><p> Rahala RAL 901 Laptop Backpack</p><p><br></p><p>الماركة Rahala</p><p>الموديل RAL 902</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر متين مقاوم للماء</p><p>الوزن خفيف</p><p>السعة مناسبة للاستخدام اليومي</p><p><br></p><p>المميزات</p><p>جيوب متعددة لتنظيم اللابتوب والملحقات</p><p>تصميم مريح بظهر مبطن وحمالات كتف قابلة للتعديل</p><p>مناسب للعمل والدراسة والسفر</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    }
+  ]
+}

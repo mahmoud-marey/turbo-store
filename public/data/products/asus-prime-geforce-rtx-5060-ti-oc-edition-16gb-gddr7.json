@@ -1,0 +1,128 @@
+{
+  "id": 1079,
+  "slug": "asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-gddr7",
+  "name": "ASUS Prime GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card (PRIME-RTX5060TI-O16G)",
+  "model": "PRIME-RTX5060TI-O16G",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 39799,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "ASUS Prime",
+    "GeForce",
+    "RTX 5060 Ti",
+    "16GB GDDR7",
+    "OC Edition",
+    "Graphics Card",
+    "Components"
+  ],
+  "shortDescription": "ASUS Prime GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics CardElevate your PC build architecture with the ASUS Prime GeForce RTX 5060 Ti OC Edition, proudly offered by Turbo Computer Egypt. Engineered perfectly for c",
+  "descriptionHtml": "<p>ASUS Prime GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card</p><p>Elevate your PC build architecture with the ASUS Prime GeForce RTX 5060 Ti OC Edition, proudly offered by Turbo Computer Egypt. Engineered perfectly for creators and competitive gamers, this next-generation GPU introduces high-speed 16GB GDDR7 memory alongside a highly efficient triple-fan cooling system. Featuring a compact layout optimized for Small Form Factor (SFF) PC compatibility, it delivers stunning ray tracing performance and AI-accelerated workflows seamlessly. Includes an official 3-year warranty across Egypt.</p><h3>Advanced Technical Specifications Matrix</h3><table><thead><tr><th>Component Type</th><th>Official Hardware Specification Details</th></tr></thead><tbody><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5060 Ti Graphics Processing Unit Architecture</td></tr><tr><td>Video Memory (VRAM)</td><td>16GB Next-Generation High-Bandwidth GDDR7 Dedicated Memory</td></tr><tr><td>Engine Clock Rate</td><td>Factory Overclocked (OC Edition) with Advanced Tuning Parameters for Peak Performance</td></tr><tr><td>Memory Interface Bus</td><td>High-Speed Memory Bus Width Configuration Optimized for GDDR7 Bandwidth</td></tr><tr><td>Cooling Technology</td><td>ASUS Prime Triple-Fan Solution Optimized with Dual Ball Fan Bearings &amp; Physical Dynamic Airflow Design</td></tr><tr><td>Multi-Display Support</td><td>Up to 4 Displays Simultaneously via Native HDMI and DisplayPort Digital Interfaces</td></tr><tr><td>Digital Max Resolution</td><td>7680 x 4324 Ultra HD Video Output Resolution Capabilities</td></tr><tr><td>Power Requirements</td><td>Recommended System PSU: 650W or Higher with Standard PCIe Power Connectors</td></tr><tr><td>Physical Dimensions</td><td>SFF-Ready Compact Design Profile | Dimensions Tailored for Tight Micro-ATX &amp; ITX Chassis Compatibility</td></tr><tr><td>Model &amp; MPN</td><td>PRIME-RTX5060TI-O16G</td></tr><tr><td>Warranty Matrix</td><td> 3-Years Official Agent Warranty in Egypt (ضمان وكيل محلي معتمد لمدة 3 سنوات كاملة ضد عيوب الصناعة) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5060 Ti Graphics Processing Unit Architecture"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "16GB Next-Generation High-Bandwidth GDDR7 Dedicated Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock Rate",
+      "value": "Factory Overclocked (OC Edition) with Advanced Tuning Parameters for Peak Performance"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Interface Bus",
+      "value": "High-Speed Memory Bus Width Configuration Optimized for GDDR7 Bandwidth"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Technology",
+      "value": "ASUS Prime Triple-Fan Solution Optimized with Dual Ball Fan Bearings & Physical Dynamic Airflow Design"
+    },
+    {
+      "group": "specs",
+      "label": "Multi-Display Support",
+      "value": "Up to 4 Displays Simultaneously via Native HDMI and DisplayPort Digital Interfaces"
+    },
+    {
+      "group": "specs",
+      "label": "Digital Max Resolution",
+      "value": "7680 x 4324 Ultra HD Video Output Resolution Capabilities"
+    },
+    {
+      "group": "specs",
+      "label": "Power Requirements",
+      "value": "Recommended System PSU: 650W or Higher with Standard PCIe Power Connectors"
+    },
+    {
+      "group": "specs",
+      "label": "Physical Dimensions",
+      "value": "SFF-Ready Compact Design Profile | Dimensions Tailored for Tight Micro-ATX & ITX Chassis Compatibility"
+    },
+    {
+      "group": "specs",
+      "label": "Model & MPN",
+      "value": "PRIME-RTX5060TI-O16G"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Years Official Agent Warranty in Egypt (ضمان وكيل محلي معتمد لمدة 3 سنوات كاملة ضد عيوب الصناعة)"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-24",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-11",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-16",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-21",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": 1272,
+  "slug": "asus-tuf-gaming-a16-fa607nuq-rl007w-gaming-laptop-amd-ryzen-7-170-rtx-4050",
+  "name": "ASUS TUF Gaming A16 FA607NUQ-RL007W Gaming Laptop - Mecha Gray (AMD Ryzen 7 170, 16GB RAM DDR5, 512GB SSD, RTX 4050 6G, 16.0 inch FHD+ IPS 144Hz, Windows 11 Home)",
+  "model": "FA607NUQ-RL007W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 51499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "ASUSTUFGaming",
+    "ASUSTUFA16",
+    "FA607NUQ",
+    "FA607NUQRL007W",
+    "AMDRyzen7170",
+    "RTX40506GB",
+    "GamingLaptop",
+    "16GBDDR5",
+    "512GBSSDNVMe",
+    "16.0inchFHD144Hz",
+    "MechaGray",
+    "ASUSLaptop"
+  ],
+  "shortDescription": "Dominate modern gaming and heavy multitasking with the ASUS TUF Gaming A16 FA607NUQ-RL007W! Equipped with an 8-core AMD Ryzen 7 170 processor, NVIDIA GeForce RTX 4050 6GB graphics with MUX Switch, and a fast 16.0 inch FH",
+  "descriptionHtml": "<p><b>Dominate modern gaming and heavy multitasking with the ASUS TUF Gaming A16 FA607NUQ-RL007W! Equipped with an 8-core AMD Ryzen 7 170 processor, NVIDIA GeForce RTX 4050 6GB graphics with MUX Switch, and a fast 16.0 inch FHD+ 144Hz display in a durable Mecha Gray chassis, this laptop delivers high frame rates and military-grade toughness.</b></p><h3>???? Technical Specifications:</h3><table><thead><tr><td><strong>Component</strong></td><td><strong>Detailed Specifications</strong></td></tr></thead><tbody><tr><td><span><b>Processor (CPU)</b></span></td><td><span><b>AMD Ryzen 7 170</b> (8 Cores / 16 Threads, up to 4.75GHz)</span></td></tr><tr><td><span><b>Graphics (GPU)</b></span></td><td><span><b>NVIDIA GeForce RTX 4050 6GB GDDR6</b> (140W Max TGP, MUX Switch + NVIDIA Advanced Optimus)</span></td></tr><tr><td><span><b>Memory (RAM)</b></span></td><td><span><b>16GB DDR5-4800MHz</b> (1x16GB SO-DIMM, 2x Slots, Expandable up to 64GB)</span></td></tr><tr><td><span><b>Storage</b></span></td><td><span><b>512GB SSD M.2 PCIe 4.0 NVMe</b> (2x M.2 PCIe Slots for Expansion)</span></td></tr><tr><td><span><b>Display</b></span></td><td><span><b>16.0 inch FHD+ (1920x1200) IPS-level 16:10 Anti-glare</b> (300nits, 144Hz, G-SYNC)</span></td></tr><tr><td><span><b>Operating System</b></span></td><td><span><b>Windows 11 Home</b></span></td></tr><tr><td><span><b>Keyboard &amp; Camera</b></span></td><td><span><b>1-Zone RGB Backlit Chiclet Keyboard</b> + <b>720p HD Camera</b></span></td></tr><tr><td><span><b>Audio &amp; Network</b></span></td><td><span><b>Stereo Speakers with Dolby Atmos</b> + <b>Wi-Fi 6 + Bluetooth 5.3</b> + Ethernet LAN</span></td></tr><tr><td><span><b>Battery &amp; Adapter</b></span></td><td><span><b>56Wh Battery</b> with <b>180W AC Adapter</b></span></td></tr><tr><td><span><b>Color &amp; Model</b></span></td><td><span><b>Mecha Gray</b> | Part No: <b>90NR0QF3-M003C0</b> | MTM: <b>FA607NUQ-RL007W</b></span></td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "AMD Ryzen 7 170 (8 Cores / 16 Threads, up to 4.75GHz)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA GeForce RTX 4050 6GB GDDR6 (140W Max TGP, MUX Switch + NVIDIA Advanced Optimus)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "16GB DDR5-4800MHz (1x16GB SO-DIMM, 2x Slots, Expandable up to 64GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage",
+      "value": "512GB SSD M.2 PCIe 4.0 NVMe (2x M.2 PCIe Slots for Expansion)"
+    },
+    {
+      "group": "specs",
+      "label": "Display",
+      "value": "16.0 inch FHD+ (1920x1200) IPS-level 16:10 Anti-glare (300nits, 144Hz, G-SYNC)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard & Camera",
+      "value": "1-Zone RGB Backlit Chiclet Keyboard + 720p HD Camera"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & Network",
+      "value": "Stereo Speakers with Dolby Atmos + Wi-Fi 6 + Bluetooth 5.3 + Ethernet LAN"
+    },
+    {
+      "group": "specs",
+      "label": "Battery & Adapter",
+      "value": "56Wh Battery with 180W AC Adapter"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Model",
+      "value": "Mecha Gray | Part No: 90NR0QF3-M003C0 | MTM: FA607NUQ-RL007W"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    }
+  ]
+}

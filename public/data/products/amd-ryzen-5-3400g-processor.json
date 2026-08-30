@@ -1,0 +1,75 @@
+{
+  "id": 793,
+  "slug": "amd-ryzen-5-3400g-processor",
+  "name": "AMD Ryzen 5 3400G 4-Core 8-Thread Desktop Processor with Radeon RX Vega 11 Graphics",
+  "model": "3400G",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 3800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-3400g-processor-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-3400g-processor-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-3400g-processor-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-3400g-processor-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5",
+    "3400G",
+    "4-Core",
+    "Socket AM4",
+    "Vega 11",
+    "Desktop Processor",
+    "CPU",
+    "APU",
+    "Budget Gaming",
+    "Turbo Computer"
+  ],
+  "shortDescription": "AMD Ryzen 5 3400G 4-Core 8-Thread Desktop Processor with Radeon RX Vega 11 GraphicsBuild an incredible budget-friendly gaming system or a highly responsive home office PC with the AMD Ryzen 5 3400G desktop processor. Bui",
+  "descriptionHtml": "<p><span><b>AMD Ryzen 5 3400G 4-Core 8-Thread Desktop Processor with Radeon RX Vega 11 Graphics</b></span></p><p><br></p><p>Build an incredible budget-friendly gaming system or a highly responsive home office PC with the AMD Ryzen 5 3400G desktop processor. Built on the reliable Socket AM4 architecture, this versatile 4-core, 8-thread APU delivers a rock-solid balance of processing power and graphical capability without requiring an expensive dedicated graphics card. It features a 3.7 GHz base clock and up to 4.2 GHz max boost clock, ensuring smooth multitasking, fast application loading, and dependable everyday computing performance.</p><p><br></p><p>The absolute highlight of the Ryzen 5 3400G is its powerful integrated Radeon RX Vega 11 graphics, which provides high-quality, smooth esports gaming at 1080p resolutions for popular titles. Operating efficiently with a 65W TDP, this processor supports dual-channel DDR4 memory configurations and comes bundled with the quiet and reliable AMD Wraith Spire cooler in the box. Upgrade your setup with the Ryzen 3400G for an exceptional, all-in-one high-value computing experience.</p><p><br></p><p><br></p><p>**AMD Ryzen™ 5 3400G**</p><p><br></p><p>**Brand:** AMD</p><p>**Model:** Ryzen 5 3400G</p><p>**Generation:** 2nd Gen (Zen+)</p><p>**Code Name:** Picasso</p><p><br></p><p>---</p><p><br></p><p>**Core Architecture:**</p><p>Total Cores: 4</p><p>Total Threads: 8</p><p><br></p><p>---</p><p><br></p><p>**Clock Speeds:**</p><p>Max Boost Clock: Up to 4.2 GHz</p><p>Base Clock: 3.7 GHz</p><p><br></p><p>---</p><p><br></p><p>**Cache:**</p><p>Total L3 Cache: 4 MB</p><p>L2 Cache: 2 MB (512 KB per core)</p><p><br></p><p>---</p><p><br></p><p>**Integrated Graphics:**</p><p>Graphics Model: Radeon™ RX Vega 11 Graphics</p><p>Graphics Cores: 11 compute units (704 shaders)</p><p>Graphics Clock: 1400 MHz</p><p>Graphics Features: DirectX 12, OpenGL 4.6, Vulkan, H.265/HEVC decode/encode</p><p><br></p><p>---</p><p><br></p><p>**Memory Support:**</p><p>Max Memory Size: 64 GB</p><p>Memory Types: DDR4-2933 (officially supported)</p><p>Memory Channels: 2 (Dual Channel)</p><p>ECC Memory Support: Yes (with supported motherboard, but not officially validated)</p><p><br></p><p>---</p><p><br></p><p>**PCI Express:**</p><p>PCI Express Revision: 3.0</p><p>Max PCI Express Lanes: 12 (8 for GPU + 4 for other devices)</p><p><br></p><p>---</p><p><br></p><p>**Power Specifications:**</p><p>Default TDP (Thermal Design Power): 65W</p><p>cTDP (Configurable TDP): 45W - 65W</p><p><br></p><p>---</p><p><br></p><p>**Thermal Specifications:**</p><p>Max Operating Temperature (Tjmax): 95°C</p><p><br></p><p>---</p><p><br></p><p>**Socket Compatibility:**</p><p>Socket Type: AM4</p><p>Compatible Chipsets: 300 series, 400 series, 500 series (A320, B350, B450, X370, X470, B550, X570, etc.)</p><p>Note: Check motherboard BIOS compatibility for 300 series chipsets</p><p><br></p><p>---</p><p><br></p><p>**Advanced Technologies:**</p><p>Precision Boost 2: Yes</p><p>Precision Boost Overdrive (PBO): Yes (with supported motherboard)</p><p>Extended Frequency Range (XFR): Yes</p><p>AMD SenseMI Technology: Yes</p><p>AES Instructions: Yes</p><p>AVX2 Instructions: Yes</p><p>Virtualization (AMD-V): Yes</p><p><br></p><p>---</p><p><br></p><p>**Security Features:**</p><p>AMD Memory Guard: No</p><p>Secure Memory Encryption: No</p><p>Secure Encrypted Virtualization: No</p><p><br></p><p>---</p><p><br></p><p>**Overclocking:**</p><p>Unlocked Multiplier: Yes (allows overclocking on B-series and X-series motherboards)</p><p>Max Overclock: Approximately 4.1-4.3 GHz depending on cooling&nbsp;</p><p>---</p><p><br></p><p>**What's in the Box (Retail):**</p><p>AMD Ryzen 5 3400G processor</p><p>AMD Wraith Spire cooler</p><p>Installation guide</p><p><br></p><p>---</p><p><br></p><p>**Best For:**</p><p>Budget gaming PC without dedicated GPU</p><p>Home office and productivity</p><p>Media center / HTPC (4K video streaming)</p><p>Light photo editing</p><p>1080p gaming (with Vega 11 graphics) - able to run: Fortnite, CS:GO, League of Legends, Rocket League, older RPGs</p><p>Entry-level creative work</p><p><br></p><p>---</p><p><br></p><p>**Gaming Performance (Vega 11 integrated graphics):**</p><p>- 1080p Low/Medium settings: 30-60+ FPS in many esports titles</p><p>- 720p High settings: Smoother performance in demanding games</p><p>- Not suitable for AAA gaming at 1080p&nbsp;</p><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    }
+  ]
+}

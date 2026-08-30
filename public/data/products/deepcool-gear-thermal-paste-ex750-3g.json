@@ -1,0 +1,70 @@
+{
+  "id": 817,
+  "slug": "deepcool-gear-thermal-paste-ex750-3g",
+  "name": "Deepcool Gear Thermal Paste EX750 3g",
+  "model": "EX750",
+  "brand": "DEEPCOOL",
+  "brandSlug": "deepcool",
+  "categorySlugs": [
+    "pc-cooling-thermal-solutions"
+  ],
+  "price": 500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 9,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502153401-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502153401-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502153401-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502153401-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Deepcool",
+    "Gear",
+    "Thermal",
+    "Paste",
+    "EX750",
+    "3g"
+  ],
+  "shortDescription": "DeepCool EX750 High Performance Thermal Paste (3g)​The DeepCool EX750 is an industrial-grade thermal interface material (TIM) engineered for enthusiast-level cooling. It is designed to minimize thermal resistance between",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>DeepCool EX750 High Performance Thermal Paste (3g)</b></h3><p dir=\"ltr\">​The <b>DeepCool EX750</b> is an industrial-grade thermal interface material (TIM) engineered for enthusiast-level cooling. It is designed to minimize thermal resistance between high-performance CPUs/GPUs and their cooling solutions.</p><h3 dir=\"ltr\">​<b>Technical Specifications</b></h3><ul><li dir=\"ltr\">​<b>Thermal Conductivity:</b> 6.2 W/m·K</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Thermal Impedance:</b> 0.03°C·cm²/W</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<i>**Specific Gravity (25°C):</i><i> 2.6 g/cm³</i></li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Operating Temperature Range:</b> -50°C to +250°C</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Grease Color:</b> Gray</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Net Weight:</b> 3 grams (typically provided as 2x 1.5g syringes in some packaging)</li></ul><p dir=\"ltr\"></p><h3 dir=\"ltr\">​<b>Physical Properties</b></h3><ul><li dir=\"ltr\">​<b>Consistency:</b> Smooth, gel-like consistency designed for easy spreading and filling of microscopic surface imperfections.</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Electrical Conductivity:</b> <b>Non-conductive</b> (Safe for use near electronic components; prevents short circuits).</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Corrosiveness:</b> Non-corrosive and non-toxic.</li></ul><p dir=\"ltr\"></p><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><ul><li dir=\"ltr\">​<b>Low Thermal Resistance:</b> Optimized for high-heat scenarios like overclocking or intensive rendering, ensuring maximum heat transfer to the heatsink.</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Stability:</b> Highly stable compound that does not dry out or bleed easily under long-term high-temperature exposure.</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Application:</b> Suitable for both Desktop and Laptop applications (CPU and GPU).</li></ul><p dir=\"ltr\"></p><ul><li dir=\"ltr\">​<b>Volume:</b> The 3g quantity is generally sufficient for multiple applications (approximately 5–10 standard CPU applications depending on the method used).</li></ul><p dir=\"ltr\"></p><h3 dir=\"ltr\">​<b>Package Contents</b></h3><ul><li dir=\"ltr\">​1x (or 2x) Syringe of EX750 Thermal Paste.</li></ul><p dir=\"ltr\"></p><p></p><ul><li dir=\"ltr\">​1x Spreader/Spatula (usually included for even application).</li><li dir=\"ltr\">​Cleaning wipes (included in some retail versions for surface preparation).</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-19",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-24",
+      "demo": true
+    }
+  ]
+}

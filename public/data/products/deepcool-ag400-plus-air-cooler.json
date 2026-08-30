@@ -1,0 +1,70 @@
+{
+  "id": 815,
+  "slug": "deepcool-ag400-plus-air-cooler",
+  "name": "Deepcool AG400 PLUS AIR COOLER",
+  "model": "AG400 PLUS",
+  "brand": "DEEPCOOL",
+  "brandSlug": "deepcool",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 1500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502151757-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502151757-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502151757-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502151757-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Deepcool",
+    "AG400",
+    "PLUS",
+    "AIR",
+    "COOLER"
+  ],
+  "shortDescription": "DeepCool AG400 PLUS Air Cooler​The DeepCool AG400 PLUS is a high-performance single-tower CPU cooler that evolves from the classic Gamma Archer/AK series. It features a dual-fan configuration in a push-pull setup for enh",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>DeepCool AG400 PLUS Air Cooler</b></h3><p dir=\"ltr\">​The <b>DeepCool AG400 PLUS</b> is a high-performance single-tower CPU cooler that evolves from the classic Gamma Archer/AK series. It features a dual-fan configuration in a push-pull setup for enhanced thermal dissipation.</p><h3 dir=\"ltr\">​<b>General Specifications</b></h3><ul><li dir=\"ltr\">​<b>Cooler Type:</b> Single Tower, Dual Fan</li><li dir=\"ltr\">​<b>TDP (Thermal Design Power):</b> Up to <b>220W</b></li><li dir=\"ltr\"> ​<b>Socket Compatibility:</b><ul><li dir=\"ltr\">​<b>Intel:</b> LGA 1851 / 1700 / 1200 / 1151 / 1150 / 1155</li><li dir=\"ltr\">​<b>AMD:</b> AM5 / AM4</li></ul></li></ul><h3 dir=\"ltr\">​<b>Heatsink &amp; Fan Details</b></h3><ul><li dir=\"ltr\">​<b>Heat Pipes:</b> 4x 6mm high-performance copper heat pipes.</li><li dir=\"ltr\">​<b>Base Technology:</b> Bidirectional Heat Pipe Direct Touch (DT) for efficient heat transfer.</li><li dir=\"ltr\">​<b>Fin Design:</b> Matrix Fins (Checkered pattern) to increase surface area and airflow efficiency.</li><li dir=\"ltr\">​<b>Fan Model:</b> 2x 120mm PWM Fans (Push-Pull configuration).</li><li dir=\"ltr\">​<b>Fan Speed:</b> 500 ~ 2000 RPM (±10%).</li><li dir=\"ltr\">​<b>Airflow:</b> Max <b>75.89 CFM</b>.</li><li dir=\"ltr\">​<b>Static Pressure:</b> Max <b>2.53 mmAq</b>.</li><li dir=\"ltr\">​<b>Noise Level:</b> ≤ 31.6 dB(A) (at full load with both fans).</li></ul><h3 dir=\"ltr\">​<b>Physical Dimensions</b></h3><ul><li dir=\"ltr\">​<b>Total Height:</b> 150 mm (Excellent compatibility with smaller/mid-tower cases).</li><li dir=\"ltr\">​<b>Total Width:</b> 125 mm.</li><li dir=\"ltr\">​<b>Total Depth:</b> 107 mm (Including both fans).</li><li dir=\"ltr\">​<b>Weight:</b> ~748g.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>Push-Pull Efficiency:</b> The secondary fan significantly improves the exhaust of hot air from the heatsink compared to the standard AG400.</li><li dir=\"ltr\">​<b>RAM Clearance:</b> Designed with an offset heat pipe layout to ensure 100% RAM compatibility without interfering with high-profile memory sticks.</li><li dir=\"ltr\">​<b>Easy Installation:</b> Features a simple, sturdy mounting bracket system that is notorious for being user-friendly.</li><li dir=\"ltr\">​<b>Stealth Design:</b> Features a clean, industrial look with a top cover that conceals the heat pipe ends.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": 862,
+  "slug": "orico-rack-hdd-usb3-2-5-inch",
+  "name": "Orico 2577U3 V1 2.5 Inch USB 3.0 Micro B Hard Drive Enclosure Black",
+  "model": "2577U3-V1",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 250,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 11,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-2-5-enclosure-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-2-5-enclosure-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-2-5-enclosure-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-2-5-enclosure-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-enclosure-side-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-enclosure-side-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-enclosure-side-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Orico",
+    "2577U3-V1",
+    "2577U3 V1",
+    "HDD Enclosure",
+    "SSD Enclosure",
+    "2.5 Inch Enclosure",
+    "USB 3.0",
+    "Micro-B",
+    "5Gbps",
+    "6TB Capacity",
+    "Tool Free",
+    "Black Edition",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Orico 2577U3-V1 2.5 Inch USB 3.0 Micro-B Hard Drive Enclosure Black Edition (Supports Up to 6TB Capacity / Tool-Free Installation / 5Gbps USB 3.0 Micro-B Interface / High-Quality ABS Material / 0.5m Cable Included)Turn y",
+  "descriptionHtml": "<p>Orico 2577U3-V1 2.5 Inch USB 3.0 Micro-B Hard Drive Enclosure Black Edition (Supports Up to 6TB Capacity / Tool-Free Installation / 5Gbps USB 3.0 Micro-B Interface / High-Quality ABS Material / 0.5m Cable Included)</p><p>Turn your 2.5-inch SATA hard drive or solid-state drive into a powerful high-capacity portable storage device with the Orico 2577U3-V1 USB 3.0 Micro-B Enclosure in Black, available at Turbo Computer EgyptCrafted from durable ABS heat-resistant material with a tool-free slide setup, this enclosure supports massive drive capacities up to 6TB and high-speed data transfer rates up to 5Gbps via USB 3.0 Micro-B interface.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ORICO</td></tr><tr><td>Model Number</td><td>ORICO-2577U3-V1</td></tr><tr><td>Product Name</td><td>ORICO-2.5 inch USB3.0 Micro-B Hard Drive Enclosure</td></tr><tr><td>Color Edition</td><td>Black</td></tr><tr><td>Material</td><td>Durable ABS Plastic Housing</td></tr><tr><td>Dimensions</td><td>128mm (L) x 80mm (W) x 15mm (H)</td></tr><tr><td>Warranty Period</td><td>1 month</td></tr><tr><td>Output Interface</td><td>USB 3.0 Micro-B</td></tr><tr><td>Transmission Rate</td><td>Up to 5Gbps High-Speed Transfer Rate</td></tr><tr><td>Hard Disk Support Thickness</td><td>7mm - 9.5mm 2.5 Inch SATA HDDs &amp; SSDs</td></tr><tr><td>Maximum Support Capacity</td><td>Supports Up to 6TB Capacity</td></tr><tr><td>Installation Method</td><td>Tool-Free Mechanism</td></tr><tr><td>Included Data Cable</td><td>USB Micro-B Male to USB Type-A Male Cable (0.5m Length)</td></tr><tr><td>Supported Operating Systems</td><td>Windows, macOS, Linux</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ORICO"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number",
+      "value": "ORICO-2577U3-V1"
+    },
+    {
+      "group": "specs",
+      "label": "Product Name",
+      "value": "ORICO-2.5 inch USB3.0 Micro-B Hard Drive Enclosure"
+    },
+    {
+      "group": "specs",
+      "label": "Color Edition",
+      "value": "Black"
+    },
+    {
+      "group": "specs",
+      "label": "Material",
+      "value": "Durable ABS Plastic Housing"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions",
+      "value": "128mm (L) x 80mm (W) x 15mm (H)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1 month"
+    },
+    {
+      "group": "specs",
+      "label": "Output Interface",
+      "value": "USB 3.0 Micro-B"
+    },
+    {
+      "group": "specs",
+      "label": "Transmission Rate",
+      "value": "Up to 5Gbps High-Speed Transfer Rate"
+    },
+    {
+      "group": "specs",
+      "label": "Hard Disk Support Thickness",
+      "value": "7mm - 9.5mm 2.5 Inch SATA HDDs & SSDs"
+    },
+    {
+      "group": "specs",
+      "label": "Maximum Support Capacity",
+      "value": "Supports Up to 6TB Capacity"
+    },
+    {
+      "group": "specs",
+      "label": "Installation Method",
+      "value": "Tool-Free Mechanism"
+    },
+    {
+      "group": "specs",
+      "label": "Included Data Cable",
+      "value": "USB Micro-B Male to USB Type-A Male Cable (0.5m Length)"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Operating Systems",
+      "value": "Windows, macOS, Linux"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    }
+  ]
+}

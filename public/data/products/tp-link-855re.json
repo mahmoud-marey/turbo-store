@@ -1,0 +1,70 @@
+{
+  "id": 883,
+  "slug": "tp-link-855re",
+  "name": "Tp Link Range Extender 855RE",
+  "model": "855re",
+  "brand": "Tp link",
+  "brandSlug": "tp-link",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 850,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160552-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160552-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160552-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160552-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "tp-link",
+    "wifi",
+    "range",
+    "extender",
+    "855re"
+  ],
+  "shortDescription": "TP-Link TL-WA855RE Detailed SpecificationsHardware Interface: 1x 10/100 Mbps Ethernet Port (RJ45)Form Factor: Wall-Plug DesignWireless Standards: IEEE 802.11n, IEEE 802.11g, IEEE 802.11b (Wi-Fi 4)Frequency Band: 2.4 GHz ",
+  "descriptionHtml": "<div _ngcontent-ng-c2483222067=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_c9bfe2e0e8c449ed\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><p></p><div _ngcontent-ng-c2483222067=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_053baeefb05368c4\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><p><br></p><h3><b>TP-Link TL-WA855RE Detailed Specifications</b></h3><ul><li><p><b>Hardware Interface:</b> 1x 10/100 Mbps Ethernet Port (RJ45)</p></li><li><p><b>Form Factor:</b> Wall-Plug Design</p></li><li><p><b>Wireless Standards:</b> IEEE 802.11n, IEEE 802.11g, IEEE 802.11b (Wi-Fi 4)</p></li><li><p><b>Frequency Band:</b> 2.4 GHz (2.4 ~ 2.4835 GHz)</p></li><li><p><b>Maximum Signal Rate:</b> Up to 300 Mbps (Dynamic)</p></li><li><p><b>Antenna Type:</b> 2x External Antennas (with MIMO Technology)</p></li><li><p><b>Transmit Power:</b> &lt; 20 dBm (EIRP)</p></li><li><p><b>Wireless Security:</b> 64/128/152-bit WEP, WPA-PSK / WPA2-PSK</p></li><li><p><b>Working Modes:</b> * <b>Range Extender Mode:</b> Boosts existing wireless signal to dead zones.</p><ul><li><p><b>Access Point (AP) Mode:</b> Turns a wired internet connection into a wireless Wi-Fi hotspot.</p></li></ul></li><li><p><b>Physical Buttons:</b> 1x WPS (Range Extender) Button, 1x Reset Button</p></li><li><p><b>LED Indicator:</b> Smart Signal Indicator (Blue = Good connection, Red = Too far from router)</p></li><li><p><b>Advanced Software Features:</b> Power Schedule (Energy saving), Access Control (Device blacklisting), Wi-Fi Coverage Control, Tether App Management (iOS/Android)</p></li><li><p><b>Power Consumption:</b> ~3.6 W</p></li><li><p><b>Dimensions:</b> 80 mm x 77.8 mm x 77.3 mm (3.15\" x 3.06\" x 3.04\")</p><p><br></p><p><br></p><p><br></p><p><br></p></li></ul></div></div><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    }
+  ]
+}

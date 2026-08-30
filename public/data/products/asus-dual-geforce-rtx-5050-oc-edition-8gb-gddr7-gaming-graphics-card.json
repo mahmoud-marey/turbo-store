@@ -1,0 +1,162 @@
+{
+  "id": 1033,
+  "slug": "asus-dual-geforce-rtx-5050-oc-edition-8gb-gddr7-gaming-graphics-card",
+  "name": "ASUS Dual GeForce RTX 5050 OC Edition Gaming Graphics Card (8GB GDDR7, PCIe 5.0, 128-bit, HDMI 2.1a, DisplayPort 1.4a)",
+  "model": "RTX 5050",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 18499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 8,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5050-oc-edition-8gb-gddr7-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5050-oc-edition-8gb-gddr7-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5050-oc-edition-8gb-gddr7-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5050-oc-edition-8gb-gddr7-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Dual",
+    "GeForce RTX 5050",
+    "OC Edition",
+    "DUAL-RTX5050-O8G",
+    "8GB GDDR7",
+    "PCIe 5.0",
+    "128-bit",
+    "Axial-tech Fans",
+    "0dB Technology",
+    "Gaming Graphics Card",
+    "GPU",
+    "PC Hardware",
+    "Computer Component",
+    "كارت شاشة اسوس",
+    "ار تي اكس 5050",
+    "كارت جيمنج"
+  ],
+  "shortDescription": "ASUS Dual GeForce RTX 5050 OC Edition 8GB GDDR7 Gaming Graphics CardUpgrade your desktop PC setup with the latest cutting-edge graphic technology inside the ASUS Dual GeForce RTX 5050 OC Edition 8GB GDDR7 graphics card. ",
+  "descriptionHtml": "<p><span>ASUS Dual GeForce RTX 5050 OC Edition 8GB GDDR7 Gaming Graphics Card</span></p><p>Upgrade your desktop PC setup with the latest cutting-edge graphic technology inside the ASUS Dual GeForce RTX 5050 OC Edition 8GB GDDR7 graphics card. Available at Turbo Computer, this powerful PC hardware component peripheral is masterfully engineered for competitive 1080p esports players, budget-conscious AAA gamers, and entry-tier content creators across Egypt who demand high-efficiency AI frame generation, advanced ray tracing performance, and superb thermal management. Built with automated Auto-Extreme technology manufacturing and protected by a rigid protective backplate, this GPU guarantees long-term operational sustainability and hardware stability.</p><p>The ASUS Dual GeForce RTX 5050 OC Edition features 8GB of the newest high-speed GDDR7 video memory running on a 128-bit bus interface layout, fully utilizing the ultra-fast PCIe 5.0 expansion standard. Cooling is driven by dual advanced Axial-tech fans featuring a smaller hub that facilitates longer blades and a barrier ring to increase downward air pressure into the dense 2.5-slot heatsink array. To eliminate unnecessary sound tracking, the integrated 0dB technology safely halts the fans completely during light corporate multitasking or low-temperature operation. With factory-tweaked core clocks out of the box, users can easily monitor and customize performance translations using the official ASUS GPU Tweak III software utility matrix.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification Details</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>ASUS</td></tr><tr><td><strong>Product Line</strong></td><td>ASUS Dual Series Layout</td></tr><tr><td><strong>Model Name / Code</strong></td><td>DUAL-RTX5050-O8G</td></tr><tr><td><strong>Graphics Engine</strong></td><td>NVIDIA GeForce RTX 5050 Desktop GPU</td></tr><tr><td><strong>Bus Standard Interface</strong></td><td>PCI Express 5.0 (PCIe Gen 5 configuration matrix)</td></tr><tr><td><strong>Video Memory (VRAM)</strong></td><td>8GB GDDR7 Next-Gen Dedicated VRAM</td></tr><tr><td><strong>Memory Interface Bus</strong></td><td>128-bit Tracking Interface Channel</td></tr><tr><td><strong>Edition Type</strong></td><td>OC Edition (Factory Overclocked tracking architecture)</td></tr><tr><td><strong>Thermal Cooling Solution</strong></td><td>2x Axial-tech Dual Ball Fan Bearing Layout with integrated 0dB Silent Technology</td></tr><tr><td><strong>Form Factor / Slot Size</strong></td><td>2.5-Slot Compact Design Profile Layout</td></tr><tr><td><strong>Display Output Ports</strong></td><td>1x Native HDMI 2.1a | 3x Native DisplayPort 1.4a (Supports multi-display display setups)</td></tr><tr><td><strong>HDCP Support Specs</strong></td><td>Yes (HDCP 2.3 compliant layout)</td></tr><tr><td><strong>Max Digital Resolution</strong></td><td>7680 x 4320 Ultra HD tracking channels</td></tr><tr><td><strong>Structural Enhancements</strong></td><td>Protective Rigid Metal Backplate Layout + Stainless Steel 304 I/O Bracket structure</td></tr><tr><td><strong>Software Bundle Eco-system</strong></td><td>ASUS GPU Tweak III setup utility &amp; GeForce Game Ready Driver translation software</td></tr><tr><td><strong>Best Applications</strong></td><td>High-Frame Esports Gaming, 1080p Ray Tracing AAA Titles, Entry-Level AI Processing Tasks, Dual-Monitor Workstations, and Digital Marketing Content Creation Layouts</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Line",
+      "value": "ASUS Dual Series Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / Code",
+      "value": "DUAL-RTX5050-O8G"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA GeForce RTX 5050 Desktop GPU"
+    },
+    {
+      "group": "specs",
+      "label": "Bus Standard Interface",
+      "value": "PCI Express 5.0 (PCIe Gen 5 configuration matrix)"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "8GB GDDR7 Next-Gen Dedicated VRAM"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Interface Bus",
+      "value": "128-bit Tracking Interface Channel"
+    },
+    {
+      "group": "specs",
+      "label": "Edition Type",
+      "value": "OC Edition (Factory Overclocked tracking architecture)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Cooling Solution",
+      "value": "2x Axial-tech Dual Ball Fan Bearing Layout with integrated 0dB Silent Technology"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor / Slot Size",
+      "value": "2.5-Slot Compact Design Profile Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Display Output Ports",
+      "value": "1x Native HDMI 2.1a | 3x Native DisplayPort 1.4a (Supports multi-display display setups)"
+    },
+    {
+      "group": "specs",
+      "label": "HDCP Support Specs",
+      "value": "Yes (HDCP 2.3 compliant layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Max Digital Resolution",
+      "value": "7680 x 4320 Ultra HD tracking channels"
+    },
+    {
+      "group": "specs",
+      "label": "Structural Enhancements",
+      "value": "Protective Rigid Metal Backplate Layout + Stainless Steel 304 I/O Bracket structure"
+    },
+    {
+      "group": "specs",
+      "label": "Software Bundle Eco-system",
+      "value": "ASUS GPU Tweak III setup utility & GeForce Game Ready Driver translation software"
+    },
+    {
+      "group": "specs",
+      "label": "Best Applications",
+      "value": "High-Frame Esports Gaming, 1080p Ray Tracing AAA Titles, Entry-Level AI Processing Tasks, Dual-Monitor Workstations, and Digital Marketing Content Creation Layouts"
+    }
+  ],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    }
+  ]
+}

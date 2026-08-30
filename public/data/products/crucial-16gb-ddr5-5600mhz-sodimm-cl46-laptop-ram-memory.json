@@ -1,0 +1,129 @@
+{
+  "id": 1125,
+  "slug": "crucial-16gb-ddr5-5600mhz-sodimm-cl46-laptop-ram-memory",
+  "name": "Crucial 16GB DDR5 5600MHz SODIMM CL46 Laptop RAM Memory Single Module",
+  "model": "SODIMM",
+  "brand": "CRUCIAL",
+  "brandSlug": "crucial",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 10999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-5600mhz-sodimm-laptop-ram-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-5600mhz-sodimm-laptop-ram-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-5600mhz-sodimm-laptop-ram-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-5600mhz-sodimm-laptop-ram-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-5600mhz-laptop-ram-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-5600mhz-laptop-ram-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-5600mhz-laptop-ram-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Crucial",
+    "16GB RAM",
+    "DDR5",
+    "5600MHz",
+    "SODIMM",
+    "Laptop RAM",
+    "Notebook Memory",
+    "CL46",
+    "Single Module"
+  ],
+  "shortDescription": "Crucial 16GB DDR5 5600MHz SODIMM CL46 High-Performance Laptop RAM Memory ModuleBoost your notebook's multitasking capabilities and processing speed with the Crucial 16GB DDR5 5600MHz SODIMM laptop RAM memory module, brou",
+  "descriptionHtml": "<p><span>Crucial 16GB DDR5 5600MHz SODIMM CL46 High-Performance Laptop RAM Memory Module</span></p><p>Boost your notebook's multitasking capabilities and processing speed with the Crucial 16GB DDR5 5600MHz SODIMM laptop RAM memory module, brought to you by Turbo Computer Egypt. Specifically engineered for modern laptops and mobile workstations, this premium JEDEC standard single module features a blistering 5600MT/s transfer speed combined with a stable CL46 latency profile, ensuring smooth application handling and eliminated system bottlenecks. Built utilizing next-generation DDR5 technology, it operates at an ultra-efficient 1.1V low power threshold layout to preserve your device's battery runtime while generating less heat. Easy to install and widely compatible with high-end Intel and AMD portable platforms, this essential laptop memory upgrade structure comes fully backed by a reliable 1-year warranty plan.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Maker</td><td>Crucial Memory Group</td></tr><tr><td>Model Number / SKU</td><td>CT16G56C46S5 Layout</td></tr><tr><td>Memory Capacity</td><td>16GB Storage Capacity Layout</td></tr><tr><td>Memory Type (Form Factor)</td><td>DDR5 SODIMM (Dedicated Laptop / Notebook Framework)</td></tr><tr><td>Memory Speed Rate</td><td>5600 MHz / 5600MT/s Speed Matrix</td></tr><tr><td>CAS Latency Timing</td><td>CL46 Latency Rating (46-45-45 Config Matrix)</td></tr><tr><td>Operating Voltage</td><td>1.1V Ultra Low Power Matrix Setup</td></tr><tr><td>Module Configuration</td><td>Single Module Layout (Unbuffered)</td></tr><tr><td>Performance Profile</td><td>JEDEC Standard Compliance Profile</td></tr><tr><td>Warranty Structure</td><td>1-Year Warranty (ضمان لمدة عام كامل من الوكيل المعتمد في مصر)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Maker",
+      "value": "Crucial Memory Group"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / SKU",
+      "value": "CT16G56C46S5 Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Capacity",
+      "value": "16GB Storage Capacity Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Type (Form Factor)",
+      "value": "DDR5 SODIMM (Dedicated Laptop / Notebook Framework)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Speed Rate",
+      "value": "5600 MHz / 5600MT/s Speed Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency Timing",
+      "value": "CL46 Latency Rating (46-45-45 Config Matrix)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating Voltage",
+      "value": "1.1V Ultra Low Power Matrix Setup"
+    },
+    {
+      "group": "specs",
+      "label": "Module Configuration",
+      "value": "Single Module Layout (Unbuffered)"
+    },
+    {
+      "group": "specs",
+      "label": "Performance Profile",
+      "value": "JEDEC Standard Compliance Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Structure",
+      "value": "1-Year Warranty (ضمان لمدة عام كامل من الوكيل المعتمد في مصر)"
+    }
+  ],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    }
+  ]
+}

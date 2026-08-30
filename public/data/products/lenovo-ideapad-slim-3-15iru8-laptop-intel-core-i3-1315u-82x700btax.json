@@ -1,0 +1,140 @@
+{
+  "id": 1262,
+  "slug": "lenovo-ideapad-slim-3-15iru8-laptop-intel-core-i3-1315u-82x700btax",
+  "name": "Lenovo IdeaPad Slim 3 15IRU8 Laptop - 82X700BTAX - Arctic Grey (Intel Core i3-1315U, 8GB RAM LPDDR5, 256GB SSD, Intel UHD Graphics, 15.6 inch FHD TN, FreeDOS)",
+  "model": "82X700BTAX",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 25999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/15-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/15-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/15-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/14-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/14-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/14-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/12-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/12-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/12-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "IdeaPad",
+    "Slim3",
+    "Intel",
+    "Core i3-1315U",
+    "Intel UHD Graphics",
+    "Laptop",
+    "8GB LPDDR5",
+    "256GB",
+    "SSD",
+    "NVMe",
+    "15.6inch",
+    "FHD",
+    "82X700BTAX",
+    "ArcticGrey"
+  ],
+  "shortDescription": "Streamline your daily productivity and everyday learning with the Lenovo IdeaPad Slim 3 15IRU8! Engineered with a responsive 13th Gen Intel Core i3 processor, high-speed LPDDR5 memory, and a slim, portable chassis, this ",
+  "descriptionHtml": "<p><b>Streamline your daily productivity and everyday learning with the Lenovo IdeaPad Slim 3 15IRU8! Engineered with a responsive 13th Gen Intel Core i3 processor, high-speed LPDDR5 memory, and a slim, portable chassis, this laptop is designed to deliver reliable performance for work, study, and media consumption on the go.</b></p><h3>???? Technical Specifications:</h3><table><thead><tr><td><strong>Component</strong></td><td><strong>Detailed Specifications</strong></td></tr></thead><tbody><tr><td><span><b>Processor (CPU)</b></span></td><td><span><b>Intel Core i3-1315U</b> (6 Cores: 2P + 4E / 8 Threads, P-core 1.2 / 4.5GHz, E-core 0.9 / 3.3GHz, 10MB Cache)</span></td></tr><tr><td><span><b>Graphics (GPU)</b></span></td><td><span><b>Intel UHD Graphics</b></span></td></tr><tr><td><span><b>Memory (RAM)</b></span></td><td><span><b>8GB LPDDR5-4800MHz</b> (Soldered)</span></td></tr><tr><td><span><b>Storage</b></span></td><td><span><b>256GB SSD M.2 2242 PCIe 4.0x4 NVMe</b></span></td></tr><tr><td><span><b>Display</b></span></td><td><span><b>15.6 inch FHD (1920x1080) TN 250nits Anti-glare</b></span></td></tr><tr><td><span><b>Operating System</b></span></td><td><span><b>FreeDOS</b> (DOS)</span></td></tr><tr><td><span><b>Keyboard &amp; Camera</b></span></td><td><span><b>Non-backlit Keyboard</b> (English/Arabic) + <b>HD 720p Camera with Privacy Shutter</b></span></td></tr><tr><td><span><b>Audio &amp; Connectivity</b></span></td><td><span><b>Stereo Speakers 1.5W x2 (Dolby Audio)</b> + <b>Wi-Fi 6 + Bluetooth 5.2</b></span></td></tr><tr><td><span><b>Color &amp; Model</b></span></td><td><span><b>Arctic Grey</b> | MTM: <b>82X700BTAX</b></span></td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel Core i3-1315U (6 Cores: 2P + 4E / 8 Threads, P-core 1.2 / 4.5GHz, E-core 0.9 / 3.3GHz, 10MB Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "Intel UHD Graphics"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "8GB LPDDR5-4800MHz (Soldered)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage",
+      "value": "256GB SSD M.2 2242 PCIe 4.0x4 NVMe"
+    },
+    {
+      "group": "specs",
+      "label": "Display",
+      "value": "15.6 inch FHD (1920x1080) TN 250nits Anti-glare"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "FreeDOS (DOS)"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard & Camera",
+      "value": "Non-backlit Keyboard (English/Arabic) + HD 720p Camera with Privacy Shutter"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & Connectivity",
+      "value": "Stereo Speakers 1.5W x2 (Dolby Audio) + Wi-Fi 6 + Bluetooth 5.2"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Model",
+      "value": "Arctic Grey | MTM: 82X700BTAX"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    }
+  ]
+}

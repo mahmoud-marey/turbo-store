@@ -1,0 +1,72 @@
+{
+  "id": 644,
+  "slug": "laptop-stand-metal",
+  "name": "Laptop Stand Metal Stand",
+  "model": "Metal",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 100,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/St2-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/St2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/St2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/St2-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/At3-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/At3-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/At3-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "Stand",
+    "Metal"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/St1_.png\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    }
+  ]
+}

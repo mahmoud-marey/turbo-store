@@ -1,0 +1,80 @@
+{
+  "id": 457,
+  "slug": "logitech-g305",
+  "name": "Logitech G305 Lightspeed Wireless Gaming mouse",
+  "model": "G305",
+  "brand": "logitech",
+  "brandSlug": "logitech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 2100,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171831-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171831-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171831-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171831-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/1logitech/G305%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/1logitech/G305%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/1logitech/G305%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/1logitech/G305%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/1logitech/G305%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/1logitech/G305%203-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "Logitech",
+    "G305",
+    "Lightspeed",
+    "Wireless",
+    "Gaming"
+  ],
+  "shortDescription": "ضمان عامان من الوكيلDimensionsPHYSICAL SPECIFICATIONSHeight: 4.59 in (116.6 mm)Width: 2.45 in (62.15 mm)Depth: 1.50 in (38.2 mm)Weight: 3.49 oz (99 g)RESPONSIVENESSWireless report rate: 1000Hz (1ms)Wireless technology: L",
+  "descriptionHtml": "<div><br></div><div><p>ضمان عامان من الوكيل</p><p><br></p></div><div><br></div><div><img src=\"https://turbo-computer.com/image/catalog/accessories/e645cb22a65b_dxvm2hikcmwwjkql.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/61NCUopSMaL._AC_SL1500_-1200x1200.jpg.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/613u5GDqznL._AC_SL1500_-1200x1200.jpg.png\"><br></div><div><br></div><div><br></div><div><br></div><div>Dimensions</div><div>PHYSICAL SPECIFICATIONS</div><div>Height: 4.59 in (116.6 mm)</div><div>Width: 2.45 in (62.15 mm)</div><div>Depth: 1.50 in (38.2 mm)</div><div>Weight: 3.49 oz (99 g)</div><div>RESPONSIVENESS</div><div>Wireless report rate: 1000Hz (1ms)</div><div>Wireless technology: LIGHTSPEED Wireless</div><div>Microprocessor: 32-bit ARM</div><div>Durability</div><div>PTFE Feet: 250-km range 1Tested on Logitech G240 Gaming Mouse Pad</div><div>Battery life</div><div>250 hours</div><div>Other Features</div><div>Onboard memory: 1 profile</div><div>Mechanical Button Tensioning System</div><div>Technical Specifications</div><div>TRACKING</div><div>Sensor: HERO</div><div>Resolution: 200 – 12,000 DPI</div><div>Zero smoothing/acceleration/filtering</div><div>Max. acceleration: 40 G 2Tested on Logitech G240 Gaming Mouse Pad</div><div>Max. speed: 400 IPS 3Tested on Logitech G240 Gaming Mouse Pad</div><div>Warranty Information</div><div>2-Year Limited Hardware Warranty</div><div>Part Number</div><div>White : 910-005289</div><div>Mint : 910-006376</div><div>Lilac : 910-006020</div><div>Blue : 910-006012</div><div>Black : 910-005280</div><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 15,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-10",
+      "demo": true
+    }
+  ]
+}

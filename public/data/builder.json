@@ -1,0 +1,1518 @@
+{
+  "cpu": [
+    {
+      "slug": "aerocool-abyss-l240r-digi-liquid-cpu-cooler-argb-black",
+      "name": "Aerocool Abyss L240r Digi Liquid CPU Cooler argb black",
+      "price": 3700,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194315-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null
+    },
+    {
+      "slug": "aerocool-abyss-l240r-digi-liquid-cpu-cooler-argb-white",
+      "name": "Aerocool Abyss L240r Digi Liquid CPU Cooler argb white",
+      "price": 3700,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509184233-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null
+    },
+    {
+      "slug": "aerocool-abyss-l360r-white",
+      "name": "Aerocool Abyss L360r Digi Liquid CPU Cooler argb white",
+      "price": 4800,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509182933-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null
+    },
+    {
+      "slug": "aerocool-cylon-4f-argb-cpu-air-cooler",
+      "name": "Aerocool Cylon 4F ARGB CPU Air Cooler",
+      "price": 0,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509220110-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null
+    },
+    {
+      "slug": "aerocool-verkho-5-dark-cpu-air-cooler",
+      "name": "Aerocool Verkho 5 Dark CPU Air Cooler",
+      "price": 1150,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509215206-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null
+    },
+    {
+      "slug": "amd-ryzen-5-3600-cpu",
+      "name": "AMD Ryzen 5 3600 CPU Box",
+      "price": 3999,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501170643-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM4"
+    },
+    {
+      "slug": "amd-ryzen-5-5500gt-6-core-12-thread-processor-radeon-graphics",
+      "name": "AMD Ryzen 5 5500GT 6-Core 12-Thread Desktop Processor with Radeon Graphics",
+      "price": 6500,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500gt-6-core-12-thread-processor-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM4"
+    },
+    {
+      "slug": "amd-ryzen-5-7500x3d-6-core-12-thread-processor-3d-v-cache",
+      "name": "AMD Ryzen 5 7500X3D 6-Core 12-Thread Gaming Processor",
+      "price": 12200,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7600x3d-6-core-12-thread-processor-x3d-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM5"
+    },
+    {
+      "slug": "amd-ryzen-5-7600x-cpu",
+      "name": "AMD Ryzen 5 7600X CPU",
+      "price": 9299,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501172857-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM5"
+    },
+    {
+      "slug": "amd-ryzen-5-8400f-cpu",
+      "name": "AMD RYZEN 5 8400F CPU",
+      "price": 6800,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501171633-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM5"
+    },
+    {
+      "slug": "amd-ryzen-5-8500g-am5-desktop-processor",
+      "name": "AMD Ryzen 5 8500G 6-Core 12-Thread AM5 Processor with Radeon 740M Graphics",
+      "price": 7700,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-8500g-am5-desktop-processor-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM5"
+    },
+    {
+      "slug": "antec-a30-neo-cpu-fan",
+      "name": "ANTEC A30 NEO  CPU Air Cooler",
+      "price": 849,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412221720-600x600.png.webp",
+      "brand": "ANTEC",
+      "socket": null
+    },
+    {
+      "slug": "asus-prime-750w-gold-fully-modular-black-power-supply-ap-750g-atx-3-1-ready",
+      "name": "ASUS Prime 750W Gold Fully Modular Black Power Supply AP-750G ATX 3.1 Ready",
+      "price": 4999,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/asus-prime-750w-gold-black-psu-front-view-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": null
+    },
+    {
+      "slug": "asus-prime-lc-360-argb-cpu-liquid-cooler",
+      "name": "ASUS Prime LC 360 ARGB CPU Liquid Cooler",
+      "price": 5200,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/asus-prime-lc-360-argb-cpu-liquid-cooler-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": null
+    },
+    {
+      "slug": "cooler-master-hyper-212-3dhp-black-argb-cpu-air-cooler",
+      "name": "Cooler Master Hyper 212 3DHP Black ARGB CPU Cooler",
+      "price": 1599,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-3dhp-may-t2hp-217pa-r1-600x600.png.webp",
+      "brand": "Cooler Master",
+      "socket": "AM5"
+    },
+    {
+      "slug": "cooler-master-hyper-212-spectrum-v3-argb-cpu-air-cooler",
+      "name": "Cooler Master Hyper 212 Spectrum V3 CPU Air Cooler",
+      "price": 1349,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-spectrum-v3-600x600.png.webp",
+      "brand": "Cooler Master",
+      "socket": "AM5"
+    },
+    {
+      "slug": "cooler-master-v4-alpha-3dhp-black-cpu-air-cooler",
+      "name": "Cooler Master V4 Alpha 3DHP Black CPU Air Cooler",
+      "price": 1999,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-v4-alpha-3dhp-maz-t2hp-front-600x600.png.webp",
+      "brand": "Cooler Master",
+      "socket": "AM5"
+    },
+    {
+      "slug": "deepcool-lt520-240mm-aio-liquid-cpu-cooler-black",
+      "name": "DeepCool LT520 240mm AIO Liquid CPU Cooler Black",
+      "price": 4199,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/deepcool-lt520-240mm-liquid-cooler-pump-600x600.png.webp",
+      "brand": "DEEPCOOL",
+      "socket": "AM5"
+    },
+    {
+      "slug": "intel-core-i7-14700f",
+      "name": "Intel® Core™ i7 14700f",
+      "price": 16500,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501161231-600x600.png.webp",
+      "brand": "INTEL",
+      "socket": "LGA1700"
+    },
+    {
+      "slug": "intel-core-i7-14700kf",
+      "name": "Intel® Core™ i7-14700KF CPU",
+      "price": 20499,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260422224913-600x600.png.webp",
+      "brand": "INTEL",
+      "socket": "LGA1700"
+    },
+    {
+      "slug": "intel-core-ultra-225f",
+      "name": "Intel Core Ultra 225F",
+      "price": 8499,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501173138-600x600.png.webp",
+      "brand": "INTEL",
+      "socket": "LGA1851"
+    },
+    {
+      "slug": "ocypus-delta-a40-argb-cpu-air-cooler-black",
+      "name": "Ocypus Delta A40 ARGB CPU Air Cooler Black",
+      "price": 1499,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-cooler-front-600x600.png.webp",
+      "brand": "Ocypus",
+      "socket": "AM5"
+    },
+    {
+      "slug": "ocypus-lota-a40-white-air-cooler",
+      "name": "Ocypus Lota A40 White CPU Air Cooler Digital Display",
+      "price": 1649,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-lota-a40-white-cooler-digital-top-600x600.png.webp",
+      "brand": "Ocypus",
+      "socket": "AM5"
+    },
+    {
+      "slug": "raidmax-am1204-digital-display-argb-cpu-air-cooler",
+      "name": "Raidmax AM1204 Digital Display ARGB CPU Air Cooler",
+      "price": 1499,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-front-600x600.png.webp",
+      "brand": "Raidmax",
+      "socket": "AM5"
+    }
+  ],
+  "motherboard": [
+    {
+      "slug": "aerocool-b312f-flow-argb-black-case-3-fans-lux-550w-power-supply-80-plus-bronze",
+      "name": "Aerocool B312F Flow ARGB Case + LUX 550W Bronze PSU",
+      "price": 2999,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-flow-case-lux-550w-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "aerocool-p500a-panoramic-270-glass-argb-mid-tower-case-black",
+      "name": "Aerocool P500A Panoramic ARGB Mid Tower Case Black",
+      "price": 3849,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-panoramic-front-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "aerocool-p500a-panoramic-270-glass-argb-mid-tower-case-white",
+      "name": "Aerocool P500A Panoramic ARGB Mid Tower Case White",
+      "price": 4199,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-panoramic-top-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "aerocool-p500b-digi-panoramic-led-screen-argb-mid-tower-case-black",
+      "name": "Aerocool P500B Digi Panoramic ARGB Case Black",
+      "price": 4399,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/aerocool-p500b-digi-black-front-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "aerocool-p500b-digi-panoramic-led-screen-argb-mid-tower-case-white",
+      "name": "Aerocool P500B Digi Panoramic ARGB Case White",
+      "price": 4599,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500b-digi-white-front-led-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "aerocool-p500d-argb-mid-tower-case-lux-650w-bronze-psu-bundle",
+      "name": "Aerocool P500D ARGB Case + LUX 650W Bronze PSU Bundle",
+      "price": 3999,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500d-argb-case-psu-600x600.png.webp",
+      "brand": "Aerocool",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "amd-ryzen-5-5500-desktop-processor-6-cores-12-threads-up-to-4-2ghz",
+      "name": "AMD Ryzen 5 5500 Desktop Processor (6 Cores, 12 Threads, Up to 4.2GHz, Socket AM4) box",
+      "price": 4899,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500-desktop-processor-6-cores-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM4",
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "amd-ryzen-5-7500f-desktop-processor-6-cores-12-threads-up-to-5-0ghz",
+      "name": "AMD Ryzen 5 7500F Desktop Processor (6 Cores, 12 Threads, Up to 5.0GHz, Socket AM5, DDR5 Support)",
+      "price": 7199,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7500f-desktop-processor-6-cores-12-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM5",
+      "ramType": "DDR5",
+      "form": "ATX"
+    },
+    {
+      "slug": "amd-ryzen-7-5700x-8-cores-16-threads-desktop-processor",
+      "name": "AMD Ryzen 7 5700X 8 Cores 16 Threads Processor Up To 4.6GHz",
+      "price": 8599,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-5700x-desktop-cpu-top-view-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM4",
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "amd-ryzen-7-7800x3d",
+      "name": "AMD Ryzen 7 7800X3D Desktop Processor Boxed",
+      "price": 18999,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-box-front-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM5",
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "amd-ryzen-7-8700f-8-cores-16-threads-desktop-processor",
+      "name": "AMD Ryzen 7 8700F 8 Cores 16 Threads Processor Up To 5.0GHz",
+      "price": 9199,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-8700f-desktop-cpu-top-view-600x600.png.webp",
+      "brand": "AMD",
+      "socket": "AM5",
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "antec-ax65-argb-gaming-case-atom-b750-750w-80plus-bronze-psu-bundle",
+      "name": "Antec AX65 ARGB Gaming Case + Antec Atom B750 750W 80Plus Bronze Power Supply Bundle",
+      "price": 4300,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/antec-ax65-argb-gaming-case-atom-b750-750w-80plus-600x600.png.webp",
+      "brand": "ANTEC",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "antec-ax65-argb-gaming-case-atom-v650-650w-psu-bundle",
+      "name": "Antec AX65 ARGB Gaming Case + Antec Atom V650 650W Power Supply Bundle",
+      "price": 3500,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/antec-ax65-argb-gaming-case-atom-v650-650w-psu-600x600.png.webp",
+      "brand": "ANTEC",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "antec-ax90-argb-case-750w-80-plus-gold-semi-modular-psu",
+      "name": "Antec AX90 ARGB Gaming Case + Antec 750W 80 Plus Gold Semi-Modular Power Supply",
+      "price": 5899,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/antec-ax90-argb-gaming-case-front-view-600x600.png.webp",
+      "brand": "ANTEC",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "antec-cx700-rgb-elite-black-case-csk-pro-850w-atx3-1-psu",
+      "name": "Antec CX700 RGB Elite Black Case + Antec CSK Pro 850W ATX 3.1 80+ Bronze Power Supply",
+      "price": 6399,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/antec-cx700-rgb-elite-black-case-front-600x600.png.webp",
+      "brand": "ANTEC",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "asus-a31-plus-mid-black-argb-tower-case",
+      "name": "ASUS A31 PLUS ARGB Mid Tower Case Black",
+      "price": 5000,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-1-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6",
+      "name": "ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 Graphics Card (DUAL-RTX3050-O6G)",
+      "price": 13999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-1-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "asus-prime-a520m-k-amd-am4-micro-atx-motherboard",
+      "name": "ASUS PRIME A520M-K AMD A520 AM4 Micro-ATX Motherboard",
+      "price": 3400,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-a520m-k-amd-am4-micro-atx-motherboard-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": "AM4",
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "asus-prime-a620am-k-amd-a620a-socket-am5-ddr5-micro-atx-motherboard",
+      "name": "ASUS PRIME A620AM-K AMD A620A Socket AM5 DDR5 Micro-ATX Motherboard",
+      "price": 4199,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-a620am-k-motherboard-front-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": "AM5",
+      "ramType": "DDR5",
+      "form": "mATX"
+    },
+    {
+      "slug": "asus-prime-b450m-a-ii-amd-am4-micro-atx-motherboard",
+      "name": "ASUS Prime B450M-A II AMD B450 AM4 Micro-ATX Motherboard",
+      "price": 4500,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b450m-a-ii-amd-am4-motherboard-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": "AM4",
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "asus-prime-b550m-k-argb-amd-am4-micro-atx-motherboard",
+      "name": "ASUS PRIME B550M-K ARGB Motherboard",
+      "price": 4899,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b550m-k-argb-board-top-view-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "asus-prime-b650m-k-amd-b650-socket-am5-ddr5-micro-atx-motherboard",
+      "name": "ASUS PRIME B650M-K AMD B650 Socket AM5 DDR5 Micro-ATX Motherboard",
+      "price": 5399,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b650m-k-motherboard-front-600x600.png.webp",
+      "brand": "Turbo",
+      "socket": "AM5",
+      "ramType": "DDR5",
+      "form": "mATX"
+    },
+    {
+      "slug": "asus-prime-b760m-r-d4-motherboard",
+      "name": "ASUS Prime B760M-R D4 Intel B760 LGA 1700 Micro-ATX Motherboard",
+      "price": 4800,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b760m-r-d4-motherboard-front-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": "LGA1700",
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "asus-prime-b850m-a-wifi-matx-motherboard",
+      "name": "ASUS Prime B850M-A WIFI mATX Motherboard",
+      "price": 8499,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-motherboard-top-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "asus-prime-z890-p-wifi",
+      "name": "Asus Prime Z890-P WIFI MOTHERBOARD",
+      "price": 12500,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260425210423-600x600.png.webp",
+      "brand": "ASUS",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "cooler-master-haf-500-black-mid-tower-gaming-case",
+      "name": "Cooler Master HAF 500 Black Mid Tower Mesh Case",
+      "price": 5199,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/cooler-master-haf-500-black-case-front-600x600.png.webp",
+      "brand": "Cooler Master",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "cooler-master-haf-500-white-mid-tower-gaming-case",
+      "name": "Cooler Master HAF 500 White Mid Tower Mesh Case",
+      "price": 5499,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/cooler-master-haf-500-white-case-front-600x600.png.webp",
+      "brand": "Cooler Master",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "cooler-master-masterframe-600-mesh-mid-tower-case",
+      "name": "Cooler Master MasterFrame 600 Mesh Mid Tower Case",
+      "price": 8899,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/cooler-master-masterframe-600-mesh-front-600x600.png.webp",
+      "brand": "Cooler Master",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "cooler-master-mwe-gold-v3-850w-atx-3-1-power-supply",
+      "name": "Cooler Master MWE Gold V3 850W ATX 3.1 Power Supply",
+      "price": 4599,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/cooler-master-mwe-gold-v3-850w-psu-front-600x600.png.webp",
+      "brand": "Cooler Master",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "crucial-8gb-ddr4-3200mhz-ram",
+      "name": "Crucial 8GB DDR4 3200MHz CL22 Desktop Memory RAM",
+      "price": 2999,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/crucial-8gb-ddr4-3200mhz-ram-600x600.png.webp",
+      "brand": "CRUCIAL",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "darkflash-dy470-white-back-connect-compatible-atx-gaming-case-with-7-argb-fans",
+      "name": "darkFlash DY470 White Back-Connect Compatible ATX Gaming Case With 7 ARGB Fans",
+      "price": 7499,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/darkflash-dy470-white-7-argb-fans-front-600x600.png.webp",
+      "brand": "darkFlash",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gamdias-aura-gc1-elite-argb-4fan-with-650w-power-supply-case",
+      "name": "Gamdias AURA GC1 ELITE ARGB 4Fan  With 650w Power Supply CASE",
+      "price": 3300,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0013_260607162422-600x600.png.webp",
+      "brand": "GAMDIAS",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gamdias-aura-gc2-elite-argb-4fan-with-750w-power-supply-case",
+      "name": "Gamdias AURA GC2 ELITE ARGB 4Fan  With 750w Power Supply CASE",
+      "price": 3700,
+      "image": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0013_260607164016-600x600.png.webp",
+      "brand": "GAMDIAS",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gb-b860m-d3hp-d5",
+      "name": "GIGABYTE B860M D3HP DDR5 Motherboard",
+      "price": 7499,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501155101-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": null,
+      "ramType": "DDR5",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabbyte-b860m-k",
+      "name": "GIGABYTE B860M K LGA 1851 DDR5 SUPPORT MOTHERBOARD",
+      "price": 6200,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260419175458-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": "LGA1851",
+      "ramType": "DDR5",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-a520m-k-v2-rev-11-amd-am4-micro-atx-motherboard",
+      "name": "Gigabyte A520M K V2 (rev. 1.1) AMD AM4 Micro-ATX Motherboard",
+      "price": 3300,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-a520m-k-v2-rev-11-amd-am4-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": "AM4",
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "gigabyte-b550m-ds3h-ac-am4-micro-atx-motherboard",
+      "name": "Gigabyte B550M DS3H AC AMD AM4 Micro-ATX Motherboard with Wi-Fi &amp; Bluetooth",
+      "price": 5600,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b550m-ds3h-ac-am4-micro-atx-motherboard-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": "AM4",
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "gigabyte-b850-gaming-wifi6-am5-motherboard",
+      "name": "GIGABYTE B850 GAMING WIFI6 AM5 Motherboard",
+      "price": 9199,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-wifi6-board-top-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": "AM5",
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-b850-gaming-x-wifi6e-am5-motherboard",
+      "name": "GIGABYTE B850 GAMING X WIFI6E AM5 Motherboard",
+      "price": 11399,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-wifi6e-board-top-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": "AM5",
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-b850m-ds3h-ice-am5-motherboard",
+      "name": "GIGABYTE B850M DS3H ICE AM5 Micro-ATX Motherboard",
+      "price": 8699,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850m-ds3h-ice-white-board-top-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": "AM5",
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "gigabyte-b850m-ds3h-motherboard",
+      "name": "Gigabyte B850M DS3H Motherboard",
+      "price": 8000,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011(1)_260502171253-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-b850m-gaming-x-wifi6e-motherboard",
+      "name": "Gigabyte B850M GAMING X WIFI6E Motherboard",
+      "price": 9800,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850m-gaming-x-wifi6e-rev11-front-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-b860-aorus-elite",
+      "name": "Gigabyte B860 AORUS ELITE Motherboard",
+      "price": 9900,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0012_260503205829-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-b860-eagle-wifi6e",
+      "name": "Gigabyte B860 EAGLE wifi6e Motherboard",
+      "price": 10400,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b860-eagle-wifi6e-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-h610m-k-ddr4-motherboard",
+      "name": "GIGABYTE H610M K DDR4 Motherboard",
+      "price": 3700,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0013_260608181241-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-x870-gaming-x-wifi7-amd-am5-atx-motherboard",
+      "name": "GIGABYTE X870 GAMING X WIFI7 AMD AM5 ATX Motherboard (rev. 1.x)",
+      "price": 12999,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-x870-gaming-x-wifi7-amd-am5-motherboard-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "socket": "AM5",
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "msi-a520m-a-pro-motherboard",
+      "name": "MSI A520M-A PRO Motherboard",
+      "price": 3800,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501165240-600x600.png.webp",
+      "brand": "MSI",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "msi-b550m-a-pro",
+      "name": "MSI B550M A PRO MOTHERBOARD",
+      "price": 0,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011%20(1)_260502193112_260503181055-600x600.png.webp",
+      "brand": "MSI",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    },
+    {
+      "slug": "msi-pro-b850m-a-wifi-pz-matx-motherboard",
+      "name": "MSI PRO B850M-A WIFI PZ mATX Motherboard",
+      "price": 10799,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b850m-a-wifi-pz-motherboard-front-600x600.png.webp",
+      "brand": "MSI",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "msi-pro-b860m-e-matx-motherboard",
+      "name": "MSI PRO B860M-E mATX Motherboard",
+      "price": 6599,
+      "image": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-motherboard-front-view-600x600.png.webp",
+      "brand": "MSI",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "mATX"
+    },
+    {
+      "slug": "xander-hulk-argb-gaming-mid-tower-case-600w-psu-bundle-black",
+      "name": "Xander Hulk ARGB Gaming Case + 600W PSU Bundle Black",
+      "price": 2999,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/xander-hulk-argb-case-front-600x600.png.webp",
+      "brand": "Turbo",
+      "socket": null,
+      "ramType": "DDR4",
+      "form": "ATX"
+    }
+  ],
+  "ram": [
+    {
+      "slug": "acer-ud200-16gb-ddr5-5600mhz-desktop-ram",
+      "name": "Acer UD200 16GB DDR5 5600MHz Desktop RAM Module",
+      "price": 9700,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/acer-ud200-16gb-ddr5-5600mhz-desktop-ram-600x600.png.webp",
+      "brand": "ACER",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "adata-16gb-ddr5-5600mhz-cl46-1-1v-udimm-desktop-ram",
+      "name": "ADATA 16GB DDR5 5600MHz CL46 1.1V UDIMM Desktop RAM Module",
+      "price": 10099,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/adata-16gb-ddr5-5600mhz-cl46-udimm-desktop-ram-600x600.png.webp",
+      "brand": "ADATA",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "corsair-vengeance-ddr5-16gb-1x16gb-6000mhz-cl38-black-single-ram",
+      "name": "Corsair Vengeance DDR5 16GB 1x16GB 6000MHz CL38 Black",
+      "price": 11599,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-16gb-black-600x600.png.webp",
+      "brand": "CORSAIR",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "corsair-vengeance-ddr5-32gb-2x16gb-6000mhz-cl38-black-memory-kit",
+      "name": "Corsair Vengeance DDR5 32GB 2x16GB 6000MHz CL38 Black",
+      "price": 22999,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-black-front-600x600.png.webp",
+      "brand": "CORSAIR",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "corsair-vengeance-rgb-ddr5-16gb-1x16gb-6000mhz-cl38-black-single-ram",
+      "name": "Corsair Vengeance RGB DDR5 16GB 1x16GB 6000MHz CL38 Black",
+      "price": 12199,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-rgb-ddr5-black-16gb-600x600.png.webp",
+      "brand": "CORSAIR",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "corsair-vengeance-rgb-ddr5-32gb-2x16gb-6000mhz-cl38-black-memory-kit",
+      "name": "Corsair Vengeance RGB DDR5 32GB 2x16GB 6000MHz CL38 Black",
+      "price": 23999,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-rgb-ddr5-black-600x600.png.webp",
+      "brand": "CORSAIR",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "kingston-fury-16gb-ddr5-6000mhz-cl36",
+      "name": "KINGSTON FURY 16gb DDR5 6000mhz CL36",
+      "price": 11499,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260503192100-600x600.png.webp",
+      "brand": "KINGSTON",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "maono-dgm20-gamerwave-condenser-usb-gaming-rgb-microphone",
+      "name": "Maono DGM20 GamerWave USB Condenser Gaming Microphone with RGB &amp; Noise Cancellation",
+      "price": 1699,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/maono-dgm20-gamerwave-condenser-usb-gaming-rgb-mic-600x600.png.webp",
+      "brand": "Maono",
+      "ramType": "DDR4"
+    },
+    {
+      "slug": "patriot-viper-ddr4-8gb-3200mhz-cl16",
+      "name": "Patriot Viper Steel DDR4 8GB 3200MHz CL16 Desktop Gaming RAM - Gunmetal Grey",
+      "price": 3249,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/patriot-viper-ddr4-8gb-3200mhz-cl16-600x600.png.webp",
+      "brand": "Patriot",
+      "ramType": "DDR4"
+    },
+    {
+      "slug": "patriot-viper-ddr5-16gb-rgb",
+      "name": "Patriot Viper DDR5 16GB 6000mhz CL30 RGB",
+      "price": 12699,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523134510-600x600.png.webp",
+      "brand": "Patriot",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "patriot-viper-ddr5-16gb",
+      "name": "Patriot Viper DDR5 16 GB 6000mhz CL30",
+      "price": 11699,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260520174309-600x600.png.webp",
+      "brand": "Patriot",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "patriot-viper-gaming-ddr5-32gb-2x16gb-kit-6000mhz-cl30-rgb",
+      "name": "Patriot Viper DDR5 32GB 2x16GB KIT 6000mhz CL30 RGB",
+      "price": 24999,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523135803-600x600.png.webp",
+      "brand": "Patriot",
+      "ramType": "DDR5"
+    },
+    {
+      "slug": "patriot-viper-steel-ddr4-16gb-3200mhz-cl16-desktop-gaming-ram",
+      "name": "Patriot Viper Steel DDR4 16GB 3200MHz CL16 Desktop Gaming RAM - Gunmetal Grey",
+      "price": 6499,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/patriot-viper-steel-ddr4-16gb-3200mhz-cl16-desktop-600x600.png.webp",
+      "brand": "Patriot",
+      "ramType": "DDR4"
+    },
+    {
+      "slug": "team-elite-ddr4-8gb-3200mhz-cl22",
+      "name": "TEAM Elite DDR4 8GB 3200mhz CL22",
+      "price": 2700,
+      "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523143910-600x600.png.webp",
+      "brand": "Team",
+      "ramType": "DDR4"
+    }
+  ],
+  "gpu": [
+    {
+      "slug": "amd-ryzen-5-3400g-processor",
+      "name": "AMD Ryzen 5 3400G 4-Core 8-Thread Desktop Processor with Radeon RX Vega 11 Graphics",
+      "price": 3800,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-3400g-processor-600x600.png.webp",
+      "brand": "AMD",
+      "tdp": 180
+    },
+    {
+      "slug": "amd-ryzen-5-5600-am4-desktop-processor",
+      "name": "AMD Ryzen 5 5600 6-Core 12-Thread AM4 Processor with Wraith Stealth Cooler",
+      "price": 6900,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5600-am4-desktop-processor-600x600.png.webp",
+      "brand": "AMD",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-dual-geforce-rtx-3050-oc-edition-8gb-gddr6",
+      "name": "ASUS Dual GeForce RTX 3050 OC Edition 8GB GDDR6 Graphics Card (DUAL-RTX3050-O8G)",
+      "price": 15999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-8gb-gddr6-1-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-dual-geforce-rtx-3060-v2-oc-edition-12gb-gddr6",
+      "name": "ASUS Dual GeForce RTX 3060 V2 OC Edition 12GB GDDR6 Gaming Graphics Card",
+      "price": 22999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3060-v2-oc-edition-12gb-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7",
+      "name": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card (DUAL-RTX5060TI-O16G)",
+      "price": 38499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-dual-geforce-rtx-5060-ti-oc-edition-8gb-gddr7",
+      "name": "ASUS Dual GeForce RTX 5060 Ti OC Edition 8GB GDDR7 Graphics Card (DUAL-RTX5060TI-O8G)",
+      "price": 26999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5060-ti-oc-edition-8gb-1-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-dual-rtx5070-12g",
+      "name": "ASUS Dual GeForce RTX™ 5070 12GB GDDR7 OC Edition",
+      "price": 41499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260407164301-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6",
+      "name": "ASUS Prime GeForce RTX 5060 OC Edition 8GB GDDR6 Graphics Card (PRIME-RTX5060-O8G)",
+      "price": 25599,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-gddr7",
+      "name": "ASUS Prime GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card (PRIME-RTX5060TI-O16G)",
+      "price": 39799,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7",
+      "name": "ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 Graphics Card (PRIME-RTX5070-O12G)",
+      "price": 44499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-gddr6x",
+      "name": "ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR6X Graphics Card (PRIME-RTX5070TI-O16G)",
+      "price": 67499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-1-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-prime-geforce-rtx-5080-oc-edition-16gb-gddr7-graphics-card",
+      "name": "ASUS PRIME GeForce RTX 5080 OC Edition 16GB GDDR7 Graphics Card",
+      "price": 87999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-rtx-5080-oc-16gb-gpu-angle-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7",
+      "name": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR7 Graphics Card (PRIME-RX9070-O16G)",
+      "price": 37999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-1-600x600.png.webp",
+      "brand": "ASUS",
+      "tdp": 180
+    },
+    {
+      "slug": "gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6",
+      "name": "Gigabyte GeForce RTX 5060 Eagle OC ICE 8GB GDDR6 Graphics Card (GV-N5060EAGLEOC-ICE-8GD)",
+      "price": 23999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "tdp": 180
+    },
+    {
+      "slug": "gigabyte-geforce-rtx-5060-ti-windforce-max-oc-16gb-graphics-card",
+      "name": "GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC 16GB Graphics Card",
+      "price": 37499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-front-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "tdp": 180
+    },
+    {
+      "slug": "gigabyte-geforce-rtx-5060-windforce-2x-max-oc-8gb-gddr7",
+      "name": "Gigabyte GeForce RTX 5060 Windforce 2X MAX OC 8GB GDDR7 Graphics Card (GV-N5060WF2MAX-OC-8GD)",
+      "price": 23499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-1-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "tdp": 180
+    },
+    {
+      "slug": "gigabyte-radeon-rx-9060-xt-gaming-oc-16g-graphics-card",
+      "name": "GIGABYTE Radeon RX 9060 XT GAMING OC 16G Graphics Card",
+      "price": 27999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-front-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "tdp": 180
+    },
+    {
+      "slug": "gigabyte-rtx-5060ti-gaming-oc-16gb",
+      "name": "Gigabyte GeForce RTX 5060 Ti Gaming OC 16GB GDDR7 Graphics Card (GV-N506TGAMING-OC-16GD)",
+      "price": 35499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "tdp": 180
+    },
+    {
+      "slug": "intel-core-ultra-5-processor-245kf-24m-cache-up-to-5-20-ghz-lga1851",
+      "name": "Intel Core Ultra 5 Processor 245KF 24M Cache Up to 5.20 GHz Box",
+      "price": 10399,
+      "image": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-ultra-5-245kf-processor-box-600x600.png.webp",
+      "brand": "INTEL",
+      "tdp": 180
+    },
+    {
+      "slug": "msi-geforce-gt-730",
+      "name": "MSI GEFORCE GT 730 4GB DDR3",
+      "price": 3999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260418161727-600x600.png.webp",
+      "brand": "MSI",
+      "tdp": 180
+    },
+    {
+      "slug": "msi-geforce-rtx-5070-12g-shadow-3x-oc-graphics-card",
+      "name": "MSI GeForce RTX 5070 12G SHADOW 3X OC Graphics Card",
+      "price": 43499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-12g-shadow-3x-oc-gpu-front-600x600.png.webp",
+      "brand": "MSI",
+      "tdp": 180
+    },
+    {
+      "slug": "msi-geforce-rtx-5070-ti-16g-shadow-3x-oc-graphics-card",
+      "name": "MSI GeForce RTX 5070 Ti 16G SHADOW 3X OC Graphics Card",
+      "price": 64999,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-ti-16g-shadow-3x-oc-front-600x600.png.webp",
+      "brand": "MSI",
+      "tdp": 180
+    },
+    {
+      "slug": "pny-rtx-5060ti-16gb-dual",
+      "name": "PNY GeForce RTX 5060 Ti 16GB GDDR7 Stealth Dual Fan Graphics Card (VCG5060T16DFXPB1)",
+      "price": 34799,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan-600x600.png.webp",
+      "brand": "PNY",
+      "tdp": 180
+    },
+    {
+      "slug": "zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge",
+      "name": "ZOTAC GAMING GeForce RTX 5060 Ti 8GB Twin Edge Graphics Card",
+      "price": 26499,
+      "image": "https://turbo-computer.com/image/cache/catalog/VGA/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-600x600.png.webp",
+      "brand": "ZOTAC",
+      "tdp": 180
+    }
+  ],
+  "storage": [
+    {
+      "slug": "acer-sa100",
+      "name": "acer SA100 240GB SATAIII SSD",
+      "price": 2300,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221634-600x600.png.webp",
+      "brand": "ACER"
+    },
+    {
+      "slug": "crucial-e100-480gb",
+      "name": "Crucial E100 480gb M.2 NVMe PCIe SSD GEN4",
+      "price": 4300,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260406182259-600x600.png.webp",
+      "brand": "CRUCIAL"
+    },
+    {
+      "slug": "crucial-x9-portable-ssd-2tb",
+      "name": "Crucial X9 Portable SSD 2TB up to 1050mb/s R",
+      "price": 11800,
+      "image": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0011_260407142622-600x600.png.webp",
+      "brand": "CRUCIAL"
+    },
+    {
+      "slug": "crucial-x9-portable-ssd",
+      "name": "Crucial X9 Portable SSD 1TB up to 1050mb/s R",
+      "price": 6999,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225224118-600x600.png.webp",
+      "brand": "CRUCIAL"
+    },
+    {
+      "slug": "hiksemi-pocket-ssd",
+      "name": "Hiksemi Pocket Protable SSD 512GB up to 560mb/s R",
+      "price": 3000,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225232428-600x600.png.webp",
+      "brand": "Hiksemi"
+    },
+    {
+      "slug": "hiksemi-shield-hs-essd-t300s",
+      "name": "Hiksemi Shield Protable SSD 1TB HS-ESSD-T300S",
+      "price": 5500,
+      "image": "https://turbo-computer.com/image/cache/catalog/T30a%204-600x600.png.webp",
+      "brand": "Hiksemi"
+    },
+    {
+      "slug": "hiksemi-wave-256gb",
+      "name": "Hiksemi Wave M.2 256GB NVMe PCIe SSD ",
+      "price": 2449,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163821-600x600.png.webp",
+      "brand": "Hiksemi"
+    },
+    {
+      "slug": "hiksemi-wave",
+      "name": "HIKSEMI WAVE 256GB SSD SATA 3.0 ",
+      "price": 1899,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001110-600x600.png.webp",
+      "brand": "Hiksemi"
+    },
+    {
+      "slug": "hikvision-e100",
+      "name": "HIKVISION E100 256GB 2.5&quot; SATA SSD",
+      "price": 2200,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170813-600x600.png.webp",
+      "brand": "HikVision"
+    },
+    {
+      "slug": "kingston-external-ssd-xs1000",
+      "name": "Kingston External SSD 1TB XS1000 up to 1050mb/s R 1000mb/s",
+      "price": 6900,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225221502-600x600.png.webp",
+      "brand": "KINGSTON"
+    },
+    {
+      "slug": "kingston-nv3-1tb-m2-nvme-pcie-40-internal-ssd",
+      "name": "Kingston NV3 1TB M.2 2280 NVMe PCIe 4.0 Internal SSD",
+      "price": 6699,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/kingston-nv3-1tb-m2-nvme-pcie-40-internal-ssd-600x600.png.webp",
+      "brand": "Turbo"
+    },
+    {
+      "slug": "lexar-nm620",
+      "name": "LEXAR NM620 1TB M.2 NVMe PCIe Ssd GEN3",
+      "price": 6300,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301235045-600x600.png.webp",
+      "brand": "LEXAR"
+    },
+    {
+      "slug": "onten-uca322-m-2-nvme-ssd-enclosure-10gbps-usb-3-2-gen-2",
+      "name": "Onten UCA322 M.2 NVMe SSD Enclosure (10Gbps USB 3.2 Gen 2 External Case)",
+      "price": 700,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/onten-uca322-m-2-nvme-ssd-enclosure-10gbps-usb-3-2-600x600.png.webp",
+      "brand": "Onten"
+    },
+    {
+      "slug": "orico-rack-hdd-usb3-2-5-inch",
+      "name": "Orico 2577U3 V1 2.5 Inch USB 3.0 Micro B Hard Drive Enclosure Black",
+      "price": 250,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/orico-2577u3-v1-black-2-5-enclosure-top-600x600.png.webp",
+      "brand": "Turbo"
+    },
+    {
+      "slug": "patriot-p300",
+      "name": "Patriot P300 256GB M.2 nvme ssd PCIe Gen 3",
+      "price": 2700,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221536-600x600.png.webp",
+      "brand": "Patriot"
+    },
+    {
+      "slug": "pny-cs2140",
+      "name": "PNY CS2140 500GB M.2 NVMePCIe GEN 4 X4",
+      "price": 4000,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302223439-600x600.png.webp",
+      "brand": "PNY"
+    },
+    {
+      "slug": "quality-trust-2599-2-5-inch-sata-iii-hdd-ssd-external-enclosure-usb-c-black",
+      "name": "Quality Trust 2599 2.5 Inch SATA III HDD SSD External Enclosure USB-C Black",
+      "price": 199,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/quality-trust-2599-usb-c-enclosure-top-600x600.png.webp",
+      "brand": "Turbo"
+    },
+    {
+      "slug": "samsung-990-evo-2tb",
+      "name": "Samsung 990 EVO 2TB SSD M.2 NVMe PCIe 4.0 x4",
+      "price": 13499,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260406185806-600x600.png.webp",
+      "brand": "SAMSUNG"
+    },
+    {
+      "slug": "samsung-pm9b-mzvl45120",
+      "name": "SAMSUNG PM9B 512GB M.2 NVMe PCIe SSD Gen4x4 MZ-VL45120",
+      "price": 4200,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302211534-600x600.png.webp",
+      "brand": "SAMSUNG"
+    },
+    {
+      "slug": "sandisk-1tb-portable",
+      "name": "SanDisk 1TB Portable SSD UP TO 800mb/s",
+      "price": 7349,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260422152033-600x600.png.webp",
+      "brand": "Sandisk"
+    },
+    {
+      "slug": "sandisk-2tb-portable-ssd",
+      "name": "SanDisk 2TB Portable SSD UP TO 800mb/s",
+      "price": 10500,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260407145239-600x600.png.webp",
+      "brand": "Sandisk"
+    },
+    {
+      "slug": "transcend-esd310-512gb-portable-external-ssd-1000mbs",
+      "name": "Transcend ESD310 512GB Portable External SSD Dual Connector (Read Up to 1000MB/s - Write Up to 900MB/s)",
+      "price": 4000,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/transcend-esd310-512gb-portable-external-ssd-1000m-600x600.png.webp",
+      "brand": "Transcend"
+    },
+    {
+      "slug": "usb-3-0-to-sata-2-5-inch-hard-drive-converter-cable",
+      "name": "USB 3.0 to SATA 2.5 Inch Hard Drive Converter Cable",
+      "price": 150,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-converter-cable-front-600x600.png.webp",
+      "brand": "Turbo"
+    },
+    {
+      "slug": "wd-blue-sn5000-1tb-m2-nvme-pcie-gen4-ssd",
+      "name": "Western Digital WD Blue SN5000 1TB M.2 NVMe PCIe Gen4 x4 SSD",
+      "price": 7199,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-1tb-m2-nvme-pcie-gen4-ssd-600x600.png.webp",
+      "brand": "WD"
+    },
+    {
+      "slug": "wd-blue-sn5000-2tb",
+      "name": "WD BLUE SN5000 2TB M.2 NVMe PCIe SSD",
+      "price": 11500,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0012_260503193452-600x600.png.webp",
+      "brand": "WD"
+    },
+    {
+      "slug": "wd-blue-sn5000-500gb-m2-nvme-pcie-gen4-ssd",
+      "name": "Western Digital WD Blue SN5000 500GB M.2 NVMe PCIe Gen4 x4 SSD",
+      "price": 4300,
+      "image": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-500gb-m2-nvme-pcie-gen4-ssd-600x600.png.webp",
+      "brand": "WD"
+    },
+    {
+      "slug": "orico-rack-hdd-usb3",
+      "name": "Orico Rack Hdd USB3 2.5 inch",
+      "price": 200,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260511181017-600x600.png.webp",
+      "brand": "Turbo"
+    },
+    {
+      "slug": "transcend-2tb",
+      "name": "Transcend StoreJet 25M3 2TB External Hard Drive USB 3.1 Gen 1 Anti-Shock Protection (TS2TSJ25M3G)",
+      "price": 5899,
+      "image": "https://turbo-computer.com/image/cache/catalog/hdd/transcend-storejet-25m3-2tb-external-hard-usb3-1-600x600.png.webp",
+      "brand": "Transcend"
+    },
+    {
+      "slug": "wd-hdd-1tb-nb",
+      "name": "WD Blue 1TB 3.5&quot; PC Desktop Internal Hard Drive 5400 RPM SATA 6Gb/s 64MB Cache (WD10EARZ)",
+      "price": 4499,
+      "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-blue-1tb-desktop-internal-hdd-3-5-sata-600x600.png.webp",
+      "brand": "WD"
+    },
+    {
+      "slug": "wd-my-passport-5tb-portable-external-hard-drive-black",
+      "name": "Western Digital WD My Passport 5TB Portable External Hard Drive",
+      "price": 9499,
+      "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-drive-600x600.png.webp",
+      "brand": "WD"
+    },
+    {
+      "slug": "wd-mypassport-1tb",
+      "name": "WD My Passport 1TB Portable External Hard Drive USB 3.2 Gen 1 Slim Design - Black (WDBYVG0010BBK-WESN)",
+      "price": 5199,
+      "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-1tb-portable-external-hard-usb-1-600x600.png.webp",
+      "brand": "WD"
+    },
+    {
+      "slug": "wd-mypassport-2tb",
+      "name": "WD 2TB My Passport Portable External Hard Drive - USB 3.2",
+      "price": 5849,
+      "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-600x600.png.webp",
+      "brand": "WD"
+    },
+    {
+      "slug": "wd-mypassport-4tb",
+      "name": "WD 4TB My Passport Portable External Hard Drive - USB 3.2",
+      "price": 8050,
+      "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-4tb-my-passport-portable-hard-drive-turbo-600x600.png.webp",
+      "brand": "WD"
+    }
+  ],
+  "psu": [
+    {
+      "slug": "aerocool-650w-80plus-bronze-power-supply",
+      "name": "Aerocool Lux 650W 80 Plus Bronze Power Supply",
+      "price": 2400,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260509205842-600x600.png.webp",
+      "brand": "Aerocool",
+      "wattage": 650
+    },
+    {
+      "slug": "aerocool-d509a-6fan-argb-with-650w-80plus-bronze",
+      "name": "Aerocool D509A 6 Fan ARGB with 650w 80plus Bronze Case",
+      "price": 4200,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509171220-600x600.png.webp",
+      "brand": "Aerocool",
+      "wattage": 650
+    },
+    {
+      "slug": "aerocool-p500c-4-fan-argb-with-750w-80-plus",
+      "name": "Aerocool P500C 4 Fan ARGB with 750w 80plus Bronze power supply Black Case",
+      "price": 5700,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509180503-600x600.png.webp",
+      "brand": "Aerocool",
+      "wattage": 750
+    },
+    {
+      "slug": "antec-ax1000-lite-4-fan-argb-with-psu-750w-bronze-case",
+      "name": "Antec AX1000 Lite 4 Fan ARGB with PSU antec 750W 80plus Bronze Case",
+      "price": 5000,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-600x600.png.webp",
+      "brand": "ANTEC",
+      "wattage": 750
+    },
+    {
+      "slug": "antec-ax1000-lite-4-fan-argb-with-psu-750w-gold-case",
+      "name": "Antec AX1000 Lite 4 Fan ARGB with PSU antec 750W 80plus Gold Case",
+      "price": 6200,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-600x600.png.webp",
+      "brand": "ANTEC",
+      "wattage": 750
+    },
+    {
+      "slug": "antec-gsk850-850w-80plus-gold-black-full-modular-power-supply",
+      "name": "Antec GSK850 850w 80plus Gold Black Full Modular Power Supply",
+      "price": 5500,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504222558-600x600.png.webp",
+      "brand": "ANTEC",
+      "wattage": 850
+    },
+    {
+      "slug": "asus-prime-750w-80-plus-bronze-power-supply",
+      "name": "ASUS Prime 750W Power Supply 80 Plus Bronze Certified",
+      "price": 3499,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/asus-prime-750w-80-plus-bronze-power-supply-600x600.png.webp",
+      "brand": "ASUS",
+      "wattage": 750
+    },
+    {
+      "slug": "cougar-750w-atlas",
+      "name": "POWER SUPPLY COUGAR Atlas 750W +80 BRONZE",
+      "price": 3300,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402144336-600x600.png.webp",
+      "brand": "Cougar",
+      "wattage": 750
+    },
+    {
+      "slug": "hyperx-cloud-iii-wired-gaming-headset-53mm-drivers-dts-spatial-audio-black-red",
+      "name": "HyperX Cloud III Wired Gaming Headset 53mm Angled Drivers Black Red",
+      "price": 4749,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/hyperx-cloud-iii-wired-headset-front-600x600.png.webp",
+      "brand": "HyperX",
+      "wattage": 650
+    },
+    {
+      "slug": "maono-au-a04-usb-condenser-microphone-studio-kit-with-boom-arm-stand",
+      "name": "Maono AU-A04 USB Condenser Microphone Studio Kit with Adjustable Boom Arm Stand (192kHz/24bit)",
+      "price": 2399,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/maono-au-a04-usb-condenser-microphone-studio-kit-600x600.png.webp",
+      "brand": "Maono",
+      "wattage": 650
+    },
+    {
+      "slug": "msi-mag-a1000gls-pcie5-1000w-80-plus-gold-fully-modular-power-supply",
+      "name": "MSI MAG A1000GLS PCIE5 1000W 80 Plus Gold Fully Modular ATX 3.1 PCIe 5.1 Power Supply",
+      "price": 7499,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/msi-mag-a1000gls-pcie5-1000w-80-plus-gold-fully-600x600.png.webp",
+      "brand": "MSI",
+      "wattage": 1000
+    },
+    {
+      "slug": "msi-mag-a850gl-850w",
+      "name": "MSI MAG A85PGL 850w 80 plus Gold Power Supply",
+      "price": 5900,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260519202331-600x600.png.webp",
+      "brand": "MSI",
+      "wattage": 850
+    },
+    {
+      "slug": "ocypus-gamma-c50-white-with-650w-80plus",
+      "name": "Ocypus Gamma C50 White 4 Fan with 650w 80plus white power supply",
+      "price": 3500,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155052-600x600.png.webp",
+      "brand": "Ocypus",
+      "wattage": 650
+    },
+    {
+      "slug": "thermaltake-smart-500w-80plus",
+      "name": "Thermaltake smart 500w  80plus white tray Power Supply",
+      "price": 1400,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012%20(5)_260526175703-600x600.png.webp",
+      "brand": "Thermaltake",
+      "wattage": 500
+    },
+    {
+      "slug": "thermaltake-smart-600w",
+      "name": "Thermaltake smart 600w 80plus white tray Power Supply",
+      "price": 1800,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012%20(5)_260526180700-600x600.png.webp",
+      "brand": "Thermaltake",
+      "wattage": 600
+    },
+    {
+      "slug": "xpg-kyber-850w-80-plus-gold",
+      "name": "XPG KYBER 850w 80 PLUS GOLD",
+      "price": 4900,
+      "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143617-600x600.png.webp",
+      "brand": "ADATA",
+      "wattage": 850
+    }
+  ],
+  "case": [
+    {
+      "slug": "antec-c5-argb-7-fan-mid-tower-white-case",
+      "name": "Antec C5 ARGB 7 Fan Mid Tower White Case",
+      "price": 6000,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503222326-600x600.png.webp",
+      "brand": "ANTEC",
+      "form": "ATX"
+    },
+    {
+      "slug": "antec-c8-argb-full-tower-black-case",
+      "name": "Antec C8 ARGB Full Tower Black Case",
+      "price": 7200,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220908-600x600.png.webp",
+      "brand": "ANTEC",
+      "form": "ATX"
+    },
+    {
+      "slug": "antec-flux-pro-6-fan-full-tower-case",
+      "name": "Antec Flux Pro 6 Fan Full Tower Case",
+      "price": 9900,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215626-600x600.png.webp",
+      "brand": "ANTEC",
+      "form": "ATX"
+    },
+    {
+      "slug": "apnx-v2-4-fans-argb-mid-tower-panoramic-case",
+      "name": "APNX V2 4 Fans ARGB Case",
+      "price": 6999,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233912-600x600.png.webp",
+      "brand": "APNX",
+      "form": "ATX"
+    },
+    {
+      "slug": "attack-shark-x1-tri-mode-wireless-white-gaming-mouse-paw3395pro-grip-tape",
+      "name": "Attack Shark X1 Tri-Mode Wireless Gaming Mouse PAW3395PRO White",
+      "price": 2699,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/attack-shark-x1-white-mouse-top-view-600x600.png.webp",
+      "brand": "Attack Shark",
+      "form": "ATX"
+    },
+    {
+      "slug": "aula-f2088-pro-wired-mechanical-gaming-keyboard-knob-wrist-rest",
+      "name": "AULA F2088 Pro Wired Mechanical Keyboard with Knob &amp; Rest",
+      "price": 1499,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/aula-f2088-pro-knob-wrist-rest-kb-600x600.png.webp",
+      "brand": "Aula",
+      "form": "ATX"
+    },
+    {
+      "slug": "aula-sc580-wireless-gaming-mouse-12000-dpi-6-programmable-buttons",
+      "name": "AULA SC580 Wireless Gaming Mouse 12000 DPI - 6 Buttons",
+      "price": 1099,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-wireless-mouse-600x600.png.webp",
+      "brand": "Aula",
+      "form": "ATX"
+    },
+    {
+      "slug": "gigabyte-c301-glass-white-v2-gaming-pc-case",
+      "name": "Gigabyte C301 GLASS WHITE V2 Gaming PC Mid Tower Case",
+      "price": 4000,
+      "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0011(1)_260502181552-600x600.png.webp",
+      "brand": "GIGABYTE",
+      "form": "ATX"
+    },
+    {
+      "slug": "imou-ranger-2-wi-fi-6-smart-security-camera-indoor-3mp-ipc-k2e2p-3h3w",
+      "name": "Imou Ranger 2 Wi-Fi 6 Smart Security Camera Indoor 3MP IPC-K2E2P-3H3W",
+      "price": 1199,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/imou-ranger-2-wifi-6-3mp-camera-front-600x600.png.webp",
+      "brand": "Imou",
+      "form": "ATX"
+    }
+  ],
+  "cooler": [
+    {
+      "slug": "arctic-mx-4-4g-thermal-paste",
+      "name": "Arctic MX-4 4g THERMAL PASTE original",
+      "price": 450,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412205808-600x600.png.webp",
+      "brand": "Arctic"
+    },
+    {
+      "slug": "arctic-mx-6-4g-thermal-paste",
+      "name": "Arctic MX-6 4g THERMAL PASTE original",
+      "price": 599,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412211448-600x600.png.webp",
+      "brand": "Arctic"
+    },
+    {
+      "slug": "cooler-master-masterliquid-core-nex-360-digital-aio",
+      "name": "Cooler Master MasterLiquid Core NEX 360 Digital AIO",
+      "price": 4899,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-aio-cooler-600x600.png.webp",
+      "brand": "Cooler Master"
+    },
+    {
+      "slug": "cooler-mastergel-pro-v2-thermal-paste",
+      "name": "Cooler Mastergel Pro V2 Thermal Paste",
+      "price": 350,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260511155618-600x600.png.webp",
+      "brand": "Cooler Master"
+    },
+    {
+      "slug": "coolermaster-mastergel-regular",
+      "name": "Cooler Master MasterGel Regular High Performance Thermal Paste",
+      "price": 349,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/tp01-600x600.png.webp",
+      "brand": "Turbo"
+    },
+    {
+      "slug": "deepcool-gear-thermal-paste-ex750-3g",
+      "name": "Deepcool Gear Thermal Paste EX750 3g",
+      "price": 500,
+      "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502153401-600x600.png.webp",
+      "brand": "DEEPCOOL"
+    },
+    {
+      "slug": "thermaltake",
+      "name": "thermaltake",
+      "price": 0,
+      "image": "",
+      "brand": "Turbo"
+    },
+    {
+      "slug": "xprinter-xp-233b-thermal-barcode-printer",
+      "name": "Xprinter XP-233B Thermal Barcode &amp; Label Printer",
+      "price": 2800,
+      "image": "https://turbo-computer.com/image/cache/catalog/printer/xprinter-xp-233b-thermal-barcode-printer-600x600.png.webp",
+      "brand": "XPRINTER"
+    },
+    {
+      "slug": "xprinter-xp-370b-thermal-barcode-printer",
+      "name": "Xprinter XP-370B Thermal Barcode &amp; Receipt Printer",
+      "price": 3300,
+      "image": "https://turbo-computer.com/image/cache/catalog/printer/xprinter-xp-370b-thermal-barcode-printer-600x600.png.webp",
+      "brand": "XPRINTER"
+    }
+  ]
+}

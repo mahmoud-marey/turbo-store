@@ -1,0 +1,137 @@
+{
+  "id": 1159,
+  "slug": "st-standard-ice-08-rgb-gaming-laptop-cooling-pad-6-fans-lcd",
+  "name": "ST-Standard ICE-08 RGB Gaming Laptop Cooling Pad",
+  "model": "ST-Standard ICE-08 RGB Gaming Laptop Cooling Pad",
+  "brand": "Standard",
+  "brandSlug": "index.php",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1249,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 9,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-rgb-pad-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-rgb-pad-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-rgb-pad-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-rgb-pad-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-height-angles-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-height-angles-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-height-angles-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-6-fan-airflow-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-6-fan-airflow-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice08-6-fan-airflow-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ST-Standard",
+    "ICE-08",
+    "RGB Cooling Pad",
+    "Laptop Cooler",
+    "6 Fans",
+    "LCD Display",
+    "RGB Lighting",
+    "Adjustable Angles",
+    "Dual USB Ports",
+    "Gaming Accessories",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ST-Standard ICE-08 RGB High-Performance Gaming Laptop Cooling Pad (6-Fan Powerful Thermal System / Dynamic RGB Lighting / Digital LCD Control Panel / Multi-Position Adjustable Height Stand / Dual USB Ports / 1-Year Local",
+  "descriptionHtml": "<p><span>ST-Standard ICE-08 RGB High-Performance Gaming Laptop Cooling Pad (6-Fan Powerful Thermal System / Dynamic RGB Lighting / Digital LCD Control Panel / Multi-Position Adjustable Height Stand / Dual USB Ports / 1-Year Local Warranty)</span></p><p>Maximize your gaming laptop operational potential and drive down thermal bottlenecks with the ST-Standard ICE-08 RGB High-Performance Gaming Laptop Cooling Pad, available now at Turbo Computer Egypt backed by a comprehensive 1-Year official local agent warranty layout. Engineered with a robust metal mesh ventilation surface combined with a high-durability ABS chassis framework, this advanced cooling solution supports laptops up to 17 Inch screen sizes seamlessly. Driven by an intense 6-fan high-speed cooling matrix, it distributes targeted airflow directly across CPU and GPU heat points to preserve stable clock speeds under heavy rendering or gaming workloads. The pad highlights customizable dynamic RGB side lighting strip modes to match your gaming rig setup aesthetics flawlessly. Integrated with an intuitive digital LCD interface for real-time fan speed adjustments, ergonomic multi-angle height elevation support, and dual USB pass-through ports, this whisper-quiet thermal pad provides premium mobile system optimization.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Maker</td><td>ST-Standard Hardware</td></tr><tr><td>Model Specification</td><td>ICE-08 RGB Gaming Cooling Pad Framework</td></tr><tr><td>Laptop Compatibility</td><td>Designed for Laptops Up To 17 Inch Screen Size</td></tr><tr><td>Cooling Fan Setup</td><td>6 Integrated High-Speed Cooling Fans Matrix</td></tr><tr><td>Lighting Effects</td><td>Dynamic Multi-Mode RGB Edge Illumination System</td></tr><tr><td>Control Interface</td><td>Digital LCD Panel with Multi-Speed Manual Adjustment Controls</td></tr><tr><td>Ergonomic Height Setup</td><td>6 Position Adjustable Height Stand Structure</td></tr><tr><td>Pass-Through Interface</td><td>2x USB Pass-Through Ports (DC 5V Input)</td></tr><tr><td>Surface Construction</td><td>Heavy Duty Metal Iron Mesh + Anti-Slip Baffle Stopper</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Maker",
+      "value": "ST-Standard Hardware"
+    },
+    {
+      "group": "specs",
+      "label": "Model Specification",
+      "value": "ICE-08 RGB Gaming Cooling Pad Framework"
+    },
+    {
+      "group": "specs",
+      "label": "Laptop Compatibility",
+      "value": "Designed for Laptops Up To 17 Inch Screen Size"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Fan Setup",
+      "value": "6 Integrated High-Speed Cooling Fans Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting Effects",
+      "value": "Dynamic Multi-Mode RGB Edge Illumination System"
+    },
+    {
+      "group": "specs",
+      "label": "Control Interface",
+      "value": "Digital LCD Panel with Multi-Speed Manual Adjustment Controls"
+    },
+    {
+      "group": "specs",
+      "label": "Ergonomic Height Setup",
+      "value": "6 Position Adjustable Height Stand Structure"
+    },
+    {
+      "group": "specs",
+      "label": "Pass-Through Interface",
+      "value": "2x USB Pass-Through Ports (DC 5V Input)"
+    },
+    {
+      "group": "specs",
+      "label": "Surface Construction",
+      "value": "Heavy Duty Metal Iron Mesh + Anti-Slip Baffle Stopper"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    }
+  ]
+}

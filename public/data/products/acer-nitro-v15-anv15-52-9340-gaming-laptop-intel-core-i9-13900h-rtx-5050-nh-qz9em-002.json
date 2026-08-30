@@ -1,0 +1,136 @@
+{
+  "id": 1260,
+  "slug": "acer-nitro-v15-anv15-52-9340-gaming-laptop-intel-core-i9-13900h-rtx-5050-nh-qz9em-002",
+  "name": "Acer Nitro V 15 ANV15-52-9340 Gaming Laptop - NH.QZ9EM.002 - Obsidian Black (Intel Core i9-13900H, 16GB RAM DDR4, 512GB SSD, RTX 5050 8G, 15.6 inch FHD IPS 165Hz, Windows 11)",
+  "model": "NH.QZ9EM.002",
+  "brand": "ACER",
+  "brandSlug": "acer",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 61499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Acer Nitro V 15",
+    "Acer ANV15-52-9340",
+    "Intel Core i9 13900H",
+    "RTX 5050 8GB",
+    "Gaming Laptop",
+    "16GB DDR4",
+    "512GB SSD NVMe",
+    "15.6 inch FHD 165Hz",
+    "NH.QZ9EM.002",
+    "Obsidian Black",
+    "Acer Laptop"
+  ],
+  "shortDescription": "Experience relentless gaming speed and power with the Acer Nitro V 15 ANV15-52-9340! Armed with the flagship 13th Gen Intel Core i9 processor, next-generation NVIDIA GeForce RTX 5050 8GB graphics, and a fast 165Hz Full H",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel Core i9-13900H (14 Cores: 6P + 8E / 20 Threads, P-core 2.6 / 5.4GHz, E-core 1.9 / 4.1GHz, 24MB Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA GeForce RTX 5050 8GB GDDR6"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "16GB DDR4"
+    },
+    {
+      "group": "specs",
+      "label": "Storage",
+      "value": "512GB SSD M.2 PCIe NVMe"
+    },
+    {
+      "group": "specs",
+      "label": "Display",
+      "value": "15.6 inch FHD (1920x1080) IPS Anti-glare (165Hz Refresh Rate)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & Camera",
+      "value": "DTS:X Ultra Audio Stereo Speakers + HD Camera with Temporal Noise Reduction"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity",
+      "value": "Wi-Fi 6 + Bluetooth + Ethernet LAN"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Model",
+      "value": "Obsidian Black | Part Number: NH.QZ9EM.002"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

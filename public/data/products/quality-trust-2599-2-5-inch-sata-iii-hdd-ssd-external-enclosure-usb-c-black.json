@@ -1,0 +1,123 @@
+{
+  "id": 1248,
+  "slug": "quality-trust-2599-2-5-inch-sata-iii-hdd-ssd-external-enclosure-usb-c-black",
+  "name": "Quality Trust 2599 2.5 Inch SATA III HDD SSD External Enclosure USB-C Black",
+  "model": "2599 type c",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/quality-trust-2599-usb-c-enclosure-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/quality-trust-2599-usb-c-enclosure-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/quality-trust-2599-usb-c-enclosure-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/quality-trust-2599-usb-c-enclosure-top-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Quality Trust",
+    "2599",
+    "External Enclosure",
+    "2.5 Inch Enclosure",
+    "SATA III",
+    "HDD Enclosure",
+    "SSD Enclosure",
+    "USB-C",
+    "Type-C",
+    "Tool-Free",
+    "10Gbps Speed",
+    "Black Edition",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Quality Trust 2599 2.5 Inch SATA III HDD/SSD External Enclosure USB-C Black Edition (USB Type-C Interface / Up to 10Gbps High-Speed Transfer with UASP Protocol / Tool-Free Installation / Automatic Energy-Saving Dormancy ",
+  "descriptionHtml": "<p><span>Quality Trust 2599 2.5 Inch SATA III HDD/SSD External Enclosure USB-C Black Edition (USB Type-C Interface / Up to 10Gbps High-Speed Transfer with UASP Protocol / Tool-Free Installation / Automatic Energy-Saving Dormancy / Durable ABS Plastic &amp; Polycarbonate Casing / Portable Lightweight Design)</span></p><p>Turn your internal 2.5-inch hard drive or solid-state drive into a fast portable external storage device with the Quality Trust 2599 2.5 Inch SATA III HDD/SSD External Enclosure USB-C in Black, available at Turbo Computer Egypt. Crafted from durable ABS plastic and polycarbonate with a glossy finish, this screwless tool-free enclosure features high-speed USB Type-C connectivity supporting up to 10Gbps transfer rates via UASP protocol, making drive installation and data management fast, efficient, and effortless.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>Quality Trust 2599</td></tr><tr><td>Drive Compatibility</td><td>Standard 2.5-Inch SATA I / II / III HDDs and SSDs</td></tr><tr><td>Color Edition</td><td>Black Edition</td></tr><tr><td>Output Interface</td><td>USB Type-C (Up to 10Gbps Data Transfer Speed with UASP Acceleration)</td></tr><tr><td>Installation Setup</td><td>Tool-Free / Screwless Slide Cover Design (Plug &amp; Play)</td></tr><tr><td>Power Management</td><td>Automatic Dormancy Mode for Energy Saving &amp; Extended Drive Lifespan</td></tr><tr><td>Material Construction</td><td>ABS Plastic &amp; Polycarbonate (PC) High-Impact Casing</td></tr><tr><td>Dimensions &amp; Weight</td><td>12.5 x 7.0 x 1.3 cm / Ultra Light 85 Grams Weight</td></tr><tr><td>Hardware Compatibility</td><td>PC, Mac, Linux Operating Systems</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "Quality Trust 2599"
+    },
+    {
+      "group": "specs",
+      "label": "Drive Compatibility",
+      "value": "Standard 2.5-Inch SATA I / II / III HDDs and SSDs"
+    },
+    {
+      "group": "specs",
+      "label": "Color Edition",
+      "value": "Black Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Output Interface",
+      "value": "USB Type-C (Up to 10Gbps Data Transfer Speed with UASP Acceleration)"
+    },
+    {
+      "group": "specs",
+      "label": "Installation Setup",
+      "value": "Tool-Free / Screwless Slide Cover Design (Plug & Play)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Management",
+      "value": "Automatic Dormancy Mode for Energy Saving & Extended Drive Lifespan"
+    },
+    {
+      "group": "specs",
+      "label": "Material Construction",
+      "value": "ABS Plastic & Polycarbonate (PC) High-Impact Casing"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions & Weight",
+      "value": "12.5 x 7.0 x 1.3 cm / Ultra Light 85 Grams Weight"
+    },
+    {
+      "group": "specs",
+      "label": "Hardware Compatibility",
+      "value": "PC, Mac, Linux Operating Systems"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-17",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": 890,
+  "slug": "patriot-viper-gaming-ddr5-32gb-2x16gb-kit-6000mhz-cl30-rgb",
+  "name": "Patriot Viper DDR5 32GB 2x16GB KIT 6000mhz CL30 RGB",
+  "model": "Viper Gaming",
+  "brand": "Patriot",
+  "brandSlug": "patriot",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 24999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 8,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523135803-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523135803-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523135803-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523135803-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "patriot",
+    "viper",
+    "gaming",
+    "ddr5",
+    "32gb",
+    "2x16gb",
+    "kit",
+    "6000mhz",
+    "cl30",
+    "rgb"
+  ],
+  "shortDescription": "Patriot Viper Venom RGB DDR5 32GB 6000MHz cl30\r\n\r\n???? Patriot Viper Venom RGB DDR5 32GB kit 6000MHz CL30\r\nModel: PVVR516G60C30\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nCapacity\r\n32GB (2× 16GB)\r\n\r\n\r\nSpeed\r\n6000 MT/s (PC5-48000)\r\n\r\n\r",
+  "descriptionHtml": "<p><strong>Patriot Viper Venom RGB DDR5 32GB 6000MHz cl30</strong></p><h3>???? Patriot Viper Venom RGB DDR5 32GB kit 6000MHz CL30</h3><p><strong>Model:</strong> PVVR516G60C30</p><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Capacity</td><td>32GB (2× 16GB)</td></tr><tr><td>Speed</td><td>6000 MT/s (PC5-48000)</td></tr><tr><td>Timings</td><td>30-40-40-76 2T</td></tr><tr><td>Voltage</td><td>1.35V</td></tr><tr><td>JEDEC Default</td><td>4800 MHz @ 1.1V</td></tr><tr><td>Form Factor</td><td>288-pin UDIMM</td></tr><tr><td>XMP 3.0</td><td>✅</td></tr><tr><td>AMD EXPO</td><td>✅</td></tr><tr><td>On-Die ECC</td><td>✅</td></tr><tr><td>IC</td><td>Hynix</td></tr><tr><td>RGB</td><td>✅ RGB Lightbar</td></tr><tr><td>RGB App</td><td>Viper Sync RGB</td></tr><tr><td>Heat Spreader</td><td>Black &amp; silver aluminum</td></tr><tr><td>Height</td><td>43mm</td></tr><tr><td>Warranty</td><td>1 year</td></tr></tbody></table><h4><span>&nbsp;</span>Core Specs (All Variants)</h4><h4>om RGB vs Elit</h4><h3><div><div><div><div><div><div><div><div><div><div><div><div><div><table><thead></thead><tbody></tbody></table></div><div><table><thead></thead><tbody></tbody></table></div></div></div></div></div></div></div></div></div></div></div></div></div></h3><h3><div><div><div><div><div><div><div><div><div><div><table><thead></thead><tbody></tbody></table></div></div></div></div></div></div></div></div></div></div></h3><h3><div><div><div><div",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "32GB (2× 16GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "6000 MT/s (PC5-48000)"
+    },
+    {
+      "group": "specs",
+      "label": "Timings",
+      "value": "30-40-40-76 2T"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.35V"
+    },
+    {
+      "group": "specs",
+      "label": "JEDEC Default",
+      "value": "4800 MHz @ 1.1V"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "288-pin UDIMM"
+    },
+    {
+      "group": "specs",
+      "label": "XMP 3.0",
+      "value": "✅"
+    },
+    {
+      "group": "specs",
+      "label": "AMD EXPO",
+      "value": "✅"
+    },
+    {
+      "group": "specs",
+      "label": "On-Die ECC",
+      "value": "✅"
+    },
+    {
+      "group": "specs",
+      "label": "IC",
+      "value": "Hynix"
+    },
+    {
+      "group": "specs",
+      "label": "RGB",
+      "value": "✅ RGB Lightbar"
+    },
+    {
+      "group": "specs",
+      "label": "RGB App",
+      "value": "Viper Sync RGB"
+    },
+    {
+      "group": "specs",
+      "label": "Heat Spreader",
+      "value": "Black & silver aluminum"
+    },
+    {
+      "group": "specs",
+      "label": "Height",
+      "value": "43mm"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty",
+      "value": "1 year"
+    }
+  ],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    }
+  ]
+}

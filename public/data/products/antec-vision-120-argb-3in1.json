@@ -1,0 +1,72 @@
+{
+  "id": 848,
+  "slug": "antec-vision-120-argb-3in1",
+  "name": "Antec VISION 120 ARGB 3in1",
+  "model": "VISION 120",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 1350,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224320-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224320-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224320-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224320-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Antec",
+    "VISION",
+    "120",
+    "ARGB",
+    "3in1",
+    "Reverse Blade",
+    "PWM",
+    "Case Fan"
+  ],
+  "shortDescription": "Technical SpecificationsThe Antec VISION 120 ARGB 3in1 is the standard (Forward Blade) version of the Vision fan series. Unlike the \"120R\" (Reverse), these are traditional fans where air flows toward the frame/bracket si",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_4a90dfb7ac5071fd\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><br></h3><h3><b>Technical Specifications</b></h3><p>The <b>Antec VISION 120 ARGB 3in1</b> is the standard (Forward Blade) version of the Vision fan series. Unlike the \"120R\" (Reverse), these are traditional fans where air flows toward the frame/bracket side. They are ideal for <b>top or rear exhaust</b> or front intake in standard cases.</p><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Model</b></span></td><td><span>VISION 120 ARGB (3-in-1 Pack)</span></td></tr><tr><td><span><b>Fan Type</b></span></td><td><span>PWM Standard (Forward) Blade Fan</span></td></tr><tr><td><span><b>Dimensions</b></span></td><td><span>120 x 120 x 25 mm</span></td></tr><tr><td><span><b>Bearing Type</b></span></td><td><span>Hydraulic Bearing</span></td></tr><tr><td><span><b>Fan Speed</b></span></td><td><span>600 – 1500 RPM ± 10%</span></td></tr><tr><td><span><b>Airflow</b></span></td><td><span>Up to 62.5 CFM</span></td></tr><tr><td><span><b>Static Pressure</b></span></td><td><span>Up to 1.83 mmH2O</span></td></tr><tr><td><span><b",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-24",
+      "demo": true
+    }
+  ]
+}

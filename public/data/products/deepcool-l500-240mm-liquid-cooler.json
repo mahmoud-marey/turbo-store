@@ -1,0 +1,70 @@
+{
+  "id": 816,
+  "slug": "deepcool-l500-240mm-liquid-cooler",
+  "name": "Deepcool L500 240mm liquid Cooler",
+  "model": "L500",
+  "brand": "DEEPCOOL",
+  "brandSlug": "deepcool",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 3400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502152616-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502152616-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502152616-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502152616-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Deepcool",
+    "L500",
+    "240mm",
+    "liquid",
+    "Cooler"
+  ],
+  "shortDescription": "DeepCool LE500 (L500 Series) 240mm Liquid Cooler​The DeepCool LE500 (often referred to as the L500 series in certain regions) is an all-in-one (AIO) liquid cooler focused on reliable performance and a clean aesthetic. It",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>DeepCool LE500 (L500 Series) 240mm Liquid Cooler</b></h3><p dir=\"ltr\">​The <b>DeepCool LE500</b> (often referred to as the L500 series in certain regions) is an all-in-one (AIO) liquid cooler focused on reliable performance and a clean aesthetic. It is widely known for featuring DeepCool’s patented \"Anti-Leak\" technology.</p><h3 dir=\"ltr\">​<b>General Specifications</b></h3><ul><li dir=\"ltr\">​<b>Cooler Type:</b> All-In-One (AIO) Liquid Cooler</li><li dir=\"ltr\">​<b>Radiator Size:</b> 240 mm</li><li dir=\"ltr\">​<b>TDP Support:</b> Up to <b>220W</b></li><li dir=\"ltr\"> ​<b>Socket Compatibility:</b><ul><li dir=\"ltr\">​<b>Intel:</b> LGA 1851 / 1700 / 1200 / 115x</li><li dir=\"ltr\">​<b>AMD:</b> AM5 / AM4</li></ul></li></ul><h3 dir=\"ltr\">​<b>Pump &amp; Block Details</b></h3><ul><li dir=\"ltr\">​<b>Pump Speed:</b> 2400 RPM (±10%)</li><li dir=\"ltr\">​<b>Pump Noise:</b> 17.8 dB(A)</li><li dir=\"ltr\">​<b>Pump Connector:</b> 3-Pin</li><li dir=\"ltr\">​<b>Cold Plate Material:</b> Copper</li><li dir=\"ltr\">​<b>Special Feature:</b> <b>Anti-Leak Technology</b> (Internal pressure regulation system to prevent coolant leaks caused by heat expansion).</li><li dir=\"ltr\">​<b>Visuals:</b> Static LED lighting (typically 6-color spectrum or solid green/white depending on the specific L500 variant).</li></ul><h3 dir=\"ltr\">​<b>Radiator &amp; Fans</b></h3><ul><li dir=\"ltr\">​<b>Radiator Material:</b> Aluminum</li><li dir=\"ltr\">​<b>Radiator Dimensions:</b> 282 x 120 x 27 mm</li><li dir=\"ltr\">​<b>Fan Model:</b> 2x 120mm PWM Fans</li><li dir=\"ltr\">​<b>Fan Speed:</b> 500 ~ 2250 RPM (±10%)</li><li dir=\"ltr\">​<b>Airflow:</b> Max <b>85.85 CFM</b></li><li dir=\"ltr\">​<b>Static Pressure:</b> Max <b>3.27 mmAq</b></li><li dir=\"ltr\">​<b>Noise Level:</b> ≤ 32.9 dB(A)</li><li dir=\"ltr\">​<b>Bearing Type:</b> Hydro Bearing</li></ul><h3 dir=\"ltr\">​<b>Physical Dimensions</b></h3><ul><li dir=\"ltr\">​<b>Tube Length:</b> 410 mm (Flexible reinforced rubber tubing)</li><li dir=\"ltr\">​<b>Pump Dimensions:</b> 91 x 80 x 52 mm</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>High Performance Fans:</b> The fans included with the LE500 offer higher-than-average static pressure, making them excellent for pushing air through the radiator fins.</li><li dir=\"ltr\">​<b>Low Profile Pump:</b> Designed with a lower height to ensure compatibility with various motherboard layouts and small cases.</li><li dir=\"ltr\">​<b>Reliability:</b> The Anti-Leak system significantly increases the long-term safety of the unit compared to budget AIOs without pressure relief valves.</li><li dir=\"ltr\">​<b>Simplified Aesthetics:</b> Clean, minimalist look with a focus on consistent lighting rather than complex ARGB patterns.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    }
+  ]
+}

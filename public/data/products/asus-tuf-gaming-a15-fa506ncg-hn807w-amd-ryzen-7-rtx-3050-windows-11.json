@@ -1,0 +1,144 @@
+{
+  "id": 1147,
+  "slug": "asus-tuf-gaming-a15-fa506ncg-hn807w-amd-ryzen-7-rtx-3050-windows-11",
+  "name": "ASUS TUF Gaming A15 FA506NCG-HN807W Laptop (AMD Ryzen 7 7445HS / RTX 3050 4GB / 8GB DDR5 / 512GB SSD / 15.6 Inch FHD 144Hz / Win 11)",
+  "model": "A15 FA506NCG-HN807W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 42499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a15-ryzen-5-7445hs-rtx-3050-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a15-ryzen-5-7445hs-rtx-3050-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a15-ryzen-5-7445hs-rtx-3050-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a15-ryzen-5-7445hs-rtx-3050-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a15-ryzen-5-7445hs-rtx-3050-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a15-ryzen-5-7445hs-rtx-3050-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a15-ryzen-5-7445hs-rtx-3050-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "TUF Gaming",
+    "A15",
+    "FA506NCG",
+    "Gaming Laptop",
+    "AMD Ryzen 7",
+    "7445HS",
+    "RTX 3050",
+    "4GB VRAM",
+    "144Hz",
+    "Windows 11",
+    "Military-Grade",
+    "Dual Fans",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS TUF Gaming A15 FA506NCG-HN807W Gaming Laptop (AMD Ryzen 7 7445HS / NVIDIA GeForce RTX 3050 4GB / 144Hz FHD Display / Windows 11 Home Edition)Geared for serious gaming and real-world durability, the ASUS TUF Gaming A",
+  "descriptionHtml": "<p><span>ASUS TUF Gaming A15 FA506NCG-HN807W Gaming Laptop (AMD Ryzen 7 7445HS / NVIDIA GeForce RTX 3050 4GB / 144Hz FHD Display / Windows 11 Home Edition)</span></p><p>Geared for serious gaming and real-world durability, the ASUS TUF Gaming A15 FA506NCG-HN807W is a fully-loaded gaming laptop engineered to lead you to victory, now available at Turbo Computer Egypt. Powered by the efficient AMD Ryzen 7 7445HS processor core, this machine handles intensive streaming and heavy multitasking layouts with seamless fluid stability. Graphics run smooth with the dedicated NVIDIA GeForce RTX 3050 4GB GDDR6 laptop GPU matrix, delivering high frame rates for modern popular competitive titles. The fast 144Hz Full HD IPS-level nano-edge display panel keeps gameplay fluid while reducing motion blur tracking. Adhering to strict MIL-STD-810H military-grade endurance criteria, its durable chassis is backed by a comprehensive anti-dust dual fan self-cleaning thermal cooling ecosystem layout. Complete with pre-installed genuine Windows 11 Home edition, a gaming-optimized RGB backlit keyboard architecture, and immersive DTS:X Ultra high-fidelity acoustics technology, this TUF laptop framework is built to endure high-performance operations.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Line</td><td>ASUS TUF Gaming Series</td></tr><tr><td>Model Number</td><td>A15 FA506NCG-HN807W Layout</td></tr><tr><td>Processor (CPU)</td><td>AMD Ryzen 7 7445HS (Up to 4.5 GHz Max Boost, 8 Cores / 16 Threads Matrix)</td></tr><tr><td>Graphics Card (GPU)</td><td>NVIDIA GeForce RTX 3050 Laptop GPU (4GB GDDR6 Dedicated VRAM)</td></tr><tr><td>Display Panel</td><td>15.6-inch Full HD (1920 x 1080) IPS-Level, Anti-Glare Display Matrix</td></tr><tr><td>Refresh Rate</td><td>144Hz Smooth Tracking Gaming Rate</td></tr><tr><td>Chassis Durability</td><td>MIL-STD-810H Military-Grade Toughness Certified Architecture</td></tr><tr><td>Thermal Solution</td><td>Dual Fan Cooling System with Self-Cleaning Anti-Dust Technology Layout</td></tr><tr><td>Keyboard Feature</td><td>Single-Zone Customizable RGB Backlit Chiclet Keyboard Layout</td></tr><tr><td>Audio Technology</td><td>DTS:X Ultra Sound Processing Layout with AI Noise-Canceling Core</td></tr><tr><td>Network Ecosystem</td><td>Wi-Fi 6 (802.11ax) Dual-Band Matrix + Bluetooth Wireless System</td></tr><tr><td>Operating System</td><td>Windows 11 Home Edition Genuine Framework</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Line",
+      "value": "ASUS TUF Gaming Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number",
+      "value": "A15 FA506NCG-HN807W Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "AMD Ryzen 7 7445HS (Up to 4.5 GHz Max Boost, 8 Cores / 16 Threads Matrix)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Card (GPU)",
+      "value": "NVIDIA GeForce RTX 3050 Laptop GPU (4GB GDDR6 Dedicated VRAM)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "15.6-inch Full HD (1920 x 1080) IPS-Level, Anti-Glare Display Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Refresh Rate",
+      "value": "144Hz Smooth Tracking Gaming Rate"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Durability",
+      "value": "MIL-STD-810H Military-Grade Toughness Certified Architecture"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Solution",
+      "value": "Dual Fan Cooling System with Self-Cleaning Anti-Dust Technology Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard Feature",
+      "value": "Single-Zone Customizable RGB Backlit Chiclet Keyboard Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Technology",
+      "value": "DTS:X Ultra Sound Processing Layout with AI Noise-Canceling Core"
+    },
+    {
+      "group": "specs",
+      "label": "Network Ecosystem",
+      "value": "Wi-Fi 6 (802.11ax) Dual-Band Matrix + Bluetooth Wireless System"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home Edition Genuine Framework"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 30,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-17",
+      "demo": true
+    }
+  ]
+}

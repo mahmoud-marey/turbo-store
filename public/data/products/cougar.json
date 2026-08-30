@@ -1,0 +1,55 @@
+{
+  "id": 745,
+  "slug": "cougar",
+  "name": "cougar",
+  "model": "",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "",
+  "images": [],
+  "labels": [],
+  "tags": [],
+  "shortDescription": "",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 851,
+  "slug": "apnx-v1-white-case",
+  "name": "APNX V1 White Case",
+  "model": "APNX V1",
+  "brand": "APNX",
+  "brandSlug": "apnx",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 5899,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161240-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161240-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161240-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161240-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161151-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161151-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161151-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161134-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161134-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509161134-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "APNX",
+    "V1",
+    "White",
+    "Case"
+  ],
+  "shortDescription": "APNX V1 White Case SpecificationsGeneral SpecificationsModel: APNX V1 WhiteCase Type: Mid-TowerColor: WhiteBody Material: SPCC (Steel)Side Panel: Tempered GlassMotherboard Support: ATX, Micro-ATX, Mini-ITXCooling &amp; F",
+  "descriptionHtml": "<div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_b5f1b0edc928e261\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h2><img src=\"https://turbo-computer.com/image/catalog/case/IMG-20260201-WA0012_260509161321.png\"><br></h2><h2><br></h2><h2><br></h2><h2><br></h2><h2>APNX V1 White Case Specifications</h2><h3><b>General Specifications</b></h3><ul><li><p><b>Model:</b> APNX V1 White</p></li><li><p><b>Case Type:</b> Mid-Tower</p></li><li><p><b>Color:</b> White</p></li><li><p><b>Body Material:</b> SPCC (Steel)</p></li><li><p><b>Side Panel:</b> Tempered Glass</p></li><li><p><b>Motherboard Support:</b> ATX, Micro-ATX, Mini-ITX</p></li></ul><h3><b>Cooling &amp; Fan Support</b></h3><ul><li><p><b>Front Fan Support:</b> 3 x 120mm or 2 x 140mm</p></li><li><p><b>Top Fan Support:</b> 3 x 120mm or 2 x 140mm</p></li><li><p><b>Rear Fan Support:</b> 1 x 120mm</p></li><li><p><b>Radiator Support:</b></p><ul><li><p><b>Front:</b> Up to 360mm</p></li><li><p><b>Top:</b> Up to 360mm</p></li><li><p><b>Rear:</b> 120mm</p></li></ul></li></ul><h3><br></h3></div><div class=\"",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    }
+  ]
+}

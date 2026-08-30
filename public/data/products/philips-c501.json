@@ -1,0 +1,142 @@
+{
+  "id": 913,
+  "slug": "philips-c501",
+  "name": "Philips C501 Wireleas keyboard and mouse combo",
+  "model": "C501",
+  "brand": "Philips",
+  "brandSlug": "philips",
+  "categorySlugs": [
+    "keyboard-mouse-combos"
+  ],
+  "price": 750,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 7,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183225-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183225-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183225-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183225-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "philips",
+    "c501",
+    "wireless",
+    "keyboard",
+    "and",
+    "mouse",
+    "combo"
+  ],
+  "shortDescription": "```html\r\n\r\n\r\n\r\n    \r\n    \r\n    philips c501 wireless keyboard and mouse combo specs\r\n    \r\n        body {\r\n            font-family: sans-serif;\r\n            background-color: #f4f4f4;\r\n            padding: 20px;\r\n       ",
+  "descriptionHtml": "```htmlphilips c501 wireless keyboard and mouse combo specs<div><h2>philips c501 wireless keyboard and mouse combo</h2><table><tbody><tr><td>brand</td><td>philips</td></tr><tr><td>model</td><td>c501 (spt6501bsc/93)</td></tr><tr><td>product-type</td><td>wireless keyboard and mouse combo</td></tr><tr><td>connectivity</td><td>2.4ghz wireless</td></tr><tr><td>working-distance</td><td>up to 10 meters</td></tr><tr><td>receiver-type</td><td>usb nano receiver</td></tr><tr><td>keyboard-design</td><td>ergonomic slim design</td></tr><tr><td>keyboard-layout</td><td>full size (with numeric keypad)</td></tr><tr><td>keyboard-features</td><td>silent keys / chocolate keycaps</td></tr><tr><td>mouse-tracking-method</td><td>optical</td></tr><tr><td>mouse-resolution</td><td>1000 dpi</td></tr><tr><td>mouse-buttons</td><td>3 buttons</td></tr><tr><td>mouse-hand-orientation</td><td>ambidextrous</td></tr><tr><td>power-source</td><td>rechargeable (battery built-in)</td></tr><tr><td>color</td><td>black</td></tr></tbody></table></div>```<div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "model",
+      "value": "c501 (spt6501bsc/93)"
+    },
+    {
+      "group": "specs",
+      "label": "product-type",
+      "value": "wireless keyboard and mouse combo"
+    },
+    {
+      "group": "specs",
+      "label": "connectivity",
+      "value": "2.4ghz wireless"
+    },
+    {
+      "group": "specs",
+      "label": "working-distance",
+      "value": "up to 10 meters"
+    },
+    {
+      "group": "specs",
+      "label": "receiver-type",
+      "value": "usb nano receiver"
+    },
+    {
+      "group": "specs",
+      "label": "keyboard-design",
+      "value": "ergonomic slim design"
+    },
+    {
+      "group": "specs",
+      "label": "keyboard-layout",
+      "value": "full size (with numeric keypad)"
+    },
+    {
+      "group": "specs",
+      "label": "keyboard-features",
+      "value": "silent keys / chocolate keycaps"
+    },
+    {
+      "group": "specs",
+      "label": "mouse-tracking-method",
+      "value": "optical"
+    },
+    {
+      "group": "specs",
+      "label": "mouse-resolution",
+      "value": "1000 dpi"
+    },
+    {
+      "group": "specs",
+      "label": "mouse-buttons",
+      "value": "3 buttons"
+    },
+    {
+      "group": "specs",
+      "label": "mouse-hand-orientation",
+      "value": "ambidextrous"
+    },
+    {
+      "group": "specs",
+      "label": "power-source",
+      "value": "rechargeable (battery built-in)"
+    },
+    {
+      "group": "specs",
+      "label": "color",
+      "value": "black"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    }
+  ]
+}

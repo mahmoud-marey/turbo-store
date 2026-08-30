@@ -1,0 +1,107 @@
+{
+  "id": 900,
+  "slug": "crucial-ddr5-32gb-5600mhz-cl46-laptop-ram",
+  "name": "Crucial DDR5 32GB 5600MHz CL46 Laptop Ram",
+  "model": "Ddr5",
+  "brand": "CRUCIAL",
+  "brandSlug": "crucial",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 19400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523184824-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523184824-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523184824-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523184824-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "crucial",
+    "ddr5",
+    "32gb",
+    "5600mhz",
+    "cl46",
+    "laptop",
+    "ram"
+  ],
+  "shortDescription": "Crucial DDR5 SO-DIMM 32GB 5600MHz CL46 — Full Specifications\r\n\r\nPerformance\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nType\r\nDDR5 SO-DIMM (Laptop)\r\n\r\n\r\nCapacity\r\n32GB (1× 32GB)\r\n\r\n\r\nSpeed\r\n5600 MHz (PC5-44800)\r\n\r\n\r\nDownclocking\r\nAuto-",
+  "descriptionHtml": "<p><span>Crucial DDR5 SO-DIMM 32GB 5600MHz CL46 — Full Specifications</span></p><h4>Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR5 SO-DIMM (Laptop)</td></tr><tr><td>Capacity</td><td>32GB (1× 32GB)</td></tr><tr><td>Speed</td><td>5600 MHz (PC5-44800)</td></tr><tr><td>Downclocking</td><td>Auto-downclockable to 5200MHz or 4800MHz</td></tr><tr><td>CAS Latency</td><td>CL46</td></tr><tr><td>Voltage</td><td>1.1V</td></tr><tr><td>Rank &amp; Config</td><td>2Rx8</td></tr></tbody></table><h4>&nbsp;Technical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>262-pin SO-DIMM</td></tr><tr><td>ECC</td><td>Non-ECC</td></tr><tr><td>On-Die ECC</td><td>✅ Yes — engineered at component level for long-term stability</td></tr><tr><td>Buffered</td><td>❌ Unbuffered</td></tr><tr><td>PMIC</td><td>✅ Onboard PMIC for improved signaling and cleaner power delivery</td></tr><tr><td>Dual Channel (per module)</td><td>✅ Two independent 32-bit channels per module for optimized performance</td></tr><tr><td>XMP</td><td>✅ Intel XMP 3.0</td></tr><tr><td>AMD EXPO</td><td>✅ Yes — both XMP 3.0 and EXPO on same module</td></tr><tr><td>RGB</td><td>❌ None</td></tr><tr><td>Heat Spreader</td><td>❌ None (bare module)</td></tr><tr><td>IC Manufacturer</td><td>Micron (Crucial is Micron's consumer brand)</td></tr></tbody></table><h4>&nbsp;Physical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Dimensions</td><td>70 × 30 × 4 mm</td></tr><tr><td>Weight</td><td>~0.01 kg</td></tr></tbody></table><h4><br></h4><table><thead></thead><tbody></tbody></table><h4>????️ Platform Compatibility</h4><table><thead><tr><th>Platform</th><th>Compatible</th></tr></thead><tbody><tr><td>Intel 12th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 13th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 14th Gen Laptop</td><td>✅</td></tr><tr><td>AMD Ryzen 6000 Laptop</td><td>✅</td></tr><tr><td>AMD Ryzen 7000 Laptop</td><td>✅</td></tr><tr><td>AMD Ryzen 8000 Laptop</td><td>✅</td></tr><tr><td>DDR4 Laptops</td><td>❌</td></tr></tbody></table><h4>Warranty 1 year</h4><table><thead><tr><th><br></th><th><br></th></tr></thead><tbody><tr><td><br></td><td><br></td></tr></tbody></table><h3>&nbsp;Key Highlights</h3><ul><li>Can empower your computer to transfer 50% more data than DDR4 at launch, resulting in faster load times, file transfers, downloads, refresh rates and less lag time</li><li>DDR5 is not just faster than the previous generation due to higher bus efficiency — it's fundamentally better</li><li>Powers through heavy workloads and benefits from versatile downclocking for higher frame rates in gaming</li><li>On-module operating voltage of only 1.1V compared to DDR4's 1.2V for better energy efficiency</li><li>Simple plug-and-play at JEDEC default — XMP/EXPO profiles available for enthusiasts</li></ul><p><br></p><p><br></p><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "DDR5 SO-DIMM (Laptop)"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "32GB (1× 32GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "5600 MHz (PC5-44800)"
+    },
+    {
+      "group": "specs",
+      "label": "Downclocking",
+      "value": "Auto-downclockable to 5200MHz or 4800MHz"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL46"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.1V"
+    },
+    {
+      "group": "specs",
+      "label": "Rank & Config",
+      "value": "2Rx8"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    }
+  ]
+}

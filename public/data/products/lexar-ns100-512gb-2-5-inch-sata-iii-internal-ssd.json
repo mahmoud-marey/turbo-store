@@ -1,0 +1,143 @@
+{
+  "id": 1214,
+  "slug": "lexar-ns100-512gb-2-5-inch-sata-iii-internal-ssd",
+  "name": "Lexar NS100 512GB 2.5-Inch SATA III SSD",
+  "model": "NS100",
+  "brand": "LEXAR",
+  "brandSlug": "lexar",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 3499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-ns100-512gb-sata-iii-ssd-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-ns100-512gb-sata-iii-ssd-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-ns100-512gb-sata-iii-ssd-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-ns100-512gb-sata-iii-ssd-front-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lexar",
+    "NS100",
+    "512GB",
+    "SSD",
+    "2.5-Inch",
+    "SATA III",
+    "6Gb/s",
+    "Internal SSD",
+    "Solid State Drive",
+    "PC Upgrade",
+    "Laptop Upgrade",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Lexar NS100 512GB 2.5-Inch SATA III (6Gb/s) Internal Solid State Drive (Up to 550MB/s Sequential Read Speed / Shock and Vibration Resistant / 1-Year Store Warranty)Upgrade your existing desktop or laptop system with the ",
+  "descriptionHtml": "<p><span>Lexar NS100 512GB 2.5-Inch SATA III (6Gb/s) Internal Solid State Drive (Up to 550MB/s Sequential Read Speed / Shock and Vibration Resistant / 1-Year Store Warranty)</span></p><p>Upgrade your existing desktop or laptop system with the Lexar NS100 512GB 2.5-inch SATA III (6Gb/s) solid-state drive, available at Turbo Computer Egypt with a 1-Year store warranty. Designed to give your computer faster boot-ups, quicker application loading times, and improved overall system responsiveness, the NS100 SSD replaces traditional hard drives with reliable performance reaching sequential read speeds of up to 550MB/s. Built with durable solid-state design with no moving parts, it is cooler, quieter, and more resistant to shocks and vibrations than a standard hard drive.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Lexar</td></tr><tr><td>Product Line / Series</td><td>Lexar NS100 Series</td></tr><tr><td>Storage Capacity</td><td>512GB</td></tr><tr><td>Warranty Period</td><td>1-Year Warranty (ضمان لمدة سنة)</td></tr><tr><td>Form Factor</td><td>2.5-Inch Internal Solid State Drive (SSD)</td></tr><tr><td>Interface Standard</td><td>SATA III (6Gb/s) - Backwards compatible with SATA II (3Gb/s)</td></tr><tr><td>Max Sequential Read Speed</td><td>Up to 550 MB/s</td></tr><tr><td>Shock Resistance</td><td>1500G, duration 0.5ms, Half Sine Wave</td></tr><tr><td>Vibration Resistance</td><td>10 to 2000Hz, 1.5mm, 20G, 1 Oct/min, 30min/axis (X, Y, Z)</td></tr><tr><td>Operating Temperature</td><td>0°C to 70°C (32°F to 158°F)</td></tr><tr><td>Storage Temperature</td><td>-40°C to 85°C (-40°F to 185°F)</td></tr><tr><td>Physical Dimensions (L x W x H)</td><td>100.2 x 69.85 x 7 mm (34g / 0.075 lbs)</td></tr><tr><td>System Compatibility</td><td>Desktop PCs &amp; Laptops supporting standard 2.5-inch SATA drive bays</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Lexar"
+    },
+    {
+      "group": "specs",
+      "label": "Product Line / Series",
+      "value": "Lexar NS100 Series"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "512GB"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Warranty (ضمان لمدة سنة)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "2.5-Inch Internal Solid State Drive (SSD)"
+    },
+    {
+      "group": "specs",
+      "label": "Interface Standard",
+      "value": "SATA III (6Gb/s) - Backwards compatible with SATA II (3Gb/s)"
+    },
+    {
+      "group": "specs",
+      "label": "Max Sequential Read Speed",
+      "value": "Up to 550 MB/s"
+    },
+    {
+      "group": "specs",
+      "label": "Shock Resistance",
+      "value": "1500G, duration 0.5ms, Half Sine Wave"
+    },
+    {
+      "group": "specs",
+      "label": "Vibration Resistance",
+      "value": "10 to 2000Hz, 1.5mm, 20G, 1 Oct/min, 30min/axis (X, Y, Z)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating Temperature",
+      "value": "0°C to 70°C (32°F to 158°F)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Temperature",
+      "value": "-40°C to 85°C (-40°F to 185°F)"
+    },
+    {
+      "group": "specs",
+      "label": "Physical Dimensions (L x W x H)",
+      "value": "100.2 x 69.85 x 7 mm (34g / 0.075 lbs)"
+    },
+    {
+      "group": "specs",
+      "label": "System Compatibility",
+      "value": "Desktop PCs & Laptops supporting standard 2.5-inch SATA drive bays"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    }
+  ]
+}

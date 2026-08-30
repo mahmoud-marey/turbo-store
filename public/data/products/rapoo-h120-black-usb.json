@@ -1,0 +1,73 @@
+{
+  "id": 757,
+  "slug": "rapoo-h120-black-usb",
+  "name": "Rapoo H120 Black USB",
+  "model": "H120",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414211357-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414211357-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414211357-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414211357-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414211409-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414211409-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414211409-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "H150S",
+    "Black",
+    "USB"
+  ],
+  "shortDescription": "**Rapoo H120 Black USB Headset****Brand:** Rapoo**Model:** H120**Type:** Wired USB Headset**Color:** Black**Connection:** USB (wired)**Audio Specifications:**Driver Unit: 40mm dynamic driverFrequency Response: 20Hz - 20k",
+  "descriptionHtml": "<p></p><p><br></p><p>**Rapoo H120 Black USB Headset**</p><p><br></p><p>**Brand:** Rapoo</p><p>**Model:** H120</p><p>**Type:** Wired USB Headset</p><p>**Color:** Black</p><p>**Connection:** USB (wired)</p><p><br></p><p>**Audio Specifications:**</p><p>Driver Unit: 40mm dynamic driver</p><p>Frequency Response: 20Hz - 20kHz</p><p>Impedance: 32Ω ± 15%</p><p>Sensitivity: 115dB ± 3dB</p><p><br></p><p>**Microphone Specifications:**</p><p>Type: Omnidirectional microphone (built-in)</p><p>Microphone Sensitivity: -38dB ± 3dB</p><p>Frequency Response: 100Hz - 10kHz</p><p>Noise Cancellation: Yes (basic)</p><p><br></p><p>**Controls:**</p><p>In-line Remote Control: Yes</p><p>Volume Control: Rotary dial (on cable)</p><p>Microphone Mute: Yes (switch on cable)</p><p>LED Indicator: Yes (mute status)</p><p><br></p><p>**Cable:**</p><p>Cable Length: 1.8 - 2.0 meters (6 - 6.5 feet)</p><p>Cable Type: Braided or rubber (depending on version)</p><p>USB Connector: USB-A</p><p><br></p><p>**Compatibility:**</p><p>PC (Windows 7/8/10/11)</p><p>Mac (macOS)</p><p>Linux</p><p>Laptops with USB-A port</p><p>PS4 / PS5 (may work partially)</p><p>USB-A devices only (not USB-C without adapter)</p><p><br></p><p>**Physical Specifications:**</p><p>Headband Type: Adjustable (self-adjusting)</p><p>Ear Cushions: Soft foam / leatherette</p><p>Ear Cup Design: On-ear (not over-ear)</p><p>Weight: 120 - 150 grams (lightweight)</p><p>Foldable: Yes (for portability)</p><p><br></p><p>**Features:**</p><p>Plug and Play (no driver required)</p><p>USB powered (no batteries needed)</p><p>Noise-isolating ear cushions</p><p>In-line volume control</p><p>Microphone mute switch</p><p>LED mute indicator</p><p>Lightweight design</p><p><br></p><p>**Package Includes:**</p><p>Rapoo H120 USB Headset</p><p>User manual</p><p><br></p><p>**Warranty:** 1 year&nbsp;</p><p><br></p><p>**Pros:**</p><p>Affordable price</p><p>USB connection (digital audio, no sound card needed)</p><p>Plug and Play</p><p>Lightweight and comfortable</p><p>In-line volume control</p><p>Mute switch with LED indicator</p><p>Foldable for travel</p><p><br></p><p>**Ideal For:**</p><p>Office work (VoIP calls, Zoom, Teams, Skype)</p><p>Online classes</p><p>Call centers</p><p>Casual music listening</p><p>Gaming (basic, not competitive)</p><p>Home office use</p><p><br></p><p>**Not Ideal For:**</p><p>Professional audio production</p><p>Competitive gaming (no surround sound)</p><p>Noisy environments (on-ear design)</p><p>High-end music listening</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    }
+  ]
+}

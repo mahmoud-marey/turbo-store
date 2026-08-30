@@ -1,0 +1,84 @@
+{
+  "id": 1139,
+  "slug": "fantech-kanata-vx9-ambidextrous-gaming-mouse",
+  "name": "Fantech Kanata VX9 Ambidextrous Gaming Mouse 3600 DPI 7 RGB Modes - Black",
+  "model": "Kanata VX9",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 399,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-kanata-vx9-ambidextrous-gaming-mouse-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-kanata-vx9-ambidextrous-gaming-mouse-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-kanata-vx9-ambidextrous-gaming-mouse-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-kanata-vx9-ambidextrous-gaming-mouse-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx9-kanata-lightweight-design-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx9-kanata-lightweight-design-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx9-kanata-lightweight-design-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx9-kanata-huano-switches-profile-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx9-kanata-huano-switches-profile-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx9-kanata-huano-switches-profile-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "Kanata",
+    "VX9",
+    "Gaming Mouse",
+    "Ambidextrous",
+    "3600 DPI",
+    "A603EP",
+    "7 RGB Modes",
+    "Lightweight",
+    "Wired Mouse"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1025,
+  "slug": "asus-tuf-a16-fa608uh-ryzen7-260-rtx5050",
+  "name": "Laptop ASUS TUF A16 FA608UH-RV007W, AMD RYZEN 7-260 , 16GB RAM , 512G SSD M.2 NVMe , RTX 5050 8GB , 16&quot; FHD+ IPS 165Hz",
+  "model": "90NR0KS1-M005P0",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/a13-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/a13-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/a13-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "ASUS",
+    "TUF",
+    "A16",
+    "FA608UH-RV007W",
+    "AMD",
+    "RYZEN",
+    "7-260",
+    "16GB",
+    "RAM",
+    "512G",
+    "SSD",
+    "M.2",
+    "NVMe",
+    "RTX",
+    "5050",
+    "8GB",
+    "16&amp;quot;",
+    "FHD ",
+    "IPS",
+    "165Hz"
+  ],
+  "shortDescription": "laptop TUF A16 FA608UH is a gaming laptop that has the following features:Processor: AMD® RYZEN™ 7-260 ( 8 Core, 3.80 GHz to 5.10 GHz)Display: 16-inch FHD (1920 x 1080) 165Hz IPSMemory: 16GB DDR5 RAMStorage: 512GGraphics",
+  "descriptionHtml": "<p>laptop TUF A16 FA608UH is a gaming laptop that has the following features:</p><ul><li>Processor: AMD® RYZEN™ 7-260 ( 8 Core, 3.80 GHz to 5.10 GHz)</li><li>Display: 16-inch FHD (1920 x 1080) 165Hz IPS</li><li>Memory: 16GB DDR5 RAM</li><li>Storage: 512G</li><li>Graphics: NVIDIA GeForce RTX 5050 8GB GDDR6</li><li>Keyboard: Backlite Keyboard</li><li>OS: WINDOWS 11</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    }
+  ]
+}

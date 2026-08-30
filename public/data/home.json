@@ -1,0 +1,172 @@
+{
+  "hero": [
+    {
+      "image": "https://turbo-computer.com/image/cache/catalog/H12-915x510w.jpeg",
+      "title": "PC GAMING",
+      "subtitle": "تجميعة يعني تربو",
+      "href": "/c/pc-bundle"
+    },
+    {
+      "image": "https://turbo-computer.com/image/cache/catalog/H13-915x510w.jpeg",
+      "title": "GAMING LAPTOP",
+      "subtitle": "LAPTOP GAMING / BUSINESS",
+      "href": "/c/laptops"
+    },
+    {
+      "image": "https://turbo-computer.com/image/cache/catalog/H14-915x510w.jpeg",
+      "title": "GAMING ACCESSORIES",
+      "subtitle": "Most Advanced Accessories Features",
+      "href": "/c/accessories"
+    }
+  ],
+  "categoryTiles": [
+    {
+      "slug": "hard-drives",
+      "name": "PORTABLE STORAGE",
+      "fromLabel": "from 4.500LE",
+      "image": "https://turbo-computer.com/image/cache/catalog/b2-370x220w.jpeg"
+    },
+    {
+      "slug": "laptops",
+      "name": "LAPTOP",
+      "fromLabel": "from 12.000LE",
+      "image": "https://turbo-computer.com/image/cache/catalog/b3-370x220w.jpeg"
+    },
+    {
+      "slug": "monitors-displays",
+      "name": "GAMING MONITORS",
+      "fromLabel": "from 5.200LE",
+      "image": "https://turbo-computer.com/image/cache/catalog/b4-370x220w.jpeg"
+    },
+    {
+      "slug": "headphones-headsets",
+      "name": "Headphones",
+      "fromLabel": "from 500LE",
+      "image": "https://turbo-computer.com/image/cache/catalog/b1-370x220w.jpeg"
+    }
+  ],
+  "rails": [
+    {
+      "id": "top-sellers",
+      "title": "Top Sellers",
+      "productSlugs": [
+        "acer-nitro-v15-anv15-51-767g-gaming-laptop-intel-core-i7-13620h-rtx-3050",
+        "acer-nitro-v15-anv15-52-9340-gaming-laptop-intel-core-i9-13900h-rtx-5050-nh-qz9em-002",
+        "acer-nitro-v-15-anv15-52-intel-core-i9-13900h-rtx-5060-8gb-165hz-gaming-laptop",
+        "asus-tuf-gaming-a15-fa506ncg-hn807w-amd-ryzen-7-rtx-3050-windows-11",
+        "asus-tuf-gaming-a16-fa608uh-rv007w-ryzen-7-260-rtx-5050-gaming-laptop"
+      ]
+    },
+    {
+      "id": "new-arrivals",
+      "title": "New Arrivals",
+      "productSlugs": [
+        "redragon-h540-luna-wired-gaming-headset-black",
+        "redragon-h540-pro-luna-quad-mode-wireless-gaming-headset",
+        "redragon-h261-carmen-rgb-gaming-headset-black",
+        "redragon-bk7114-scissor-low-slim-wireless-keyboard",
+        "gigabyte-gaming-a16-ga6h-cvh-i7-13620h-rtx-5060-gaming-laptop",
+        "gigabyte-gaming-a16-ga6h-cth-i7-13620h-rtx-5050-gaming-laptop",
+        "asus-tuf-gaming-a16-fa608uh-rv007w-ryzen-7-260-rtx-5050-gaming-laptop",
+        "msi-g255f-245-fhd-180hz-rapid-ips-gaming-monitor",
+        "gigabyte-geforce-rtx-5060-ti-windforce-max-oc-16gb-graphics-card",
+        "raidmax-am1204-digital-display-argb-cpu-air-cooler",
+        "gigabyte-radeon-rx-9060-xt-gaming-oc-16g-graphics-card",
+        "asus-prime-b850m-a-wifi-matx-motherboard"
+      ]
+    },
+    {
+      "id": "laptop",
+      "title": "Laptop",
+      "productSlugs": [
+        "acer-nitro-v15-anv15-51-767g-gaming-laptop-intel-core-i7-13620h-rtx-3050",
+        "acer-nitro-v15-anv15-52-9340-gaming-laptop-intel-core-i9-13900h-rtx-5050-nh-qz9em-002",
+        "acer-nitro-v-15-anv15-52-intel-core-i9-13900h-rtx-5060-8gb-165hz-gaming-laptop",
+        "asus-tuf-gaming-a15-fa506ncg-hn807w-amd-ryzen-7-rtx-3050-windows-11"
+      ]
+    },
+    {
+      "id": "gaming-monitor",
+      "title": "Gaming Monitor",
+      "productSlugs": [
+        "acer-vg240y",
+        "acer-nitro-vg270",
+        "acer-nitro-vg270u-z1-27-inch-2k-qhd-ips-170hz-gaming-monitor",
+        "aoc-gaming-27g11ze2"
+      ]
+    },
+    {
+      "id": "bestsellers",
+      "title": "Bestsellers",
+      "productSlugs": [
+        "adata-16gb-ddr5-5600mhz-cl46-1-1v-udimm-desktop-ram",
+        "mouse-jertech-w500",
+        "patriot-viper-ddr4-8gb-3200mhz-cl16",
+        "hyperx-cloud-iii-wired-gaming-headset-53mm-drivers-dts-spatial-audio-black-red",
+        "attack-shark-x1-tri-mode-wireless-black-gaming-mouse-paw3395pro-grip-tape"
+      ]
+    },
+    {
+      "id": "most-popular",
+      "title": "Most Popular",
+      "productSlugs": [
+        "mouse-jertech-w500",
+        "lenovo-loq-15irx10-corei7-14700hx-rtx5060-2yrs",
+        "wd-hdd-1tb-nb",
+        "samsung-ls32cg552emxeg-32-165hz-1ms-wqhd-curved",
+        "legion-5-16irx10-14700hx-rtx5060-wqxga-83ly00dred"
+      ]
+    },
+    {
+      "id": "best-rated",
+      "title": "Best Rated",
+      "productSlugs": [
+        "turbo-intel-kol-tanya-betefreq-gaming-pc-rtx-5060ti-i5-14400f-lenovo-legion-r24i",
+        "turbo-intel-kol-tanya-betefreq-b7-gaming-pc-rtx-5060-i5-14400f-benq-ex251",
+        "turbo-amd-qalbak-hamed-garabha-gaming-pc-rtx-3050-ryzen-5-8400f-philips-27e2g2200",
+        "turbo-amd-shoghlha-w-ekseb-elgame-gaming-pc-rtx-3050-ryzen-5-3600-philips-24e2g2200",
+        "turbo-intel-gaming-pc-rtx-5070ti-i7-14700kf-aoc-q27g4z"
+      ]
+    }
+  ],
+  "trust": [
+    {
+      "id": "shipping",
+      "title": "Fast Shipping",
+      "titleAr": "توصيل سريع",
+      "text": "Safe delivery to all governorates in 2–5 days.",
+      "textAr": "توصيل سريع وآمن لجميع المحافظات خلال 2-5 ايام"
+    },
+    {
+      "id": "secure",
+      "title": "Secure Shopping",
+      "titleAr": "تسوق آمن",
+      "text": "100% secure payments and full protection for your data.",
+      "textAr": "دفع آمن 100% وحماية كاملة لبياناتك ومشترياتك"
+    },
+    {
+      "id": "return",
+      "title": "Easy Return",
+      "titleAr": "استبدال واسترجاع",
+      "text": "Easy replacement and returns per the approved warranty policy.",
+      "textAr": "استبدال واسترجاع بسهولة طبقًا لسياسة الضمان المعتمدة"
+    },
+    {
+      "id": "support",
+      "title": "24h Service",
+      "titleAr": "خدمة 24 ساعة",
+      "text": "Technical support and customer service ready all day.",
+      "textAr": "دعم فني وخدمة عملاء جاهزين للرد على استفساراتك طوال اليوم"
+    }
+  ],
+  "contact": {
+    "phone": "01144413879",
+    "whatsapp": "201144413879",
+    "email": "info@turbo-computer.com",
+    "facebook": "https://www.facebook.com/Turbo.eg/"
+  },
+  "slogans": [
+    "تجميعة يعني تربو",
+    "صورتك احلي في تربو ستور"
+  ]
+}

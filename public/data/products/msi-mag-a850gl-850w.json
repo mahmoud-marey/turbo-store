@@ -1,0 +1,114 @@
+{
+  "id": 887,
+  "slug": "msi-mag-a850gl-850w",
+  "name": "MSI MAG A85PGL 850w 80 plus Gold Power Supply",
+  "model": "MAG A85PGL",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 5900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260519202331-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260519202331-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260519202331-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260519202331-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "msi",
+    "mag",
+    "a850gl",
+    "850w",
+    "80-plus",
+    "gold",
+    "power",
+    "supply"
+  ],
+  "shortDescription": "MSI MAG A850GL PCIE5\r\n    850W 80 PLUS Gold Fully Modular ATX 3.1 / PCIe 5.1 Power Supply\r\n  \r\n\r\n  \r\n  General Specifications\r\n  \r\n    \r\n      Form Factor\r\n      ATX\r\n    \r\n    \r\n      Total Wattage\r\n      850W\r\n    \r\n  ",
+  "descriptionHtml": "<div><div><h2>MSI MAG A850GL PCIE5</h2><p>850W 80 PLUS Gold Fully Modular ATX 3.1 / PCIe 5.1 Power Supply</p></div><h3>General Specifications</h3><table><tbody><tr><td>Form Factor</td><td>ATX</td></tr><tr><td>Total Wattage</td><td>850W</td></tr><tr><td>Efficiency Certification</td><td>80 PLUS Gold (Up to 90%) / Cybenetics Gold</td></tr><tr><td>Modular Design</td><td>Fully Modular (Flat Black Cables)</td></tr><tr><td>Standards Compatibility</td><td>ATX 3.1 Ready / PCIe 5.1 Compliant</td></tr><tr><td>Topology</td><td>LLC Full Bridge with DC-to-DC module design</td></tr><tr><td>Dimensions (W x D x H)</td><td>150 x 140 x 86 mm (Compact Form)</td></tr><tr><td>Cooling Fan Size</td><td>120 mm</td></tr><tr><td>Fan Bearing Type</td><td>Fluid Dynamic Bearing (FDB)</td></tr></tbody></table><h3>Power Output Specifications</h3><table><thead><tr><th>AC Input Range</th><th colspan=\"5\">100-240 VAC, 12A, 47-63Hz (Active PFC)</th></tr><tr><th>DC Output Rail</th><th>+3.3V</th><th>+5V</th><th>+12V</th><th>-12V</th><th>+5Vsb</th></tr></thead><tbody><tr><td>Max Amperage</td><td>20.0A</td><td>20.0A</td><td>70.5A</td><td>0.3A</td><td>2.5A</td></tr><tr><td>Combined Power</td><td colspan=\"2\">110W</td><td>846W</td><td>3.6W</td><td>12.5W</td></tr><tr><td>Total Continuous Power</td><td colspan=\"5\">850W</td></tr></tbody></table><div><div><h3>Heavy-Duty Protection Mechanisms</h3><ul><li><strong>OCP</strong> (Over Current Protection)</li><li><strong>OVP</strong> (Over Voltage Protection)</li><li><strong>OPP</strong> (Over Power Protection) — <em>Supports up to 200% total power excursion (1700W for 100μs)</em></li><li><strong>OTP</strong> (Over Temperature Protection)</li><li><strong>SCP</strong> (Short Circuit Protection)</li><li><strong>UVP</strong> (Under Voltage Protection)</li></ul></div></div><h3>Modular Connector Configuration</h3><table><thead><tr><th>Interface Connection</th><th>Total Quantity</th><th>Connector Pin Configuration</th></tr></thead><tbody><tr><td>ATX Motherboard Power</td><td>1</td><td>20+4 Pin</td></tr><tr><td>EPS / CPU Power</td><td>2</td><td>4+4 Pin</td></tr><tr><td>PCIe 5.1 / Graphics (Native)</td><td>1</td><td>16-Pin (12V-2x6 / 12VHPWR Dual-Color) <span>Delivers up to 600W</span></td></tr><tr><td>PCIe Graphics Standard</td><td>4</td><td>6+2 Pin</td></tr><tr><td>SATA Storage / Accessories</td><td>8</td><td>15-Pin</td></tr><tr><td>Peripheral / Molex</td><td>4</td><td>4-Pin</td></tr><tr><td>Floppy Drive Adapter</td><td>1</td><td>4-Pin</td></tr></tbody></table></div><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Total Wattage",
+      "value": "850W"
+    },
+    {
+      "group": "specs",
+      "label": "Efficiency Certification",
+      "value": "80 PLUS Gold (Up to 90%) / Cybenetics Gold"
+    },
+    {
+      "group": "specs",
+      "label": "Modular Design",
+      "value": "Fully Modular (Flat Black Cables)"
+    },
+    {
+      "group": "specs",
+      "label": "Standards Compatibility",
+      "value": "ATX 3.1 Ready / PCIe 5.1 Compliant"
+    },
+    {
+      "group": "specs",
+      "label": "Topology",
+      "value": "LLC Full Bridge with DC-to-DC module design"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions (W x D x H)",
+      "value": "150 x 140 x 86 mm (Compact Form)"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Fan Size",
+      "value": "120 mm"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Bearing Type",
+      "value": "Fluid Dynamic Bearing (FDB)"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1207,
+  "slug": "amd-ryzen-5-3600-asus-b450m-a-ii-patriot-viper-steel-16gb-3200mhz-bundle",
+  "name": "AMD Ryzen 5 3600 Bundle With ASUS PRIME B450M-A II Motherboard And Patriot Viper Steel 16GB 2x8GB 3200MHz DDR4 RAM",
+  "model": "Bundle 1",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "pc-bundle"
+  ],
+  "price": 14799,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/ryzen-5-3600-b450m-patriot-16gb-bundle-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/ryzen-5-3600-b450m-patriot-16gb-bundle-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/ryzen-5-3600-b450m-patriot-16gb-bundle-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/ryzen-5-3600-b450m-patriot-16gb-bundle-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5 3600",
+    "ASUS",
+    "PRIME B450M-A II",
+    "B450",
+    "Patriot",
+    "Viper Steel",
+    "16GB DDR4",
+    "3200MHz",
+    "Dual Channel",
+    "Socket AM4",
+    "PC Bundle",
+    "Gaming Bundle",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "AMD Ryzen 5 3600 Gaming Bundle (ASUS PRIME B450M-A II Motherboard / Patriot Viper Steel 16GB 2x8GB DDR4 3200MHz CL16 RAM / Socket AM4 / PCIe 3.0 / Dual Channel Memory Support / 1-Year Store Warranty)Upgrade or build your",
+  "descriptionHtml": "<p><span>AMD Ryzen 5 3600 Gaming Bundle (ASUS PRIME B450M-A II Motherboard / Patriot Viper Steel 16GB 2x8GB DDR4 3200MHz CL16 RAM / Socket AM4 / PCIe 3.0 / Dual Channel Memory Support / 1-Year Store Warranty)</span></p><p>Upgrade or build your mainstream gaming PC with this high-value complete hardware bundle from Turbo Computer Egypt, backed by a 1-Year store warranty. This combo pack includes the reliable AMD Ryzen 5 3600 6-core 12-thread desktop processor, paired perfectly with the feature-rich ASUS PRIME B450M-A II AM4 motherboard, and high-performance Patriot Viper Steel 16GB (2x8GB) DDR4 3200MHz CL16 memory kit. Designed for optimal compatibility and multi-tasking stability, this bundle offers an exceptional plug-and-play foundation for budget-to-midrange gaming builds.</p><h3>Bundle Component Specifications</h3><table><thead><tr><th>Component Type</th><th>Hardware Specifications Details</th></tr></thead><tbody><tr><td>Warranty Period</td><td>1-Year Warranty on All Components (ضمان لمدة سنة)</td></tr><tr><td>1. Processor (CPU)</td><td>AMD Ryzen 5 3600 (6 Cores / 12 Threads / 3.6GHz Base Clock / Up to 4.2GHz Max Boost / 32MB L3 Cache / 65W TDP / Socket AM4)</td></tr><tr><td>2. Motherboard (MB)</td><td>ASUS PRIME B450M-A II (AMD B450 Chipset / Micro-ATX Form Factor / Socket AM4 / M.2 PCIe NVMe Support / USB 3.2 Gen 2 / HDMI, DVI-D, D-Sub / BIOS FlashBack)</td></tr><tr><td>3. Memory (RAM)</td><td>Patriot Viper Steel 16GB (2 x 8GB Kit) DDR4 3200MHz CL16 (PC4-25600 / 1.35V / Custom Aluminum Heatshield / Dual-Channel Kit / Model: PVS416G320C6K)</td></tr><tr><td>System Socket / Compatibility</td><td>Socket AM4 Architecture - Fully Out-of-the-Box Compatible</td></tr><tr><td>Memory Slots &amp; Expansion</td><td>4 x DDR4 DIMM Slots (Supports up to 128GB System RAM)</td></tr><tr><td>Storage Interfaces</td><td>1 x M.2 Slot (PCIe 3.0 x4 &amp; SATA modes) + 6 x SATA 6Gb/s Ports</td></tr><tr><td>Rear I/O Display Outputs</td><td>1 x HDMI, 1 x DVI-D, 1 x VGA (Requires CPU with integrated graphics for display, graphics card recommended)</td></tr><tr><td>Audio &amp; Networking</td><td>Realtek 1Gb Ethernet | Realtek 7.1 Surround Sound High Definition Audio CODEC</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Warranty on All Components (ضمان لمدة سنة)"
+    },
+    {
+      "group": "specs",
+      "label": "1. Processor (CPU)",
+      "value": "AMD Ryzen 5 3600 (6 Cores / 12 Threads / 3.6GHz Base Clock / Up to 4.2GHz Max Boost / 32MB L3 Cache / 65W TDP / Socket AM4)"
+    },
+    {
+      "group": "specs",
+      "label": "2. Motherboard (MB)",
+      "value": "ASUS PRIME B450M-A II (AMD B450 Chipset / Micro-ATX Form Factor / Socket AM4 / M.2 PCIe NVMe Support / USB 3.2 Gen 2 / HDMI, DVI-D, D-Sub / BIOS FlashBack)"
+    },
+    {
+      "group": "specs",
+      "label": "3. Memory (RAM)",
+      "value": "Patriot Viper Steel 16GB (2 x 8GB Kit) DDR4 3200MHz CL16 (PC4-25600 / 1.35V / Custom Aluminum Heatshield / Dual-Channel Kit / Model: PVS416G320C6K)"
+    },
+    {
+      "group": "specs",
+      "label": "System Socket / Compatibility",
+      "value": "Socket AM4 Architecture - Fully Out-of-the-Box Compatible"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Slots & Expansion",
+      "value": "4 x DDR4 DIMM Slots (Supports up to 128GB System RAM)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interfaces",
+      "value": "1 x M.2 Slot (PCIe 3.0 x4 & SATA modes) + 6 x SATA 6Gb/s Ports"
+    },
+    {
+      "group": "specs",
+      "label": "Rear I/O Display Outputs",
+      "value": "1 x HDMI, 1 x DVI-D, 1 x VGA (Requires CPU with integrated graphics for display, graphics card recommended)"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & Networking",
+      "value": "Realtek 1Gb Ethernet | Realtek 7.1 Surround Sound High Definition Audio CODEC"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    }
+  ]
+}

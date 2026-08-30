@@ -1,0 +1,96 @@
+{
+  "id": 485,
+  "slug": "victus-fb1082wm-13420h-rtx4050",
+  "name": "Laptop HP VICTUS 15-FB1082WM ,Intel Core i5-13420H ,RAM-16G ,SSD-512G ,VGA Nvidia RTX4050-6G DDR6 ,15.6 Inch FHD IPS 144Hz",
+  "model": "15-FB1082WM",
+  "brand": "HP",
+  "brandSlug": "hp",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 47499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/HPL/V9-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V9-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V9-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V9-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V2-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V4-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V4-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V4-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "HP",
+    "VICTUS",
+    "15-FB1082WM",
+    "Intel",
+    "Core",
+    "i5-13420H",
+    "RAM-8G",
+    "SSD-512G",
+    "VGA",
+    "Nvidia",
+    "RTX4050-6G",
+    "DDR6",
+    "15.6&amp;quot;",
+    "FHD",
+    "IPS",
+    "144Hz"
+  ],
+  "shortDescription": "laptop HP VICTUS is a gaming laptop that has the following features:Processor: intel core i5-13420H (12 MB Cache, 8 Core, 3.40 GHz to 4.60 GHz)Display: 15.6-inch FHD (1920 x 1080) 60Hz IPSMemory: 16GB DDR5 RAMStorage: 51",
+  "descriptionHtml": "<p>laptop HP VICTUS is a gaming laptop that has the following features:</p><ul><li>Processor: intel core i5-13420H (12 MB Cache, 8 Core, 3.40 GHz to 4.60 GHz)</li><li>Display: 15.6-inch FHD (1920 x 1080) 60Hz IPS</li><li>Memory: 16GB DDR5 RAM</li><li>Storage: 512GB M.2 PCIe NVMe SSD</li><li>Graphics: NVIDIA GeForce RTX 4050 6GB GDDR6</li><li>Keyboard: Backlite Keyboard</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 20,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    }
+  ]
+}

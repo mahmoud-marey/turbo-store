@@ -1,0 +1,131 @@
+{
+  "id": 898,
+  "slug": "crucial-ddr5-16gb-4800mhz-cl40-laptop-ram",
+  "name": "Crucial DDR5 16GB 4800MHz CL40 Laptop RAM",
+  "model": "Ddr5",
+  "brand": "CRUCIAL",
+  "brandSlug": "crucial",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 9400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-4800mhz-laptop-ram-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-4800mhz-laptop-ram-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-4800mhz-laptop-ram-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-4800mhz-laptop-ram-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-4800mhz-laptop-ram-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-4800mhz-laptop-ram-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/crucial-16gb-ddr5-4800mhz-laptop-ram-front-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Crucial",
+    "DDR5",
+    "16GB",
+    "4800MHz",
+    "CL40",
+    "Laptop RAM",
+    "Notebook Memory",
+    "SODIMM",
+    "262-Pin",
+    "1.1V",
+    "On-Die ECC",
+    "Intel 12th Gen",
+    "Intel 13th Gen",
+    "AMD Ryzen 6000",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Crucial DDR5 16GB 4800MHz CL40 Laptop RAM (16GB Single SODIMM Module / DDR5 4800MHz Speed / CL40 Latency / 1.1V Ultra-Low Voltage / On-Die ECC / Compatible with 12th, 13th Gen Intel &amp; AMD Ryzen Laptops / 1 Year Warra",
+  "descriptionHtml": "<p>Crucial DDR5 16GB 4800MHz CL40 Laptop RAM (16GB Single SODIMM Module / DDR5 4800MHz Speed / CL40 Latency / 1.1V Ultra-Low Voltage / On-Die ECC / Compatible with 12th, 13th Gen Intel &amp; AMD Ryzen Laptops / 1 Year Warranty)</p><p>Upgrade your laptop performance with the Crucial DDR5 16GB 4800MHz CL40 SODIMM memory module, available at Turbo Computer Egypt with a 1-Year Warranty. Designed for next-generation gaming laptops and professional workstations powered by Intel and AMD mobile processors, DDR5 technology delivers up to 50% faster data transfer rates compared to DDR4. Operating at an energy-efficient 1.1V with built-in On-Die ECC (Error Correction Code) for enhanced data stability, this high-density module ensures smooth multitasking, faster load times, and superior responsiveness for heavy workloads.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Manufacturer</td><td>Crucial (Micron Technology)</td></tr><tr><td>Memory Capacity &amp; Type</td><td>16GB Single Module / DDR5 SODIMM (Laptop Memory)</td></tr><tr><td>Speed &amp; Frequency</td><td>4800MHz (PC5-38400)</td></tr><tr><td>CAS Latency &amp; Timings</td><td>CL40 (CL40-40-40)</td></tr><tr><td>Voltage &amp; Efficiency</td><td>1.1V Low Operating Voltage</td></tr><tr><td>Form Factor &amp; Pin Count</td><td>262-Pin SODIMM</td></tr><tr><td>Error Correction &amp; Stability</td><td>On-Die ECC (ODECC) for System Reliability</td></tr><tr><td>System Compatibility</td><td>Compatible with 12th/13th/14th Gen Intel Core &amp; AMD Ryzen 6000/7000 Series Laptops</td></tr><tr><td>Warranty Coverage</td><td>1 Year Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Manufacturer",
+      "value": "Crucial (Micron Technology)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Capacity & Type",
+      "value": "16GB Single Module / DDR5 SODIMM (Laptop Memory)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed & Frequency",
+      "value": "4800MHz (PC5-38400)"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency & Timings",
+      "value": "CL40 (CL40-40-40)"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage & Efficiency",
+      "value": "1.1V Low Operating Voltage"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor & Pin Count",
+      "value": "262-Pin SODIMM"
+    },
+    {
+      "group": "specs",
+      "label": "Error Correction & Stability",
+      "value": "On-Die ECC (ODECC) for System Reliability"
+    },
+    {
+      "group": "specs",
+      "label": "System Compatibility",
+      "value": "Compatible with 12th/13th/14th Gen Intel Core & AMD Ryzen 6000/7000 Series Laptops"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "1 Year Warranty"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    }
+  ]
+}

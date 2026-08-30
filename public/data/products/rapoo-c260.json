@@ -1,0 +1,76 @@
+{
+  "id": 634,
+  "slug": "rapoo-c260",
+  "name": "Rapoo C260 FULL HD 1080p Wep Cam",
+  "model": "C260",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "webcams"
+  ],
+  "price": 1249,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260304151145-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260304151145-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260304151145-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260304151145-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260304150909-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260304150909-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260304150909-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "C260",
+    "Full",
+    "HD",
+    "1080p",
+    "Webcam"
+  ],
+  "shortDescription": "ضمان عام من الوكيلProduct Name:Rapoo C260 Full HD 1080p WebcamSpecifications:Resolution: Full HD 1080p (1920 × 1080)Frame Rate: Up to 30 fpsLens: Wide-angle lensField of View (FOV): ~90°Microphone: Built-in stereo microp",
+  "descriptionHtml": "<p>ضمان عام من الوكيل</p><p><br></p><p><strong><br></strong></p><p><strong>Product Name:</strong></p><p>Rapoo C260 Full HD 1080p Webcam</p><h2><strong>Specifications:</strong></h2><ul><li><p><strong>Resolution:</strong> Full HD 1080p (1920 × 1080)</p></li><li><p><strong>Frame Rate:</strong> Up to 30 fps</p></li><li><p><strong>Lens:</strong> Wide-angle lens</p></li><li><p><strong>Field of View (FOV):</strong> ~90°</p></li><li><p><strong>Microphone:</strong> Built-in stereo microphone</p></li><li><p><strong>Focus:</strong> Fixed focus</p></li><li><p><strong>Connection:</strong> USB-A</p></li><li><p><strong>Compatibility:</strong> Windows, macOS, Chrome OS</p></li><li><p><strong>Mount:</strong> Clip / stand for monitor or laptop</p></li><li><p><strong>Plug &amp; Play:</strong> Yes (no drivers required)</p></li></ul><h2><strong>Key Features:</strong></h2><ul><li><p>Crisp and smooth Full HD video quality</p></li><li><p>Easy to set up (USB plug &amp; play)</p></li><li><p>Good audio capture with built-in mic</p></li><li><p>Great for video calls, streaming, online Meeting</p></li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    }
+  ]
+}

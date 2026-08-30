@@ -1,0 +1,145 @@
+{
+  "id": 1169,
+  "slug": "aerocool-p500a-panoramic-270-glass-argb-mid-tower-case-white",
+  "name": "Aerocool P500A Panoramic ARGB Mid Tower Case White",
+  "model": "P500A white",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 4199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-panoramic-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-panoramic-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-panoramic-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-panoramic-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-curved-glass-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-curved-glass-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-curved-glass-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-argb-pwm-fan-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-argb-pwm-fan-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-white-argb-pwm-fan-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "P500A",
+    "White Case",
+    "Gaming Case",
+    "Mid Tower",
+    "Panoramic Glass",
+    "270 Degree View",
+    "ARGB Fans",
+    "PWM Fans",
+    "BTF Support",
+    "Type-C",
+    "PC Chassis",
+    "Gaming PC",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Aerocool P500A White Panoramic 270-Degree Curved Glass Mid Tower Gaming Case (4 Pre-Installed White ARGB PWM Fans / Reverse Connector BTF Motherboard Support / USB 3.2 Gen 2x2 Type-C / White GPU Bracket / 1-Year Local Wa",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Chassis Series",
+      "value": "Aerocool Panoramic Flagship Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Specification",
+      "value": "P500A White Panoramic 270-Degree Glass Case (ACL-P500A-WT-FRPW)"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Color Finish",
+      "value": "Pristine White Interior & Exterior Coating"
+    },
+    {
+      "group": "specs",
+      "label": "Motherboard Compatibility",
+      "value": "Standard & BTF Reverse Connector ATX, Micro-ATX, Mini-ITX"
+    },
+    {
+      "group": "specs",
+      "label": "Glass Panel Design",
+      "value": "Dual Curved Seamless Tempered Glass Panels (270-Degree View)"
+    },
+    {
+      "group": "specs",
+      "label": "Pre-Installed Fans",
+      "value": "4 White Fans (3x 120mm Side Reversed ARGB PWM + 1x 120mm Rear ARGB PWM)"
+    },
+    {
+      "group": "specs",
+      "label": "Liquid Cooling Support",
+      "value": "Top Radiator Support Up To 360mm / 280mm / 240mm"
+    },
+    {
+      "group": "specs",
+      "label": "GPU Clearance Space",
+      "value": "Supports Long High-End GPUs Up To 420mm Length"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Cooler Clearance",
+      "value": "Supports Large CPU Air Coolers Up To 180mm Height"
+    },
+    {
+      "group": "specs",
+      "label": "Front IO Interface",
+      "value": "1x USB 3.2 Gen 2x2 Type-C + 2x USB 3.2 Gen 1 Type-A + HD Audio"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    }
+  ]
+}

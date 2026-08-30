@@ -1,0 +1,74 @@
+{
+  "id": 625,
+  "slug": "hikvision-e100",
+  "name": "HIKVISION E100 256GB 2.5&quot; SATA SSD",
+  "model": "E100",
+  "brand": "HikVision",
+  "brandSlug": "hikvision",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 2200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170813-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170813-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170813-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170813-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170826-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170826-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302170826-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "HIKVISION",
+    "E100",
+    "256GB",
+    "SATA",
+    "SSD"
+  ],
+  "shortDescription": "HIKVISION E100 256GB 2.5\" SATA SSD SpecificationsCapacity: 256GBForm Factor: 2.5-inchInterface: SATA III 6 Gb/s (Backward compatible with SATA II 3 Gb/s)Flash Technology: 3D TLC (Triple-Level Cell) NAND FlashSequential R",
+  "descriptionHtml": "<p>HIKVISION E100 256GB 2.5\" SATA SSD Specifications</p><p><br></p><p>Capacity: 256GB</p><p><br></p><p>Form Factor: 2.5-inch</p><p><br></p><p>Interface: SATA III 6 Gb/s (Backward compatible with SATA II 3 Gb/s)</p><p><br></p><p>Flash Technology: 3D TLC (Triple-Level Cell) NAND Flash</p><p><br></p><p>Sequential Read Speed: Up to 550 MB/s</p><p><br></p><p>Sequential Write Speed: Up to 450 MB/s</p><p><br></p><p>MTBF (Mean Time Between Failures): 1,500,000 hours</p><p><br></p><p>Shock Resistance: 1500g/0.5ms</p><p><br></p><p>Operating Temperature: 0°C to 70°C (32°F to 158°F)</p><p><br></p><p>Dimensions: 100.1 mm × 69.9 mm × 7.0 mm</p><p><br></p><p>Features:</p><p><br></p><p>S.M.A.R.T. support</p><p><br></p><p>TRIM command support</p><p><br></p><p>Wear leveling for longer</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

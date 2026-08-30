@@ -1,0 +1,71 @@
+{
+  "id": 893,
+  "slug": "team-elite-ddr5-32gb-5600mhz-laptop-ram",
+  "name": "Team Elite DDR5 32GB 5600MHz CL46 Laptop Ram",
+  "model": "Elite",
+  "brand": "Team",
+  "brandSlug": "team",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 19000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523163829-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523163829-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523163829-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523163829-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "team",
+    "elite",
+    "ddr5",
+    "32gb",
+    "5600mhz",
+    "laptop",
+    "ram"
+  ],
+  "shortDescription": "&nbsp;TEAMGROUP Elite SO-DIMM DDR5 32GB 5600MHz — Full Specification\r\n\r\n\r\n\r\n\r\n⚡ Performance\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nType\r\nDDR5 SO-DIMM (Laptop)\r\n\r\n\r\nCapacity\r\n32GB\r\n\r\n\r\nSpeed\r\n5600 MHz (PC5-44800)\r\n\r\n\r\nCAS Latency\r\nCL",
+  "descriptionHtml": "<p><span>&nbsp;TEAMGROUP Elite SO-DIMM DDR5 32GB 5600MHz — Full Specification</span></p><table><thead><tr><th><br></th><th><br></th></tr></thead><tbody></tbody></table><h4>⚡ Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR5 SO-DIMM (Laptop)</td></tr><tr><td>Capacity</td><td>32GB</td></tr><tr><td>Speed</td><td>5600 MHz (PC5-44800)</td></tr><tr><td>CAS Latency</td><td>CL46</td></tr><tr><td>Timings</td><td>46-46-46-90</td></tr><tr><td>Latency</td><td>16.42 ns</td></tr><tr><td>Voltage</td><td>1.1V (energy-efficient)</td></tr></tbody></table><h4>???? Technical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>262-pin SO-DIMM</td></tr><tr><td>ECC</td><td>✅ On-Die ECC (self-corrects DRAM cells for system stability)</td></tr><tr><td>Buffered</td><td>❌ Unbuffered</td></tr><tr><td>XMP</td><td>❌ No XMP profile</td></tr><tr><td>AMD EXPO</td><td>❌ No EXPO profile</td></tr><tr><td>JEDEC Compliant</td><td>✅ Fully compliant</td></tr><tr><td>PMIC</td><td>✅ Onboard PMIC (transferred from motherboard to RAM for effective load management and minimal noise interference)</td></tr><tr><td>RGB</td><td>❌ None</td></tr><tr><td>Heat Spreader</td><td>❌ None (bare module — standard SO-DIMM)</td></tr></tbody></table><h4>???? Physical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Dimensions</td><td>70.1 × 2 × 30mm — standard SO-DIMM footprint</td></tr><tr><td>Operating Temp</td><td>0°C to 85°C</td></tr><tr><td>Storage Temp</td><td>-20°C to 65°C</td></tr></tbody></table><h4>???? Power &amp; Efficiency</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Voltage</td><td>1.1V</td></tr><tr><td>vs DDR4</td><td>Reduced from 1.2V in DDR4 to 1.1V for better laptop battery life</td></tr></tbody></table><h4>???? DDR5 Architecture Advantages</h4><table><thead><tr><th>Feature</th><th>Detail</th></tr></thead><tbody><tr><td>Bank Groups</td><td>32 banks across 8 bank groups (double DDR4's 16 banks)</td></tr><tr><td>Burst Length</td><td>Twice the burst length of DDR4 for faster data access</td></tr><tr><td>Speed vs DDR4</td><td>5600MHz is 50% more than DDR4's 3200MHz maximum standard speed</td></tr></tbody></table><h4><br></h4><table><thead></thead><tbody></tbody></table><h4><br></h4><h4><span>Warranty 1 year</span></h4><h3><br></h3><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 15,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-17",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-22",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-14",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 783,
+  "slug": "intel-core-i7-14700kf",
+  "name": "Intel® Core™ i7-14700KF CPU",
+  "model": "14700KF",
+  "brand": "INTEL",
+  "brandSlug": "intel",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 20499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260422224913-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260422224913-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260422224913-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260422224913-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Intel",
+    "Core",
+    "i7-14700KF",
+    "20",
+    "Cores",
+    "8P 12E",
+    "28",
+    "Threads",
+    "5.6GHz",
+    "Turbo",
+    "33MB",
+    "Cache"
+  ],
+  "shortDescription": "Intel® Core™ i7-14700KF** processor:---**Intel® Core™ i7-14700KF****Brand:** Intel**Model:** i7-14700KF**Generation:** 14th Gen (Raptor Lake Refresh)**Code Name:** Raptor Lake---**Core Architecture:**Total Cores: 20Perfo",
+  "descriptionHtml": "<p>Intel® Core™ i7-14700KF** processor:</p><p><br></p><p>---</p><p><br></p><p>**Intel® Core™ i7-14700KF**</p><p><br></p><p>**Brand:** Intel</p><p>**Model:** i7-14700KF</p><p>**Generation:** 14th Gen (Raptor Lake Refresh)</p><p>**Code Name:** Raptor Lake</p><p><br></p><p>---</p><p><br></p><p>**Core Architecture:**</p><p>Total Cores: 20</p><p>Performance Cores (P-cores): 8</p><p>Efficient Cores (E-cores): 12</p><p>Total Threads: 28</p><p><br></p><p>---</p><p><br></p><p>**Clock Speeds:**</p><p>P-core Max Turbo Frequency: Up to 5.6 GHz</p><p>E-core Max Turbo Frequency: Up to 4.3 GHz</p><p>P-core Base Frequency: 3.4 GHz</p><p>E-core Base Frequency: 2.5 GHz</p><p><br></p><p>---</p><p><br></p><p>**Cache:**</p><p>Total L3 Cache: 33 MB (Intel Smart Cache)</p><p>L2 Cache: 28 MB (combined)</p><p><br></p><p>---</p><p><br></p><p>**Memory Support:**</p><p>Max Memory Size: 192 GB</p><p>Memory Types: DDR4-3200, DDR5-5600</p><p>Max Memory Channels: 2 (Dual Channel)</p><p>Max Memory Bandwidth: 89.6 GB/s</p><p>ECC Memory Support: Yes (with supported motherboard)</p><p><br></p><p>---</p><p><br></p><p>**PCI Express:**</p><p>PCI Express Revision: 5.0 and 4.0</p><p>Max PCI Express Lanes: 20</p><p>- 16 lanes for GPU (PCIe 5.0)</p><p>- 4 lanes for SSD (PCIe 4.0)</p><p><br></p><p>---</p><p><br></p><p>**Processor Graphics:**</p><p>Integrated Graphics: No (KF suffix means no integrated GPU)</p><p>Requires: Discrete graphics card</p><p><br></p><p>---</p><p><br></p><p>**Power Specifications:**</p><p>Processor Base Power (TDP): 125W</p><p>Maximum Turbo Power (MTP): 253W</p><p>Minimum Assured Power: 125W</p><p><br></p><p>---</p><p><br></p><p>**Thermal Specifications:**</p><p>Max Junction Temperature (Tjmax): 100°C</p><p><br></p><p>---</p><p><br></p><p>**Socket Compatibility:**</p><p>Socket Type: LGA 1700</p><p>Compatible Chipsets: Intel 600 series, 700 series (Z690, Z790, B760, H770, etc.)</p><p><br></p><p>---</p><p><br></p><p>**Advanced Technologies:**</p><p>Intel Turbo Boost Max Technology 3.0: Yes</p><p>Intel Hyper-Threading Technology: Yes</p><p>Intel Thermal Velocity Boost: Yes</p><p>Intel Gaussian &amp; Neural Accelerator (GNA) 3.0: Yes</p><p>Intel Deep Learning Boost: Yes</p><p>Intel Speed Shift Technology: Yes</p><p>Intel Adaptive Boost Technology: Yes</p><p><br></p><p>---</p><p><br></p><p>**Security Features:**</p><p>Intel Virtualization Technology (VT-x): Yes</p><p>Intel VT-d: Yes</p><p>Intel vPro Eligibility: No</p><p>Intel Trusted Execution Technology: No</p><p>Intel AES New Instructions: Yes</p><p>Secure Key: Yes</p><p>OS Guard: Yes</p><p>Execute Disable Bit: Yes</p><p><br></p><p>---</p><p><br></p><p>**Overclocking:**</p><p>Unlocked Multiplier: Yes (KF suffix supports overclocking)</p><p><br></p><p>---</p><p><br></p><p>**Other Features:**</p><p>Intel Optane Memory Supported: Yes</p><p>Intel Speed Select Technology: No</p><p>Thermal Monitoring Technologies: Yes</p><p><br></p><p>---</p><p><br></p><p>**What's in the Box:**</p><p>Processor only</p><p>no cooler included - KF processors&nbsp;</p><p><br></p><p>---</p><p><br></p><p>**Ideal For:**</p><p>High-end gaming</p><p>Content creation (video editing, 3D rendering, streaming)</p><p>Overclocking enthusiasts</p><p>Professional workloads</p><p>Multitasking and productivity</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-10",
+      "demo": true
+    }
+  ]
+}

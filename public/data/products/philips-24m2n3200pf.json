@@ -1,0 +1,75 @@
+{
+  "id": 714,
+  "slug": "philips-24m2n3200pf",
+  "name": "Philips 24M2N3200PF 23.8 inch IPS 260Hz OC FHD",
+  "model": "24M2N3200PF",
+  "brand": "Philips",
+  "brandSlug": "philips",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 6500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260402140843-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260402140843-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260402140843-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260402140843-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326154003-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326154003-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326154003-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "philips",
+    "24M2N3200PF",
+    "23.8inch",
+    "ips",
+    "260hz",
+    "fhd"
+  ],
+  "shortDescription": "مواصفات شاشة Philips 24M2N3200الشاشةالحجم 23.8 بوصةالنوع Fast IPSالدقة 1920 في 1080 فل اتش دينسبة العرض 16 إلى 9زوايا الرؤية 178 درجة افقي و178 درجة رأسيالسطوع 300 شمعةكثافة البكسل 93 بيكسل لكل بوصةطبقة حماية ضد الانعكاس",
+  "descriptionHtml": "<p>مواصفات شاشة</p><p>Philips 24M2N3200</p><p><br></p><p>الشاشة</p><p>الحجم 23.8 بوصة</p><p>النوع Fast IPS</p><p>الدقة 1920 في 1080 فل اتش دي</p><p>نسبة العرض 16 إلى 9</p><p>زوايا الرؤية 178 درجة افقي و178 درجة رأسي</p><p>السطوع 300 شمعة</p><p>كثافة البكسل 93 بيكسل لكل بوصة</p><p>طبقة حماية ضد الانعكاس</p><p><br></p><p>الألوان</p><p>عدد الالوان 16.7 مليون لون</p><p>تغطية الالوان sRGB حوالي 109 بالمية وDCI P3 حوالي 87 بالمية</p><p>دعم HDR10</p><p><br></p><p>الأداء</p><p>معدل التحديث يصل الى 260 هرتز مع كسر السرعة</p><p>زمن الاستجابة 1 مللي ثانية جراي تو جراي و0.3 مللي ثانية ام بي ار تي</p><p>نسبة التباين 1000 إلى 1</p><p>تقنية مزامنة Adaptive Sync</p><p>متوافق مع G Sync</p><p>تقليل تأخير الادخال</p><p><br></p><p>المميزات</p><p>تقنية تقليل الاهتزاز Flicker Free</p><p>وضع تقليل الضوء الازرق</p><p>اوضاع مخصصة للالعاب</p><p>تحسين الصورة SmartImage</p><p>تقليل الضبابية في الحركة</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    }
+  ]
+}

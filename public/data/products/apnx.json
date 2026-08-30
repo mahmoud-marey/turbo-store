@@ -1,0 +1,55 @@
+{
+  "id": 851,
+  "slug": "apnx",
+  "name": "apnx",
+  "model": "",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "",
+  "images": [],
+  "labels": [],
+  "tags": [],
+  "shortDescription": "",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    }
+  ]
+}

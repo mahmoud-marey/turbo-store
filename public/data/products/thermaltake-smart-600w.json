@@ -1,0 +1,202 @@
+{
+  "id": 912,
+  "slug": "thermaltake-smart-600w",
+  "name": "Thermaltake smart 600w 80plus white tray Power Supply",
+  "model": "Smart",
+  "brand": "Thermaltake",
+  "brandSlug": "thermaltake",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 1800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012%20(5)_260526180700-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012%20(5)_260526180700-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012%20(5)_260526180700-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012%20(5)_260526180700-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "thermaltake",
+    "smart",
+    "600w",
+    "80plus",
+    "white",
+    "power",
+    "supply"
+  ],
+  "shortDescription": "```html\r\n\r\n\r\n\r\n    \r\n    \r\n    thermaltake smart 600w 80plus white tray specs\r\n    \r\n        body {\r\n            font-family: sans-serif;\r\n            background-color: #f4f4f4;\r\n            padding: 20px;\r\n        }\r\n  ",
+  "descriptionHtml": "```htmlthermaltake smart 600w 80plus white tray specs<div><h2>thermaltake smart 600w 80plus white tray</h2><table><tbody><tr><td>brand</td><td>thermaltake</td></tr><tr><td>series</td><td>smart series</td></tr><tr><td>model</td><td>ps-spd-0600npcwus-w</td></tr><tr><td>packaging-type</td><td>tray (bulk / OEM without retail box)</td></tr><tr><td>type</td><td>intel atx 12v 2.3</td></tr><tr><td>max-output-capacity</td><td>600w</td></tr><tr><td>color</td><td>black</td></tr><tr><td>dimension</td><td>150mm x 86mm x 140mm</td></tr><tr><td>pfc</td><td>active pfc</td></tr><tr><td>power-good-signal</td><td>100-500 msec</td></tr><tr><td>hold-up-time</td><td>16msec minimum at 80% load</td></tr><tr><td>input-current</td><td>10a max</td></tr><tr><td>input-frequency-range</td><td>50hz - 60hz</td></tr><tr><td>input-voltage</td><td>100v - 240v</td></tr><tr><td>operating-temperature</td><td>5c to +40c</td></tr><tr><td>operating-humidity</td><td>20% to 85% non-condensing</td></tr><tr><td>cooling-system</td><td>120mm fan (1800 rpm)</td></tr><tr><td>efficiency</td><td>80-87% efficiency at 20-100% load</td></tr><tr><td>mtbf</td><td>100,000 hrs minimum</td></tr><tr><td>certification</td><td>80 plus white</td></tr><tr><td>protection</td><td>opp, ovp, scp</td></tr><tr><td>main-power-connector</td><td>1 x 20+4pin</td></tr><tr><td>atx-12v-connector</td><td>1 x atx 12v 4+4pin</td></tr><tr><td>sata-connector</td><td>6 x sata 5pin</td></tr><tr><td>pci-e-connector</td><td>2 x pci-e 6+2pin</td></tr><tr><td>peripheral-connector</td><td>3 x peripheral 4pin</td></tr><tr><td>floppy-connector</td><td>1 x floppy 4pin</td></tr></tbody></table></div>```<div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "series",
+      "value": "smart series"
+    },
+    {
+      "group": "specs",
+      "label": "model",
+      "value": "ps-spd-0600npcwus-w"
+    },
+    {
+      "group": "specs",
+      "label": "packaging-type",
+      "value": "tray (bulk / OEM without retail box)"
+    },
+    {
+      "group": "specs",
+      "label": "type",
+      "value": "intel atx 12v 2.3"
+    },
+    {
+      "group": "specs",
+      "label": "max-output-capacity",
+      "value": "600w"
+    },
+    {
+      "group": "specs",
+      "label": "color",
+      "value": "black"
+    },
+    {
+      "group": "specs",
+      "label": "dimension",
+      "value": "150mm x 86mm x 140mm"
+    },
+    {
+      "group": "specs",
+      "label": "pfc",
+      "value": "active pfc"
+    },
+    {
+      "group": "specs",
+      "label": "power-good-signal",
+      "value": "100-500 msec"
+    },
+    {
+      "group": "specs",
+      "label": "hold-up-time",
+      "value": "16msec minimum at 80% load"
+    },
+    {
+      "group": "specs",
+      "label": "input-current",
+      "value": "10a max"
+    },
+    {
+      "group": "specs",
+      "label": "input-frequency-range",
+      "value": "50hz - 60hz"
+    },
+    {
+      "group": "specs",
+      "label": "input-voltage",
+      "value": "100v - 240v"
+    },
+    {
+      "group": "specs",
+      "label": "operating-temperature",
+      "value": "5c to +40c"
+    },
+    {
+      "group": "specs",
+      "label": "operating-humidity",
+      "value": "20% to 85% non-condensing"
+    },
+    {
+      "group": "specs",
+      "label": "cooling-system",
+      "value": "120mm fan (1800 rpm)"
+    },
+    {
+      "group": "specs",
+      "label": "efficiency",
+      "value": "80-87% efficiency at 20-100% load"
+    },
+    {
+      "group": "specs",
+      "label": "mtbf",
+      "value": "100,000 hrs minimum"
+    },
+    {
+      "group": "specs",
+      "label": "certification",
+      "value": "80 plus white"
+    },
+    {
+      "group": "specs",
+      "label": "protection",
+      "value": "opp, ovp, scp"
+    },
+    {
+      "group": "specs",
+      "label": "main-power-connector",
+      "value": "1 x 20+4pin"
+    },
+    {
+      "group": "specs",
+      "label": "atx-12v-connector",
+      "value": "1 x atx 12v 4+4pin"
+    },
+    {
+      "group": "specs",
+      "label": "sata-connector",
+      "value": "6 x sata 5pin"
+    },
+    {
+      "group": "specs",
+      "label": "pci-e-connector",
+      "value": "2 x pci-e 6+2pin"
+    },
+    {
+      "group": "specs",
+      "label": "peripheral-connector",
+      "value": "3 x peripheral 4pin"
+    },
+    {
+      "group": "specs",
+      "label": "floppy-connector",
+      "value": "1 x floppy 4pin"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-11",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-16",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-21",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    }
+  ]
+}

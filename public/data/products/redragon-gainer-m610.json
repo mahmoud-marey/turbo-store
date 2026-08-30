@@ -1,0 +1,80 @@
+{
+  "id": 410,
+  "slug": "redragon-gainer-m610",
+  "name": "Redragon Gainer M610 Gaming Mouse",
+  "model": "m610",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211215828-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211215828-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211215828-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211215828-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/redragon/m610%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/redragon/m610%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/redragon/m610%203-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/redragon/m610%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/redragon/m610%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/redragon/m610%202-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "Redragon",
+    "Gainer",
+    "M610",
+    "Gaming"
+  ],
+  "shortDescription": "Features:3200 DPI(4GEAR:1000/1600/2400/3200)6600FPS 10G ACC500Hz polling rate&nbsp;HUANO gaming switchDurable smooth TEFLON feet padsDriver :macro.button.light.adjustable7 buttons5 memory modesSpecifications:Interface:US",
+  "descriptionHtml": "<div bis_skin_checked=\"1\"><p><img src=\"https://turbo-computer.com/image/catalog/accessories/M610 2.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/M610 3.jpg\"><span><br></span></p><p><span><br></span></p><p><span>Features:</span></p><p><span>3200 DPI(4GEAR:1000/1600/2400/3200)</span></p><p><span>6600FPS 10G ACC</span></p><p><span>500Hz polling rate&nbsp;</span></p><p><span>HUANO gaming switch</span></p><p><span>Durable smooth TEFLON feet pads</span></p><p><span>Driver :macro.button.light.adjustable</span></p><p><span>7 buttons</span></p><p><span>5 memory modes</span></p><p><span>Specifications:</span></p><p><span>Interface:USB</span></p><p><span>Voltage:5V</span></p><p><span>Current:100mA</span></p><p><span>Cable Length:180cm</span></p><p><span>Weight:138.4g</span></p><p><span>Dimension:128.5x74x41mm</span></p></div><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    }
+  ]
+}

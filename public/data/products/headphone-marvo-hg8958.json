@@ -1,0 +1,79 @@
+{
+  "id": 252,
+  "slug": "headphone-marvo-hg8958",
+  "name": "Marvo HG8958 gaming headset",
+  "model": "HG8958",
+  "brand": "MARVO",
+  "brandSlug": "marvo",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 799,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260204210823-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260204210823-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260204210823-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260204210823-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/hg8958%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/hg8958%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/hg8958%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Marvo",
+    "HG8958",
+    "gaming",
+    "headset"
+  ],
+  "shortDescription": "USB 2.0 Stereo Gaming Headsets with 40mm DriversProfessional 40mm audio driversImmersive 360-degree stereo soundIlluminating RGB light displayOmnidirectional mic for crystal clear communication...",
+  "descriptionHtml": "<div bis_skin_checked=\"1\"><b>USB 2.0 Stereo Gaming Headsets with 40mm Drivers</b></div><div bis_skin_checked=\"1\"><b>Professional 40mm audio drivers</b></div><div bis_skin_checked=\"1\"><b>Immersive 360-degree stereo sound</b></div><div bis_skin_checked=\"1\"><b>Illuminating RGB light display</b></div><div bis_skin_checked=\"1\"><b>Omnidirectional mic for crystal clear communication</b></div><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    }
+  ]
+}

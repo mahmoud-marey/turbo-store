@@ -1,0 +1,138 @@
+{
+  "id": 548,
+  "slug": "cougar-egy-t29-black",
+  "name": "COUGAR EGY T29 Wired Gaming Controller Bla",
+  "model": "T29",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 699,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 20,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-t29-wired-controller-black-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-t29-wired-controller-black-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-t29-wired-controller-black-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-t29-wired-controller-black-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-t29-black-gamepad-back-paddles-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-t29-black-gamepad-back-paddles-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-t29-black-gamepad-back-paddles-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-t29-black-controller-usb-cable-detail-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-t29-black-controller-usb-cable-detail-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-t29-black-controller-usb-cable-detail-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "COUGAR EGY",
+    "T29",
+    "Black",
+    "Wired Controller",
+    "USB Gamepad",
+    "PC Gaming",
+    "PS4 Controller",
+    "6-Axis Gyro",
+    "Macro Back Paddles",
+    "Turbo Function",
+    "Dual Vibration",
+    "3.5mm Audio Jack",
+    "Turbo Computer"
+  ],
+  "shortDescription": "COUGAR EGY T29 Wired Gaming Controller - Black (PlayStation Ergonomic Design / USB Wired / PC &amp; PS4 Compatible / 6-Axis Gyroscope / Dual Vibration Motors / Programmable Macro Back Paddles / Turbo Speed Function / 3.5",
+  "descriptionHtml": "<p>COUGAR EGY T29 Wired Gaming Controller - Black (PlayStation Ergonomic Design / USB Wired / PC &amp; PS4 Compatible / 6-Axis Gyroscope / Dual Vibration Motors / Programmable Macro Back Paddles / Turbo Speed Function / 3.5mm Audio Port)</p><p>Take full control of your gameplay with the COUGAR EGY T29 Wired Gaming Controller in Black, available at Turbo Computer Egypt. Designed with PlayStation DualShock/DualSense ergonomics and non-slip textured grips, this controller offers plug-and-play USB connectivity for PC and PS4, integrated 6-axis motion sensors, dual asymmetric vibration motors, customizable Turbo execution, programmable rear macro paddles (M1/M2), and an integrated 3.5mm headset jack for immersive gaming sessions.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>COUGAR EGY T29 (T-29)</td></tr><tr><td>Color &amp; Ergonomics</td><td>Black Finish / PlayStation DualShock &amp; DualSense Style Ergonomic Shape</td></tr><tr><td>Connectivity &amp; Setup</td><td>Wired USB Interface (2.2M Cable) / Plug-and-Play (No Drivers Required)</td></tr><tr><td>Platform Compatibility</td><td>Windows PC (11 / 10 / 8 / 7) &amp; PlayStation 4 (Base, Slim, Pro)</td></tr><tr><td>Motion Sensing</td><td>Integrated 6-Axis Gyroscope Motion Sensor</td></tr><tr><td>Haptic Feedback</td><td>Dual Motor Asymmetric Vibration (Dynamic Rumble Intensity)</td></tr><tr><td>Programmable Macro Paddles</td><td>2 Programmable Rear Buttons (M1 / M2) for In-Game Custom Mapping</td></tr><tr><td>Performance Modifiers</td><td>Integrated Turbo Rapid-Fire Function + Digital/Analog Mode Switching</td></tr><tr><td>Audio Interface</td><td>Integrated 3.5mm Headset &amp; Audio Jack (Supported on Native PS4 Mode)</td></tr><tr><td>Touchpad &amp; Grips</td><td>Center Click Touchpad Button + Non-Slip Sweat-Proof Textured Grips</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "COUGAR EGY T29 (T-29)"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Ergonomics",
+      "value": "Black Finish / PlayStation DualShock & DualSense Style Ergonomic Shape"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity & Setup",
+      "value": "Wired USB Interface (2.2M Cable) / Plug-and-Play (No Drivers Required)"
+    },
+    {
+      "group": "specs",
+      "label": "Platform Compatibility",
+      "value": "Windows PC (11 / 10 / 8 / 7) & PlayStation 4 (Base, Slim, Pro)"
+    },
+    {
+      "group": "specs",
+      "label": "Motion Sensing",
+      "value": "Integrated 6-Axis Gyroscope Motion Sensor"
+    },
+    {
+      "group": "specs",
+      "label": "Haptic Feedback",
+      "value": "Dual Motor Asymmetric Vibration (Dynamic Rumble Intensity)"
+    },
+    {
+      "group": "specs",
+      "label": "Programmable Macro Paddles",
+      "value": "2 Programmable Rear Buttons (M1 / M2) for In-Game Custom Mapping"
+    },
+    {
+      "group": "specs",
+      "label": "Performance Modifiers",
+      "value": "Integrated Turbo Rapid-Fire Function + Digital/Analog Mode Switching"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Interface",
+      "value": "Integrated 3.5mm Headset & Audio Jack (Supported on Native PS4 Mode)"
+    },
+    {
+      "group": "specs",
+      "label": "Touchpad & Grips",
+      "value": "Center Click Touchpad Button + Non-Slip Sweat-Proof Textured Grips"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-22",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-19",
+      "demo": true
+    }
+  ]
+}

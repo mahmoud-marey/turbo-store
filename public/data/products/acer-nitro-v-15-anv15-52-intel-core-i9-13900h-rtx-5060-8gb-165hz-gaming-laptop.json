@@ -1,0 +1,185 @@
+{
+  "id": 1196,
+  "slug": "acer-nitro-v-15-anv15-52-intel-core-i9-13900h-rtx-5060-8gb-165hz-gaming-laptop",
+  "name": "Acer Nitro V 15 ANV15-52-9703 i9-13900H RTX 5060 16GB RAM 512GB SSD Black",
+  "model": "V 15 ANV15-52-9703",
+  "brand": "ACER",
+  "brandSlug": "acer",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 65499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Acer",
+    "Nitro V 15",
+    "ANV15-52",
+    "Gaming Laptop",
+    "Intel Core i9 13900H",
+    "RTX 5060 8GB",
+    "16GB RAM",
+    "512GB NVMe SSD",
+    "15.6 Inch 165Hz",
+    "IPS Display",
+    "Backlit Keyboard",
+    "Windows 11 Home",
+    "Official Warranty",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Acer Nitro V 15 ANV15-52-9703 Gaming Laptop Intel Core i9-13900H / RTX 5060 8GB (15.6 FHD IPS 165Hz Display / 16GB RAM / 512GB NVMe SSD / Backlit Keyboard / Windows 11 Home / Official 1-Year Agent Warranty)Dominate AAA g",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Acer"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / Part Number",
+      "value": "Nitro V 15 (ANV15-52-9703) / NH.QZAEM.004"
+    },
+    {
+      "group": "specs",
+      "label": "Color Aesthetic",
+      "value": "Obsidian Black"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Official Agent Warranty (ضمان سنة كاملة من الوكيل الرسمي ضد عيوب الصناعة)"
+    },
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel Core i9-13900H Processor (14 Cores: 6 Performance Cores + 8 Efficient Cores, 20 Threads, Up to 5.40 GHz Max Turbo Frequency, 24MB Smart Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Card (GPU)",
+      "value": "NVIDIA GeForce RTX 5060 8GB GDDR7 Dedicated Laptop GPU"
+    },
+    {
+      "group": "specs",
+      "label": "Display Screen",
+      "value": "15.6 Inch Full HD (1920 x 1080) IPS-Level Anti-Glare Panel, 165Hz Refresh Rate, ComfyView Matte Technology, 16:9 Aspect Ratio,sRGB ~100%"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory (RAM)",
+      "value": "16GB High-Speed RAM (Expandable / Upgradeable Slot Array)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Drive",
+      "value": "512GB PCIe NVMe M.2 High-Speed Solid State Drive (SSD)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home 64-bit Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard & Input",
+      "value": "Full-Size Backlit Keyboard with Integrated Numeric Keypad & Arabic/English Key Legends"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & Speakers",
+      "value": "Dual Stereo Speakers with DTS:X Ultra Audio Support & Acer PurifiedVoice AI Noise Reduction"
+    },
+    {
+      "group": "specs",
+      "label": "Webcam & Mics",
+      "value": "HD Web Camera with Temporal Noise Reduction (TNR) & Dual Microphone Array"
+    },
+    {
+      "group": "specs",
+      "label": "Wireless & Connectivity",
+      "value": "Wi-Fi 6 (802.11ax) Dual-Band + Bluetooth Wireless Card"
+    },
+    {
+      "group": "specs",
+      "label": "I/O Ports Matrix",
+      "value": "1 x USB Type-C (Thunderbolt 4 / DisplayPort / Power Delivery) 3 x USB 3.2 Gen 1 Type-A Ports 1 x HDMI 2.1 Video Output Port 1 x RJ-45 Gigabit Ethernet LAN Port 1 x 3.5mm Combo Audio Headphone/Mic Jack"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System",
+      "value": "Dual Fan Thermal Architecture with NitroSense Performance Customization App"
+    },
+    {
+      "group": "specs",
+      "label": "Battery & Power Adapter",
+      "value": "3-Cell Lithium-Ion Battery (57Wh) with High-Power AC Charging Adapter"
+    },
+    {
+      "group": "specs",
+      "label": "Best Applications",
+      "value": "AAA High-FPS Gaming, Esports Competition, 4K Video Editing, 3D Rendering, Heavy Software Multitasking & STEM Workflows"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    }
+  ]
+}

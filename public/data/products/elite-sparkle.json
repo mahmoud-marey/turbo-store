@@ -1,0 +1,94 @@
+{
+  "id": 675,
+  "slug": "elite-sparkle",
+  "name": "Elite Sparkle Laptop Bag",
+  "model": "Sparkle",
+  "brand": "ELITE",
+  "brandSlug": "elite-bags",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052052-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052052-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052052-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052052-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052036-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052036-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052036-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052021-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052021-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052021-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052107-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052107-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052107-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052124-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052124-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052124-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052139-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052139-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318052139-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Elite",
+    "Sparkle",
+    "Laptop",
+    "Bag"
+  ],
+  "shortDescription": "specifications:Size : 15.6Height :&nbsp;48 cmWidth : 34 cmThe bag comes with two slots to carry more different things– Dedicated Laptop pocket– Another pocket for small and medium belongings such as keys, mobile phones, ",
+  "descriptionHtml": "<p><br></p><p>specifications:</p><p>Size : 15.6</p><p>Height :&nbsp;48 cm</p><p>Width : 34 cm</p><p><br></p><p>The bag comes with two slots to carry more different things</p><p><br></p><p>– Dedicated Laptop pocket</p><p><br></p><p>– Another pocket for small and medium belongings such as keys, mobile phones, etc</p><p><br></p><p>&nbsp;</p><p><br></p><p>There is also a small hand at the top of the</p><p>bag with a flexible leather lining for easy carrying from the top if you want to carry it from one place to another</p><p><br></p><p>The entire bag is not waterproof…except for</p><p>the splash-proof zipper only.</p><p><br></p><p>The bag is suitable for laptops up to 15.6</p><p>inches.</p><p><br></p><p>It is also suitable for daily use</p><p><br></p><p>The materials are washable according to the conditions stated on the instruction label</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-16",
+      "demo": true
+    }
+  ]
+}

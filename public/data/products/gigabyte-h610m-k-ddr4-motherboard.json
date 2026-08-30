@@ -1,0 +1,69 @@
+{
+  "id": 938,
+  "slug": "gigabyte-h610m-k-ddr4-motherboard",
+  "name": "GIGABYTE H610M K DDR4 Motherboard",
+  "model": "H610M K",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 3700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0013_260608181241-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0013_260608181241-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0013_260608181241-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0013_260608181241-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "H610M",
+    "K",
+    "DDR4",
+    "Motherboard"
+  ],
+  "shortDescription": "https://www.gigabyte.com/Motherboard/H610M-K-DDR4-rev-10GIGABYTE H610M K DDR4 – SpecificationsChipset: Intel H610Socket: LGA1700Form Factor: Micro-ATXCPU Support: Intel Core 12th, 13th, and 14th Gen processorsMemory Slot",
+  "descriptionHtml": "<p><a href=\"https://www.gigabyte.com/Motherboard/H610M-K-DDR4-rev-10\" target=\"_blank\">https://www.gigabyte.com/Motherboard/H610M-K-DDR4-rev-10</a></p><p><br></p><p><br></p><p><strong>GIGABYTE H610M K DDR4 – Specifications</strong></p><ul><li><p>Chipset: Intel H610</p></li><li><p>Socket: LGA1700</p></li><li><p>Form Factor: Micro-ATX</p></li><li><p>CPU Support: Intel Core 12th, 13th, and 14th Gen processors</p></li><li><p>Memory Slots: 2 × DDR4 DIMM</p></li><li><p>Maximum Memory: 64GB</p></li><li><p>Memory Speeds: Up to DDR4-3200</p></li><li><p>PCIe Slots:</p><ul><li><p>1 × PCIe 4.0 x16</p></li><li><p>1 × PCIe 3.0 x1</p></li></ul></li><li><p>Storage:</p><ul><li><p>1 × M.2 NVMe PCIe 3.0 x4</p></li><li><p>2 × SATA 6Gb/s</p></li></ul></li><li><p>Graphics Output:</p><ul><li><p>1 × HDMI 2.1</p></li></ul></li><li><p>Network:</p><ul><li><p>Gigabit LAN</p></li></ul></li><li><p>Audio:</p><ul><li><p>Realtek HD Audio (7.1-channel)</p></li></ul></li><li><p>USB Ports:</p><ul><li><p>USB 3.2 Gen 1</p></li><li><p>USB 2.0</p></li></ul></li><li><p>Fan Headers:</p><ul><li><p>1 × CPU Fan</p></li><li><p>1 × System Fan</p></li></ul></li><li><p>BIOS Features:</p><ul><li><p>UEFI BIOS</p></li><li><p>Q-Flash</p></li><li><p>Smart Fan 6</p></li></ul></li></ul><p><strong>Suitable for:</strong></p><ul><li><p>Intel Core i3-12100F / i5-12400F / i5-13400F</p></li><li><p>Budget gaming and office PCs</p></li><li><p>DDR4 memory builds</p></li></ul><p><strong>Limitations:</strong></p><ul><li><p>Only 2 RAM slots</p></li><li><p>Only 1 M.2 slot</p></li><li><p>No CPU overclocking support</p></li><li><p>Basic power delivery, not ideal for high-end CPUs like i7/i9 K-series under heavy loads.</p></li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    }
+  ]
+}

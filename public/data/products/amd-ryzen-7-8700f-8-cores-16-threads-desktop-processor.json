@@ -1,0 +1,178 @@
+{
+  "id": 1205,
+  "slug": "amd-ryzen-7-8700f-8-cores-16-threads-desktop-processor",
+  "name": "AMD Ryzen 7 8700F 8 Cores 16 Threads Processor Up To 5.0GHz",
+  "model": "8700F",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 9199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-8700f-desktop-cpu-top-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-8700f-desktop-cpu-top-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-8700f-desktop-cpu-top-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-8700f-desktop-cpu-top-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 7",
+    "8700F",
+    "AM5 Socket",
+    "8 Cores",
+    "16 Threads",
+    "Zen 4 Architecture",
+    "5.0GHz Boost",
+    "16MB Cache",
+    "PCIe 4.0",
+    "DDR5",
+    "65W TDP",
+    "Phoenix Codename",
+    "Gaming CPU",
+    "Desktop Processor",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "AMD Ryzen 7 8700F 8-Core 16-Thread Desktop Processor (Socket AM5 / 4.1GHz Base Clock / Up to 5.0GHz Max Boost / 16MB L3 Cache / 65W TDP / Zen 4 Architecture / TSMC 4nm FinFET / PCIe 4.0 Support / DDR5 Memory / 1-Year Sto",
+  "descriptionHtml": "<p><span>AMD Ryzen 7 8700F 8-Core 16-Thread Desktop Processor (Socket AM5 / 4.1GHz Base Clock / Up to 5.0GHz Max Boost / 16MB L3 Cache / 65W TDP / Zen 4 Architecture / TSMC 4nm FinFET / PCIe 4.0 Support / DDR5 Memory / 1-Year Store Warranty)</span></p><p>Take your gaming and content creation performance to the next level with the AMD Ryzen 7 8700F desktop processor, available at Turbo Computer Egypt backed by a 1-Year store warranty. Built on the advanced Zen 4 architecture using cutting-edge TSMC 4nm process technology (formerly codenamed Phoenix), this Socket AM5 processor features 8 cores and 16 threads with boost speeds reaching up to 5.0GHz. Operating efficiently at a default 65W TDP (cTDP 45-65W), it fully supports high-performance DDR5 memory and PCIe 4.0 connectivity, making it an ideal core component for high-end desktop gaming builds.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>AMD</td></tr><tr><td>Processor Family / Series</td><td>AMD Ryzen 7 / Ryzen 8000 Series</td></tr><tr><td>Model Name</td><td>Ryzen 7 8700F</td></tr><tr><td>Warranty Period</td><td>1-Year Warranty (ضمان لمدة سنة)</td></tr><tr><td>CPU Cores / Threads</td><td>8 Cores / 16 Threads (Multithreading Supported)</td></tr><tr><td>Core Architecture / Codename</td><td>Zen 4 Architecture / Phoenix</td></tr><tr><td>Manufacturing Process</td><td>TSMC 4nm FinFET Technology (Die Size: 178mm²)</td></tr><tr><td>CPU Socket Platform</td><td>Socket AM5</td></tr><tr><td>Base Clock Speed</td><td>4.1 GHz</td></tr><tr><td>Max Boost Clock Speed</td><td>Up to 5.0 GHz</td></tr><tr><td>Cache Sizes</td><td>L2 Cache: 8 MB | L3 Cache: 16 MB Unified Shared</td></tr><tr><td>Unlocked for Overclocking</td><td>Yes (Precision Boost 2 &amp; Overclocking Supported)</td></tr><tr><td>Thermal Design Power (TDP)</td><td>Default 65W (Configurable cTDP: 45W - 65W)</td></tr><tr><td>PCI Express Version</td><td>PCIe 4.0 Support</td></tr><tr><td>System Memory Support</td><td>DDR5 Memory Only | Dual-Channel Support (AMD EXPO Supported)</td></tr><tr><td>Integrated Graphics Capabilities</td><td>None (F-Series: Discrete Graphics Card Required for Display Output)</td></tr><tr><td>Thermal Solution (Cooler)</td><td>AMD Wraith Stealth Cooler Included</td></tr><tr><td>Supported Motherboard Chipsets</td><td>AMD X670E, X670, B650E, B650, A620</td></tr><tr><td>Supported Operating Systems</td><td>Windows 11 64-Bit, Windows 10 64-Bit, RHEL x86 64-Bit, Ubuntu x86 64-Bit</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "AMD"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Family / Series",
+      "value": "AMD Ryzen 7 / Ryzen 8000 Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "Ryzen 7 8700F"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Warranty (ضمان لمدة سنة)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Cores / Threads",
+      "value": "8 Cores / 16 Threads (Multithreading Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "Core Architecture / Codename",
+      "value": "Zen 4 Architecture / Phoenix"
+    },
+    {
+      "group": "specs",
+      "label": "Manufacturing Process",
+      "value": "TSMC 4nm FinFET Technology (Die Size: 178mm²)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket Platform",
+      "value": "Socket AM5"
+    },
+    {
+      "group": "specs",
+      "label": "Base Clock Speed",
+      "value": "4.1 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Max Boost Clock Speed",
+      "value": "Up to 5.0 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Cache Sizes",
+      "value": "L2 Cache: 8 MB | L3 Cache: 16 MB Unified Shared"
+    },
+    {
+      "group": "specs",
+      "label": "Unlocked for Overclocking",
+      "value": "Yes (Precision Boost 2 & Overclocking Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Design Power (TDP)",
+      "value": "Default 65W (Configurable cTDP: 45W - 65W)"
+    },
+    {
+      "group": "specs",
+      "label": "PCI Express Version",
+      "value": "PCIe 4.0 Support"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory Support",
+      "value": "DDR5 Memory Only | Dual-Channel Support (AMD EXPO Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "Integrated Graphics Capabilities",
+      "value": "None (F-Series: Discrete Graphics Card Required for Display Output)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Solution (Cooler)",
+      "value": "AMD Wraith Stealth Cooler Included"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Motherboard Chipsets",
+      "value": "AMD X670E, X670, B650E, B650, A620"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Operating Systems",
+      "value": "Windows 11 64-Bit, Windows 10 64-Bit, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    }
+  ]
+}

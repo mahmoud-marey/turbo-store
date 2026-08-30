@@ -1,0 +1,133 @@
+{
+  "id": 1157,
+  "slug": "aerocool-b312f-flow-argb-black-case-3-fans-lux-550w-power-supply-80-plus-bronze",
+  "name": "Aerocool B312F Flow ARGB Case + LUX 550W Bronze PSU",
+  "model": "B312F Flow",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 2999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-flow-case-lux-550w-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-flow-case-lux-550w-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-flow-case-lux-550w-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-flow-case-lux-550w-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-case-3-argb-fans-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-case-3-argb-fans-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-b312f-case-3-argb-fans-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "B312F Flow",
+    "ARGB Case",
+    "Mid Tower Case",
+    "3 ARGB Fans",
+    "Black Case",
+    "LUX 550W",
+    "Power Supply",
+    "80 Plus Bronze",
+    "Gaming Case Bundle",
+    "PSU Combo",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Aerocool B312F Flow ARGB Gaming Case Black &amp; LUX 550W Power Supply Unit Bundle (3x Pre-Installed ARGB Fans / High Airflow Design / 80 Plus Bronze Certified / 1-Year Local Warranty)Upgrade your gaming build setup with",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Maker",
+      "value": "Aerocool Electronics"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Model",
+      "value": "B312F Flow ARGB Mid-Tower Gaming Case Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Product Color",
+      "value": "Matte Black Premium Gaming Finish"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System Fans",
+      "value": "3x Integrated High-Static Pressure ARGB Fans Setup Included"
+    },
+    {
+      "group": "specs",
+      "label": "Side Panel Window",
+      "value": "Premium Tempered Glass Side Window Profile Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Power Supply Model",
+      "value": "Aerocool LUX 550W Active PFC PSU Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "PSU Efficiency Rating",
+      "value": "80 Plus Bronze Certified for High Energy Efficiency Execution"
+    },
+    {
+      "group": "specs",
+      "label": "Motherboard Support",
+      "value": "ATX, Micro-ATX, and Mini-ITX Form Factors Compatibility"
+    },
+    {
+      "group": "specs",
+      "label": "Front IO Interface",
+      "value": "High Speed USB 3.0 + USB 2.0 + HD Audio Mic Matrix Ports"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": 888,
+  "slug": "patriot-viper-ddr5-16gb",
+  "name": "Patriot Viper DDR5 16 GB 6000mhz CL30",
+  "model": "Viper",
+  "brand": "Patriot",
+  "brandSlug": "patriot",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 11699,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 6,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260520174309-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260520174309-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260520174309-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260520174309-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "patriot",
+    "viper",
+    "ddr5",
+    "16gb",
+    "6000mhz",
+    "cl30"
+  ],
+  "shortDescription": "Patriot Viper DDR5 16GB 6000MHz CL30:\r\n\r\n&nbsp;Patriot Viper DDR5 — Full Specs\r\n\r\n⚡ Performance\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nType\r\nDDR5\r\n\r\n\r\nCapacity\r\n16GB (1× 16GB Single Module)\r\n\r\n\r\nSpeed\r\n6000 MT/s (PC5-48000)\r\n\r\n\r\nC",
+  "descriptionHtml": "<p><strong>Patriot Viper DDR5 16GB 6000MHz CL30</strong>:</p><h3>&nbsp;Patriot Viper DDR5 — Full Specs</h3><h4>⚡ Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR5</td></tr><tr><td>Capacity</td><td>16GB (1× 16GB Single Module)</td></tr><tr><td>Speed</td><td>6000 MT/s (PC5-48000)</td></tr><tr><td>CAS Latency</td><td>&nbsp;CL30</td></tr><tr><td>Timings</td><td>30-40-40-76</td></tr><tr><td>Voltage</td><td>1.35V</td></tr></tbody></table><h4>&nbsp;Technical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>288-pin UDIMM</td></tr><tr><td>Channel</td><td>Single (buy 2 for Dual-Channel)</td></tr><tr><td>IC Manufacturer</td><td>Hynix</td></tr><tr><td>ECC</td><td>On-Die ECC (corrects single-bit errors, detects multi-bit errors)</td></tr><tr><td>Registered</td><td>Unbuffered</td></tr><tr><td>Heat Spreader</td><td>✅ Yes (Aluminum)</td></tr><tr><td>PMIC</td><td>High-quality integrated PMIC for higher speed with lower voltage and less heat</td></tr></tbody></table><h4><br></h4><table><thead></thead><tbody><tr><td><br></td><td></td><td>Compatibility</td></tr></tbody></table><table><thead><tr><th>Platform</th><th>Compatible</th></tr></thead><tbody><tr><td>Intel 12th Gen (LGA1700)</td><td>✅</td></tr><tr><td>Intel 13th Gen (LGA1700)</td><td>✅</td></tr><tr><td>Intel 14th Gen (LGA1700)</td><td>✅</td></tr><tr><td>Intel Core Ultra (LGA1851)</td><td>✅</td></tr><tr><td>AMD AM5 (Ryzen 7000/9000)</td><td>✅</td></tr><tr><td><br></td><td><br></td></tr></tbody></table><h4><span>&nbsp;Key Highlights</span></h4><ul><li>DDR5 doubles the bandwidth of DDR4, making this a significant generational upgrade</li><li>CL30 at 6000MHz is considered the <strong>sweet spot</strong> for DDR5 — offering the best balance of speed and latency for gaming and productivity</li><li>100% hand-tested for quality assurance</li></ul><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "DDR5"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "16GB (1× 16GB Single Module)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "6000 MT/s (PC5-48000)"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL30"
+    },
+    {
+      "group": "specs",
+      "label": "Timings",
+      "value": "30-40-40-76"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.35V"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    }
+  ]
+}

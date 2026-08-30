@@ -1,0 +1,81 @@
+{
+  "id": 720,
+  "slug": "xpg-kyber-850w-80-plus-gold",
+  "name": "XPG KYBER 850w 80 PLUS GOLD",
+  "model": "KYBER",
+  "brand": "ADATA",
+  "brandSlug": "adata",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 4900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143617-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143617-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143617-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143617-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143346-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143346-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143346-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143333-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143333-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402143333-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "2-3 Days",
+    "New"
+  ],
+  "tags": [
+    "XPG",
+    "KYBER",
+    "850w",
+    "80",
+    "PLUS",
+    "GOLD"
+  ],
+  "shortDescription": "**Model**XPG KYBER 850W**Total Power**850 Watts**Efficiency Certification**80 PLUS Gold (up to 91.40% @ 115V, 50% load)**ATX Version**Intel ATX 3.1 Compatible**Form Factor**ATX**Cable Management**Non-Modular**Dimensions ",
+  "descriptionHtml": "<p><br></p><p>**Model**</p><p>XPG KYBER 850W</p><p><br></p><p>**Total Power**</p><p>850 Watts</p><p><br></p><p>**Efficiency Certification**</p><p>80 PLUS Gold (up to 91.40% @ 115V, 50% load)</p><p><br></p><p>**ATX Version**</p><p>Intel ATX 3.1 Compatible</p><p><br></p><p>**Form Factor**</p><p>ATX</p><p><br></p><p>**Cable Management**</p><p>Non-Modular</p><p><br></p><p>**Dimensions (L x W x H)**</p><p>140 mm x 150 mm x 86 mm</p><p><br></p><p>**Weight**</p><p>Approximately 2.03 kg</p><p><br></p><p>**AC Input Range**</p><p>100V - 240V (Full Range)</p><p><br></p><p>**AC Input Frequency**</p><p>47 Hz - 63 Hz</p><p><br></p><p>**AC Input Current**</p><p>12 A</p><p><br></p><p>**Power Factor Correction**</p><p>Active PFC (&gt;0.99)</p><p><br></p><p>**Operating Temperature**</p><p>0°C - 40°C</p><p><br></p><p>**MTBF (Mean Time Between Failures)**</p><p>100,000 hours</p><p><br></p><p>**Protections**</p><p>OVP / OPP / SCP / OCP / UVP / OTP / NLO / SIP</p><p><br></p><p>**Cooling Type**</p><p>Active</p><p><br></p><p>**Fan Size**</p><p>120 mm x 120 mm x 25 mm</p><p><br></p><p>**Fan Bearing**</p><p>Fluid Dynamic Bearing (FDB)</p><p><br></p><p>**Fan Speed**</p><p>2400 RPM</p><p><br></p><p>**Noise Certification**</p><p>Cybenetics LAMBDA Standard ++</p><p><br></p><p>**Efficiency Certification (Cybenetics)**</p><p>Cybenetics ETA Gold</p><p><br></p><p>**Motherboard Connector (24-pin)**</p><p>1 (650 mm cable length)</p><p><br></p><p>**EPS/CPU Connector (8-pin / 4+4-pin)**</p><p>2</p><p><br></p><p>**PCI-e Connector (6+2-pin)**</p><p>2</p><p><br></p><p>**12V-2x6 Connector (PCIe 5.1)**</p><p>1 (600W rated, 600 mm cable length)</p><p><br></p><p>**SATA Connector**</p><p>6 (450 mm cable length)</p><p><br></p><p>**Molex (4-pin) Connector**</p><p>2</p><div class=\"",
+  "specs": [],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 868,
+  "slug": "cougar-egy-hdmi-2-1-5m-cable",
+  "name": "Cougar egy Hdmi 2.1 5m Cable",
+  "model": "2.1",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "cables-adapters"
+  ],
+  "price": 330,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510190938-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510190938-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510190938-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510190938-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Cougar",
+    "Egy",
+    "Hdmi",
+    "2.1",
+    "5m",
+    "Cable"
+  ],
+  "shortDescription": "The following list shows what HDMI 2.1 can handle using its native 48Gbps bandwidth without relying on Display Stream Compression (DSC):1080p (Full HD):60Hz / 120Hz / 144Hz / 240Hz1440p (QHD):60Hz / 120Hz / 144Hz / 240Hz",
+  "descriptionHtml": "<div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_b10af515756a1eaa\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><div><br></div><p>The following list shows what HDMI 2.1 can handle using its native <b>48Gbps</b> bandwidth <b>without</b> relying on Display Stream Compression (DSC):</p><ul><li><p><b>1080p (Full HD):</b></p><ul><li><p>60Hz / 120Hz / 144Hz / 240Hz</p></li></ul></li><li><p><b>1440p (QHD):</b></p><ul><li><p>60Hz / 120Hz / 144Hz / 240Hz</p></li></ul></li><li><p><b>4K (Ultra HD):</b></p><ul><li><p>60Hz</p></li><li><p>120Hz</p></li><li><p>144Hz (This is the upper limit for uncompressed 4K at 10-bit color)</p></li></ul></li><li><p><b>5K:</b></p><ul><li><p>60Hz</p></li></ul></li><li><p><b>8K:</b></p><ul><li><p>30Hz</p></li><li><p>60Hz (Requires 4:2:0 chroma)</p></li></ul></li></ul></div><div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_b10af515756a1eaa\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_4cd219d0405713db\" aria-live=\"off\" aria-busy=\"false\" dir=\"ltr\"><h3><b>Technical Specifications</b></h3><ul><li><p><b>Model/Version:</b> HDMI Version 2.1V</p></li><li><p><b>Cable Type:</b> Ultra High-Speed HDMI with Ethernet</p></li><li><p><b>Length:</b>&nbsp;5 Meters</p></li><li><p><b>Performance:</b> High Performance Advanced Digital Audio/Video Cable</p></li></ul><h3><b>Resolution &amp; Performance</b></h3></div></div><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-20",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-12",
+      "demo": true
+    }
+  ]
+}

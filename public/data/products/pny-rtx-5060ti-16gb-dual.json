@@ -1,0 +1,141 @@
+{
+  "id": 773,
+  "slug": "pny-rtx-5060ti-16gb-dual",
+  "name": "PNY GeForce RTX 5060 Ti 16GB GDDR7 Stealth Dual Fan Graphics Card (VCG5060T16DFXPB1)",
+  "model": "VCG5060T16DFXPB1-O",
+  "brand": "PNY",
+  "brandSlug": "pny",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 34799,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan--100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan--600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/pny-geforce-rtx-5060-ti-16gb-gddr7-verto-dual-fan--1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "PNY",
+    "GeForce RTX",
+    "RTX 5060 Ti",
+    "Verto",
+    "Dual Fan",
+    "16GB GDDR7",
+    "PCIe 5.0",
+    "Stealth Mode",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "PNY GeForce RTX 5060 Ti 16GB GDDR7 Verto Dual Fan Graphics CardEmpower your heavy creative rendering, AI processing, and ultra-settings gaming with the high-performance PNY GeForce RTX 5060 Ti 16GB GDDR7 Verto Dual Fan g",
+  "descriptionHtml": "<p><span>PNY GeForce RTX 5060 Ti 16GB GDDR7 Verto Dual Fan Graphics Card</span></p><p>Empower your heavy creative rendering, AI processing, and ultra-settings gaming with the high-performance PNY GeForce RTX 5060 Ti 16GB GDDR7 Verto Dual Fan graphics card, distributed via Turbo Computer Egypt. Built on NVIDIA's high-efficiency next-generation architecture, this standout model features a massive 16GB of ultra-fast next-gen GDDR7 dedicated memory layout combined with cutting-edge PCIe 5.0 high-speed interface support, providing an expansive, bottleneck-free frame buffer. The specialized Verto Dual Fan configuration integrates a streamlined thermal setup with a dedicated Stealth Mode for whisper-quiet or silent operational capability under varied workloads. Complete with a compact multi-slot footprint for excellent case compatibility, this elite graphics infrastructure is officially backed by a 3-year factory warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>PNY</td></tr><tr><td>Product Series</td><td>PNY Verto Series (Stealth Mode Edition)</td></tr><tr><td>Model Number / SKU</td><td>VCG5060T16DFXPB1</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5060 Ti</td></tr><tr><td>Video Memory (VRAM)</td><td>16GB GDDR7 Next-Generation Ultra-Fast Memory Matrix</td></tr><tr><td>Bus Standard</td><td>PCI Express® PCIe 5.0 High-Speed Interface Layout</td></tr><tr><td>Thermal Profile</td><td>Verto Dual Fan Architecture with Intelligent Stealth Mode Fan-Stop</td></tr><tr><td>Form Factor Layout</td><td>Compact Multi-Slot Design (Excellent Mid/SFF Tower Chassis Compatibility)</td></tr><tr><td>Display Outputs</td><td>Native DisplayPort Arrays + Native HDMI Interface (HDCP Compliant)</td></tr><tr><td>Recommended PSU</td><td>550W or Higher Quality Certified Power Supply Unit</td></tr><tr><td>Country of Origin</td><td>Vietnam (COO: VN)</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "PNY"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "PNY Verto Series (Stealth Mode Edition)"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / SKU",
+      "value": "VCG5060T16DFXPB1"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5060 Ti"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "16GB GDDR7 Next-Generation Ultra-Fast Memory Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Bus Standard",
+      "value": "PCI Express® PCIe 5.0 High-Speed Interface Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Profile",
+      "value": "Verto Dual Fan Architecture with Intelligent Stealth Mode Fan-Stop"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor Layout",
+      "value": "Compact Multi-Slot Design (Excellent Mid/SFF Tower Chassis Compatibility)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "Native DisplayPort Arrays + Native HDMI Interface (HDCP Compliant)"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "550W or Higher Quality Certified Power Supply Unit"
+    },
+    {
+      "group": "specs",
+      "label": "Country of Origin",
+      "value": "Vietnam (COO: VN)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-19",
+      "demo": true
+    }
+  ]
+}

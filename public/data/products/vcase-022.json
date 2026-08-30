@@ -1,0 +1,68 @@
+{
+  "id": 706,
+  "slug": "vcase-022",
+  "name": "Vcase 022 Laptop Backpack",
+  "model": "022",
+  "brand": "V Case",
+  "brandSlug": "index.php",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 750,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260322171707-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260322171707-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260322171707-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260322171707-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Vcase",
+    "022",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "مواصفات Vcase 022 Laptop Backpackالماركة Vcaseالموديل 022اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر عالي الجودة مقاوم للماءالأبعاد حوالي 45 × 30 × 15 سمالسعة حوالي 20 لترالوزن حوالي 09 كجمالمميزاتتصميم عملي وع",
+  "descriptionHtml": "<p>مواصفات</p><p> Vcase 022 Laptop Backpack</p><p><br></p><p>الماركة Vcase</p><p>الموديل 022</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر عالي الجودة مقاوم للماء</p><p>الأبعاد حوالي 45 × 30 × 15 سم</p><p>السعة حوالي 20 لتر</p><p>الوزن حوالي 09 كجم</p><p><br></p><p>المميزات</p><p>تصميم عملي وعصري مناسب للعمل والدراسة والتنقل اليومي</p><p>جيب مخصص للابتوب مع بطانة حماية</p><p>مساحة داخلية منظمة مع عدة جيوب للاكسسوارات</p><p>ظهر مبطن مريح مع تهوية جيدة</p><p>حمالات كتف قابلة للتعديل ومبطنة</p><p>سوست قوية تتحمل الاستخدام اليومي</p><p>مقاومة للماء لحماية المحتويات</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    }
+  ]
+}

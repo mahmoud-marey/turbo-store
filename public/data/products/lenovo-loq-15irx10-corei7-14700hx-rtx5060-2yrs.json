@@ -1,0 +1,105 @@
+{
+  "id": 462,
+  "slug": "lenovo-loq-15irx10-corei7-14700hx-rtx5060-2yrs",
+  "name": "Laptop LENOVO LOQ 15IRX10 Core i7-14700HX , 24GB RAM , 512G SSD M.2 NVMe , RTX 5060 8GB , 15.6 inch FHD IPS 144Hz 2-years warranty",
+  "model": "83JE00D5ED",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 73999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%205-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%205-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%205-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%204-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%204-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%204-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/15irx10%203-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "LENOVO",
+    "LOQ",
+    "15IRX10",
+    "Core",
+    "i7-14700HX",
+    "24GB",
+    "RAM",
+    "512G",
+    "SSD",
+    "M.2",
+    "NVMe",
+    "RTX",
+    "5060",
+    "8GB",
+    "15.6&amp;quot;",
+    "FHD",
+    "IPS",
+    "144Hz",
+    "2-years",
+    "warranty"
+  ],
+  "shortDescription": "laptop Lenovo Loq 15IRX10&nbsp; is a gaming laptop that has the following features:Processor: Intel Core i7-14700HX ( 20 Core, 3.90 GHz to 5.50 GHz)Display: 15.6-inch FHD (1920x 1080) 144Hz Narrow Border DisplayMemory: 2",
+  "descriptionHtml": "<p>laptop Lenovo Loq 15IRX10&nbsp; is a gaming laptop that has the following features:</p><ul><li>Processor: Intel Core i7-14700HX ( 20 Core, 3.90 GHz to 5.50 GHz)</li><li>Display: 15.6-inch FHD (1920x 1080) 144Hz Narrow Border Display</li><li>Memory: 24GB DDR5-RAM</li><li>Storage: 512G M.2 PCIe NVMe SSD</li><li>Graphics: NVIDIA GeForce RTX 5060 8GB GDDR7</li><li>Warranty : 2 Years</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    }
+  ]
+}

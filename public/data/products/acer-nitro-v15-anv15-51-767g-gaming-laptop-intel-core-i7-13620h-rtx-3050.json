@@ -1,0 +1,140 @@
+{
+  "id": 1261,
+  "slug": "acer-nitro-v15-anv15-51-767g-gaming-laptop-intel-core-i7-13620h-rtx-3050",
+  "name": "Acer Nitro V 15 ANV15-51-767G Gaming Laptop - Obsidian Black (Intel Core i7-13620H, 16GB RAM DDR5, 512GB SSD, RTX 3050 6G, 15.6 inch FHD IPS 144Hz, Fingerprint Reader, Windows 11)",
+  "model": "ANV15-51-767G",
+  "brand": "ACER",
+  "brandSlug": "acer",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 51499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-rtx-5060-keyboard-open-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-black-side-ports-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-i9-13900h-chassis-back-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Acer Nitro V 15",
+    "Acer ANV15-51-767G",
+    "Intel Core i7 13620H",
+    "RTX 3050 6GB",
+    "Gaming Laptop",
+    "16GB DDR5",
+    "512GB SSD NVMe",
+    "15.6 inch FHD 144Hz",
+    "Obsidian Black",
+    "Acer Laptop"
+  ],
+  "shortDescription": "Level up your everyday gaming and creative performance with the Acer Nitro V 15 ANV15-51-767G! Powered by a high-performance 13th Gen Intel Core i7 processor, fast DDR5 memory, and NVIDIA GeForce RTX 3050 6GB graphics, t",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel Core i7-13620H (10 Cores: 6P + 4E / 16 Threads, P-core 2.4 / 4.9GHz, E-core 1.8 / 3.6GHz, 24MB Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA GeForce RTX 3050 6GB GDDR6"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "16GB DDR5"
+    },
+    {
+      "group": "specs",
+      "label": "Storage",
+      "value": "512GB SSD M.2 PCIe NVMe"
+    },
+    {
+      "group": "specs",
+      "label": "Display",
+      "value": "15.6 inch FHD (1920x1080) IPS Anti-glare (144Hz Refresh Rate)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home"
+    },
+    {
+      "group": "specs",
+      "label": "Security & Features",
+      "value": "Fingerprint Reader + Backlit Keyboard"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & Camera",
+      "value": "DTS:X Ultra Audio Stereo Speakers + HD Camera"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity",
+      "value": "Wi-Fi 6 + Bluetooth + Ethernet LAN"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Model",
+      "value": "Obsidian Black | Model: ANV15-51-767G"
+    }
+  ],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    }
+  ]
+}

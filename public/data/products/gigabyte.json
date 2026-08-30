@@ -1,0 +1,58 @@
+{
+  "id": 987,
+  "slug": "gigabyte",
+  "name": "gigabyte",
+  "model": "",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "",
+  "images": [],
+  "labels": [
+    "New",
+    "🔥 Bestseller"
+  ],
+  "tags": [],
+  "shortDescription": "",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    }
+  ]
+}

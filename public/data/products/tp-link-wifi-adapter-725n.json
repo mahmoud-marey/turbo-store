@@ -1,0 +1,69 @@
+{
+  "id": 882,
+  "slug": "tp-link-wifi-adapter-725n",
+  "name": "TP LINK wifi adapter 725n",
+  "model": "725n",
+  "brand": "Tp link",
+  "brandSlug": "tp-link",
+  "categorySlugs": [
+    "cables-adapters"
+  ],
+  "price": 350,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160128-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160128-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160128-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/IMG-20260201-WA0012_260519160128-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "tp link",
+    "wifi",
+    "adapter",
+    "725n"
+  ],
+  "shortDescription": "TP-Link TL-WN725N Detailed SpecificationsHardware Interface: USB 2.0  Form Factor: Nano / Miniature (Plug-and-forget design)Wireless Standards: IEEE 802.11n, IEEE 802.11g, IEEE 802.11b (Wi-Fi 4)  Frequency Band: 2.4 GHz ",
+  "descriptionHtml": "<div _ngcontent-ng-c2483222067=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_c9bfe2e0e8c449ed\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><p></p><div _ngcontent-ng-c2483222067=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_0b69311da48d5b67\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><p></p><p></p><h3><b>TP-Link TL-WN725N Detailed Specifications</b></h3><ul><li><p id=\"p-rc_8f58044b1866e9ff-69\"><b>Hardware Interface:</b><span> USB 2.0</span> </p><div _ngcontent-ng-c3641020878=\"\"></div><p></p></li><li><p><b>Form Factor:</b> Nano / Miniature (Plug-and-forget design)</p></li><li><p id=\"p-rc_8f58044b1866e9ff-70\"><span></span><b>Wireless Standards:</b><span> IEEE 802.11n, IEEE 802.11g, IEEE 802.11b (Wi-Fi 4)</span> </p><div _ngcontent-ng-c3641020878=\"\"></div><p></p></li><li><p id=\"p-rc_8f58044b1866e9ff-71\"><b>Frequency Band:</b><span> 2.4 GHz (2.400 - 2.4835 GHz)</span> </p><div _ngcontent-ng-c3641020878=\"\"></div><p></p></li><li><p id=\"p-rc_8f58044b1866e9ff-72\"><b>Maximum Signal Rate:</b><span> Up to 150 Mbps (Dynamic)</span> </sources-car<div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    }
+  ]
+}

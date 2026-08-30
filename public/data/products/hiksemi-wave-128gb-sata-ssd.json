@@ -1,0 +1,77 @@
+{
+  "id": 627,
+  "slug": "hiksemi-wave-128gb-sata-ssd",
+  "name": "HIKSEMI WAVE 128GB SATA III 2.5-Inch Internal Solid State Drive (SSD)",
+  "model": "WAVE",
+  "brand": "Hiksemi",
+  "brandSlug": "hiksemi",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 15,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/hiksemi-wave-128gb-sata-ssd-1024x1024.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/hiksemi-wave-128gb-sata-ssd-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/hiksemi-wave-128gb-sata-ssd-1024x1024.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/hiksemi-wave-128gb-sata-ssd-1024x1024.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "HIKSEMI",
+    "WAVE",
+    "128GB",
+    "SSD",
+    "SATA III",
+    "SATA 3.0",
+    "2.5-Inch",
+    "Internal Drive",
+    "Solid State Drive",
+    "Storage",
+    "PC Upgrade",
+    "Laptop Storage",
+    "Turbo Computer"
+  ],
+  "shortDescription": "HIKSEMI WAVE 128GB SATA III 2.5-Inch Internal Solid State Drive (SSD)Breathe new life into your desktop PC or laptop with the highly efficient HIKSEMI WAVE 128GB SATA III 2.5-Inch Internal SSD. Designed as the perfect bu",
+  "descriptionHtml": "<b><span>HIKSEMI WAVE 128GB SATA III 2.5-Inch Internal Solid State Drive (SSD)</span></b><div><br></div><div>Breathe new life into your desktop PC or laptop with the highly efficient HIKSEMI WAVE 128GB SATA III 2.5-Inch Internal SSD. Designed as the perfect budget-friendly storage upgrade, this reliable solid-state drive delivers a massive performance boost compared to traditional mechanical hard drives (HDDs). Whether you want to slash your operating system boot-up times, load everyday software applications instantly, or improve overall system responsiveness, this 128GB SSD provides the speed and durability required for smooth daily computing.</div><div><br></div><div>Built utilizing high-quality 3D NAND flash technology and operating on the universal SATA III 6Gb/s interface, the HIKSEMI WAVE series ensures stable and high-speed sequential read and write operations. Its ultra-slim 7mm, 2.5-inch form factor makes it universally compatible with almost any modern desktop chassis or slim laptop upgrade bay. With no moving internal parts, it is highly resistant to shocks and vibrations, ensuring quiet operation, lower power consumption, and long-term data safety for your essential files.</div><div><br></div><div><br></div><div><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Brand</b></span></td><td><span>HIKSEMI</span></td></tr><tr><td><span><b>Series</b></span></td><td><span>WAVE Series</span></td></tr><tr><td><span><b>Capacity</b></span></td><td><span>128GB</span></td></tr><tr><td><span><b>Form Factor</b></span></td><td><span>2.5-Inch (7mm slim design)</span></td></tr><tr><td><span><b>Interface</b></span></td><td><span>SATA III 6 Gb/s (SATA 3.0 backward compatible)</span></td></tr><tr><td><span><b>Flash Type</b></span></td><td><span>3D NAND Flash</span></td></tr><tr><td><span><b>Max Sequential Read Speed</b></span></td><td><span>Up to 530 MB/s</span></td></tr><tr><td><span><b>Max Sequential Write Speed</b></span></td><td><span>Up to 400 MB/s</span></td></tr><tr><td><span",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-25",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": 987,
+  "slug": "gigabyte-b550m-ds3h-ac-am4-micro-atx-motherboard",
+  "name": "Gigabyte B550M DS3H AC AMD AM4 Micro-ATX Motherboard with Wi-Fi &amp; Bluetooth",
+  "model": "B550M DS3H AC",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 5600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b550m-ds3h-ac-am4-micro-atx-motherboard-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b550m-ds3h-ac-am4-micro-atx-motherboard-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b550m-ds3h-ac-am4-micro-atx-motherboard-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b550m-ds3h-ac-am4-micro-atx-motherboard-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "B550M DS3H AC",
+    "AM4",
+    "Ultra Durable",
+    "Micro-ATX",
+    "Motherboard",
+    "PCIe 4.0",
+    "Built-in Wi-Fi",
+    "Bluetooth",
+    "PC Upgrade",
+    "ماذربورد جيجابايت",
+    "بوردة b550m"
+  ],
+  "shortDescription": "Gigabyte B550M DS3H AC AMD AM4 Micro-ATX Motherboard with Wi-Fi &amp; BluetoothBuild a rock-solid, high-performance gaming platform or production workstation with the reliable Gigabyte B550M DS3H AC Micro-ATX Motherboard",
+  "descriptionHtml": "<p><span>Gigabyte B550M DS3H AC AMD AM4 Micro-ATX Motherboard with Wi-Fi &amp; Bluetooth</span></p><p>Build a rock-solid, high-performance gaming platform or production workstation with the reliable Gigabyte B550M DS3H AC Micro-ATX Motherboard. Available at Turbo Computer, this feature-packed AMD AM4 socket motherboard fully unleashes the true potential of AMD Ryzen 5000 Series, 4000 G-Series, and 3000 Series processors. It stands as the ultimate price-to-performance hardware foundation for PC builders across Egypt who require advanced PCIe 4.0 speed, stable power delivery, and built-in wireless connectivity without overspending.</p><p>The Gigabyte B550M DS3H AC is engineered for top-tier efficiency, utilizing a robust 5+3 phases pure digital VRM solution with Low RDS(on) MOSFETs to guarantee smooth power under heavy loads. It features ultra-fast Dual NVMe PCIe 4.0/3.0 x4 M.2 slots for lightning-fast SSD storage tracking and an onboard dual-band AC wireless interface paired with Bluetooth for clean, cable-free setups. Enhanced with Realtek GbE LAN, RGB FUSION 2.0 support for customized lighting, and Smart Fan 5 cooling arrays, it provides the definitive entry into high-speed AM4 configurations.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Gigabyte</td></tr><tr><td><strong>Model</strong></td><td>B550M DS3H AC</td></tr><tr><td><strong>CPU Socket</strong></td><td>AMD Socket AM4</td></tr><tr><td><strong>Chipset</strong></td><td>AMD B550</td></tr><tr><td><strong>Form Factor</strong></td><td>Micro-ATX (24.4cm x 24.4cm)</td></tr><tr><td><strong>Memory Slots</strong></td><td>4x DDR4 DIMM (Dual Channel, Supports up to 128GB)</td></tr><tr><td><strong>Expansion Slots</strong></td><td>1x PCIe 4.0/3.0 x16 slot, 1x PCIe 3.0 x1 slot</td></tr><tr><td><strong>Storage Interface</strong></td><td>1x M.2 (PCIe 4.0 x4), 1x M.2 (PCIe 3.0 x4), 4x SATA 6Gb/s</td></tr><tr><td><strong>Wireless Connectivity</strong></td><td>Intel Dual Band Wi-Fi AC + Bluetooth 4.2 / 5.0 compatible</td></tr><tr><td><strong>Wired LAN</strong></td><td>Realtek GbE LAN chip (10/100/1000 Mbit)</td></tr><tr><td><strong>Back Panel I/O Ports</strong></td><td>1x DVI-D, 1x HDMI, 4x USB 3.2 Gen 1, 4x USB 2.0/1.1, 1x RJ-45, 3x Audio Jacks, 2x SMA Antenna Connectors</td></tr><tr><td><strong>Special Features</strong></td><td>5+3 Phases Digital VRM, RGB FUSION 2.0, Q-Flash Plus (BIOS Flashback), Smart Fan 5</td></tr><tr><td><strong>Application</strong></td><td>Budget &amp; Mid-Range AMD Ryzen Gaming PCs, Office Desktops &amp; Workstations</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Gigabyte"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "B550M DS3H AC"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket",
+      "value": "AMD Socket AM4"
+    },
+    {
+      "group": "specs",
+      "label": "Chipset",
+      "value": "AMD B550"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "Micro-ATX (24.4cm x 24.4cm)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Slots",
+      "value": "4x DDR4 DIMM (Dual Channel, Supports up to 128GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Slots",
+      "value": "1x PCIe 4.0/3.0 x16 slot, 1x PCIe 3.0 x1 slot"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interface",
+      "value": "1x M.2 (PCIe 4.0 x4), 1x M.2 (PCIe 3.0 x4), 4x SATA 6Gb/s"
+    },
+    {
+      "group": "specs",
+      "label": "Wireless Connectivity",
+      "value": "Intel Dual Band Wi-Fi AC + Bluetooth 4.2 / 5.0 compatible"
+    },
+    {
+      "group": "specs",
+      "label": "Wired LAN",
+      "value": "Realtek GbE LAN chip (10/100/1000 Mbit)"
+    },
+    {
+      "group": "specs",
+      "label": "Back Panel I/O Ports",
+      "value": "1x DVI-D, 1x HDMI, 4x USB 3.2 Gen 1, 4x USB 2.0/1.1, 1x RJ-45, 3x Audio Jacks, 2x SMA Antenna Connectors"
+    },
+    {
+      "group": "specs",
+      "label": "Special Features",
+      "value": "5+3 Phases Digital VRM, RGB FUSION 2.0, Q-Flash Plus (BIOS Flashback), Smart Fan 5"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "Budget & Mid-Range AMD Ryzen Gaming PCs, Office Desktops & Workstations"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    }
+  ]
+}

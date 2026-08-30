@@ -1,0 +1,89 @@
+{
+  "id": 1136,
+  "slug": "fantech-phantom-ii-vx6-macro-gaming-mouse-white",
+  "name": "Fantech Phantom II VX6 Macro Gaming Mouse 7200 DPI RGB - White",
+  "model": "Phantom II VX6",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-phantom-ii-vx6-white-macro-gaming-mouse-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-phantom-ii-vx6-white-macro-gaming-mouse-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-phantom-ii-vx6-white-macro-gaming-mouse-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-phantom-ii-vx6-white-macro-gaming-mouse-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-7-macro-buttons-design-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-7-macro-buttons-design-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-7-macro-buttons-design-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-nylon-braided-cable-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-nylon-braided-cable-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-nylon-braided-cable-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-running-rgb-lighting-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-running-rgb-lighting-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-vx6-white-running-rgb-lighting-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "Phantom II",
+    "VX6",
+    "Gaming Mouse",
+    "Macro Mouse",
+    "White",
+    "7200 DPI",
+    "RGB",
+    "7 Buttons",
+    "Wired Mouse"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-17",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 643,
+  "slug": "marvo-fn-41-cooling-pad",
+  "name": "Marvo FN-41 Cooling Pad Stand",
+  "model": "FN-41",
+  "brand": "MARVO",
+  "brandSlug": "marvo",
+  "categorySlugs": [
+    "laptop-cooling-pads-stands"
+  ],
+  "price": 900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 15,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/FN%201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/FN%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/FN%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/FN%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/FN%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/FN%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/FN%202-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Marvo",
+    "FN-41",
+    "Cooling",
+    "Pad"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/FN-41-6-500x500.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/FN-41-1.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/FN-41-2.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/FN-41-3.png\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    }
+  ]
+}

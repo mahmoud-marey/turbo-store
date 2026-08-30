@@ -1,0 +1,78 @@
+{
+  "id": 615,
+  "slug": "hiksemi-pocket-ssd",
+  "name": "Hiksemi Pocket Protable SSD 512GB up to 560mb/s R",
+  "model": "Pocket",
+  "brand": "Hiksemi",
+  "brandSlug": "hiksemi",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 3000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225232428-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225232428-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225232428-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225232428-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225231222-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225231222-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260225231222-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Hiksemi",
+    "Pocket",
+    "Protable",
+    "SSD",
+    "500GB",
+    "up",
+    "to",
+    "560mb/s",
+    "R"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/Screenshot_20260225-230738_Chrome.jpg\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-16",
+      "demo": true
+    }
+  ]
+}

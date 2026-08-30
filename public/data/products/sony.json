@@ -1,0 +1,55 @@
+{
+  "id": 144879322,
+  "slug": "sony",
+  "name": "sony",
+  "model": "",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "",
+  "images": [],
+  "labels": [],
+  "tags": [],
+  "shortDescription": "",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    }
+  ]
+}

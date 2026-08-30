@@ -1,0 +1,76 @@
+{
+  "id": 884,
+  "slug": "amd-ryzen-5-8500g-am5-desktop-processor",
+  "name": "AMD Ryzen 5 8500G 6-Core 12-Thread AM5 Processor with Radeon 740M Graphics",
+  "model": "8500g",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 7700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-8500g-am5-desktop-processor-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-8500g-am5-desktop-processor-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-8500g-am5-desktop-processor-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-8500g-am5-desktop-processor-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5",
+    "8500G",
+    "AM5",
+    "Socket AM5",
+    "6-Core",
+    "Radeon 740M",
+    "Desktop Processor",
+    "Budget Gaming CPU",
+    "بروسيسور رايزن",
+    "معالج AMD 8500G"
+  ],
+  "shortDescription": "AMD Ryzen 5 8500G 6-Core 12-Thread AM5 Processor with Built-in Radeon GraphicsBuild a highly efficient, future-proof desktop PC or upgrade your modern workspace configuration with the power-packed AMD Ryzen 5 8500G AM5 D",
+  "descriptionHtml": "<b><span>AMD Ryzen 5 8500G 6-Core 12-Thread AM5 Processor with Built-in Radeon Graphics</span></b><div><br></div><div>Build a highly efficient, future-proof desktop PC or upgrade your modern workspace configuration with the power-packed AMD Ryzen 5 8500G AM5 Desktop Processor. Available at Turbo Computer, this cutting-edge 8000-series APU is the perfect hardware selection for gamers and professionals looking to build a high-performance system without buying an expensive dedicated graphics card. Designed on the revolutionary Zen 4 architecture and built for the long-lasting AM5 platform, it delivers exceptional computing power and fluid daily multi-tasking performance.</div><div><br></div><div>Featuring 6 processing cores and 12 multi-threaded pipelines, the AMD Ryzen 5 8500G operates at a swift base clock speed of 3.5GHz with an impressive max boost clock reaching up to 5.0GHz. The real star of the show is the integrated AMD Radeon 740M Graphics, which provides smooth, playable frame rates in popular esports titles and competitive PC games right out of the box. With native support for ultra-fast DDR5 gaming RAM, PCIe Gen 4 connectivity, and a bundled AMD Wraith Stealth thermal cooler, this highly efficient 65W processor stands as the ultimate foundation for budget-friendly gaming rigs across Egypt.</div><div><br></div><div><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Brand</b></span></td><td><span>AMD</span></td></tr><tr><td><span><b>Series</b></span></td><td><span>Ryzen 5 (8000 Series)</span></td></tr><tr><td><span><b>Model</b></span></td><td><span>Ryzen 5 8500G</span></td></tr><tr><td><span><b>Socket Type</b></span></td><td><span>AM5</span></td></tr><tr><td><span><b>Number of Cores</b></span></td><td><span>6 Cores (2 Zen 4 + 4 Zen 4c)</span></td></tr><tr><td><span><b>Number of Threads</b></span></td><td><span>12 Threads</span></td></tr><tr><td><span><b>Base Clock Speed</b></span></td><td><span>3.5 GHz</span></td></tr><tr><td><span><b>Max Boost Clock Speed</b></span></td><td><span>Up to 5.0 GHz</span></td></tr><tr><td><span",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": 877,
+  "slug": "aoc-24b36x",
+  "name": "AOC 24B36X 24 Inch FHD IPS 144Hz 0.5ms Gaming Monitor",
+  "model": "24B36X",
+  "brand": "AOC",
+  "brandSlug": "aoc",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 4899,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/aoc-24b36x-fhd-ips-144hz-gaming-monitor-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/aoc-24b36x-fhd-ips-144hz-gaming-monitor-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/aoc-24b36x-fhd-ips-144hz-gaming-monitor-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/aoc-24b36x-fhd-ips-144hz-gaming-monitor-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/aoc-24b36x-23-8-inch-monitor-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/aoc-24b36x-23-8-inch-monitor-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/aoc-24b36x-23-8-inch-monitor-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "AOC",
+    "Gaming Monitor",
+    "144Hz",
+    "IPS Panel",
+    "FHD",
+    "24 Inch",
+    "23.8 Inch",
+    "HDR10",
+    "0.5ms MPRT"
+  ],
+  "shortDescription": "AOC 24B36X 23.8 Inch FHD IPS 144Hz Gaming MonitorExperience fluid gameplay and exceptional color depth with the AOC 24B36X 23.8 Inch gaming monitor, brought to you by Turbo Computer Egypt. Built with a vibrant Full HD 19",
+  "descriptionHtml": "<p>AOC 24B36X 23.8 Inch FHD IPS 144Hz Gaming Monitor</p><p>Experience fluid gameplay and exceptional color depth with the AOC 24B36X 23.8 Inch gaming monitor, brought to you by Turbo Computer Egypt. Built with a vibrant Full HD 1920x1080 IPS panel, this display delivers highly accurate visuals paired with wide 178-degree viewing angles. Perfect for fast-paced competitive setups, it features a smooth 144Hz refresh rate and a rapid 0.5ms MPRT response time to effectively eliminate motion blur and input lag. With a strong 1500:1 static contrast ratio, 300 nits of brightness, and HDR10 compliance, it produces deeper shadows and brighter highlights for immersive media and gaming. Its clean profile integrates flawlessly into modern desktop workspaces. This reliable gaming upgrade comes backed by a comprehensive 1-year warranty structure.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>AOC</td></tr><tr><td>Model Number</td><td>24B36X</td></tr><tr><td>Screen Size &amp; Resolution</td><td>23.8 Inch Full HD 1920 x 1080 Pixels</td></tr><tr><td>Panel Technology</td><td>IPS Panel / W-LED Backlight (300 cd/m² Brightness)</td></tr><tr><td>Refresh Rate</td><td>144Hz Smooth Gaming Refresh Rate (48Hz - 144Hz Variable)</td></tr><tr><td>Response Time Speed</td><td>0.5ms MPRT / 4ms G2G Minimum Response Time</td></tr><tr><td>Contrast Ratio</td><td>1500:1 Static Contrast / 20000000:1 Dynamic Contrast</td></tr><tr><td>Visual Standards</td><td>HDR10 Compliant / Anti-glare Matte (3H) Coating</td></tr><tr><td>Color Support</td><td>8 bits Depth / 16.7 Million Colors</td></tr><tr><td>Warranty Structure</td><td>1-Year Warranty (ضمان لمدة سنة واحدة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "AOC"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number",
+      "value": "24B36X"
+    },
+    {
+      "group": "specs",
+      "label": "Screen Size & Resolution",
+      "value": "23.8 Inch Full HD 1920 x 1080 Pixels"
+    },
+    {
+      "group": "specs",
+      "label": "Panel Technology",
+      "value": "IPS Panel / W-LED Backlight (300 cd/m² Brightness)"
+    },
+    {
+      "group": "specs",
+      "label": "Refresh Rate",
+      "value": "144Hz Smooth Gaming Refresh Rate (48Hz - 144Hz Variable)"
+    },
+    {
+      "group": "specs",
+      "label": "Response Time Speed",
+      "value": "0.5ms MPRT / 4ms G2G Minimum Response Time"
+    },
+    {
+      "group": "specs",
+      "label": "Contrast Ratio",
+      "value": "1500:1 Static Contrast / 20000000:1 Dynamic Contrast"
+    },
+    {
+      "group": "specs",
+      "label": "Visual Standards",
+      "value": "HDR10 Compliant / Anti-glare Matte (3H) Coating"
+    },
+    {
+      "group": "specs",
+      "label": "Color Support",
+      "value": "8 bits Depth / 16.7 Million Colors"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Structure",
+      "value": "1-Year Warranty (ضمان لمدة سنة واحدة من الوكيل)"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    }
+  ]
+}

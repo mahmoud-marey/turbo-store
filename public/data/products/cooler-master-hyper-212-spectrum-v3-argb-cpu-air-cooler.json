@@ -1,0 +1,155 @@
+{
+  "id": 1177,
+  "slug": "cooler-master-hyper-212-spectrum-v3-argb-cpu-air-cooler",
+  "name": "Cooler Master Hyper 212 Spectrum V3 CPU Air Cooler",
+  "model": "Hyper 212",
+  "brand": "Cooler Master",
+  "brandSlug": "cooler-master",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 1349,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-spectrum-v3-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-spectrum-v3-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-spectrum-v3-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-spectrum-v3-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-spectrum-v3-fan-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-spectrum-v3-fan-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-spectrum-v3-fan-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-heatpipes-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-heatpipes-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-hyper-212-heatpipes-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "Cooler Master",
+    "Hyper 212",
+    "Spectrum V3",
+    "CPU Cooler",
+    "Air Cooler",
+    "ARGB Cooler",
+    "4 Heat Pipes",
+    "Intel LGA1851",
+    "Intel LGA1700",
+    "AMD AM5",
+    "AMD AM4",
+    "120mm Fan",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Cooler Master Hyper 212 Spectrum V3 ARGB CPU Air Cooler (4 Direct Contact Heat Pipes / 120mm Spectrum ARGB PWM Fan / Silver Aluminum Fins / Intel LGA 1851 1700 &amp; AMD AM5 AM4 Ready / RR-S4NA-17PA-R1 / 1-Year Local War",
+  "descriptionHtml": "<p><span>Cooler Master Hyper 212 Spectrum V3 ARGB CPU Air Cooler (4 Direct Contact Heat Pipes / 120mm Spectrum ARGB PWM Fan / Silver Aluminum Fins / Intel LGA 1851 1700 &amp; AMD AM5 AM4 Ready / RR-S4NA-17PA-R1 / 1-Year Local Warranty)</span></p><p>Keep your high-performance processor running cool and quiet with the iconic Cooler Master Hyper 212 Spectrum V3 CPU Air Cooler, available at Turbo Computer Egypt backed by a full 1-Year official local agent warranty layout. Upgraded for modern high-density desktop architectures, this tower cooler features 4 direct-contact copper heat pipes arrayed through nickel-plated aluminum cooling fins for rapid heat dissipation. It comes equipped with a high-airflow 120mm Spectrum Addressable RGB (ARGB) PWM fan operating between 650 to 1750 RPM while producing maximum airflow up to 71.93 CFM at quiet acoustics of just 27.2 dBA. Designed for universal socket hardware installation, it offers out-of-the-box native mounting support for latest Intel LGA 1851 / 1700 and AMD AM5 / AM4 platforms.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Cooler Series</td><td>Cooler Master Hyper Series</td></tr><tr><td>Product Model Part Number</td><td>RR-S4NA-17PA-R1</td></tr><tr><td>Cooler Type &amp; Exterior Color</td><td>Tower Air Cooler / Silver Aluminum Finish</td></tr><tr><td>Intel Socket Compatibility</td><td>LGA 1851 / 1700 / 1200 / 1151 / 1150 / 1155 / 1156</td></tr><tr><td>AMD Socket Compatibility</td><td>AM5 / AM4</td></tr><tr><td>Heat Sink Design &amp; Heat Pipes</td><td>4 Direct Contact Copper Heat Pipes / Aluminum Fins</td></tr><tr><td>Fan Dimensions &amp; Quantity</td><td>120 x 120 x 25 mm (1 PC Included)</td></tr><tr><td>Fan Speed Range</td><td>650 - 1750 RPM ± 10% PWM Control</td></tr><tr><td>Max Airflow &amp; Air Pressure</td><td>71.93 CFM (Max) Airflow / 1.86 mmH2O (Max) Pressure</td></tr><tr><td>Noise Level &amp; Bearing Type</td><td>27.2 dBA (Max Quiet Acoustics) / Rifle Bearing</td></tr><tr><td>Lighting Profile &amp; Power Connector</td><td>Addressable RGB (ARGB) / 4-Pin PWM Connector</td></tr><tr><td>Overall Physical Dimensions</td><td>124 x 73 x 152 mm (Height: 152mm)</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Cooler Series",
+      "value": "Cooler Master Hyper Series"
+    },
+    {
+      "group": "specs",
+      "label": "Product Model Part Number",
+      "value": "RR-S4NA-17PA-R1"
+    },
+    {
+      "group": "specs",
+      "label": "Cooler Type & Exterior Color",
+      "value": "Tower Air Cooler / Silver Aluminum Finish"
+    },
+    {
+      "group": "specs",
+      "label": "Intel Socket Compatibility",
+      "value": "LGA 1851 / 1700 / 1200 / 1151 / 1150 / 1155 / 1156"
+    },
+    {
+      "group": "specs",
+      "label": "AMD Socket Compatibility",
+      "value": "AM5 / AM4"
+    },
+    {
+      "group": "specs",
+      "label": "Heat Sink Design & Heat Pipes",
+      "value": "4 Direct Contact Copper Heat Pipes / Aluminum Fins"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Dimensions & Quantity",
+      "value": "120 x 120 x 25 mm (1 PC Included)"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Speed Range",
+      "value": "650 - 1750 RPM ± 10% PWM Control"
+    },
+    {
+      "group": "specs",
+      "label": "Max Airflow & Air Pressure",
+      "value": "71.93 CFM (Max) Airflow / 1.86 mmH2O (Max) Pressure"
+    },
+    {
+      "group": "specs",
+      "label": "Noise Level & Bearing Type",
+      "value": "27.2 dBA (Max Quiet Acoustics) / Rifle Bearing"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting Profile & Power Connector",
+      "value": "Addressable RGB (ARGB) / 4-Pin PWM Connector"
+    },
+    {
+      "group": "specs",
+      "label": "Overall Physical Dimensions",
+      "value": "124 x 73 x 152 mm (Height: 152mm)"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-24",
+      "demo": true
+    }
+  ]
+}

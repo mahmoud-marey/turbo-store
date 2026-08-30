@@ -1,0 +1,72 @@
+{
+  "id": 847,
+  "slug": "antec-vision-120r-argb-3in1",
+  "name": "Antec VISION 120R ARGB 3in1",
+  "model": "VISION 120R",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 1350,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224341-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224341-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224341-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260504224341-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Antec",
+    "VISION",
+    "120R",
+    "ARGB",
+    "3in1",
+    "Reverse Blade",
+    "PWM",
+    "Case Fan"
+  ],
+  "shortDescription": "Technical SpecificationsThe Antec VISION 120R ARGB 3in1 is a premium set of three Reverse Blade fans. These are specifically designed for intake positions (like the bottom or side of panoramic cases such as the Antec C5 ",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_e68d746bfbfb6e70\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><br></h3><h3><b>Technical Specifications</b></h3><p>The <b>Antec VISION 120R ARGB 3in1</b> is a premium set of three <b>Reverse Blade</b> fans. These are specifically designed for intake positions (like the bottom or side of panoramic cases such as the Antec C5 or C3) so that the \"aesthetic\" side of the fan faces the interior while still pulling air in.</p><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Model</b></span></td><td><span>VISION 120R ARGB (3-in-1 Pack)</span></td></tr><tr><td><span><b>Fan Type</b></span></td><td><span>PWM Reverse Blade Fan</span></td></tr><tr><td><span><b>Dimensions</b></span></td><td><span>120 x 120 x 25 mm</span></td></tr><tr><td><span><b>Bearing Type</b></span></td><td><span>Hydraulic Bearing</span></td></tr><tr><td><span><b>Fan Speed</b></span></td><td><span>600 – 1500 RPM ± 10%</span></td></tr><tr><td><span><b>Airflow</b></span></td><td><span>Up to 58.7 CFM</span></td></tr><tr><td><span><b>Static Pressure</b></span></td><td><span>Up to 1.54 mmH2O</span></td></tr><tr><td><span><b",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    }
+  ]
+}

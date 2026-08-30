@@ -1,0 +1,79 @@
+{
+  "id": 857,
+  "slug": "aerocool-abyss-l240r-digi-liquid-cpu-cooler-argb-black",
+  "name": "Aerocool Abyss L240r Digi Liquid CPU Cooler argb black",
+  "model": "Abyss L240r",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 3700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194315-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194315-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194315-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194315-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194329-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194329-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509194329-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "Abyss",
+    "L240r",
+    "Digi",
+    "Liquid",
+    "CPU",
+    "Cooler",
+    "argb",
+    "black"
+  ],
+  "shortDescription": "General SpecificationsModel: Abyss L240r DigiColor: blackRadiator Material: AluminumRadiator Dimensions: 274mm x 120mm x 27mmPump Dimensions: 70mm x 70mm x 47mmTube Material: High-quality tubing with Teflon coatingFan Sp",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 15,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-21",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-18",
+      "demo": true
+    }
+  ]
+}

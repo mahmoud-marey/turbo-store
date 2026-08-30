@@ -1,0 +1,100 @@
+{
+  "id": 957,
+  "slug": "acer-ud200-16gb-ddr5-5600mhz-desktop-ram",
+  "name": "Acer UD200 16GB DDR5 5600MHz Desktop RAM Module",
+  "model": "UD200 16GB",
+  "brand": "ACER",
+  "brandSlug": "acer",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 9700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/acer-ud200-16gb-ddr5-5600mhz-desktop-ram-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/acer-ud200-16gb-ddr5-5600mhz-desktop-ram-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/acer-ud200-16gb-ddr5-5600mhz-desktop-ram-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/acer-ud200-16gb-ddr5-5600mhz-desktop-ram-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Acer",
+    "UD200",
+    "16GB",
+    "DDR5",
+    "5600MHz",
+    "Desktop RAM",
+    "PC Memory",
+    "High-Speed",
+    "Upgrade",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Acer UD200 16GB DDR5 5600MHz cl46 Desktop PC RAMUnlock next-generation performance and seamless multitasking for your desktop system with the Acer UD200 16GB DDR5 5600MHz Desktop RAM. Engineered to meet the demanding req",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "DDR5 UDIMM (Desktop)"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "16GB (1×16GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "5600MHz (PC5-5600)"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL46"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.1V"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-22",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-19",
+      "demo": true
+    }
+  ]
+}

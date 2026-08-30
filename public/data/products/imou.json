@@ -1,0 +1,57 @@
+{
+  "id": 1244,
+  "slug": "imou",
+  "name": "imou",
+  "model": "",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "",
+  "images": [],
+  "labels": [
+    "New"
+  ],
+  "tags": [],
+  "shortDescription": "",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    }
+  ]
+}

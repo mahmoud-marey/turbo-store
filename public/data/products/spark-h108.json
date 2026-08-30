@@ -1,0 +1,69 @@
+{
+  "id": 534,
+  "slug": "spark-h108",
+  "name": "Spark h108 gaming headset",
+  "model": "H108",
+  "brand": "Spark",
+  "brandSlug": "spark",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 550,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202170856-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202170856-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202170856-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202170856-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Spark",
+    "h108",
+    "gaming",
+    "headset"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/5 (1).png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/3 (1).png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/shark-h-108-usb-gaming-headset-6 (1).png\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    }
+  ]
+}

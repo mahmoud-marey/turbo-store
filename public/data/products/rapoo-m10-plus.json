@@ -1,0 +1,76 @@
+{
+  "id": 576,
+  "slug": "rapoo-m10-plus",
+  "name": "Rapoo M10 Plus Wireless Optical Mouse black/white",
+  "model": "M10 Plus",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/M10%201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/M10%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/M10%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/M10%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/M10%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/M10%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/M10%202-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "M10",
+    "Plus",
+    "Wireless",
+    "Optical",
+    "Mouse"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/M10 9.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/M10 8.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/M10 7.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/M10 6.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/M10 5.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/M10 3.jpg\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-16",
+      "demo": true
+    }
+  ]
+}

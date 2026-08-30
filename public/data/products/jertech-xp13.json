@@ -1,0 +1,68 @@
+{
+  "id": 557,
+  "slug": "jertech-xp13",
+  "name": "Jertech xp13 Gaming mouse",
+  "model": "Xp13",
+  "brand": "Jertech",
+  "brandSlug": "jertech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 270,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/Xp13%2009-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/Xp13%2009-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/Xp13%2009-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/Xp13%2009-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "Jertech",
+    "xp13",
+    "Gaming"
+  ],
+  "shortDescription": "Key Features &amp; Specifications:Sensor &amp; Performance:&nbsp;Up to 3600 DPI (adjustable 1200-1800-2400-3600). It offers 20G acceleration and a 1000Hz report rate for responsive gaming.Design:&nbsp;Ergonomic, ambidext",
+  "descriptionHtml": "<p></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/Xp13 02.jpg\"></p><p>Key Features &amp; Specifications:</p><p><br></p><p>Sensor &amp; Performance:&nbsp;Up to 3600 DPI (adjustable 1200-1800-2400-3600). It offers 20G acceleration and a 1000Hz report rate for responsive gaming.Design:&nbsp;Ergonomic, ambidextrous shape suitable for extended use.Lighting:&nbsp;Chroma RGB lighting.Buttons:&nbsp;6-7 programmable macro buttons.Cable Length:&nbsp;Approximately 1.3 meters.Compatibility:&nbsp;Windows and other operating systems via USB 2.0.</p><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-27",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 495,
+  "slug": "asus-tuf-f16-fx608jhr-rv057w-14650hx-5050",
+  "name": "Laptop ASUS TUF F16 FX608JHR-RV057W Intel Core I7-14650HX , 16GB RAM , 512GB SSD M.2 NVMe , RTX 5050 8GB , 16&quot; WUXGA IPS 165Hz- WIN 11",
+  "model": "FX608JHR-RV057W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 68999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A8-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A3-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/X506H/A2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "ASUS",
+    "TUF",
+    "F16",
+    "FX608JHR-RV057W",
+    "Intel",
+    "Core",
+    "I7-14650H",
+    "16GB",
+    "RAM",
+    "512GB",
+    "SSD",
+    "M.2",
+    "NVMe",
+    "RTX",
+    "5050",
+    "8GB",
+    "15.6&amp;quot;",
+    "FHD",
+    "IPS",
+    "165Hz"
+  ],
+  "shortDescription": "laptop TUF F15 FX608JHR is a gaming laptop that has the following features:Processor: intel® CORE™ I7-14650H ( 16 Core, 3.50 GHz to 5.20 GHz)Display: 15.6-inch WUXGA(1920 x 1200) 165Hz IPSMemory: 16GB DDR5 RAMStorage: 51",
+  "descriptionHtml": "<p>laptop TUF F15 FX608JHR is a gaming laptop that has the following features:</p><ul><li>Processor: intel® CORE™ I7-14650H ( 16 Core, 3.50 GHz to 5.20 GHz)</li><li>Display: 15.6-inch WUXGA(1920 x 1200) 165Hz IPS</li><li>Memory: 16GB DDR5 RAM</li><li>Storage: 512GB</li><li>Graphics: NVIDIA GeForce RTX 5050 8GB GDDR6</li><li>Keyboard: Backlite Keyboard</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": 1188,
+  "slug": "ocypus-delta-a40-argb-cpu-air-cooler-black",
+  "name": "Ocypus Delta A40 ARGB CPU Air Cooler Black",
+  "model": "Delta A40",
+  "brand": "Ocypus",
+  "brandSlug": "ocypus",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 1499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-cooler-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-cooler-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-cooler-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-cooler-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-120mm-fan-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-120mm-fan-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-120mm-fan-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-metal-mount-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-metal-mount-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-delta-a40-argb-black-metal-mount-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Ocypus",
+    "Delta A40",
+    "ARGB Air Cooler",
+    "CPU Cooler",
+    "Black Edition",
+    "220W TDP",
+    "120mm PWM Fan",
+    "4 Heat Pipes",
+    "LGA1851",
+    "AM5 Compatible",
+    "Turbo Computer",
+    "Agent Warranty"
+  ],
+  "shortDescription": "Ocypus Delta A40 ARGB CPU Air Cooler Black (Up to 220W TDP Support / Four 6mm Copper Heat Pipes / High Performance 120mm PWM Fan / 5V 3-Pin ARGB Motherboard Sync / Intel LGA1851 &amp; AMD AM5 Ready / 1-Year Local Warrant",
+  "descriptionHtml": "<p><span>Ocypus Delta A40 ARGB CPU Air Cooler Black (Up to 220W TDP Support / Four 6mm Copper Heat Pipes / High Performance 120mm PWM Fan / 5V 3-Pin ARGB Motherboard Sync / Intel LGA1851 &amp; AMD AM5 Ready / 1-Year Local Warranty)</span></p><p>Deliver exceptional thermal efficiency and sleek dark aesthetics to your PC desktop build with the Ocypus Delta A40 ARGB Air Cooler Black edition, available at Turbo Computer Egypt backed by a full 1-Year official local agent warranty layout. Engineered with four direct-touch 6mm pure copper heat pipes capable of handling up to 220W TDP thermal dissipation, this compact single-tower black CPU cooler ensures smooth thermal management under heavy gaming loads. Powered by a high-performance 120mm PWM fan capable of pushing 73 CFM airflow at up to 2000 RPM while maintaining ultra-quiet operation under 29 dB(A), it comes equipped with customizable 5V 3-pin ARGB lighting and all-metal multi-platform mounting hardware compatible with the latest Intel LGA1851/1700 and AMD AM5 sockets.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Cooler Series</td><td>Ocypus Delta Series</td></tr><tr><td>Cooler Model &amp; Color Options</td><td>Delta A40 ARGB / Black Edition</td></tr><tr><td>Thermal Design Power (TDP)</td><td>Up to 220W TDP Heat Dissipation Support</td></tr><tr><td>Heat Pipes Architecture</td><td>4x 6mm Direct Touch Pure Copper Heat Pipes</td></tr><tr><td>Intel Socket Compatibility</td><td>LGA 1851 / LGA 1700 / LGA 1200 / LGA 115X</td></tr><tr><td>AMD Socket Compatibility</td><td>AM5 / AM4 Platforms Supported</td></tr><tr><td>Fan Dimension &amp; Bearing</td><td>120 x 120 x 25 mm High Efficiency Black PWM Fan</td></tr><tr><td>Fan Speed Range</td><td>500 - 2000 RPM (±10% PWM Control)</td></tr><tr><td>Max Airflow Volume</td><td>73 CFM High Airflow Performance</td></tr><tr><td>Noise Level Rating</td><td>Quiet Operation ≤ 29 dB(A)</td></tr><tr><td>Lighting System &amp; Connector</td><td>Customizable ARGB / 5V 3-Pin Sync Cable Header</td></tr><tr><td>Mounting Hardware &amp; Installation</td><td>Heavy Duty All-Metal Mounting Hardware Included</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Cooler Series",
+      "value": "Ocypus Delta Series"
+    },
+    {
+      "group": "specs",
+      "label": "Cooler Model & Color Options",
+      "value": "Delta A40 ARGB / Black Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Design Power (TDP)",
+      "value": "Up to 220W TDP Heat Dissipation Support"
+    },
+    {
+      "group": "specs",
+      "label": "Heat Pipes Architecture",
+      "value": "4x 6mm Direct Touch Pure Copper Heat Pipes"
+    },
+    {
+      "group": "specs",
+      "label": "Intel Socket Compatibility",
+      "value": "LGA 1851 / LGA 1700 / LGA 1200 / LGA 115X"
+    },
+    {
+      "group": "specs",
+      "label": "AMD Socket Compatibility",
+      "value": "AM5 / AM4 Platforms Supported"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Dimension & Bearing",
+      "value": "120 x 120 x 25 mm High Efficiency Black PWM Fan"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Speed Range",
+      "value": "500 - 2000 RPM (±10% PWM Control)"
+    },
+    {
+      "group": "specs",
+      "label": "Max Airflow Volume",
+      "value": "73 CFM High Airflow Performance"
+    },
+    {
+      "group": "specs",
+      "label": "Noise Level Rating",
+      "value": "Quiet Operation ≤ 29 dB(A)"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting System & Connector",
+      "value": "Customizable ARGB / 5V 3-Pin Sync Cable Header"
+    },
+    {
+      "group": "specs",
+      "label": "Mounting Hardware & Installation",
+      "value": "Heavy Duty All-Metal Mounting Hardware Included"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    }
+  ]
+}

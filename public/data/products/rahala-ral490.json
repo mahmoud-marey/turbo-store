@@ -1,0 +1,94 @@
+{
+  "id": 692,
+  "slug": "rahala-ral490",
+  "name": "Rahala RAL490 Laptop Backpack",
+  "model": "RAL490",
+  "brand": "Rahala",
+  "brandSlug": "rahala",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053155-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053155-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053155-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053155-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053210-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053210-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053210-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053251-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053251-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053251-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053335-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053335-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053335-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053306-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053306-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053306-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053230-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053230-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319053230-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Rahala",
+    "RAL490",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "مواصفات Rahala RAL490 Laptop Backpackالماركة Rahalaالموديل RAL 490اللون اسودمناسب للابتوبات15.6 بوصةالخامة بوليستر متينالوزن خفيفالسعة مناسبة للاستخدام اليوميالمميزاتجيوب متعددة لتنظيم اللابتوب والملحقاتحزام كتف قابل للت",
+  "descriptionHtml": "<p>مواصفات</p><p>Rahala RAL490 Laptop Backpack</p><p>الماركة Rahala</p><p>الموديل RAL 490</p><p>اللون اسود</p><p>مناسب للابتوبات15.6 بوصة</p><p>الخامة بوليستر متين</p><p>الوزن خفيف</p><p>السعة مناسبة للاستخدام اليومي</p><p><br></p><p>المميزات</p><p>جيوب متعددة لتنظيم اللابتوب والملحقات</p><p>حزام كتف قابل للتعديل للحمل المريح</p><p>تصميم عملي للعمل والدراسة والسفر</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    }
+  ]
+}

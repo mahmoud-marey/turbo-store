@@ -1,0 +1,118 @@
+{
+  "id": 130,
+  "slug": "wd-hdd-1tb-nb",
+  "name": "WD Blue 1TB 3.5&quot; PC Desktop Internal Hard Drive 5400 RPM SATA 6Gb/s 64MB Cache (WD10EARZ)",
+  "model": "WD10SPZX",
+  "brand": "WD",
+  "brandSlug": "wd",
+  "categorySlugs": [
+    "hard-drives"
+  ],
+  "price": 4499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-blue-1tb-desktop-internal-hdd-3-5-sata-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/hdd/wd-blue-1tb-desktop-internal-hdd-3-5-sata-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/hdd/wd-blue-1tb-desktop-internal-hdd-3-5-sata-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/hdd/wd-blue-1tb-desktop-internal-hdd-3-5-sata-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "WD",
+    "WD Blue",
+    "Internal HDD",
+    "1TB",
+    "3.5 Inch",
+    "SATA 6Gb/s",
+    "Desktop Storage",
+    "Western Digital"
+  ],
+  "shortDescription": "WD Blue 1TB 3.5\" PC Desktop Internal Hard DriveBoost your desktop PC storage capacity and daily computing efficiency with the reliable WD Blue 1TB 3.5-inch internal hard drive, brought to you by Turbo Computer Egypt. Spe",
+  "descriptionHtml": "<p>WD Blue 1TB 3.5\" PC Desktop Internal Hard Drive</p><p>Boost your desktop PC storage capacity and daily computing efficiency with the reliable WD Blue 1TB 3.5-inch internal hard drive, brought to you by Turbo Computer Egypt. Specifically engineered for use as a primary or secondary drive in desktop PCs, All-in-One workstations, and mainstream computing systems, the WD Blue series delivers solid structural longevity and consistent performance. Operating on the high-bandwidth SATA 6Gb/s interface and equipped with a 64MB high-speed data cache, this 1TB drive provides ample space for your operating system setup, massive office applications, and high-resolution media libraries. Built with Western Digital's strict quality standards and featuring NoTouch Ramp Load technology to safely position the recording head off the disk surface, your essential data remains highly protected against wear and tear. This dependable internal PC upgrade comes backed by a 1-year warranty setup.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Western Digital (WD)</td></tr><tr><td>Product Line</td><td>WD Blue Desktop Series</td></tr><tr><td>Model Number / P/N</td><td>WD10EARZ</td></tr><tr><td>Storage Capacity</td><td>1TB (One Terabyte)</td></tr><tr><td>Form Factor</td><td>3.5-inch Desktop Format</td></tr><tr><td>Interface Type</td><td>SATA 6 Gb/s Matrix</td></tr><tr><td>Rotational Speed</td><td>5400 RPM (Rotations Per Minute)</td></tr><tr><td>On-board Cache Array</td><td>64MB Ultra-Fast High-Density Buffer</td></tr><tr><td>Warranty Matrix</td><td>1-Year Warranty (ضمان لمدة سنة واحدة)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Western Digital (WD)"
+    },
+    {
+      "group": "specs",
+      "label": "Product Line",
+      "value": "WD Blue Desktop Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / P/N",
+      "value": "WD10EARZ"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "1TB (One Terabyte)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "3.5-inch Desktop Format"
+    },
+    {
+      "group": "specs",
+      "label": "Interface Type",
+      "value": "SATA 6 Gb/s Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Rotational Speed",
+      "value": "5400 RPM (Rotations Per Minute)"
+    },
+    {
+      "group": "specs",
+      "label": "On-board Cache Array",
+      "value": "64MB Ultra-Fast High-Density Buffer"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Warranty (ضمان لمدة سنة واحدة)"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-10",
+      "demo": true
+    }
+  ]
+}

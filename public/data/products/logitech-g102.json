@@ -1,0 +1,79 @@
+{
+  "id": 455,
+  "slug": "logitech-g102",
+  "name": "Logitech G102 RGB Gaming Mouse",
+  "model": "G102",
+  "brand": "logitech",
+  "brandSlug": "logitech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 1000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 8,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171324-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171324-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171324-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260209171324-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/1logitech/g102%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/1logitech/g102%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/1logitech/g102%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/1logitech/g102%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/1logitech/g102%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/1logitech/g102%203-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "Logitech",
+    "G102",
+    "RGB",
+    "gaming"
+  ],
+  "shortDescription": "ضمان عامان من الوكيلDimensionsHeight: 116.6 mmWidth: 62.15 mmDepth: 38.2 mmWeight: 85 g, (mouse only)Cable length: 2.1 mTechnical SpecificationsLIGHTSYNC RGB lighting6 programmable buttonsResolution: 200 – 8,000 dpiRESPO",
+  "descriptionHtml": "<div><div><p>ضمان عامان من الوكيل</p><p><br></p></div><div><br></div><div><br></div><div><img src=\"https://turbo-computer.com/image/catalog/accessories/G102 11.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/G102 10.jpeg\">Dimensions</div><div>Height: 116.6 mm</div><div>Width: 62.15 mm</div><div>Depth: 38.2 mm</div><div>Weight: 85 g, (mouse only)</div><div>Cable length: 2.1 m</div><div>Technical Specifications</div><div>LIGHTSYNC RGB lighting</div><div>6 programmable buttons</div><div>Resolution: 200 – 8,000 dpi</div><div>RESPONSIVENESS</div><div>USB data format: 16 bits/axis</div><div>USB report rate: 1000Hz (1ms)</div><div>Microprocessor: 32-bit ARM</div><div>Warranty Information</div><div>2-Year Limited Hardware Warranty</div><div>Part Number</div><div>Black : 910-005802</div><div>White : 910-005803</div><div><br></div></div><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-26",
+      "demo": true
+    }
+  ]
+}

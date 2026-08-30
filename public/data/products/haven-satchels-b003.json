@@ -1,0 +1,79 @@
+{
+  "id": 683,
+  "slug": "haven-satchels-b003",
+  "name": "Haven Satchels B003 Laptop Backpack",
+  "model": "B003",
+  "brand": "Haven",
+  "brandSlug": "haven",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 650,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163638-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163638-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163638-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163638-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163658-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163658-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163658-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163623-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163623-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318163623-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Haven",
+    "Satchels",
+    "B003",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "مواصفات Haven Satchels B003 Laptop Backpackالماركة Haven Satchelsالموديل B003اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر متينالوزن خفيفالسعة مناسبة للاستخدام اليوميالمميزاتجيوب متعددة لتنظيم اللابتوب والملحقاتت",
+  "descriptionHtml": "<p>مواصفات</p><p>Haven Satchels B003 Laptop Backpack</p><p><br></p><p>الماركة Haven Satchels</p><p>الموديل B003</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر متين</p><p>الوزن خفيف</p><p>السعة مناسبة للاستخدام اليومي</p><p><br></p><p>المميزات</p><p>جيوب متعددة لتنظيم اللابتوب والملحقات</p><p>تصميم مريح بظهر مبطن وحمالات كتف قابلة للتعديل</p><p>مناسب للعمل والدراسة والسفر</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-12",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-17",
+      "demo": true
+    }
+  ]
+}

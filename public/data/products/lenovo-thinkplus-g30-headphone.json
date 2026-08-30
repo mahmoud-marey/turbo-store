@@ -1,0 +1,154 @@
+{
+  "id": 925,
+  "slug": "lenovo-thinkplus-g30-headphone",
+  "name": "Lenovo thinkplus G30 Headphone",
+  "model": "G30",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 650,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606230943-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606230943-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606230943-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606230943-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "thinkplus",
+    "G30",
+    "Headphone"
+  ],
+  "shortDescription": "Lenovo Thinkplus G30 — Wired Gaming Headset\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nBrand\r\nLenovo / Thinkplus\r\n\r\n\r\nModel\r\nG30\r\n\r\n\r\nType\r\nWired Over-Ear Gaming Headset\r\n\r\n\r\nAudio Channels\r\n7.1 Stereo Surround Sound\r\n\r\n\r\nDriver Size\r",
+  "descriptionHtml": "<p><strong>Lenovo Thinkplus G30 — Wired Gaming Headset</strong></p><p></p><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Lenovo / Thinkplus</td></tr><tr><td><strong>Model</strong></td><td>G30</td></tr><tr><td><strong>Type</strong></td><td>Wired Over-Ear Gaming Headset</td></tr><tr><td><strong>Audio Channels</strong></td><td>7.1 Stereo Surround Sound</td></tr><tr><td><strong>Driver Size</strong></td><td>50mm Dynamic Driver</td></tr><tr><td><strong>Impedance</strong></td><td>16Ω ± 10%</td></tr><tr><td><strong>Rated Power</strong></td><td>20mW</td></tr><tr><td><strong>SNR</strong></td><td>≥ 58dB</td></tr><tr><td><strong>Microphone Sensitivity</strong></td><td>-42dB ± 3dB</td></tr><tr><td><strong>Microphone Type</strong></td><td>Omnidirectional, bendable/adjustable</td></tr><tr><td><strong>Noise Cancellation</strong></td><td>Yes</td></tr><tr><td><strong>Connection</strong></td><td>USB</td></tr><tr><td><strong>Cable Length</strong></td><td>&nbsp;more than 1 meters</td></tr><tr><td><strong>RGB Lighting</strong></td><td>Yes</td></tr><tr><td><strong>Volume Control</strong></td><td>In-line volume wheel</td></tr><tr><td><strong>Dimensions</strong></td><td>~182 × 205 × 103 mm</td></tr><tr><td><p><strong>Design</strong></p></td><td><p>Over-ear, adjustable headband, soft earmuffs</p></td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Lenovo / Thinkplus"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "G30"
+    },
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "Wired Over-Ear Gaming Headset"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Channels",
+      "value": "7.1 Stereo Surround Sound"
+    },
+    {
+      "group": "specs",
+      "label": "Driver Size",
+      "value": "50mm Dynamic Driver"
+    },
+    {
+      "group": "specs",
+      "label": "Impedance",
+      "value": "16Ω ± 10%"
+    },
+    {
+      "group": "specs",
+      "label": "Rated Power",
+      "value": "20mW"
+    },
+    {
+      "group": "specs",
+      "label": "SNR",
+      "value": "≥ 58dB"
+    },
+    {
+      "group": "specs",
+      "label": "Microphone Sensitivity",
+      "value": "-42dB ± 3dB"
+    },
+    {
+      "group": "specs",
+      "label": "Microphone Type",
+      "value": "Omnidirectional, bendable/adjustable"
+    },
+    {
+      "group": "specs",
+      "label": "Noise Cancellation",
+      "value": "Yes"
+    },
+    {
+      "group": "specs",
+      "label": "Connection",
+      "value": "USB"
+    },
+    {
+      "group": "specs",
+      "label": "Cable Length",
+      "value": "more than 1 meters"
+    },
+    {
+      "group": "specs",
+      "label": "RGB Lighting",
+      "value": "Yes"
+    },
+    {
+      "group": "specs",
+      "label": "Volume Control",
+      "value": "In-line volume wheel"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions",
+      "value": "~182 × 205 × 103 mm"
+    },
+    {
+      "group": "specs",
+      "label": "Design",
+      "value": "Over-ear, adjustable headband, soft earmuffs"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    }
+  ]
+}

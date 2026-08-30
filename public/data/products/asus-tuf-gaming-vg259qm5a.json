@@ -1,0 +1,78 @@
+{
+  "id": 838,
+  "slug": "asus-tuf-gaming-vg259qm5a",
+  "name": "ASUS TUF GAMING VG259QM5A 24.5 inch IPS 240Hz FHD ",
+  "model": "VG279QM5A",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 8400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0012_260503213703-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0012_260503213703-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0012_260503213703-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0012_260503213703-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "TUF",
+    "GAMING",
+    "VG259QM5A",
+    "24.5",
+    "inch",
+    "IPS",
+    "240Hz",
+    "FHD"
+  ],
+  "shortDescription": "ASUS TUF Gaming VG259QM5A SpecificationsThe ASUS TUF Gaming VG259QM5A is a high-speed professional gaming monitor designed for competitive eSports. Featuring a \"Fast IPS\" panel, it delivers a native 240Hz refresh rate wi",
+  "descriptionHtml": "<div _ngcontent-ng-c2777830090=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_f983b5be35d3e182\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><div _ngcontent-ng-c2777830090=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_884134c74ccf74af\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><div><br></div><h3><b>ASUS TUF Gaming VG259QM5A Specifications</b></h3><p>The <b>ASUS TUF Gaming VG259QM5A</b> is a high-speed professional gaming monitor designed for competitive eSports. Featuring a \"Fast IPS\" panel, it delivers a native 240Hz refresh rate with superior color accuracy and wide viewing angles, ensuring that fast-moving visuals remain sharp and vivid.</p><h3><b>Display Specifications</b></h3><ul><li><p><b>Panel Size:</b> 24.5-inch</p></li><li><p><b>Panel Type:</b> Fast IPS</p></li><li><p><b>Resolution:</b> 1920 x 1080 (Full HD)</p></li><li><p><b>Refresh Rate:</b> 240Hz</p></li><li><p><b>Response Time:</b> 1ms (GtG)</p></li><li><p><b>Brightness:</b> 400 nits (Peak)</p></li><li><p><b>Contrast Ratio:</b> 1000:1</p></li><li><p><b>Color Gamut:</b> 99% sRGB</p></li><li><p><b>HDR:</b> HDR10 Support</p></li></ul><h3><b>Gaming &amp; Motion Features</b></h3><ul><li><p><b>Variable Refresh Rate (VRR):</b> Compatible with NVIDIA G-Sync and AMD FreeSync Premium for tear-free gaming.</p></li><li><p><b>ELMB SYNC:</b> ASUS Extreme Low Motion Blur technology allows ELMB to work simultaneously with VRR to eliminate ghosting and tearing at high frame rates.</p></li><li><p><b>GameFast Input Technology:</b> Minimizes input lag for faster motion delivery from the connected device to the monitor.</p></li><li><p><b>Shadow Boost:</b> Clarifies dark areas of the game without overexposing the brighter regions, making it easier to spot hidden enemies.</p></li><li><p><b>GameVisual:</b> Provides 7 preset display modes to optimize visuals for different types of content.</p></li></ul><h3><br></h3><p><br></p><p><br></p><p><br></p></div></div><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    }
+  ]
+}

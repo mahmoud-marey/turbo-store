@@ -1,0 +1,107 @@
+{
+  "id": 944,
+  "slug": "asus-dual-geforce-rtx-3060-v2-oc-edition-12gb-gddr6",
+  "name": "ASUS Dual GeForce RTX 3060 V2 OC Edition 12GB GDDR6 Gaming Graphics Card",
+  "model": "DUAL GeForce RTX 3060",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 22999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3060-v2-oc-edition-12gb-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3060-v2-oc-edition-12gb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3060-v2-oc-edition-12gb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3060-v2-oc-edition-12gb-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Dual",
+    "GeForce",
+    "RTX 3060",
+    "V2",
+    "OC Edition",
+    "12GB",
+    "GDDR6",
+    "Graphics Card",
+    "GPU",
+    "Gaming",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS Dual GeForce RTX 3060 V2 OC Edition 12GB GDDR6 Graphics CardDeliver the ultimate gaming experience with the ASUS Dual GeForce RTX 3060 V2 OC Edition. Combining dynamic thermal performance with broad compatibility, t",
+  "descriptionHtml": "<p><b><span>ASUS Dual GeForce RTX 3060 V2 OC Edition 12GB GDDR6 Graphics Card</span></b></p><p><br></p><p>Deliver the ultimate gaming experience with the ASUS Dual GeForce RTX 3060 V2 OC Edition. Combining dynamic thermal performance with broad compatibility, this powerful graphics card features 12GB of high-speed GDDR6 VRAM, making it the perfect choice for gamers and creators who demand fluid high-frame-rate 1080p and 1440p gameplay, seamless multitasking, and enhanced rendering capabilities in modern AAA titles.</p><p><br></p><p>Engineered with two powerful Axial-tech fans featuring smaller hubs for longer blades and a barrier ring to increase downward air pressure, the V2 OC edition ensures your GPU stays incredibly cool and quiet under heavy gaming loads. Utilizing Auto-Extreme Technology to enhance reliability through an automated manufacturing process, and wrapped in a sleek, compact 2-slot design, this heavy-duty card fits effortlessly into a wide variety of chassis setups. Upgrade your rig to NVIDIA Ampere architecture and enjoy real-time ray tracing and AI-accelerated DLSS performance!</p><p>&nbsp;<strong>ASUS DUAL GeForce RTX 3060 V2 OC 12GB</strong>:</p><h2>&nbsp;ASUS DUAL GeForce RTX 3060 V2 OC 12GB</h2><p><strong>Model:</strong> DUAL-RTX3060-O12G-V2</p><h3>GPU Core</h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Architecture</strong></td><td>NVIDIA Ampere</td></tr><tr><td><strong>GPU</strong></td><td>NVIDIA GeForce RTX 3060</td></tr><tr><td><strong>Process Node</strong></td><td>Samsung 8 nm</td></tr><tr><td><strong>CUDA Cores</strong></td><td>3,584</td></tr><tr><td><strong>RT Cores</strong></td><td>2nd Generation (2× throughput vs 1st gen)</td></tr><tr><td><strong>Tensor Cores</strong></td><td>3rd Generation (up to 2× throughput with structural sparsity)</td></tr></tbody></table><h3>Clock Speeds</h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Base Clock</strong></td><td>1320 MHz</td></tr><tr><td><strong>Boost Clock (OC Mode)</strong></td><td>1867 MHz</td></tr><tr><td><strong>Boost Clock (Gaming Mode)</strong></td><td>1837 MHz</td></tr></tbody></table><h3>Memory</h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Capacity</strong></td><td>12 GB GDDR6</td></tr><tr><td><strong>Memory Speed</strong></td><td>15 Gbps</td></tr><tr><td><strong>Bus Width</strong></td><td>192-bit</td></tr><tr><td><strong>Bandwidth</strong></td><td>~360 GB/s</td></tr></tbody></table><h3>Display &amp; Connectivity</h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Outputs</strong></td><td>1× HDMI 2.1, 3× DisplayPort 1.4a</td></tr><tr><td><strong>Max Resolution</strong></td><td>7680×4320 (8K)</td></tr><tr><td><strong>Multi-Display</strong></td><td>Up to 4</td></tr><tr><td><strong>PCIe Interface</strong></td><td>PCIe 4.0</td></tr><tr><td><strong>HDCP</strong></td><td>Yes (2.3)</td></tr><tr><td><strong>OpenGL</strong></td><td>4.6</td></tr><tr><td><strong>NVLink / CrossFire</strong></td><td>No</td></tr></tbody></table><h3>Card Design</h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>PCB Form</strong></td><td>ATX</td></tr><tr><td><strong>Dimensions</strong></td><td>200mm (L) × 123mm (W) × 38mm (H)</td></tr><tr><td><strong>Slot Width</strong></td><td>2-slot</td></tr><tr><td><strong>Fans</strong></td><td>2× Axial-tech fans with smaller hub, longer blades, and barrier ring for increased downward air pressure</td></tr><tr><td><strong>Fan Stop</strong></td><td>Yes — fans halt when GPU temp falls below 50°C at low load</td></tr><tr><td><strong>Cooling</strong></td><td>Heatsink with heat pipes</td></tr></tbody></table><h3>Power</h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>TDP</strong></td><td>170W</td></tr><tr><td><strong>Recommended PSU</strong></td><td>650W</td></tr><tr><td><strong>Power Connector</strong></td><td>1× 8-pin</td></tr></tbody></table><h3>Software &amp; Accessories</h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Tuning Software</strong></td><td>ASUS GPU Tweak II</td></tr><tr><td><strong>Driver</strong></td><td>GeForce Game Ready Driver &amp; Studio Driver</td></tr><tr><td><strong>In the Box</strong></td><td>Quick setup manual, Collection card</td></tr></tbody></table><h3><br></h3><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Architecture",
+      "value": "NVIDIA Ampere"
+    },
+    {
+      "group": "specs",
+      "label": "GPU",
+      "value": "NVIDIA GeForce RTX 3060"
+    },
+    {
+      "group": "specs",
+      "label": "Process Node",
+      "value": "Samsung 8 nm"
+    },
+    {
+      "group": "specs",
+      "label": "CUDA Cores",
+      "value": "3,584"
+    },
+    {
+      "group": "specs",
+      "label": "RT Cores",
+      "value": "2nd Generation (2× throughput vs 1st gen)"
+    },
+    {
+      "group": "specs",
+      "label": "Tensor Cores",
+      "value": "3rd Generation (up to 2× throughput with structural sparsity)"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

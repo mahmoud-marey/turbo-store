@@ -1,0 +1,90 @@
+{
+  "id": 670,
+  "slug": "elite-partner-gs122",
+  "name": "Elite Partner GS 122 15.6 Inch Business Laptop Bag",
+  "model": "Partner gs122",
+  "brand": "ELITE",
+  "brandSlug": "elite-bags",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233454-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233454-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233454-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233454-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233545-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233545-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233545-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233527-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233527-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233527-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233511-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233511-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233511-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233600-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233600-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317233600-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "EliteG",
+    "S122",
+    "15.6Inch",
+    "Business",
+    "Laptop",
+    "Bag"
+  ],
+  "shortDescription": "مواصفات Elite GS 122 15.6 Inch Business Laptop Bagالماركة Eliteالموديل GS 122اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة نايلون او بوليستر متينالوزن خفيفالتصميم حقيبة اعمال انيقةالمميزاتمساحة داخلية منظمة لحفظ اللابتوب",
+  "descriptionHtml": "<p>مواصفات</p><p>Elite GS 122 15.6 Inch Business Laptop Bag</p><p>الماركة Elite<br>الموديل GS 122<br>اللون اسود<br>مناسب للابتوبات حتى 15.6 بوصة<br>الخامة نايلون او بوليستر متين<br>الوزن خفيف<br>التصميم حقيبة اعمال انيقة</p><p>المميزات<br>مساحة داخلية منظمة لحفظ اللابتوب والمستندات<br>جيوب متعددة للاكسسوارات<br>يد حمل مريحة مع حزام كتف قابل للتعديل<br>مناسب للعمل والدراسة والتنقل اليومي</p><div class=\"",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 30,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-11",
+      "demo": true
+    }
+  ]
+}

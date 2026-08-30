@@ -1,0 +1,130 @@
+{
+  "id": 1174,
+  "slug": "corsair-vengeance-ddr5-16gb-1x16gb-6000mhz-cl38-black-single-ram",
+  "name": "Corsair Vengeance DDR5 16GB 1x16GB 6000MHz CL38 Black",
+  "model": "Vengeance",
+  "brand": "CORSAIR",
+  "brandSlug": "corsair",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 11599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 7,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-16gb-black-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-16gb-black-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-16gb-black-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-16gb-black-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-single-ram-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-single-ram-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-single-ram-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Corsair",
+    "Vengeance",
+    "DDR5",
+    "16GB",
+    "1x16GB",
+    "6000MHz",
+    "CL38",
+    "Desktop RAM",
+    "Single Module",
+    "Intel XMP 3.0",
+    "AMD EXPO",
+    "Black RAM",
+    "Gaming RAM",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Corsair Vengeance DDR5 16GB (1 x 16GB) 6000MHz CL38 Black Desktop Memory Module (Solid Black Aluminum Heatspreader / Dual Profile Intel XMP 3.0 &amp; AMD EXPO Compatible / 1.35V / Single Stick UDIMM / 1-Year Local Warran",
+  "descriptionHtml": "<p><span>Corsair Vengeance DDR5 16GB (1 x 16GB) 6000MHz CL38 Black Desktop Memory Module (Solid Black Aluminum Heatspreader / Dual Profile Intel XMP 3.0 &amp; AMD EXPO Compatible / 1.35V / Single Stick UDIMM / 1-Year Local Warranty)</span></p><p>Upgrade your system memory effortlessly with the Corsair Vengeance DDR5 16GB (1x16GB) 6000MHz Single Memory Stick in classic matte black finish, available at Turbo Computer Egypt backed by a full 1-Year official local agent warranty layout. Ideal for new gaming builds or expanding existing memory capacity, this single DDR5 UDIMM module delivers high frequencies up to 6000MHz with tight CL38 timings at 1.35V. Designed with broad platform flexibility, it integrates pre-configured overclocking profiles for both Intel XMP 3.0 and AMD EXPO, allowing simple one-click BIOS tuning on modern motherboards. Engineered with low-profile anodized aluminum heatspreaders in solid black, it ensures superior heat dissipation while maintaining full physical clearance under large CPU air coolers.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; RAM Series</td><td>Corsair Vengeance High Performance Series</td></tr><tr><td>Memory Capacity &amp; Module Count</td><td>16GB Total Capacity (Single Module Stick 1 x 16GB)</td></tr><tr><td>Memory Technology Type</td><td>DDR5 Desktop UDIMM Memory</td></tr><tr><td>Tested Speed Frequency</td><td>6000MHz High Bandwidth Speed</td></tr><tr><td>Tested Latency Timings</td><td>CL38 Tested Latency</td></tr><tr><td>Operating Tested Voltage</td><td>1.35V Voltage Requirement</td></tr><tr><td>Overclocking Profiles Support</td><td>Supports Dual Profiles: AMD EXPO &amp; Intel XMP 3.0</td></tr><tr><td>Heatspreader Finish &amp; Color</td><td>Solid Anodized Aluminum Heatspreader in Matte Black Color</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & RAM Series",
+      "value": "Corsair Vengeance High Performance Series"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Capacity & Module Count",
+      "value": "16GB Total Capacity (Single Module Stick 1 x 16GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Technology Type",
+      "value": "DDR5 Desktop UDIMM Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Tested Speed Frequency",
+      "value": "6000MHz High Bandwidth Speed"
+    },
+    {
+      "group": "specs",
+      "label": "Tested Latency Timings",
+      "value": "CL38 Tested Latency"
+    },
+    {
+      "group": "specs",
+      "label": "Operating Tested Voltage",
+      "value": "1.35V Voltage Requirement"
+    },
+    {
+      "group": "specs",
+      "label": "Overclocking Profiles Support",
+      "value": "Supports Dual Profiles: AMD EXPO & Intel XMP 3.0"
+    },
+    {
+      "group": "specs",
+      "label": "Heatspreader Finish & Color",
+      "value": "Solid Anodized Aluminum Heatspreader in Matte Black Color"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-27",
+      "demo": true
+    }
+  ]
+}

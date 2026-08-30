@@ -1,0 +1,123 @@
+{
+  "id": 132,
+  "slug": "wd-mypassport-2tb",
+  "name": "WD 2TB My Passport Portable External Hard Drive - USB 3.2",
+  "model": "My Passport",
+  "brand": "WD",
+  "brandSlug": "wd",
+  "categorySlugs": [
+    "hard-drives"
+  ],
+  "price": 5849,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/hdd/wd-2tb-my-passport-portable-hard-drive-turbo-2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "WD",
+    "2TB",
+    "My",
+    "Passport",
+    "Portable",
+    "External",
+    "Hard",
+    "Drive"
+  ],
+  "shortDescription": "Silicon Power Armor A60 2TB Portable External Hard DriveSafeguard your massive media library and technical files on the go with the rugged Silicon Power Armor A60 2TB portable external hard drive, brought to you by Turbo",
+  "descriptionHtml": "<p>Silicon Power Armor A60 2TB Portable External Hard Drive</p><p>Safeguard your massive media library and technical files on the go with the rugged Silicon Power Armor A60 2TB portable external hard drive, brought to you by Turbo Computer Egypt. Engineered for elite durability, this heavy-duty portable storage drive passes the rigorous US military-grade drop test (MIL-STD-810G), utilizing an advanced ultra-rugged rubber casing and internal suspension system to absorb severe impacts from accidental falls. Beyond impact structural reinforcement, the Armor A60 features IPX4 water-resistance tracking, protecting your data against splashing water from any direction. Powered by a high-speed USB 3.0 interface, it ensures rapid data synchronization and level load performance for heavy workflows. Designed with a smart wrap-around cable slot, carrying your transmission accessory is seamless, clean, and completely integrated. This highly durable external storage solution comes backed by a 1-year warranty setup.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Silicon Power</td></tr><tr><td>Product Series</td><td>Armor A60 Ultra-Rugged Series</td></tr><tr><td>Storage Capacity</td><td>2TB (Two Terabytes)</td></tr><tr><td>Interface Type</td><td>USB 3.0 High-Speed Interface (Backwards compatible with USB 2.0)</td></tr><tr><td>Shockproof Rating</td><td>US Military Military-Grade Drop Test Compliant (MIL-STD 810G Method 516.6)</td></tr><tr><td>Water Resistance Level</td><td>IPX4 Water-Resistant Protection (Against splashing fluid damage)</td></tr><tr><td>Cable Management Matrix</td><td>Innovative Wrap-around Cable Design Slot Layout</td></tr><tr><td>Form Factor</td><td>2.5-inch Heavy-Duty Travel Chassis</td></tr><tr><td>Warranty Matrix</td><td>1-Year Warranty (ضمان لمدة سنة واحدة)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Silicon Power"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "Armor A60 Ultra-Rugged Series"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "2TB (Two Terabytes)"
+    },
+    {
+      "group": "specs",
+      "label": "Interface Type",
+      "value": "USB 3.0 High-Speed Interface (Backwards compatible with USB 2.0)"
+    },
+    {
+      "group": "specs",
+      "label": "Shockproof Rating",
+      "value": "US Military Military-Grade Drop Test Compliant (MIL-STD 810G Method 516.6)"
+    },
+    {
+      "group": "specs",
+      "label": "Water Resistance Level",
+      "value": "IPX4 Water-Resistant Protection (Against splashing fluid damage)"
+    },
+    {
+      "group": "specs",
+      "label": "Cable Management Matrix",
+      "value": "Innovative Wrap-around Cable Design Slot Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "2.5-inch Heavy-Duty Travel Chassis"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Warranty (ضمان لمدة سنة واحدة)"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-26",
+      "demo": true
+    }
+  ]
+}

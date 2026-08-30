@@ -1,0 +1,73 @@
+{
+  "id": 828,
+  "slug": "lenovo-legion-r24e",
+  "name": "Lenovo Legion R24E 23.8 inch 180Hz IPS FHD",
+  "model": "Legion R24E",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 5800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503180025-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503180025-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503180025-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503180025-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "Legion",
+    "R24E",
+    "23.8",
+    "inch",
+    "180Hz",
+    "IPS",
+    "FHD"
+  ],
+  "shortDescription": "Lenovo Legion R24E (R25i-30) Gaming Monitor​The Lenovo Legion R24E is a high-performance gaming monitor tailored for smooth gameplay and vibrant visuals. It features a fast IPS panel that balances speed with professional",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>Lenovo Legion R24E (R25i-30) Gaming Monitor</b></h3><p dir=\"ltr\">​The <b>Lenovo Legion R24E</b> is a high-performance gaming monitor tailored for smooth gameplay and vibrant visuals. It features a fast IPS panel that balances speed with professional-grade color accuracy.</p><h3 dir=\"ltr\">​<b>Display Specifications</b></h3><ul><li dir=\"ltr\">​<b>Panel Size:</b> 23.8-inch (Specifications may vary by region to 24.5-inch)</li><li dir=\"ltr\">​<b>Panel Type:</b> IPS (In-Plane Switching)</li><li dir=\"ltr\">​<b>Resolution:</b> 1920 x 1080 (Full HD)</li><li dir=\"ltr\">​<b>Refresh Rate:</b> <b>180Hz</b></li><li dir=\"ltr\">​<b>Response Time:</b> 0.5ms (MPRT) / 1ms (GtG)</li><li dir=\"ltr\">​<b>Brightness:</b> 400 nits (Peak)</li><li dir=\"ltr\">​<b>Color Gamut:</b> 99% sRGB / 90% DCI-P3</li><li dir=\"ltr\">​<b>Contrast Ratio:</b> 1000:1</li><li dir=\"ltr\">​<b>HDR:</b> DisplayHDR™ 400 certified</li></ul><h3 dir=\"ltr\">​<b>Gaming &amp; Visual Features</b></h3><ul><li dir=\"ltr\">​<b>Sync Technology:</b> AMD FreeSync Premium / G-Sync Compatible.</li><li dir=\"ltr\">​<b>Natural Low Blue Light:</b> Reduces eye strain without shifting colors to yellow.</li><li dir=\"ltr\">​<b>ClearMR 7000:</b> High motion clarity rating for competitive gaming.</li><li dir=\"ltr\">​<b>Game Assist:</b> Tools like aim point, timer, and frame counter via Lenovo Artery software.</li></ul><h3 dir=\"ltr\">​<b>Connectivity &amp; Audio</b></h3><ul><li dir=\"ltr\">​<b>DisplayPort:</b> 1 x DisplayPort 1.4</li><li dir=\"ltr\">​<b>HDMI:</b> 2 x HDMI 2.1</li><li dir=\"ltr\">​<b>Audio:</b> 1 x 3.5mm Audio Out</li><li dir=\"ltr\">​<b>Speakers:</b> Dual 3W built-in speakers</li></ul><h3 dir=\"ltr\">​<b>Design &amp; Ergonomics</b></h3><ul><li dir=\"ltr\"> ​<b>Stand Adjustability:</b> * Height (Up to 135mm)<ul><li dir=\"ltr\">​Tilt (-5° / 22°)</li><li dir=\"ltr\">​Swivel (-30° / 30°)</li><li dir=\"ltr\">​Pivot (Clockwise/Anti-clockwise 90°)</li></ul></li><li dir=\"ltr\">​<b>VESA Mount:</b> 100 x 100 mm</li><li dir=\"ltr\">​<b>Bezel:</b> 3-side NearEdgeless design.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>HDR 400 Support:</b> Offers better peak brightness and contrast for a more immersive media and gaming experience.</li><li dir=\"ltr\">​<b>Full Ergonomic Stand:</b> Unlike many budget monitors, this stand allows for complete movement, including vertical mode.</li><li dir=\"ltr\">​<b>Vibrant Colors:</b> The high sRGB coverage makes it suitable for both gaming and basic creative work.</li><li dir=\"ltr\">​<b>Modern Ports:</b> HDMI 2.1 ports ensure compatibility with the latest gaming hardware and stable high refresh rates.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    }
+  ]
+}

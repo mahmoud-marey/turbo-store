@@ -1,0 +1,72 @@
+{
+  "id": 861,
+  "slug": "aerocool-cylon-4f-argb-cpu-air-cooler",
+  "name": "Aerocool Cylon 4F ARGB CPU Air Cooler",
+  "model": "Cylon 4F ARGB",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509220110-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509220110-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509220110-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260509220110-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "Cylon",
+    "4F",
+    "ARGB",
+    "CPU",
+    "Air",
+    "Cooler"
+  ],
+  "shortDescription": "General SpecificationsModel Name: Cylon 4FCooler Type: Air Cooling SolutionTDP (Thermal Design Power): Up to 145WHeatsink Material: Aluminum finsBase Material: Aluminum block with Heat Core Touch Technology (HCTT)Heat Pi",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": 1280,
+  "slug": "msi-geforce-rtx-5070-12g-shadow-3x-oc-graphics-card",
+  "name": "MSI GeForce RTX 5070 12G SHADOW 3X OC Graphics Card",
+  "model": "SHADOW 3X",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 43499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-12g-shadow-3x-oc-gpu-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-12g-shadow-3x-oc-gpu-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-12g-shadow-3x-oc-gpu-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-12g-shadow-3x-oc-gpu-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-triple-fans-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-triple-fans-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-triple-fans-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-backplate-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-backplate-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-backplate-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-box-packaging-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-box-packaging-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/msi-rtx-5070-shadow-3x-oc-box-packaging-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "MSI",
+    "GeForce",
+    "RTX 5070",
+    "SHADOW 3X OC",
+    "12GB GDDR7",
+    "Graphics Card",
+    "GPU",
+    "Blackwell Architecture",
+    "PCIe 5.0",
+    "Triple Fan Cooling",
+    "Ray Tracing",
+    "DLSS",
+    "3 Years Warranty",
+    "Local Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "MSI GeForce RTX 5070 12G SHADOW 3X OC Graphics Card (12GB GDDR7 VRAM / NVIDIA Blackwell Architecture / SHADOW 3X Triple Fan Thermal Design / Factory Overclocked / PCIe Gen 5 Support / 3 Years Official Local Agent Warrant",
+  "descriptionHtml": "<p><span>MSI GeForce RTX 5070 12G SHADOW 3X OC Graphics Card (12GB GDDR7 VRAM / NVIDIA Blackwell Architecture / SHADOW 3X Triple Fan Thermal Design / Factory Overclocked / PCIe Gen 5 Support / 3 Years Official Local Agent Warranty)</span></p><p>Elevate your gaming and content creation performance with the MSI GeForce RTX 5070 12G SHADOW 3X OC graphics card, available at Turbo Computer Egypt with an Official 3-Year Local Agent Warranty. Built on the groundbreaking NVIDIA Blackwell architecture and powered by ultra-fast 12GB GDDR7 memory, this GPU delivers extraordinary frame rates, next-generation ray tracing, and AI-accelerated graphics. Equipped with the advanced SHADOW 3X cooling system, featuring three high-efficiency fans and a reinforced metal backplate, it maintains optimal thermal performance and quiet operation during intense high-resolution gaming sessions.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>MSI GeForce RTX 5070 12G SHADOW 3X OC</td></tr><tr><td>GPU Architecture</td><td>NVIDIA Blackwell Architecture</td></tr><tr><td>Video Memory (VRAM)</td><td>12GB GDDR7 / 192-bit Memory Bus / 28 Gbps Speed</td></tr><tr><td>Core Clocks &amp; CUDA Cores</td><td>Boost: 2542 MHz (Extreme Performance: 2557 MHz via MSI Center) / 6144 CUDA Cores</td></tr><tr><td>Thermal Cooling System</td><td>SHADOW 3X Triple Fan Thermal Design with Metal Backplate</td></tr><tr><td>Bus Interface</td><td>PCI Express Gen 5</td></tr><tr><td>Display Outputs</td><td>3x DisplayPort v2.1b, 1x HDMI 2.1b</td></tr><tr><td>Power Connectors &amp; Consumption</td><td>1x 16-pin Power Connector / Power Consumption: 250W</td></tr><tr><td>Recommended PSU &amp; Dimensions</td><td>650W PSU Recommended / Card Dimensions: 303mm x 121mm x 49mm</td></tr><tr><td>Warranty Coverage</td><td>3 Years Official Local Agent Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "MSI GeForce RTX 5070 12G SHADOW 3X OC"
+    },
+    {
+      "group": "specs",
+      "label": "GPU Architecture",
+      "value": "NVIDIA Blackwell Architecture"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "12GB GDDR7 / 192-bit Memory Bus / 28 Gbps Speed"
+    },
+    {
+      "group": "specs",
+      "label": "Core Clocks & CUDA Cores",
+      "value": "Boost: 2542 MHz (Extreme Performance: 2557 MHz via MSI Center) / 6144 CUDA Cores"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Cooling System",
+      "value": "SHADOW 3X Triple Fan Thermal Design with Metal Backplate"
+    },
+    {
+      "group": "specs",
+      "label": "Bus Interface",
+      "value": "PCI Express Gen 5"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "3x DisplayPort v2.1b, 1x HDMI 2.1b"
+    },
+    {
+      "group": "specs",
+      "label": "Power Connectors & Consumption",
+      "value": "1x 16-pin Power Connector / Power Consumption: 250W"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU & Dimensions",
+      "value": "650W PSU Recommended / Card Dimensions: 303mm x 121mm x 49mm"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "3 Years Official Local Agent Warranty"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-24",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-11",
+      "demo": true
+    }
+  ]
+}

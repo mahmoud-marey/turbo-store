@@ -1,0 +1,80 @@
+{
+  "id": 1134,
+  "slug": "fantech-venom-ii-wgc2-rechargeable-wireless-gaming-mouse-green",
+  "name": "Fantech Venom II WGC2 Vibe Edition Rechargeable Wireless Gaming Mouse 4000 DPI - Green",
+  "model": "Venom II WGC2 Vibe Edition",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 849,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-venom-ii-wgc2-green-wireless-gaming-mouse-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-venom-ii-wgc2-green-wireless-gaming-mouse-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-venom-ii-wgc2-green-wireless-gaming-mouse-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-venom-ii-wgc2-green-wireless-gaming-mouse-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-wgc2-green-rechargeable-wireless-mouse-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-wgc2-green-rechargeable-wireless-mouse-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-wgc2-green-rechargeable-wireless-mouse-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "Venom II",
+    "WGC2",
+    "Wireless Mouse",
+    "Gaming Mouse",
+    "Green",
+    "Vibe Edition",
+    "Rechargeable",
+    "4000 DPI",
+    "PixArt 3220",
+    "RGB Lighting"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-19",
+      "demo": true
+    }
+  ]
+}

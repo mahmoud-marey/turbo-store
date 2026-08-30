@@ -1,0 +1,86 @@
+{
+  "id": 840,
+  "slug": "antec-c8-argb-full-tower-black-case",
+  "name": "Antec C8 ARGB Full Tower Black Case",
+  "model": "C8 ARGB",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "pc-cases-chasses"
+  ],
+  "price": 7200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220908-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220908-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220908-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220908-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503221029-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503221029-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503221029-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220932-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220932-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503220932-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503221004-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503221004-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503221004-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ANTEC",
+    "C8",
+    "ARGB",
+    "FULL",
+    "TOWER",
+    "BLACK",
+    "CASE"
+  ],
+  "shortDescription": "Antec C8 ARGB Full Tower Case SpecificationsThe Antec C8 ARGB is a high-performance member of the Constellation series, featuring a dual-chamber layout designed for superior thermal management and a clean aesthetic. With",
+  "descriptionHtml": "<div _ngcontent-ng-c2777830090=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_4bbf998a5e2d633e\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><div><b><br></b></div><h3><b>Antec C8 ARGB Full Tower Case Specifications</b></h3><p>The <b>Antec C8 ARGB</b> is a high-performance member of the Constellation series, featuring a <b>dual-chamber</b> layout designed for superior thermal management and a clean aesthetic. With seamless tempered glass on the front and side, it provides a panoramic \"fish-tank\" view of your components, enhanced by pre-installed ARGB cooling.</p><h3><b>Core Specifications</b></h3><ul><li><p><b>Case Type:</b> Full Tower</p></li><li><p><b>Dimensions:</b> 464 x 303 x 476 mm (DWH)</p></li><li><p><b>Materials:</b> Steel, Plastic, Tempered Glass</p></li><li><p><b>Motherboard Support:</b> E-ATX (up to 280mm), ATX, Micro-ATX, ITX</p></li><li><p><b>Chassis Design:</b> Dual Chamber (separates PSU/Cables from CPU/GPU)</p></li></ul><h3><b>Cooling &amp; Fans</b></h3><ul><li><p><b>Front:</b> Seamless Tempered Glass (No fan support)</p></li><li><p><b>Top:</b> 3 x 120mm / 3 x 140mm / 2 x 160mm</p></li><li><p><b>Side:</b> 3 x 120mm / 2 x 140mm</p></li><li><p><b>Bottom:</b> 3 x 120mm / 3 x 140mm / 2 x 160mm</p></li><li><p><b>Rear:</b> 1 x 120mm / 1 x 140mm</p></li><li><p><b>ARGB Features:</b> Includes pre-installed high-airflow ARGB fans and a built-in fan/LED controller.</p></li></ul><h3><b>Radiator Support</b></h3><ul><li><p><b>Top:</b> Up to 360mm</p></li><li><p><b>Side:</b> Up to 360mm</p></li><li><p><b>Bottom:</b> Up to 360mm</p></li><li><p",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-14",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 864,
+  "slug": "cougar-egy-hdmi-2-0-10m-cable",
+  "name": "Cougaregy Hdmi 2.0 10m Cable",
+  "model": "2.0",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "cables-adapters"
+  ],
+  "price": 400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 6,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510185840-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510185840-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510185840-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510185840-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Cougar",
+    "Egy",
+    "Hdmi",
+    "2.0",
+    "10m",
+    "Cable",
+    "4K"
+  ],
+  "shortDescription": "Technical SpecificationsHDMI Version: 2.0Length: 10 MetersBandwidth: 18GbpsCable Type: High-Speed HDMI with EthernetResolution &amp; Refresh Rates4K Ultra HD: 3840 x 2160 @ 60Hz2K Quad HD: 2560 x 1440 @ 144HzFull HD: 192",
+  "descriptionHtml": "<div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_f79762c47a6220ad\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><ol start=\"1\"><li><p><b>Technical Specifications</b></p></li></ol><ul><li><p><b>HDMI Version:</b> 2.0</p></li><li><p><b>Length:</b> 10 Meters</p></li><li><p><b>Bandwidth:</b> 18Gbps</p></li><li><p><b>Cable Type:</b> High-Speed HDMI with Ethernet</p></li></ul><h3><b>Resolution &amp; Refresh Rates</b></h3><ul><li><p><b>4K Ultra HD:</b> 3840 x 2160 @ 60Hz</p></li><li><p><b>2K Quad HD:</b> 2560 x 1440 @ 144Hz</p></li><li><p><b>Full HD:</b> 1920 x 1080 @ 240Hz</p></li><li><p><b>3D Support:</b> Support for 3D video formats</p></li></ul><h3><b>Audio &amp; Visual Features</b></h3><ul><li><p><b>HDR Support:</b> Static HDR for enhanced color and brightness</p></li><li><p><b>Audio Return Channel (ARC):</b> Supported</p></li><li><p><b>Audio Channels:</b> Up to 32 audio channels</p></li><li><p><b>Chroma Subsampling:</b> Supports 4:4:4, 4:2:2, and 4:2:0</p></li></ul><h3><b>Build &amp; Compatibility</b></h3><ul><li><p><b>Connector:</b> Gold-plated HDMI Type A</p></li><li><p><b>Shielding:</b> Multi-layer shielding to prevent signal loss over 10m</p></li><li><p><b>Backward Compatibility:</b> Fully compatible with HDMI 1.4 and older versions</p></li><li><p",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    }
+  ]
+}

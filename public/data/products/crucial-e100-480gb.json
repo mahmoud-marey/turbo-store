@@ -1,0 +1,77 @@
+{
+  "id": 724,
+  "slug": "crucial-e100-480gb",
+  "name": "Crucial E100 480gb M.2 NVMe PCIe SSD GEN4",
+  "model": "E100",
+  "brand": "CRUCIAL",
+  "brandSlug": "crucial",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 4300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260406182259-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260406182259-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260406182259-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260406182259-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301232855-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301232855-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301232855-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Crucial",
+    "E100",
+    "480gb",
+    "M.2",
+    "NVMe",
+    "PCIe",
+    "SSD",
+    "GEN4"
+  ],
+  "shortDescription": "Make your computer faster than everSay goodbye to HDDs and SATA drives with speedy Gen4 NVMe performanceHigh qualityTested technologyQuality controlTypical I/O performance numbers as measured using CrystalDiskMark® with ",
+  "descriptionHtml": "<p>Make your computer faster than ever</p><p><br></p><p>Say goodbye to HDDs and SATA drives with speedy Gen4 NVMe performance</p><p><br></p><p><br></p><div><div id=\"container-f066aca0a2\"><div><div id=\"crucialteaser-4974b9853e\"><div><h6>High quality</h6><div><p></p><p>Tested technology</p><p>Quality control</p><p></p></div></div><div><div itemscope=\"\" itemtype=\"http://schema.org/ImageObject\"><img src=\"https://assets.micron.com/adobe/assets/urn:aaid:aem:755896e2-1195-48d7-b77e-754ae9364fc2/as/crucial-E100-APlusBasic-06-970x600.jpg?width=1500&amp;preferwebp=true\" loading=\"lazy\" itemprop=\"contentUrl\" alt=\"Cricual E100 APlusBasic 06\"></div></div></div></div></div></div><div><div id=\"spacer-365e450247\"></div></div><div><span></span><div id=\"container-398f50df95\"><div><div id=\"text-d81a78b727\"><ol><li><span>Typical I/O performance numbers as measured using CrystalDiskMark® with command queue full and write cache enabled. Fresh out-of-box (FOB) state is assumed. For performance measurement purposes, the SSD may be restored to FOB state using the secure erase command. System variations will affect measured results.</span></li><li><span>Some of the storage capacity is used for formatting and other purposes and is not available for data storage. 1GB equals 1 billion bytes</span></li></ol></div></div></div></div><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 20,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-27",
+      "demo": true
+    }
+  ]
+}

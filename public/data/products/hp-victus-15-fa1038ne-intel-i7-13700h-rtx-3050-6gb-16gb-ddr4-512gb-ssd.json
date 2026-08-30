@@ -1,0 +1,118 @@
+{
+  "id": 1075,
+  "slug": "hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-6gb-16gb-ddr4-512gb-ssd",
+  "name": "HP Victus 15-fa1038ne Gaming Laptop (Intel Core i7-13700H / RTX 3050 6GB / 16GB DDR4 / 512GB SSD / 15.6 Inch FHD 144Hz)",
+  "model": "15-fa1038ne",
+  "brand": "HP",
+  "brandSlug": "hp",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 52999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/HPL/hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/hp-victus-15-fa1038ne-intel-i7-13700h-rtx-3050-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "HP",
+    "HP Victus",
+    "HP Victus 15",
+    "Gaming Laptop",
+    "Intel Core i7",
+    "RTX 3050",
+    "16GB RAM",
+    "Laptops"
+  ],
+  "shortDescription": "HP Victus 15-fa1038ne Gaming Laptop - Intel Core i7-13700H - RTX 3050 6GB - 16GB RAMEmpower your gaming and professional multi-tasking experience with the HP Victus 15-fa1038ne gaming laptop, proudly offered by Turbo Com",
+  "descriptionHtml": "<p><span>HP Victus 15-fa1038ne Gaming Laptop - Intel Core i7-13700H - RTX 3050 6GB - 16GB RAM</span></p><p>Empower your gaming and professional multi-tasking experience with the HP Victus 15-fa1038ne gaming laptop, proudly offered by Turbo Computer Egypt. Driven by the high-tier 13th Gen Intel Core i7 processor and paired with the upgraded 6GB NVIDIA RTX 3050 graphics panel, this machine is meticulously engineered to maintain optimal thermal efficiency during intensive rendering, coding, or competitive esports sessions. Backed by official local warranty coverage across Egypt.</p><h3>Technical Specifications Matrix</h3><table><thead><tr><th>Component Type</th><th>Official Hardware Specification Details</th></tr></thead><tbody><tr><td>Processor (CPU)</td><td>Intel® Core™ i7-13700H Processor (24M Cache, up to 5.00 GHz, 14 Cores, 20 Threads)</td></tr><tr><td>Graphics (GPU)</td><td>NVIDIA® GeForce RTX™ 3050 Laptop GPU 6GB GDDR6 Dedicated Video Memory</td></tr><tr><td>Memory (RAM)</td><td>16GB DDR4-3200MHz High-Speed System Memory (Upgraded Specification)</td></tr><tr><td>Storage (SSD)</td><td>512GB PCIe® NVMe™ M.2 Gen4 Performance Solid State Drive</td></tr><tr><td>Display Panel</td><td>15.6-inch FHD (1920 x 1080), 144Hz Refresh Rate, IPS-level, Micro-edge, Anti-glare</td></tr><tr><td>Chassis Color &amp; Layout</td><td>Performance Blue / Mica Silver | Full-size backlit keyboard with numeric keypad</td></tr><tr><td>Operating System</td><td>FreeDOS (Compatible with Windows 11 Home/Pro architectures)</td></tr><tr><td>Warranty Matrix</td><td> 1-Year Official Local Agent Warranty in Egypt (ضمان محلي معتمد لمدة عام كامل) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel® Core™ i7-13700H Processor (24M Cache, up to 5.00 GHz, 14 Cores, 20 Threads)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA® GeForce RTX™ 3050 Laptop GPU 6GB GDDR6 Dedicated Video Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "16GB DDR4-3200MHz High-Speed System Memory (Upgraded Specification)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage (SSD)",
+      "value": "512GB PCIe® NVMe™ M.2 Gen4 Performance Solid State Drive"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "15.6-inch FHD (1920 x 1080), 144Hz Refresh Rate, IPS-level, Micro-edge, Anti-glare"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Color & Layout",
+      "value": "Performance Blue / Mica Silver | Full-size backlit keyboard with numeric keypad"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "FreeDOS (Compatible with Windows 11 Home/Pro architectures)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Official Local Agent Warranty in Egypt (ضمان محلي معتمد لمدة عام كامل)"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-27",
+      "demo": true
+    }
+  ]
+}

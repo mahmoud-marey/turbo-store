@@ -1,0 +1,82 @@
+{
+  "id": 844,
+  "slug": "antec-ax1000-lite-4-fan-argb-with-psu-750w-bronze-case",
+  "name": "Antec AX1000 Lite 4 Fan ARGB with PSU antec 750W 80plus Bronze Case",
+  "model": "AX1000 Lite",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 5000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205153-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205153-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205153-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205143-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205143-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205143-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Antec",
+    "AX1000 Lite",
+    "4 Fan",
+    "ARGB",
+    "PSU",
+    "750W",
+    "80plus Bronze",
+    "Case"
+  ],
+  "shortDescription": "Technical SpecificationsThe Antec AX1000 Lite is a mid-tower gaming case focused on high airflow, often bundled with an Antec 750W Bronze power supply in certain markets.1. Case Specifications (AX1000 Lite)FeatureSpecifi",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_5d6f03879ce5e366\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><b>Technical Specifications</b></h3><p>The <b>Antec AX1000 Lite</b> is a mid-tower gaming case focused on high airflow, often bundled with an Antec 750W Bronze power supply in certain markets.</p><h4><b>1. Case Specifications (AX1000 Lite)</b></h4><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Case Type</b></span></td><td><span>Mid-Tower</span></td></tr><tr><td><span><b>Dimensions (DWH)</b></span></td><td><span>440 x 212 x 489 mm</span></td></tr><tr><td><span><b>Motherboard Support</b></span></td><td><span>E-ATX (up to 280mm), ATX, Micro-ATX, ITX</span></td></tr><tr><td><span><b>Front Panel</b></span></td><td><span>Massive Mesh design for optimized airflow</span></td></tr><tr><td><span><b>Side Panel</b></span></td><td><span>Tempered Glass</span></td></tr><tr><td><span><b>Included Fans</b></span></td><td><span>4 x 120mm ARGB fans (3 front, 1 rear)</span></td></tr><tr><td><span><b>Radiator Support</b></span></td><td><span>Front: Up to 360mm; Top: Up to 280mm; Rear: 120mm</span></td></tr><tr><td><span><b>Max GPU Length</b></span></td><td",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    }
+  ]
+}

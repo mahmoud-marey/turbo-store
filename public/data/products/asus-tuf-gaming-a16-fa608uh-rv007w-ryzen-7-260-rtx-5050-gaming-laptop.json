@@ -1,0 +1,146 @@
+{
+  "id": 1290,
+  "slug": "asus-tuf-gaming-a16-fa608uh-rv007w-ryzen-7-260-rtx-5050-gaming-laptop",
+  "name": "ASUS TUF Gaming A16 FA608UH-RV007W Ryzen 7 260 RTX 5050 8GB Gaming Laptop",
+  "model": "FA608UH-RV007W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 65999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a16-fa608uh-laptop-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a16-fa608uh-laptop-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a16-fa608uh-laptop-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a16-fa608uh-laptop-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a16-fa608uh-laptop-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a16-fa608uh-laptop-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-a16-fa608uh-laptop-front-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "TUF Gaming A16",
+    "FA608UH-RV007W",
+    "AMD Ryzen 7 260",
+    "RTX 5050 8GB",
+    "115W TGP",
+    "16GB DDR5 5600MHz",
+    "512GB NVMe Gen4",
+    "16 Inch FHD ",
+    "165Hz",
+    "100 sRGB",
+    "RGB Keyboard",
+    "90Wh Battery",
+    "Windows 11",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS TUF Gaming A16 FA608UH-RV007W Gaming Laptop (AMD Ryzen 7 260 8-Core Processor / NVIDIA GeForce RTX 5050 8GB GDDR6 115W TGP / 16GB DDR5 5600MHz RAM / 512GB NVMe PCIe Gen4 SSD / 16-inch FHD+ 1920x1200 165Hz 100% sRGB ",
+  "descriptionHtml": "<p><span>ASUS TUF Gaming A16 FA608UH-RV007W Gaming Laptop (AMD Ryzen 7 260 8-Core Processor / NVIDIA GeForce RTX 5050 8GB GDDR6 115W TGP / 16GB DDR5 5600MHz RAM / 512GB NVMe PCIe Gen4 SSD / 16-inch FHD+ 1920x1200 165Hz 100% sRGB IPS Display / RGB Backlit Keyboard / 90Wh Battery / Windows 11 Home / 1 Year Perfect Warranty Pro)</span></p><p>Elevate your gaming and content creation performance with the ASUS TUF Gaming A16 FA608UH-RV007W laptop, available at Turbo Computer Egypt with a 1-Year Perfect Warranty Pro. Powered by the high-performance AMD Ryzen 7 260 8-core processor and paired with the high-TGP NVIDIA GeForce RTX 5050 8GB graphics card running up to 115W, this 16-inch gaming powerhouse handles AAA gaming and intensive multitasking effortlessly. Featuring a 16-inch 165Hz FHD+ display with 100% sRGB color gamut coverage, 16GB high-speed DDR5 memory, 512GB Gen4 NVMe storage, a large 90Wh battery, and military-grade durability, it delivers immersive visuals and long-lasting reliability.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>ASUS TUF Gaming A16 (FA608UH-RV007W)</td></tr><tr><td>Processor Architecture</td><td>AMD Ryzen 7 260 (8 Cores / 16 Threads)</td></tr><tr><td>Graphics Processing Unit</td><td>NVIDIA GeForce RTX 5050 8GB GDDR6 (115W Max TGP)</td></tr><tr><td>System Memory (RAM)</td><td>16GB DDR5 5600MHz (2x SODIMM Slots / Dual-Channel Upgradeable)</td></tr><tr><td>Solid State Storage</td><td>512GB M.2 NVMe PCIe 4.0 SSD (Dual M.2 2280 Gen4 Slots)</td></tr><tr><td>Display Specifications</td><td>16.0 Inch FHD+ (1920 x 1200) 16:10 / 165Hz / IPS-level / 100% sRGB / 300 nits Brightness / Anti-glare</td></tr><tr><td>Keyboard &amp; Input</td><td>Single-Zone RGB Backlit Keyboard</td></tr><tr><td>Wireless Connectivity</td><td>Wi-Fi 6E (802.11ax) Dual Band + Bluetooth 5.3</td></tr><tr><td>Battery &amp; Power Adapter</td><td>90Wh 4-Cell Li-ion Battery / 240W AC Power Adapter</td></tr><tr><td>Operating System</td><td>Windows 11 Home</td></tr><tr><td>Dimensions &amp; Weight</td><td>35.4 x 26.9 x 1.79 to 2.57 cm / 2.20 kg</td></tr><tr><td>Warranty Coverage</td><td>1 Year Perfect Warranty Pro</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "ASUS TUF Gaming A16 (FA608UH-RV007W)"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Architecture",
+      "value": "AMD Ryzen 7 260 (8 Cores / 16 Threads)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Processing Unit",
+      "value": "NVIDIA GeForce RTX 5050 8GB GDDR6 (115W Max TGP)"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory (RAM)",
+      "value": "16GB DDR5 5600MHz (2x SODIMM Slots / Dual-Channel Upgradeable)"
+    },
+    {
+      "group": "specs",
+      "label": "Solid State Storage",
+      "value": "512GB M.2 NVMe PCIe 4.0 SSD (Dual M.2 2280 Gen4 Slots)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Specifications",
+      "value": "16.0 Inch FHD+ (1920 x 1200) 16:10 / 165Hz / IPS-level / 100% sRGB / 300 nits Brightness / Anti-glare"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard & Input",
+      "value": "Single-Zone RGB Backlit Keyboard"
+    },
+    {
+      "group": "specs",
+      "label": "Wireless Connectivity",
+      "value": "Wi-Fi 6E (802.11ax) Dual Band + Bluetooth 5.3"
+    },
+    {
+      "group": "specs",
+      "label": "Battery & Power Adapter",
+      "value": "90Wh 4-Cell Li-ion Battery / 240W AC Power Adapter"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions & Weight",
+      "value": "35.4 x 26.9 x 1.79 to 2.57 cm / 2.20 kg"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "1 Year Perfect Warranty Pro"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    }
+  ]
+}

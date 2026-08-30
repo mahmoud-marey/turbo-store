@@ -1,0 +1,80 @@
+{
+  "id": 835,
+  "slug": "wd-blue-sn5000-500gb-m2-nvme-pcie-gen4-ssd",
+  "name": "Western Digital WD Blue SN5000 500GB M.2 NVMe PCIe Gen4 x4 SSD",
+  "model": "SN5000",
+  "brand": "WD",
+  "brandSlug": "wd",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 4300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-500gb-m2-nvme-pcie-gen4-ssd-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-500gb-m2-nvme-pcie-gen4-ssd-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-500gb-m2-nvme-pcie-gen4-ssd-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-500gb-m2-nvme-pcie-gen4-ssd-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "WD",
+    "Western Digital",
+    "Blue",
+    "SN5000",
+    "500GB",
+    "M.2",
+    "NVMe",
+    "PCIe Gen4",
+    "SSD",
+    "Storage",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Western Digital WD Blue SN5000 500GB M.2 NVMe PCIe Gen4 SSDSupercharge your system's responsiveness and accelerate your creative or gaming workflows with the Western Digital WD Blue SN5000 NVMe SSD. Utilizing the high-sp",
+  "descriptionHtml": "<h3 dir=\"ltr\"><span><b>Western Digital WD Blue SN5000 500GB M.2 NVMe PCIe Gen4 SSD</b></span></h3><h3 dir=\"ltr\"><span><b><br></b></span></h3><h3 dir=\"ltr\"><span>Supercharge your system's responsiveness and accelerate your creative or gaming workflows with the Western Digital WD Blue SN5000 NVMe SSD. Utilizing the high-speed PCIe Gen4 x4 interface, this 500GB solid-state drive is engineered to deliver next-generation performance, significantly reducing system boot times, eliminating game loading screens, and speeding up heavy file transfers compared to older SATA or Gen3 drives.</span></h3><h3 dir=\"ltr\"><span><br></span></h3><h3 dir=\"ltr\"></h3><h3 dir=\"ltr\"><span>Built with Western Digital's reliable thermal management and low-power consumption technology, the SN5000 ensures stable and consistent read/write speeds even under sustained workloads. Its compact M.2 2280 form factor allows for effortless installation in modern gaming desktop motherboards and slim laptops. Upgrade to modern Gen4 speeds and enjoy a seamless, ultra-fast computing experience with legendary WD durability<b>.</b></span></h3><h3 dir=\"ltr\"><br></h3><h3 dir=\"ltr\"><b><span>WD Blue SN5000 500GB NVMe SSD Specifications</span></b></h3><p dir=\"ltr\">​The <b>WD Blue SN5000 500GB</b> is an entry-level capacity drive in the high-performance SN5000 series. Utilizing <b>PCIe Gen 4.0</b>, it is designed to provide a snappy experience for OS boot drives, mainstream productivity, and content creation, offering a significant speed advantage over older SATA and Gen 3 NVMe drives.</p><h3 dir=\"ltr\">​<b>Performance Specifications</b></h3><ul><li dir=\"ltr\">​<b>Capacity:</b> 500GB</li><li dir=\"ltr\">​<b>Interface:</b> PCIe Gen 4.0 x4</li><li dir=\"ltr\">​<b>Form Factor:</b> M.2 2280</li><li dir=\"ltr\">​<b>Sequential Read Speed:</b> Up to <b>5,000 MB/s</b></li><li dir=\"ltr\">​<b>Sequential Write Speed:</b> Up to <b>4,000 MB/s</b></li><li dir=\"ltr\">​<b>Random Read (IOPS):</b> Up to 460K</li><li dir=\"ltr\">​<b>Random Write (IOPS):</b> Up to 800K</li></ul><h3 dir=\"ltr\">​<b>Durability &amp; Reliability</b></h3><ul><li dir=\"ltr\">​<b>Endurance (TBW):</b> 300 TBW (Terabytes Written)</li><li dir=\"ltr\">​<b>MTTF:</b> 1.75 Million Hours</li><li dir=\"ltr\">​<b>Technology:</b> nCache™ 4.0 for enhanced thermal efficiency and sustained write performance.</li></ul><h3 dir=\"ltr\">​<b>Features</b></h3><ul><li dir=\"ltr\">​<b>PCIe Gen 4 Power:</b> Optimized for modern motherboards to reach speeds nearly double those of standard Gen 3 drives.</li><li dir=\"ltr\">​<b>Western Digital SSD Dashboard:</b> Allows for real-time monitoring of drive capacity, operating temperatures, and firmware updates.</li><li dir=\"ltr\">​<b>Low Profile:</b> Single-sided M.2 2280 design ensures fitment in even the thinnest laptops and compact SFF (Small Form Factor) builds.</li><li dir=\"ltr\">​<b>Power Efficiency:</b> Balanced power draw to ensure high performance without excessive battery drain in mobile devices.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>Ideal Boot Drive:</b> The 500GB capacity is perfect for a dedicated Windows or macOS boot drive, ensuring lightning-fast startup and application loading.</li><li dir=\"ltr\">​<b>Next-Gen Speed:</b> While it is the lowest capacity in the lineup, it still hits a high 5,000 MB/s read speed, making file transfers and system updates much faster.</li><li dir=\"ltr\">​<b>Creative Ready:</b> Built with the endurance needed for light video editing, photo processing, and heavy daily multitasking.</li><li dir=\"ltr\">​<b>Reliable Brand:</b> Backed by Western Digital’s rigorous testing and solid reputation for data integrity in the \"Blue\" series.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    }
+  ]
+}

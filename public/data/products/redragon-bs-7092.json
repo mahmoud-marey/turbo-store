@@ -1,0 +1,117 @@
+{
+  "id": 780,
+  "slug": "redragon-bs-7092",
+  "name": "Redragon BS-7092 Wired Keyboard and Mouse Combo",
+  "model": "BS-7092",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "keyboard-mouse-combos"
+  ],
+  "price": 700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260422144835-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260422144835-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260422144835-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260422144835-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Redragon",
+    "BS-7092",
+    "Wired",
+    "Keyboard",
+    "and",
+    "Mouse",
+    "Combo"
+  ],
+  "shortDescription": "ضمان عام من الوكيل&nbsp;Redragon BS-7092&nbsp;Keyboard\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nLayout\r\nFull-Size (104 keys)\r\n\r\n\r\nFN Hotkeys\r\n14\r\n\r\n\r\nAnti-Ghosting\r\n✅ Yes\r\n\r\n\r\nBacklit\r\n❌ No\r\n\r\n\r\nSpill/Water Resistant\r\n✅ Yes\r\n\r\n\r\nConne",
+  "descriptionHtml": "<p>ضمان عام من الوكيل</p><p><br></p><p>&nbsp;<strong>Redragon BS-7092</strong></p><h3>&nbsp;Keyboard</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Layout</td><td>Full-Size (104 keys)</td></tr><tr><td>FN Hotkeys</td><td>14</td></tr><tr><td>Anti-Ghosting</td><td>✅ Yes</td></tr><tr><td>Backlit</td><td>❌ No</td></tr><tr><td>Spill/Water Resistant</td><td>✅ Yes</td></tr><tr><td>Connection</td><td>USB 2.0 (Plug &amp; Play)</td></tr><tr><td>Dimensions</td><td>44.3 × 14.5 × 2.5 cm</td></tr><tr><td>Weight</td><td>~482g</td></tr><tr><td>Color</td><td>Black</td></tr></tbody></table><h3>&nbsp;Mouse</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Sensor</td><td>Optical</td></tr><tr><td>DPI</td><td>1200 (adjustable)</td></tr><tr><td>Buttons</td><td>3 (Left, Right, Scroll Wheel)</td></tr><tr><td>Design</td><td>Ergonomic contoured grip</td></tr><tr><td>Connection</td><td>Wired USB</td></tr><tr><td>Dimensions</td><td>10.7 × 6.4 × 3.9 cm</td></tr><tr><td>Weight</td><td>~76g</td></tr></tbody></table><h3>&nbsp;In the Box</h3><ul><li>Full-size wired keyboard (Black)</li><li>Wired mouse (Black)</li><li>User manual</li></ul><h3>General</h3><ul><li><strong>Compatibility:</strong> PCs &amp; Laptops (Windows/macOS)</li><li><strong>Driver Required:</strong> No — plug and play</li><li><strong>Best For:</strong> Everyday office/home use, light gaming</li></ul><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Layout",
+      "value": "Full-Size (104 keys)"
+    },
+    {
+      "group": "specs",
+      "label": "FN Hotkeys",
+      "value": "14"
+    },
+    {
+      "group": "specs",
+      "label": "Anti-Ghosting",
+      "value": "✅ Yes"
+    },
+    {
+      "group": "specs",
+      "label": "Backlit",
+      "value": "❌ No"
+    },
+    {
+      "group": "specs",
+      "label": "Spill/Water Resistant",
+      "value": "✅ Yes"
+    },
+    {
+      "group": "specs",
+      "label": "Connection",
+      "value": "USB 2.0 (Plug & Play)"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions",
+      "value": "44.3 × 14.5 × 2.5 cm"
+    },
+    {
+      "group": "specs",
+      "label": "Weight",
+      "value": "~482g"
+    },
+    {
+      "group": "specs",
+      "label": "Color",
+      "value": "Black"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-11",
+      "demo": true
+    }
+  ]
+}

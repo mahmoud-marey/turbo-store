@@ -1,0 +1,69 @@
+{
+  "id": 791,
+  "slug": "asus-prime-z890-p-wifi",
+  "name": "Asus Prime Z890-P WIFI MOTHERBOARD",
+  "model": "Z890-P",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 12500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260425210423-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260425210423-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260425210423-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260425210423-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Asus",
+    "Prime",
+    "Z890-P",
+    "WIFI",
+    "MOTHERBOARD"
+  ],
+  "shortDescription": "PRIME Z890-P WIFIModelPRIME Z890-P WIFINews &amp; UpdatesPlease see the updated OS support requirements for the Intel®&nbsp;Core Ultra 200S series below:•Intel®&nbsp;Core Ultra 200S Series:&nbsp;Supports Windows 10 (vers",
+  "descriptionHtml": "<div><div><div><div><div><div id=\"fixbarBody\"><div><div><img alt=\"\" loading=\"lazy\" src=\"https://dlcdnwebimgs.asus.com/gain/4a6cfe19-0dae-4fec-b2fb-0b94a48b067b//w48\"></div><div>PRIME Z890-P WIFI</div></div></div></div></div></div></div></div><div id=\"productTableBody\"><div><div><div><div><div><img alt=\"\" loading=\"lazy\" src=\"https://dlcdnwebimgs.asus.com/gain/4a6cfe19-0dae-4fec-b2fb-0b94a48b067b//w184\"></div></div></div></div><div><div><div>Model</div></div><div><div><div><div><div>PRIME Z890-P WIFI</div><div></div></div></div></div></div></div><div><div><div>News &amp; Updates</div></div><div><div><div><p>Please see the updated OS support requirements for the Intel<span>®</span>&nbsp;Core Ultra 200S series below:<br><br><strong>•Intel<span>®</span>&nbsp;Core Ultra 200S Series:</strong>&nbsp;Supports Windows 10 (version 21H2 and later) and Windows 11 (version 22H2 and later).<br><br><strong>•Intel<span>®</span>&nbsp;Core Ultra 200S Plus Series:</strong>&nbsp;Windows 11 (version 25H2 and later) for full compatibility.<br>,<br>Please visit our&nbsp;<a href=\"https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p-wifi/techspec/\" target=\"_blank\" aria-label=\"go to global productpage\">GLOBAL website</a>&nbsp;to check and download the latest updates.</p></div></div></div></div><div><div><div>CPU</div></div><div><div><div><p>Supports Intel<span>®</span>&nbsp;Core™ Ultra Processors (Series 2), LGA1851*<br>Supports Intel<span>®</span>&nbsp;Turbo Boost Technology 2.0 and Intel<span>®</span>&nbsp;Turbo Boost Max Technology 3.0**<br>* Refer to&nbsp;https://www.asus.com/support/download-center/ for CPU&nbsp;support list.<br>** Intel<span>®</span>&nbsp;Turbo Boost Max Technology 3.0 support depends on the CPU types.</p></div></div></div></div><div><div><div>Chipset</div></div><div><div><div><p>Intel<span>®</span>&nbsp;Z890 Chipset</p></div></div></div></div><div><div><div>Memory</div></div><div><div><div><p>4 x DIMM slots, max. 256GB, DDR5<br>Support up to 8666+MT/s (OC),Non-ECC, Un-buffered ,Clocked Unbuffered DIMM (CUDIMM)*<br>Dual channel memory architecture<br>DIMM Fit<br>Supports Intel<span>®</span>&nbsp;Extreme Memory Profile (XMP) memory module<br>ASUS Enhanced Memory Profile III(AEMPIII)<br>* Supported memory types, data rate (speed), and number of DRAM modules vary depending on the CPU and memory configuration, for more information please refer to CPU/Memory Support list under the Support tab of product information site or visit&nbsp;https://www.asus.com/support/download-center/.&nbsp;Adjustments will be made based on the specifications of mass-produced memory products available on the market.<br>** Non-ECC, un-buffered DDR5 memory supports On-Die ECC function.</p></div></div></div></div><div><div><div>Graphics</div></div><div><div><div><p>1 x DisplayPort**<br>1 x HDMI<span>TM</span>&nbsp;port***<br>1 x Intel<span>®</span>&nbsp;Thunderbolt™ 4 port (USB Type-C<span>®</span>) supports DisplayPort and Thunderbolt™ video outputs****<br>* Graphics specifications may vary between CPU types. Please refer to&nbsp;www.intel.com&nbsp;for any updates.<br>** Supports max. 4K@60Hz as specified in DisplayPort 1.4.<br>*** Supports 4K@60Hz as specified in HDMI 2.1.<br>**** In Thunderbolt<span>TM</span>4 mode, supports up to 8K@60Hz x1 with DSC, maximum total bandwidth up to 23.8Gbps, for resolution support please check DisplayPort 2.1 specs.<br>**** In DP alt mode, supports up to UHBR20.<br>***** VGA resolution support depends on processors' or graphic cards' resolution.<br>****** While installing the operating system, please ensure that your monitor is connected to the HDMI port on the back I/O panel or to a discrete graphics card.</p></div></div></div></div><div><div><div>Expansion Slots</div></div><div><div><div><p><strong>Intel<span>®</span>&nbsp;Core™ Ultra Processors (Series 2)</strong>*<br>1 x PCIe 5.0 x16 slot<br><strong>Intel<span>®</span>&nbsp;Z890 Chipset</strong><br>2 x PCIe 4.0 x16 slots (support x4 mode)<br>1 x PCIe 4.0 x16 slot (supports x1 mode)<br>* Please check the PCIe bifurcation table on the support site (https://www.asus.com/support/FAQ/1037507/).<br>- To ensure compatibility of the device installed, please refer to&nbsp;https://www.asus.com/support/download-center/&nbsp;for the list of supported peripherals.</p></div></div></div></div><div><div><div>Storage</div></div><div><div><div><p><strong>Total supports 4 x M.2 slots and 4 x SATA 6Gb/s ports</strong>*<br><strong>Intel<span>®</span>&nbsp;Core™ Ultra Processors (Series 2)</strong>*<br>M.2_1 slot (Key M), type 2280/22110 (supports PCIe 5.0 x4 mode)<br>M.2_2 slot (Key M), type 2280 (supports PCIe 4.0 x4 mode)<br><strong>Intel<span>®&nbsp;</span>Z890 Chipset</strong><br>M.2_3 slot (Key M), type 2280/22110 (supports PCIe 4.0 x4 mode)<br>M.2_4 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 &amp; SATA modes)<br>4 x SATA 6Gb/s ports<br>* Intel<span>®</span>&nbsp;Rapid Storage Technology supports PCIe RAID 0/1/5/10, SATA RAID 0/1/5/10, M.2 slot from CPU only supports RAID 0/1/5.</p></div></div></div></div><div><div><div>Ethernet</div></div><div><div><div><p>1 x Realtek 2.5Gb Ethernet<br>ASUS LANGuard</p></div></div></div></div><div><div><div>Wireless &amp; Bluetooth</div></div><div><div><div><p>Wi-Fi 7*<br>2x2 Wi-Fi 7 (802.11be)<br>Supports 2.4/5/6GHz frequency band**<br>Supports Wi-Fi 7 160MHz bandwidth, up to 2.9Gbps transfer rate.<br>Bluetooth<span>®</span>&nbsp;v5.4***<br>*Wi-Fi features may vary depending on the operating system<br>&nbsp;For Windows 11, Wi-Fi 7 will require &nbsp;24H2 or later version for full functions, Windows 11 21H2/22H2/23H2 only support Wi-Fi 6E.<br>For Windows 10, please note that no driver is available , please refer to the Wi-Fi chipset vendor's website for details.<br>** Wi-Fi 6GHz frequency band and bandwidth regulatory may vary between countries.<br>*** The Bluetooth<span>®</span>&nbsp;version may vary, please refer to the Wi-Fi module manufacturer's website for the latest specifications.</p></div></div></div></div><div><div><div>USB</div></div><div><div><div><p><strong>Rear USB (Total 8 ports)</strong><br>1 x Thunderbolt™ 4 port (1 x USB Type-C<span>®</span>)<br>1 x USB 10Gbps port (1 x Type-A)<br>2 x USB 5Gbps ports (2 x Type-A)<br>4 x USB 2.0 ports (4 x Type-A)**<br><strong>Front USB (Total 9 ports)</strong><br>1 x USB 10Gbps connector (supports USB Type-C<span>®</span>)<br>2 x USB 5Gbps headers support 4 additional USB 5Gbps ports<br>2 x USB 2.0 headers support 4 additional USB 2.0 ports**<br>* USB Type-C<span>®</span>&nbsp;power delivery output: max. 5V/3A<br>** USB_E1 port, USB_E2 port, USB_E3 port and USB_E 4 port share the bandwidth.<br>** USB_E5 port, USB_E6 port and USB_E7 port share the bandwidth.</p></div></div></div></div><div><div><div>Audio</div></div><div><div><div><p>Realtek 7.1 Surround Sound High Definition Audio CODEC*<br>- Supports: Jack-detection,<br>Multi-streaming, Front Panel Jack-retasking<br>- Supports up to 24-Bit/192 kHz playback<br><strong>Audio Features</strong><br>- Audio Shielding<br>- Premium audio capacitors<br>- Dedicated audio PCB layers<br>* A chassis with an HD audio module in the front panel is required to support 7.1 Surround Sound audio output.</p></div></div></div></div><div><div><div>Back Panel I/O Ports</div></div><div><div><div><p>1 x Thunderbolt™ 4 USB Type-C<span>®</span>&nbsp;port<br>1 x USB 10Gbps port (1 x Type-A)<br>2 x USB 5Gbps ports (2 x Type-A)<br>4 x USB 2.0 ports (4 x Type-A)<br>1 x DisplayPort<br>1 x HDMI<span>TM</span>&nbsp;port<br>1 x Wi-Fi module<br>1 x Realtek 2.5Gb Ethernet port<br>3 x Audio jacks<br>1 x BIOS FlashBack™ button</p></div></div></div></div><div><div><div>Internal I/O Connectors</div></div><div><div><div><p><strong>Fan and Cooling related</strong><br>1 x 4-pin CPU Fan header<br>1 x 4-pin CPU OPT Fan header<br>1 x 4-pin AIO Pump header<br>4 x 4-pin Chassis Fan headers<br><strong>Power related</strong><br>1 x 24-pin Main Power connector<br>2 x 8-pin +12V CPU Power connector<br><strong>Storage related</strong><br>4 x M.2 slots (Key M)<br>4 x SATA 6Gb/s ports<br><strong>USB</strong><br>1 x USB 10Gbps connector (supports USB Type-C<span>®</span>)<br>2 x USB 5Gbps headers support 4 additional USB 5Gbps ports<br>2 x USB 2.0 headers support 4 additional USB 2.0 ports<br><strong>Miscellaneous</strong><br>3 x Addressable Gen2 headers<br>1 x Aura RGB header<br>1 x Clear CMOS header<br>1 x COM Port header<br>1 x Front Panel Audio header (F_AUDIO)<br>1 x S/PDIF Out header<br>1 x SPI TPM header (14-1pin)<br>1 x 10-1 pin Front Panel System header<br>1 x Thunderbolt™ (USB4<span>®</span>) header</p></div></div></div></div><div><div><div>Special Features</div></div><div><div><div><p><strong>ASUS 5X PROTECTION III</strong><br>- DIGI+ VRM (- Digital power design with DrMOS)<br>- LANGuard<br>- Overvoltage Protection<br>- SafeSlot<br>- Stainless-Steel Back I/O<br><strong>ASUS Q-Design</strong><br>- M.2 Q-Latch<br>- PCIe Slot Q-Release<br>- Q-Antenna<br>- Q-Dashboard<br>- Q-DIMM<br>- Q-LED Core<br>- Q-Slot<br><strong>ASUS Thermal Solution</strong><br>- M.2 heatsink<br>- VRM heatsink design<br><strong>ASUS EZ DIY</strong><br>- BIOS FlashBack™ button<br>- BIOS FlashBack™ LED<br>- ProCool<br>- Pre-mounted I/O shield<br><strong>Aura Sync</strong><br>- Aura RGB header<br>- Addressable Gen2 headers</p></div></div></div></div><div><div><div>Software Features</div></div><div><div><div><p><strong>ASUS Exclusive Software</strong><br>Armoury Crate<br>- Aura Creator<br>- Aura Sync<br>- Fan Xpert 4 (with AI Cooling II)<br>- Power Saving<br>ASUS AI Advisor<br>ASUS DriverHub<br>ASUS GlideX<br>ASUS CPU-Z<br>TurboV Core<br>Norton 360 Deluxe (60 Days Free Trial)<br>WinRAR (40 Days Free Trial)<br><strong>UEFI BIOS</strong><br>ASUS EZ DIY<br>- ASUS CrashFree BIOS 3<br>- ASUS EZ Flash<br>- ASUS UEFI BIOS EZ Mode<br>- ASUS MyHotkey<br>NPU Boost (Intel K-series Processors only)</p></div></div></div></div><div><div><div>BIOS</div></div><div><div><div><p>256 (128+128) Mb Flash ROM, UEFI AMI BIOS</p></div></div></div></div><div><div><div>Manageability</div></div><div><div><div><p>WOL by PME, PXE</p></div></div></div></div><div><div><div>Accessories</div></div><div><div><div><p><strong>Cables</strong><br>2 x SATA 6Gb/s cables<br><strong>Miscellaneous</strong><br>1 x ASUS WiFi Q-Antenna<br>1 x M.2 rubber package<br>2 x Screw packages for M.2 SSD<br><strong>Documentation</strong><br>1 x Quick start guide</p></div></div></div></div><div><div><div>Operating System</div></div><div><div><div><p>Windows 11 (22H2 &amp; later)</p></div></div></div></div><div><div><div>Form Factor</div></div><div><div><div><p>ATX Form Factor<br>12 inch x 9.6inch ( 30.5 cm x 24.4 cm )</p></div></div></div></div></div></div><div class=\"",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    }
+  ]
+}

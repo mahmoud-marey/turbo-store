@@ -1,0 +1,452 @@
+[
+  {
+    "slug": "2b",
+    "name": "2B",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/2b-100x100w.png.webp"
+  },
+  {
+    "slug": "acer",
+    "name": "ACER",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/ACER-100x100w.png.webp"
+  },
+  {
+    "slug": "adata",
+    "name": "ADATA",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/IMG-20260201-WA0011_260402142604-100x100w.png.webp"
+  },
+  {
+    "slug": "amd",
+    "name": "AMD",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/amd-100x100w.jpeg.webp"
+  },
+  {
+    "slug": "antec",
+    "name": "ANTEC",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/logos-2-100x100w.png.webp"
+  },
+  {
+    "slug": "aoc",
+    "name": "AOC",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/2560px-Aoc_international_logo.svg-100x100w.png.webp"
+  },
+  {
+    "slug": "apnx",
+    "name": "APNX",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/imacdjges-100x100.png.webp"
+  },
+  {
+    "slug": "asus",
+    "name": "ASUS",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/asus-100x100.png.webp"
+  },
+  {
+    "slug": "aerocool",
+    "name": "Aerocool",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/imagsvrvrvges-100x100w.png.webp"
+  },
+  {
+    "slug": "arctic",
+    "name": "Arctic",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/ARCTIC_logo_white-100x100h.png.webp"
+  },
+  {
+    "slug": "arctic-hunter",
+    "name": "Arctic Hunter",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/cropped-高清Logo-1-1-100x100w.png.webp"
+  },
+  {
+    "slug": "attack-shark",
+    "name": "attack shark",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/attack-shark-100x100h.png.webp"
+  },
+  {
+    "slug": "aula",
+    "name": "Aula",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/logo-100x100.png.webp"
+  },
+  {
+    "slug": "bagbell",
+    "name": "Bagbell",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Bbell-100x100.jpeg.webp"
+  },
+  {
+    "slug": "cat",
+    "name": "CAT",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/cat-100x100w.png.webp"
+  },
+  {
+    "slug": "colorful",
+    "name": "COLORFUL",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/COLORFUL-100x100w.png.webp"
+  },
+  {
+    "slug": "corsair",
+    "name": "CORSAIR",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/corsair-100x100w.png.webp"
+  },
+  {
+    "slug": "crucial",
+    "name": "CRUCIAL",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/crucial-100x100.png.webp"
+  },
+  {
+    "slug": "chiropter",
+    "name": "Chiropter",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Chiropter-100x100.png.webp"
+  },
+  {
+    "slug": "cooler-master",
+    "name": "Cooler Master",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/cooler-master-logo-png_seeklogo-250626-100x100.png.webp"
+  },
+  {
+    "slug": "cougar",
+    "name": "Cougar",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/cougar-100x100w.png.webp"
+  },
+  {
+    "slug": "cougar-egy",
+    "name": "Cougar-EGY",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/cougar-egy-100x100w.png.webp"
+  },
+  {
+    "slug": "datalogic",
+    "name": "DATALOGIC",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/DATALOGIC-100x100.png.webp"
+  },
+  {
+    "slug": "deepcool",
+    "name": "DEEPCOOL",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/deepcool-100x100w.png.webp"
+  },
+  {
+    "slug": "darkflash",
+    "name": "darkFlash",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/darkflash-100x100w.png.webp"
+  },
+  {
+    "slug": "elite",
+    "name": "ELITE",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/FB_IMG_1773717764558-100x100.jpg.webp"
+  },
+  {
+    "slug": "egy-box",
+    "name": "Egy Box",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/images%20(1)-100x100w.png.webp"
+  },
+  {
+    "slug": "epson",
+    "name": "Epson",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/epson-logo-japanese-electronics-company-one-world-largest-manufacturers-computer-printers-booth-cee-electronics-trade-104802996-100x100w.jpg.webp"
+  },
+  {
+    "slug": "fantech",
+    "name": "Fantech",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/fantech-100x100.jpg.webp"
+  },
+  {
+    "slug": "gamdias",
+    "name": "GAMDIAS",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/GD_Logo_252X60-60x60w.png.webp"
+  },
+  {
+    "slug": "gigabyte",
+    "name": "GIGABYTE",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/gigabyte-100x100w.png.webp"
+  },
+  {
+    "slug": "gamesir",
+    "name": "Gamesir",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/imgameshages-100x100.jpeg.webp"
+  },
+  {
+    "slug": "golden-wolf",
+    "name": "Golden Wolf",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Gwolf-100x100.jpeg.webp"
+  },
+  {
+    "slug": "hp",
+    "name": "HP",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/HP_New_Logo_2D.svg-100x100.png.webp"
+  },
+  {
+    "slug": "haven",
+    "name": "Haven",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/IMG-20260201-WA0011_260318161949-100x100w.png.webp"
+  },
+  {
+    "slug": "havit",
+    "name": "Havit",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Havit-100x100.png.webp"
+  },
+  {
+    "slug": "hikvision",
+    "name": "HikVision",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/hikvision-100x100.png.webp"
+  },
+  {
+    "slug": "hiksemi",
+    "name": "Hiksemi",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Hiksemi%20(2)-100x100.jpeg.webp"
+  },
+  {
+    "slug": "hyperx",
+    "name": "HyperX",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/HyperX-Logo-100x100w.jpg.webp"
+  },
+  {
+    "slug": "intel",
+    "name": "INTEL",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Intel_logo_(2006-2020).svg-100x100w.png.webp"
+  },
+  {
+    "slug": "imou",
+    "name": "Imou",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/imou-100x100.jpeg.webp"
+  },
+  {
+    "slug": "jedel",
+    "name": "Jedel",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Jedel-100x100.jpeg.webp"
+  },
+  {
+    "slug": "jertech",
+    "name": "Jertech",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/JERTECH--600x600-100x100.png.webp"
+  },
+  {
+    "slug": "kingston",
+    "name": "KINGSTON",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/kingston-100x100.png.webp"
+  },
+  {
+    "slug": "kotion",
+    "name": "Kotion",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/images%20(4)-100x100.jpeg.webp"
+  },
+  {
+    "slug": "lenovo",
+    "name": "LENOVO",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Lenovo_logo_2015.svg-100x100w.png.webp"
+  },
+  {
+    "slug": "lexar",
+    "name": "LEXAR",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/lexar-100x100w.png.webp"
+  },
+  {
+    "slug": "lg",
+    "name": "LG",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/lg%20logo-100x100.png.webp"
+  },
+  {
+    "slug": "l-avvento",
+    "name": "l'avvento",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/images-100x100.jpeg.webp"
+  },
+  {
+    "slug": "logitech",
+    "name": "logitech",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/logitech-100x100.png.webp"
+  },
+  {
+    "slug": "marvo",
+    "name": "Marvo",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/MARVO-1_585acd0f-0958-4f01-aaab-ef34b96160ad-100x100.png.webp"
+  },
+  {
+    "slug": "mjk",
+    "name": "MJK",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/images%20(5)-100x100.jpeg.webp"
+  },
+  {
+    "slug": "msi",
+    "name": "MSI",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/msi-100x100.jpeg.webp"
+  },
+  {
+    "slug": "maono",
+    "name": "Maono",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Maono-100x100.png.webp"
+  },
+  {
+    "slug": "meetion",
+    "name": "Meetion",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/meetion-100x100.jpeg.webp"
+  },
+  {
+    "slug": "nyko",
+    "name": "NYKO",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/images%20(2)-100x100.jpeg.webp"
+  },
+  {
+    "slug": "ocypus",
+    "name": "Ocypus",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Ocypusges-100x100w.png.webp"
+  },
+  {
+    "slug": "onikuma",
+    "name": "Onikuma",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Onikuma-100x100.jpeg.webp"
+  },
+  {
+    "slug": "onten",
+    "name": "Onten",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/onten_georgia_logo-100x100.jpeg.webp"
+  },
+  {
+    "slug": "pny",
+    "name": "PNY",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/pny-100x100w.png.webp"
+  },
+  {
+    "slug": "patriot",
+    "name": "Patriot",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/patriot-100x100.png.webp"
+  },
+  {
+    "slug": "philips",
+    "name": "Philips",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Phillips-Logo-100x100h.jpg.webp"
+  },
+  {
+    "slug": "protect",
+    "name": "Protect",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/IMG-20260201-WA0011_260318060745-100x100.png.webp"
+  },
+  {
+    "slug": "rahala",
+    "name": "Rahala",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Rahala-100x100.jpeg.webp"
+  },
+  {
+    "slug": "raidmax",
+    "name": "Raidmax",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/raidmax-100x100w.png.webp"
+  },
+  {
+    "slug": "rapoo",
+    "name": "Rapoo",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Rapoo-100x100.png.webp"
+  },
+  {
+    "slug": "razer",
+    "name": "Razer",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Razer(10)-100x100w.jpeg.webp"
+  },
+  {
+    "slug": "redragon",
+    "name": "Redragon",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/redragon-100x100.png.webp"
+  },
+  {
+    "slug": "samsung",
+    "name": "SAMSUNG",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Samsung-Logo-2-100x100w.png.webp"
+  },
+  {
+    "slug": "standard",
+    "name": "Standard",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/es-100x100.png.webp"
+  },
+  {
+    "slug": "sunmi",
+    "name": "SUNMI",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/sunmi-100x100.png.webp"
+  },
+  {
+    "slug": "sandisk",
+    "name": "Sandisk",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/sandisk01-100x100w.png.webp"
+  },
+  {
+    "slug": "smile",
+    "name": "Smile",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/ges-100x100w.png.webp"
+  },
+  {
+    "slug": "spark",
+    "name": "Spark",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/cd1b9fbe-e7e6-4615-95e3-b9fd0aceb29b-100x100w.png.webp"
+  },
+  {
+    "slug": "t-dagger",
+    "name": "T-Dagger",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/T-Dagger-100x100.png.webp"
+  },
+  {
+    "slug": "team",
+    "name": "Team",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/Teamges-100x100.png.webp"
+  },
+  {
+    "slug": "technozone",
+    "name": "TechnoZone",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/technozone-100x100w.png.webp"
+  },
+  {
+    "slug": "thermaltake",
+    "name": "Thermaltake",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/thermaltake-100x100w.png.webp"
+  },
+  {
+    "slug": "tp-link",
+    "name": "Tp link",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/imvages-100x100w.png.webp"
+  },
+  {
+    "slug": "transcend",
+    "name": "Transcend",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/images-100x100w.png.webp"
+  },
+  {
+    "slug": "utopia",
+    "name": "UTOPIA",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/utopia-100x100.png.webp"
+  },
+  {
+    "slug": "v-case",
+    "name": "V Case",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/v-case-100x100.png.webp"
+  },
+  {
+    "slug": "viewsonic",
+    "name": "ViewSonic",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/viewsonic-34x34w.png.webp"
+  },
+  {
+    "slug": "wd",
+    "name": "WD",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/wd-100x100.png.webp"
+  },
+  {
+    "slug": "xprinter",
+    "name": "XPRINTER",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/xprinter-100x100.png.webp"
+  },
+  {
+    "slug": "xigmatek",
+    "name": "Xigmatek",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/xigmatek-100x100w.png.webp"
+  },
+  {
+    "slug": "xtrike-me",
+    "name": "Xtrike Me",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/images%20(3)-100x100.jpeg.webp"
+  },
+  {
+    "slug": "zkteco",
+    "name": "ZKTECO",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/zkteco-100x100.png.webp"
+  },
+  {
+    "slug": "zotac",
+    "name": "ZOTAC",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/slogo/zotac-100x100w.png.webp"
+  },
+  {
+    "slug": "zero",
+    "name": "Zero",
+    "logo": "https://turbo-computer.com/image/cache/catalog/LOGO/0012489_zero_420-100x100.png.webp"
+  }
+]

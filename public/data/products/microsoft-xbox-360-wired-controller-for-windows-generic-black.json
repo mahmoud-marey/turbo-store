@@ -1,0 +1,127 @@
+{
+  "id": 1251,
+  "slug": "microsoft-xbox-360-wired-controller-for-windows-generic-black",
+  "name": "Microsoft Xbox 360 Wired Controller for Windows Generic Black",
+  "model": "360 copy",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/xbox-360-wired-controller-generic-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/xbox-360-wired-controller-generic-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/xbox-360-wired-controller-generic-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/xbox-360-wired-controller-generic-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/xbox-360-pc-gamepad-usb-cable-detail-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/xbox-360-pc-gamepad-usb-cable-detail-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/xbox-360-pc-gamepad-usb-cable-detail-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Microsoft",
+    "Xbox 360",
+    "Wired Controller",
+    "Generic",
+    "Copy",
+    "Black",
+    "USB Gamepad",
+    "PC Gaming",
+    "Windows",
+    "Dual Vibration",
+    "1 Month Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Microsoft Xbox 360 Wired Controller for Windows PC - Black (High Quality Generic Copy / Plug &amp; Play USB / Dual Vibration Feedback / Ergonomic Layout / 1-Month Store Warranty)Enjoy classic gaming performance on PC wit",
+  "descriptionHtml": "<p>Microsoft Xbox 360 Wired Controller for Windows PC - Black (High Quality Generic Copy / Plug &amp; Play USB / Dual Vibration Feedback / Ergonomic Layout / 1-Month Store Warranty)</p><p>Enjoy classic gaming performance on PC with the Microsoft Xbox 360 Wired Controller in Black (High Quality Generic Copy), available at Turbo Computer Egypt with a 1-Month Store Warranty (ضمان شهر متجر). Designed to replicate the iconic original Xbox 360 controller layout, this controller features precise analog sticks, dual vibration feedback motors, full Windows compatibility, and plug-and-play USB connectivity for seamless PC gaming.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Product Type</td><td>Wired USB Game Controller (High Quality Generic / Copy)</td></tr><tr><td>Color Finish</td><td>Matte Black</td></tr><tr><td>Compatibility</td><td>Windows PC (11 / 10 / 8 / 7) &amp; Xbox 360 Console</td></tr><tr><td>Warranty Period</td><td>1-Month Store Warranty (ضمان شهر)</td></tr><tr><td>Connection Type</td><td>Wired USB Interface (Plug and Play)</td></tr><tr><td>Cable Length</td><td>Approx. 2.1 Meters (Flexible Durable Cable)</td></tr><tr><td>Vibration Feedback</td><td>Dual Vibration Motors (Adjustable Haptic Feedback)</td></tr><tr><td>Controls &amp; Layout</td><td>8-Way D-Pad, 2 Analog Thumbsticks, Dual Analog Triggers, LB/RB Bumpers, ABXY Buttons, Back/Start/Guide Buttons</td></tr><tr><td>Audio Interface</td><td>Integrated 2.5mm Headset Jack</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Product Type",
+      "value": "Wired USB Game Controller (High Quality Generic / Copy)"
+    },
+    {
+      "group": "specs",
+      "label": "Color Finish",
+      "value": "Matte Black"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "Windows PC (11 / 10 / 8 / 7) & Xbox 360 Console"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Month Store Warranty (ضمان شهر)"
+    },
+    {
+      "group": "specs",
+      "label": "Connection Type",
+      "value": "Wired USB Interface (Plug and Play)"
+    },
+    {
+      "group": "specs",
+      "label": "Cable Length",
+      "value": "Approx. 2.1 Meters (Flexible Durable Cable)"
+    },
+    {
+      "group": "specs",
+      "label": "Vibration Feedback",
+      "value": "Dual Vibration Motors (Adjustable Haptic Feedback)"
+    },
+    {
+      "group": "specs",
+      "label": "Controls & Layout",
+      "value": "8-Way D-Pad, 2 Analog Thumbsticks, Dual Analog Triggers, LB/RB Bumpers, ABXY Buttons, Back/Start/Guide Buttons"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Interface",
+      "value": "Integrated 2.5mm Headset Jack"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    }
+  ]
+}

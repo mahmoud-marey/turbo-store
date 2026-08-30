@@ -1,0 +1,71 @@
+{
+  "id": 846,
+  "slug": "antec-gsk850-850w-80plus-gold-black-full-modular-power-supply",
+  "name": "Antec GSK850 850w 80plus Gold Black Full Modular Power Supply",
+  "model": "GSK850",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 5500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504222558-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504222558-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504222558-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504222558-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Antec",
+    "GSK850",
+    "850w",
+    "80plus Gold",
+    "Black",
+    "Full Modular",
+    "Power Supply"
+  ],
+  "shortDescription": "Technical SpecificationsThe Antec GSK850 is a high-performance, fully modular power supply unit (PSU) designed for gaming enthusiasts and professionals who require stable and efficient power delivery.FeatureSpecification",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_13d8aa098fe7d604\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><b>Technical Specifications</b></h3><p>The <b>Antec GSK850</b> is a high-performance, fully modular power supply unit (PSU) designed for gaming enthusiasts and professionals who require stable and efficient power delivery.</p><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Model</b></span></td><td><span>Antec GSK850</span></td></tr><tr><td><span><b>Maximum Power</b></span></td><td><span>850 Watts</span></td></tr><tr><td><span><b>Efficiency Rating</b></span></td><td><span>80 PLUS® Gold (Up to 92% efficiency)</span></td></tr><tr><td><span><b>Modularity</b></span></td><td><span>Fully Modular (Flat black cables)</span></td></tr><tr><td><span><b>Type</b></span></td><td><span>Intel ATX 12V 2.4</span></td></tr><tr><td><span><b>Fan Type</b></span></td><td><span>120mm FDB (Fluid Dynamic Bearing) Silent Fan</span></td></tr><tr><td><span><b>Topology</b></span></td><td><span>Phase Shift Full-Bridge LLC design with DC-to-DC</span></td></tr><tr><td><span><b>Capacitors</b></span></td><td><span>High-quality Japanese capacitors for stability</span></td></tr><tr",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    }
+  ]
+}

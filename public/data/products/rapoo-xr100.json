@@ -1,0 +1,68 @@
+{
+  "id": 752,
+  "slug": "rapoo-xr100",
+  "name": "Rapoo XR100 Wireless Presenter",
+  "model": "XR100",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "presenters-laser-pointers"
+  ],
+  "price": 750,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414193430-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414193430-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414193430-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260414193430-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "XR100",
+    "Wireless",
+    "Presenter"
+  ],
+  "shortDescription": "ضمان عام من الوكيل**Rapoo XR100 Wireless Presenter****Brand:** Rapoo**Model:** XR100**Type:** Wireless Presenter / Remote Control**Color:** Black**Connectivity:**Type: Wireless (2.4GHz)Wireless Range: Up to 10 meters (33",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل</p><p><br></p><p>**Rapoo XR100 Wireless Presenter**</p><p><br></p><p>**Brand:** Rapoo</p><p>**Model:** XR100</p><p>**Type:** Wireless Presenter / Remote Control</p><p>**Color:** Black</p><p><br></p><p>**Connectivity:**</p><p>Type: Wireless (2.4GHz)</p><p>Wireless Range: Up to 10 meters (33 feet)</p><p>Plug and Play: Yes (no driver required)</p><p><br></p><p>**Buttons &amp; Controls:**</p><p>PowerPoint Controls:</p><p>- Next Slide (Page Down)</p><p>- Previous Slide (Page Up)</p><p>- Black Screen (B key)</p><p>- Full Screen (F5 key)</p><p><br></p><p>Pointer Controls:</p><p>- Red Laser Pointer</p><p><br></p><p>Other Controls:</p><p>- Start / Stop Slide Show</p><p>- Volume Up</p><p>- Volume Down</p><p><br></p><p>**Laser Pointer:**</p><p>Type: Class 2 Red Laser</p><p>Wavelength: 630-650nm</p><p>Output Power: &lt;1mW</p><p>Visible Range: Up to 100 meters (328 feet)</p><p><br></p><p>**Power:**</p><p>Battery Type: 1 x AAA battery (not included)</p><p>Battery Life: Up to 12 months (based on 2 hours daily use)</p><p>Low Battery Indicator: Yes (LED flashes)</p><p><br></p><p>**Physical Specifications:**</p><p>Dimensions: 115 x 37 x 25 mm (4.5 x 1.5 x 1 inches)</p><p>Weight: 45 grams (with battery)</p><p>Form Factor: Pen-shaped / Ergonomic design</p><p><br></p><p>**Storage:**</p><p>USB Receiver Storage: Built-in compartment (receiver snaps into presenter)</p><p>USB Receiver Dimensions: Standard nano size</p><p><br></p><p>**System Compatibility:**</p><p>Operating Systems: Windows 7 / 8 / 10 / 11, macOS</p><p>Software Required: Microsoft PowerPoint (or compatible presentation software)</p><p>Other Software: Works with Keynote, Google Slides, LibreOffice</p><p><br></p><p>**Package Includes:**</p><p>Rapoo XR100 Wireless Presenter</p><p>2.4GHz USB Receiver (stored inside)</p><p>User manual</p><p><br></p><p>**Warranty:** 1 year (depending on region)</p><p><br></p><p>**Features:**</p><p>Plug and Play (no driver installation)</p><p>Red laser pointer</p><p>Built-in USB receiver storage</p><p>Energy-saving design</p><p>Compact and portable (pen size)</p><p><br></p><p>**Pros:**</p><p>Affordable price</p><p>Long wireless range (10m / 33ft)</p><p>Long battery life (12 months)</p><p>Compact design (fits in pocket)</p><p><br></p><p>**Ideal For:**</p><p>Business presentations</p><p>Classroom lectures</p><p>Conference speeches</p><p>Sales meetings</p><p>Webinars and training sessions</p><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    }
+  ]
+}

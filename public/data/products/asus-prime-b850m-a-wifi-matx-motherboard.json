@@ -1,0 +1,140 @@
+{
+  "id": 1285,
+  "slug": "asus-prime-b850m-a-wifi-matx-motherboard",
+  "name": "ASUS Prime B850M-A WIFI mATX Motherboard",
+  "model": "B850M-A",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 8499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-motherboard-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-motherboard-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-motherboard-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-motherboard-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-matx-angle-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-matx-angle-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-matx-angle-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-rear-io-panel-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-rear-io-panel-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b850m-a-wifi-rear-io-panel-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Prime Series",
+    "B850M-A WIFI",
+    "Motherboard",
+    "AM5",
+    "AMD Ryzen",
+    "DDR5",
+    "mATX",
+    "PCIe 5.0 M.2",
+    "Wi-Fi 6E",
+    "2.5G LAN",
+    "Aura Sync",
+    "USB 20Gbps Type-C",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS Prime B850M-A WIFI mATX Motherboard (AMD Socket AM5 / Supports Ryzen 9000, 8000 &amp; 7000 Series / 4x DDR5 Slots / PCIe 5.0 M.2 Slot / Wi-Fi 6E &amp; 2.5Gb Ethernet / USB 20Gbps Type-C / Aura Sync RGB / 1 Year Warr",
+  "descriptionHtml": "<p><span>ASUS Prime B850M-A WIFI mATX Motherboard (AMD Socket AM5 / Supports Ryzen 9000, 8000 &amp; 7000 Series / 4x DDR5 Slots / PCIe 5.0 M.2 Slot / Wi-Fi 6E &amp; 2.5Gb Ethernet / USB 20Gbps Type-C / Aura Sync RGB / 1 Year Warranty)</span></p><p>Empower your high-performance PC build with the ASUS Prime B850M-A WIFI mATX motherboard, available at Turbo Computer Egypt with a 1-Year Warranty. Engineered to unlock the full power of AMD Ryzen 9000, 8000, and 7000 series desktop processors on socket AM5, this motherboard offers comprehensive power delivery, robust cooling solutions, and intelligent tuning options. Packed with next-generation connectivity including PCIe 5.0 M.2 storage, ultra-fast Wi-Fi 6E, 2.5Gb Ethernet, and rear USB 20Gbps Type-C ports, it ensures top-tier performance for daily productivity, content creation, and high-speed gaming.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>ASUS Prime B850M-A WIFI</td></tr><tr><td>CPU Socket &amp; Chipset</td><td>AMD Socket AM5 / AMD B850 Chipset (Supports Ryzen 9000, 8000, 7000 Series)</td></tr><tr><td>Memory Support</td><td>4x DDR5 DIMM Slots (Dual Channel / Up to 192GB / EXPO &amp; OptiMem II Supported)</td></tr><tr><td>PCIe Expansion Slots</td><td>1x PCIe 4.0 x16 Slot (SafeSlot Core+) / 2x PCIe 4.0 x1 Slots</td></tr><tr><td>Storage Interfaces</td><td>1x M.2 PCIe 5.0 x4 Slot / 1x M.2 PCIe 4.0 x4 Slot / 4x SATA 6Gbps Ports</td></tr><tr><td>Networking &amp; Wireless</td><td>Wi-Fi 6E (2x2) + Bluetooth 5.3 + Realtek 2.5Gb Ethernet LAN</td></tr><tr><td>Rear I/O Connectivity</td><td>1x USB 20Gbps Type-C, 2x USB 10Gbps Type-A, 4x USB 2.0, 1x DisplayPort, 1x HDMI, 1x 2.5G LAN, 3x Audio Jacks</td></tr><tr><td>Cooling &amp; DIY Design</td><td>VRM Heatsinks, M.2 Heatsink, BIOS FlashBack Button, Q-LED Core, SafeSlot Core+</td></tr><tr><td>Form Factor &amp; RGB</td><td>mATX Form Factor (24.4 cm x 24.4 cm) / ASUS Aura Sync RGB Headers</td></tr><tr><td>Warranty Coverage</td><td>1 Year Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "ASUS Prime B850M-A WIFI"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket & Chipset",
+      "value": "AMD Socket AM5 / AMD B850 Chipset (Supports Ryzen 9000, 8000, 7000 Series)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support",
+      "value": "4x DDR5 DIMM Slots (Dual Channel / Up to 192GB / EXPO & OptiMem II Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "PCIe Expansion Slots",
+      "value": "1x PCIe 4.0 x16 Slot (SafeSlot Core+) / 2x PCIe 4.0 x1 Slots"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interfaces",
+      "value": "1x M.2 PCIe 5.0 x4 Slot / 1x M.2 PCIe 4.0 x4 Slot / 4x SATA 6Gbps Ports"
+    },
+    {
+      "group": "specs",
+      "label": "Networking & Wireless",
+      "value": "Wi-Fi 6E (2x2) + Bluetooth 5.3 + Realtek 2.5Gb Ethernet LAN"
+    },
+    {
+      "group": "specs",
+      "label": "Rear I/O Connectivity",
+      "value": "1x USB 20Gbps Type-C, 2x USB 10Gbps Type-A, 4x USB 2.0, 1x DisplayPort, 1x HDMI, 1x 2.5G LAN, 3x Audio Jacks"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling & DIY Design",
+      "value": "VRM Heatsinks, M.2 Heatsink, BIOS FlashBack Button, Q-LED Core, SafeSlot Core+"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor & RGB",
+      "value": "mATX Form Factor (24.4 cm x 24.4 cm) / ASUS Aura Sync RGB Headers"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "1 Year Warranty"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    }
+  ]
+}

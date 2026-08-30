@@ -1,0 +1,89 @@
+{
+  "id": 785,
+  "slug": "arctic-hunter-b00555",
+  "name": "Arctic Hunter B00555 Laptop Backpack",
+  "model": "B00555",
+  "brand": "Arctic Hunter",
+  "brandSlug": "arctic-hunter",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 2350,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180845-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180845-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180845-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180845-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180918-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180918-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180918-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180937-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180937-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180937-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180952-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180952-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180952-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180902-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180902-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260425180902-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Arctic",
+    "Hunter",
+    "B00555",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "ضمان عام من الوكيل&nbsp;Why To Choose Arctic Hunter: Arctic Hunter Bags provides long term companionships with quality. And the products are tested to ensure the products meet stringent standards. This Laptop bag comes w",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل&nbsp;</p><p><br></p><p><br></p><ul><li><span>Why To Choose Arctic Hunter: Arctic Hunter Bags provides long term companionships with quality. And the products are tested to ensure the products meet stringent standards. This Laptop bag comes with a 2-year warranty against defects in materials and workmanship.</span></li><li><span>Built In USB and Headphone Port: Our daypack has built in external USB and headphone port with chargeable cable. These ports give easy access for you to music and charging your phone. Attention: Power bank is not included.</span></li><li><span>Versatile Design: Our premium laptop backpack is designed feasibly for every user. The smart design of built in USB and headphone port and glass hook on and card holder in shoulder strap are really helpful for users. And the luggage strap is helping to carry with trolley luggage easily and conveniently.</span></li><li><span>Premium Quality Material: Our travel backpack is made of durable, high dense water-resistant polyester fabric material with high density 210D polyester for inner lining, and the shoulder straps and compartments are made of foam padded to protect from shock ups.</span></li><li><span>Loaded with Spacious Capacity: Our Arctic hunter laptop bag is having separate laptop compartment that can hold up to 15.6 inches laptop easily. The internal packaging compartment and external pockets can hold daily necessities, keeping your items organized and easier to find. And the bag has overall capacity of carrying 25 Liters in Volume.</span></li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-16",
+      "demo": true
+    }
+  ]
+}

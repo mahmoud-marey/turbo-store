@@ -1,0 +1,98 @@
+{
+  "id": 382,
+  "slug": "lenovo-loq-15irx9-corei7-13650hx-rtx3050",
+  "name": "Laptop LENOVO LOQ 15IRX9 83DV00YRAX Core i7-13650HX , 24GB RAM , 512GB SSD M.2 NVMe , RTX 3050 6GB , 15.6 inch FHD IPS 144Hz",
+  "model": "83DV00YRAX",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 57499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/4-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/4-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/4-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/4-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/2-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/3-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/3-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/3-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/loq/1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "LENOVO",
+    "LOQ",
+    "15IRX9",
+    "83DV00YRAX",
+    "Core",
+    "i7-13650HX",
+    "24GB",
+    "RAM",
+    "512GB",
+    "SSD",
+    "M.2",
+    "NVMe",
+    "RTX3050",
+    "6GB",
+    "15.6&amp;quot;",
+    "FHD",
+    "IPS",
+    "144Hz"
+  ],
+  "shortDescription": "laptop Lenovo Loq 15IRX9&nbsp; is a gaming laptop that has the following features:Processor: Intel Core i7-13650HX ( 14 Core, 3.60 GHz to 4.90 GHz)Display: 15.6-inch FHD (1920x 1080) 144Hz Narrow Border DisplayMemory: 24",
+  "descriptionHtml": "<p>laptop Lenovo Loq 15IRX9&nbsp; is a gaming laptop that has the following features:</p><ul><li>Processor: Intel Core i7-13650HX ( 14 Core, 3.60 GHz to 4.90 GHz)</li><li>Display: 15.6-inch FHD (1920x 1080) 144Hz Narrow Border Display</li><li>Memory: 24GB DDR5-4800MHz RAM</li><li>Storage: 512GB M.2 PCIe NVMe SSD</li><li>Graphics: NVIDIA GeForce RTX 3050 6GB GDDR6</li><li>Keyboard: 4Z RGB Backlite Keyboard</li><li>Gift : LOQ RGB Mouse</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-27",
+      "demo": true
+    }
+  ]
+}

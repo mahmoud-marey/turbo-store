@@ -1,0 +1,144 @@
+{
+  "id": 946,
+  "slug": "asus-a31-plus-mid-black-argb-tower-case",
+  "name": "ASUS A31 PLUS ARGB Mid Tower Case Black",
+  "model": "A31 Plus",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 5000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-1-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/asus-a31-plus-black-2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS A31 PLUS",
+    "ASUS A31 PLUS Black",
+    "gaming case Egypt",
+    "كيسة اسوس A31"
+  ],
+  "shortDescription": "ASUS A31 Plus RGB Mid-Tower ATX PC Gaming CaseUpgrade your desktop presentation and system cooling with the sleek ASUS A31 Plus RGB Mid-Tower Gaming Case. Available at Turbo Computer, this robust ATX hardware component f",
+  "descriptionHtml": "<p><span>ASUS A31 Plus RGB Mid-Tower ATX PC Gaming Case</span></p><p>Upgrade your desktop presentation and system cooling with the sleek ASUS A31 Plus RGB Mid-Tower Gaming Case. Available at Turbo Computer, this robust ATX hardware component features an optimized airflow structure with a front mesh configuration designed to maximize thermal cooling and prevent heat buildup. It stands as the definitive choice for budget gamers, workspace builders, and business environments across Egypt looking for an immediate hardware modification to house mid-to-high-tier system configurations securely.</p><p>The ASUS A31 Plus comes equipped with pre-installed vibrant RGB cooling fans that instantly light up your desktop ecosystem. Outfitted with a full-view transparent side panel window, it allows for seamless monitoring of your internal motherboard, CPU cooler, and GPU tracking status. With its smart cable routing channels, dedicated power supply shroud, and dust protection filters, it delivers a perfectly clean, hassle-free, and stable daily hardware operation environment.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>ASUS</td></tr><tr><td><strong>Model</strong></td><td>A31 Plus</td></tr><tr><td><strong>Case Type</strong></td><td>Mid-Tower PC Gaming Case</td></tr><tr><td><strong>Motherboard Support</strong></td><td>ATX / Micro-ATX / Mini-ITX system specs</td></tr><tr><td><strong>Chassis Material</strong></td><td>SPCC Steel Structure with high-grade durable plastics</td></tr><tr><td><strong>Side Panel Window</strong></td><td>Full Transparent Side Window Panel (For internal component visibility)</td></tr><tr><td><strong>Pre-Installed Cooling</strong></td><td>Integrated High-Airflow Front &amp; Rear RGB Cooling Fans</td></tr><tr><td><strong>Drive Bays Support</strong></td><td>2 x 3.5\" HDD bays + 2 x 2.5\" SSD slots for versatile storage expansion</td></tr><tr><td><strong>Expansion Slots</strong></td><td>7 Standard PCI Expansion Slots</td></tr><tr><td><strong>Front I/O Panel Ports</strong></td><td>USB 3.0 Port, USB 2.0 Ports, HD Audio Jack, Microphone Input, Power &amp; Reset Buttons</td></tr><tr><td><strong>Thermal Clearance</strong></td><td>Supports standard CPU Air Coolers &amp; dual/triple-fan Graphics Cards (GPU) configurations</td></tr><tr><td><strong>Dust Management</strong></td><td>Removable bottom and top dust protective filters for easy system maintenance</td></tr><tr><td><strong>Power Supply Shroud</strong></td><td>Bottom-Mounted PSU chamber layout with clean cable tracking channels</td></tr><tr><td><strong>Application</strong></td><td>Gaming PCs, Office Desktop Stations, Homework Configurations, and High-Airflow Hardware Builds</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "A31 Plus"
+    },
+    {
+      "group": "specs",
+      "label": "Case Type",
+      "value": "Mid-Tower PC Gaming Case"
+    },
+    {
+      "group": "specs",
+      "label": "Motherboard Support",
+      "value": "ATX / Micro-ATX / Mini-ITX system specs"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Material",
+      "value": "SPCC Steel Structure with high-grade durable plastics"
+    },
+    {
+      "group": "specs",
+      "label": "Side Panel Window",
+      "value": "Full Transparent Side Window Panel (For internal component visibility)"
+    },
+    {
+      "group": "specs",
+      "label": "Pre-Installed Cooling",
+      "value": "Integrated High-Airflow Front & Rear RGB Cooling Fans"
+    },
+    {
+      "group": "specs",
+      "label": "Drive Bays Support",
+      "value": "2 x 3.5\" HDD bays + 2 x 2.5\" SSD slots for versatile storage expansion"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Slots",
+      "value": "7 Standard PCI Expansion Slots"
+    },
+    {
+      "group": "specs",
+      "label": "Front I/O Panel Ports",
+      "value": "USB 3.0 Port, USB 2.0 Ports, HD Audio Jack, Microphone Input, Power & Reset Buttons"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Clearance",
+      "value": "Supports standard CPU Air Coolers & dual/triple-fan Graphics Cards (GPU) configurations"
+    },
+    {
+      "group": "specs",
+      "label": "Dust Management",
+      "value": "Removable bottom and top dust protective filters for easy system maintenance"
+    },
+    {
+      "group": "specs",
+      "label": "Power Supply Shroud",
+      "value": "Bottom-Mounted PSU chamber layout with clean cable tracking channels"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "Gaming PCs, Office Desktop Stations, Homework Configurations, and High-Airflow Hardware Builds"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    }
+  ]
+}

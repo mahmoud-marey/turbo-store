@@ -1,0 +1,100 @@
+{
+  "id": 502,
+  "slug": "gb-b860m-d3hp-d5",
+  "name": "GIGABYTE B860M D3HP DDR5 Motherboard",
+  "model": "B860M D3HP",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 7499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501155101-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501155101-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501155101-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501155101-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "B860M",
+    "D3HP",
+    "DDR5",
+    "Motherboard"
+  ],
+  "shortDescription": "Gigabyte B860M D3HP motherboard:\r\n\r\nGigabyte B860M D3HP — Full Specifications\r\n\r\n&nbsp;Platform\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nForm Factor\r\nMicro-ATX (mATX)\r\n\r\n\r\nSocket\r\nLGA 1851\r\n\r\n\r\nChipset\r\nIntel B860 Express\r\n\r\n\r\nCPU S",
+  "descriptionHtml": "<p><strong>Gigabyte B860M D3HP</strong> motherboard:</p><h3>Gigabyte B860M D3HP — Full Specifications</h3><h4>&nbsp;Platform</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>Micro-ATX (mATX)</td></tr><tr><td>Socket</td><td>LGA 1851</td></tr><tr><td>Chipset</td><td>Intel B860 Express</td></tr><tr><td>CPU Support</td><td>Intel Core Ultra Processors (Series 2)</td></tr><tr><td>PCB</td><td>6-Layer Mid-Loss PCB</td></tr><tr><td>VRM Phases</td><td>4+1+2+1, 50A PPAK VRM</td></tr></tbody></table><h4>Memory</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR5 only</td></tr><tr><td>Slots</td><td>4x DDR5 DIMM sockets</td></tr><tr><td>Max Capacity</td><td>256 GB (64 GB per DIMM)</td></tr><tr><td>Channels</td><td>Dual-Channel</td></tr><tr><td>Native Speed</td><td>5600 MT/s</td></tr><tr><td>Max OC Speed</td><td>9066 MT/s (O.C.)</td></tr><tr><td>ECC Support</td><td>✅ Yes</td></tr><tr><td>XMP Support</td><td>✅ DDR5 XMP Booster</td></tr></tbody></table><h4>Expansion Slots</h4><table><thead><tr><th>Slot</th><th>Detail</th></tr></thead><tbody><tr><td>PCIe x16</td><td>1x PCIe 5.0 x16 (with PCIe UD Slot)</td></tr><tr><td>PCIe x1</td><td>2x PCIe 4.0 x1</td></tr></tbody></table><h4>Storage</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>M.2 Slots</td><td>2x PCIe 4.0 M.2</td></tr><tr><td>M.2 (CPU)</td><td>1x M.2 (M key, type 2280, PCIe 4.0 x4)</td></tr><tr><td>M.2 (Chipset)</td><td>1x M.2 (M key, type 2280, PCIe 4.0 x4)</td></tr><tr><td>SATA</td><td>4x SATA 6Gb/s</td></tr><tr><td>RAID</td><td>RAID 0, 1, 5, 10</td></tr></tbody></table><h4>Display Output (Rear)</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>HDMI</td><td>✅ 1x HDMI</td></tr><tr><td>DisplayPort</td><td>✅ 1x DisplayPort 2.1</td></tr></tbody></table><h4>&nbsp;USB — Rear Panel</h4><table><thead><tr><th>Port</th><th>Detail</th></tr></thead><tbody><tr><td>USB 3.2 Gen 1</td><td>3x ports</td></tr><tr><td>USB 2.0</td><td>3x ports</td></tr><tr><td>USB-C</td><td>Available via internal header (USB 3.2 Gen 1)</td></tr><tr><td>PS/2</td><td>✅ 1x keyboard/mouse port</td></tr></tbody></table><h4><br></h4><h4>&nbsp;Audio</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Channels</td><td>8-Channel HD Audio (7.1)</td></tr><tr><td>Capacitors</td><td>High-End Audio Capacitors</td></tr><tr><td>Rear Audio Jacks</td><td>3x audio jacks</td></tr></tbody></table><h4>&nbsp;RGB &amp; Headers</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>ARGB Headers</td><td>2x Addressable LED Headers</td></tr><tr><td>RGB Headers</td><td>1x RGB LED Header</td></tr><tr><td>Debug LEDs</td><td>✅ Yes</td></tr><tr><td>Software</td><td>Gigabyte RGB Fusion (via Gigabyte Control Center)</td></tr></tbody></table><h4>&nbsp;Other Features</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>BIOS</td><td>Q-Flash, Smart Backup, DDR5 XMP Booster</td></tr><tr><td>M.2 Installation</td><td>EZ-Latch (tool-free)</td></tr><tr><td>VRM Heatsink</td><td>✅ MOSFET Heatsink</td></tr><tr><td>Power Connectors</td><td>24-pin ATX + 8-pin CPU (UD Solid Pin)</td></tr></tbody></table><h3><br></h3><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "Micro-ATX (mATX)"
+    },
+    {
+      "group": "specs",
+      "label": "Socket",
+      "value": "LGA 1851"
+    },
+    {
+      "group": "specs",
+      "label": "Chipset",
+      "value": "Intel B860 Express"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Support",
+      "value": "Intel Core Ultra Processors (Series 2)"
+    },
+    {
+      "group": "specs",
+      "label": "PCB",
+      "value": "6-Layer Mid-Loss PCB"
+    },
+    {
+      "group": "specs",
+      "label": "VRM Phases",
+      "value": "4+1+2+1, 50A PPAK VRM"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 30,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    }
+  ]
+}

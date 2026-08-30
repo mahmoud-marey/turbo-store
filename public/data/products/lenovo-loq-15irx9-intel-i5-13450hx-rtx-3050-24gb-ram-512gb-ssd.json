@@ -1,0 +1,118 @@
+{
+  "id": 1076,
+  "slug": "lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-ram-512gb-ssd",
+  "name": "Lenovo LOQ 15IRX9 Gaming Laptop (Intel Core i5-13450HX / RTX 3050 / 24GB RAM / 512GB SSD / 15.6 inch FHD / Luna Grey)",
+  "model": "LOQ 15IRX9",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 50199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15irx9-intel-i5-13450hx-rtx-3050-24gb-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "Lenovo LOQ",
+    "LOQ 15IRX9",
+    "Gaming Laptop",
+    "Intel Core i5",
+    "RTX 3050",
+    "24GB RAM",
+    "Laptops"
+  ],
+  "shortDescription": "Lenovo LOQ 15IRX9 Gaming Laptop - Intel Core i5-13450HX - RTX 3050 6gb - 24GB RAMExperience next-level gaming and heavy rendering performance with the Lenovo LOQ 15IRX9, proudly offered by Turbo Computer Egypt. Built wit",
+  "descriptionHtml": "<p>Lenovo LOQ 15IRX9 Gaming Laptop - Intel Core i5-13450HX - RTX 3050 6gb - 24GB RAM</p><p>Experience next-level gaming and heavy rendering performance with the Lenovo LOQ 15IRX9, proudly offered by Turbo Computer Egypt. Built with a military-grade chassis in sleek Luna Grey, this machine features an advanced Intel Core i5-13450HX processor paired with a massive 24GB of high-speed system memory and NVIDIA RTX 3050 graphics. Engineered with Lenovo's hyperchamber thermal design for quiet and uncompromised performance under maximum load. Includes an official 2-year agent warranty across Egypt.</p><h3>Technical Specifications Matrix</h3><table><thead><tr><th>Component Type</th><th>Official Hardware Specification Details</th></tr></thead><tbody><tr><td>Processor (CPU)</td><td>Intel® Core™ i5-13450HX Processor (20M Cache, up to 4.60 GHz, 10 Cores, 16 Threads)</td></tr><tr><td>Graphics (GPU)</td><td>NVIDIA® GeForce RTX™ 3050 6gb Laptop GPU Dedicated Video Memory</td></tr><tr><td>Memory (RAM)</td><td>24GB High-Speed System Memory Configuration</td></tr><tr><td>Storage (SSD)</td><td>512GB PCIe® NVMe™ M.2 Performance Solid State Drive</td></tr><tr><td>Display Panel</td><td>15.6-inch FHD (1920 x 1080) IPS, Anti-glare Display Panel</td></tr><tr><td>Battery &amp; Chassis</td><td>4-CELL Battery System | Color: Luna Grey | Model: 15IRX9</td></tr><tr><td>Operating System</td><td>No OS (FreeDOS Architecture)</td></tr><tr><td>Warranty Matrix</td><td> 2-Years Official Local Agent Warranty in Egypt (ضمان محلي معتمد لمدة سنتين كاملتين) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel® Core™ i5-13450HX Processor (20M Cache, up to 4.60 GHz, 10 Cores, 16 Threads)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA® GeForce RTX™ 3050 6gb Laptop GPU Dedicated Video Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "24GB High-Speed System Memory Configuration"
+    },
+    {
+      "group": "specs",
+      "label": "Storage (SSD)",
+      "value": "512GB PCIe® NVMe™ M.2 Performance Solid State Drive"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "15.6-inch FHD (1920 x 1080) IPS, Anti-glare Display Panel"
+    },
+    {
+      "group": "specs",
+      "label": "Battery & Chassis",
+      "value": "4-CELL Battery System | Color: Luna Grey | Model: 15IRX9"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "No OS (FreeDOS Architecture)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "2-Years Official Local Agent Warranty in Egypt (ضمان محلي معتمد لمدة سنتين كاملتين)"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-24",
+      "demo": true
+    }
+  ]
+}

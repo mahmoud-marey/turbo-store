@@ -1,0 +1,124 @@
+{
+  "id": 982,
+  "slug": "lexar-nq780-1tb-m2-nvme-pcie-gen4-internal-ssd",
+  "name": "Lexar NQ780 M.2 2280 PCIe Gen4x4 NVMe SSD",
+  "model": "NQ780",
+  "brand": "LEXAR",
+  "brandSlug": "lexar",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 6999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 12,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nq780-1tb-m2-nvme-pcie-gen4-internal-ssd-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nq780-1tb-m2-nvme-pcie-gen4-internal-ssd-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nq780-1tb-m2-nvme-pcie-gen4-internal-ssd-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nq780-1tb-m2-nvme-pcie-gen4-internal-ssd-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nq780-m2-pcie-gen4-nvme-ssd-angle-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nq780-m2-pcie-gen4-nvme-ssd-angle-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nq780-m2-pcie-gen4-nvme-ssd-angle-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "Lexar",
+    "NQ780",
+    "M.2 2280",
+    "PCIe Gen4x4",
+    "NVMe SSD",
+    "7000MB/s Read",
+    "3D NAND",
+    "High Speed Storage",
+    "PC Gaming",
+    "PS5 Compatible",
+    "3 Years Warranty",
+    "Local Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Lexar NQ780 M.2 2280 PCIe Gen4x4 NVMe SSD (High Speed PCIe Gen 4x4 Performance / Sequential Read Speeds Up to 7000 MB/s / Premium 3D NAND Flash / M.2 2280 Form Factor / PS5 &amp; PC Compatible / Smart Thermal Management ",
+  "descriptionHtml": "<p>Lexar NQ780 M.2 2280 PCIe Gen4x4 NVMe SSD (High Speed PCIe Gen 4x4 Performance / Sequential Read Speeds Up to 7000 MB/s / Premium 3D NAND Flash / M.2 2280 Form Factor / PS5 &amp; PC Compatible / Smart Thermal Management / 3 Years Official Local Agent Warranty)</p><p>Experience blazing-fast storage performance with the Lexar NQ780 M.2 2280 PCIe Gen4x4 NVMe SSD, available at Turbo Computer Egypt with an Official 3-Year Local Agent Warranty. Powered by high-speed PCIe Gen 4x4 bandwidth and quality 3D NAND flash memory, the NQ780 delivers high sequential read speeds up to 7000 MB/s, vastly reducing load times, boot sequences, and file transfer durations. Designed in a compact M.2 2280 form factor, it offers seamless compatibility with modern desktop motherboards, high-performance laptops, and PlayStation 5 consoles while operating with optimal power efficiency and integrated thermal control.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>Lexar NQ780</td></tr><tr><td>Form Factor &amp; Interface</td><td>M.2 2280 / PCIe Gen 4x4, NVMe 1.4 Protocol</td></tr><tr><td>Flash Memory Technology</td><td>High Quality 3D NAND Flash</td></tr><tr><td>Sequential Read Speed</td><td>Up to 7000 MB/s</td></tr><tr><td>System Compatibility</td><td>Desktop PCs, Gaming Laptops, and PlayStation 5 (PS5 Expansion Slot)</td></tr><tr><td>Thermal &amp; Power Efficiency</td><td>Low Power Consumption / Integrated Thermal Throttling Protection</td></tr><tr><td>Dimensions &amp; Weight</td><td>80 x 22 x 2.45 mm / Approx. 6g</td></tr><tr><td>Warranty Coverage</td><td>3 Years Official Local Agent Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "Lexar NQ780"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor & Interface",
+      "value": "M.2 2280 / PCIe Gen 4x4, NVMe 1.4 Protocol"
+    },
+    {
+      "group": "specs",
+      "label": "Flash Memory Technology",
+      "value": "High Quality 3D NAND Flash"
+    },
+    {
+      "group": "specs",
+      "label": "Sequential Read Speed",
+      "value": "Up to 7000 MB/s"
+    },
+    {
+      "group": "specs",
+      "label": "System Compatibility",
+      "value": "Desktop PCs, Gaming Laptops, and PlayStation 5 (PS5 Expansion Slot)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal & Power Efficiency",
+      "value": "Low Power Consumption / Integrated Thermal Throttling Protection"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions & Weight",
+      "value": "80 x 22 x 2.45 mm / Approx. 6g"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "3 Years Official Local Agent Warranty"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    }
+  ]
+}

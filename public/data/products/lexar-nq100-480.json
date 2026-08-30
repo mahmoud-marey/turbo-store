@@ -1,0 +1,76 @@
+{
+  "id": 623,
+  "slug": "lexar-nq100-480",
+  "name": "LEXAR NQ100 480GB SATA 3.0 2.5 &quot;",
+  "model": "NQ100",
+  "brand": "LEXAR",
+  "brandSlug": "lexar",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 3499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/ChatGPT%20Image%20Mar%202,%202026,%2004_17_23%20PM%20(1)-1024x1024.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/ChatGPT%20Image%20Mar%202,%202026,%2004_17_23%20PM%20(1)-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/ChatGPT%20Image%20Mar%202,%202026,%2004_17_23%20PM%20(1)-1024x1024.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/ChatGPT%20Image%20Mar%202,%202026,%2004_17_23%20PM%20(1)-1024x1024.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302002754-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302002754-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302002754-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "LEXAR",
+    "NQ100",
+    "480GB",
+    "SATA",
+    "3.0",
+    "2.5",
+    "&amp;quot;"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/ssd/Nq100.jpg\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    }
+  ]
+}

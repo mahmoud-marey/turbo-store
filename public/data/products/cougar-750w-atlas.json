@@ -1,0 +1,80 @@
+{
+  "id": 397,
+  "slug": "cougar-750w-atlas",
+  "name": "POWER SUPPLY COUGAR Atlas 750W +80 BRONZE",
+  "model": "Atlas",
+  "brand": "Cougar",
+  "brandSlug": "cougar",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 3300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402144336-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402144336-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402144336-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0011_260402144336-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/6-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/6-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/6-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/7-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/7-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/7-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "POWER",
+    "SUPPLY",
+    "COUGAR",
+    "atlas",
+    "750W  80",
+    "BRONZE"
+  ],
+  "shortDescription": "**Model Name**COUGAR Atlas 750W**Model Number**CGR BA-750 / 31AT075001P01&nbsp;**Total Power**750 Watts&nbsp;**Efficiency Certification**80 PLUS Bronze (up to 87% efficiency)&nbsp;**ATX Version**ATX 3.1 Compatible&nbsp;*",
+  "descriptionHtml": "**Model Name**<div>COUGAR Atlas 750W</div><div><br></div><div>**Model Number**</div><div>CGR BA-750 / 31AT075001P01&nbsp;</div><div><br></div><div>**Total Power**</div><div>750 Watts&nbsp;</div><div><br></div><div>**Efficiency Certification**</div><div>80 PLUS Bronze (up to 87% efficiency)&nbsp;</div><div><br></div><div>**ATX Version**</div><div>ATX 3.1 Compatible&nbsp;</div><div><br></div><div>**Form Factor**</div><div>ATX&nbsp;</div><div><br></div><div>**Cable Management**</div><div>Non-Modular&nbsp;</div><div><br></div><div>**Warranty**</div><div>2 to 5 Years (varies by region)&nbsp;</div><div><br></div><div>**Dimensions (L x W x H)**</div><div>140 mm x 150 mm x 86 mm&nbsp;</div><div><br></div><div>**Weight (Net)**</div><div>1.83 kg to 1.94 kg&nbsp;</div><div><br></div><div>**AC Input Range**</div><div>100V - 240V (Full Range)&nbsp;</div><div><br></div><div>**AC Input Frequency**</div><div>50 Hz - 60 Hz&nbsp;</div><div><br></div><div>**AC Input Current**</div><div>10A - 6A&nbsp;</div><div><br></div><div>**Power Factor Correction**</div><div>Active PFC (&gt;0.99 PF)&nbsp;</div><div><br></div><div>**Efficiency (Typical)**</div><div>Up to 87% at 50% load&nbsp;</div><div><br></div><div>**Operating Temperature**</div><div>0°C - 40°C</div><div><br></div><div>**Protections**</div><div>SCP, OCP, OVP, UVP, OPP, OTP (6 industrial protections)&nbsp;</div><div><br></div><div>**Cooling Type**</div><div>Active&nbsp;</div><div><br></div><div>**Fan Size**</div><div>120 mm x 120 mm x 25 mm&nbsp;</div><div><br></div><div>**Fan Bearing**</div><div>Rifle Bearing&nbsp;</div><div><br></div><div>**Motherboard Connector (24-pin)**</div><div>1 (550 mm cable length)&nbsp;</div><div><br></div><div>**EPS/CPU Connector (4+4-pin)**</div><div>2 (700 mm cable length)&nbsp;</div><div><br></div><div>**PCI-E Connector (6+2-pin)**</div><div>4&nbsp;</div><div><br></div><div>**12V-2x6 Connector (PCIe 5.1)**</div><div>1 (600W rated, native support)&nbsp;</div><div><br></div><div>**SATA Connector**</div><div>6 to 8 (150 mm and 450 mm cable lengths)&nbsp;</div><div><br></div><div>**Peripheral (Molex 4-pin) Connector**</div><div>2 to 3&nbsp;</div><div><br></div><div>**Key Features**</div><div>- Native PCIe 12V-2X6 connector for next-gen GPUs&nbsp;</div><div>- DC-DC technology for stable voltage (±2% variation)&nbsp;</div><div>- Japanese 105°C standby capacitors for ultra durability&nbsp;</div><div>- Powerful single +12V rail (62.5A)&nbsp;</div><div>- Active Power Factor Correction&nbsp;</div><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    }
+  ]
+}

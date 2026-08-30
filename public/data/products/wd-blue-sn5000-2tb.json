@@ -1,0 +1,77 @@
+{
+  "id": 834,
+  "slug": "wd-blue-sn5000-2tb",
+  "name": "WD BLUE SN5000 2TB M.2 NVMe PCIe SSD",
+  "model": "SN5000",
+  "brand": "WD",
+  "brandSlug": "wd",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 11500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0012_260503193452-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0012_260503193452-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0012_260503193452-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0012_260503193452-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "WD",
+    "BLUE",
+    "SN5000",
+    "2TB",
+    "M.2",
+    "NVMe",
+    "PCIe",
+    "SSD"
+  ],
+  "shortDescription": "WD Blue SN5000 2TB NVMe SSD Specifications​The WD Blue SN5000 is a high-performance NVMe SSD designed for creators and professionals. It represents the next step in the WD Blue lineup, moving to PCIe Gen 4.0 technology t",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>WD Blue SN5000 2TB NVMe SSD Specifications</b></h3><p dir=\"ltr\">​The <b>WD Blue SN5000</b> is a high-performance NVMe SSD designed for creators and professionals. It represents the next step in the WD Blue lineup, moving to <b>PCIe Gen 4.0</b> technology to deliver significantly faster speeds than previous generations while maintaining the reliability and power efficiency the Blue series is known for.</p><h3 dir=\"ltr\">​<b>Performance Specifications</b></h3><ul><li dir=\"ltr\">​<b>Capacity:</b> 2TB</li><li dir=\"ltr\">​<b>Interface:</b> PCIe Gen 4.0 x4</li><li dir=\"ltr\">​<b>Form Factor:</b> M.2 2280</li><li dir=\"ltr\">​<b>Sequential Read Speed:</b> Up to <b>5,150 MB/s</b></li><li dir=\"ltr\">​<b>Sequential Write Speed:</b> Up to <b>4,850 MB/s</b></li><li dir=\"ltr\">​<b>Random Read (IOPS):</b> Up to 650K</li><li dir=\"ltr\">​<b>Random Write (IOPS):</b> Up to 770K</li></ul><h3 dir=\"ltr\">​<b>Durability &amp; Reliability</b></h3><ul><li dir=\"ltr\">​<b>Endurance (TBW):</b> 900 TBW (Terabytes Written)</li><li dir=\"ltr\">​<b>MTTF:</b> 1.75 Million Hours</li><li dir=\"ltr\">​<b>Technology:</b> nCache™ 4.0 for optimized thermal management and high-speed bursting.</li></ul><h3 dir=\"ltr\">​<b>Features</b></h3><ul><li dir=\"ltr\">​<b>NVMe 4.0:</b> Fully utilizes the increased bandwidth of modern motherboards while remaining backward compatible with PCIe Gen 3.0 slots (at reduced speeds).</li><li dir=\"ltr\">​<b>Western Digital SSD Dashboard:</b> Free downloadable software to monitor drive health, temperature, and performance.</li><li dir=\"ltr\">​<b>Acronis True Image:</b> Included software for cloning drives and backing up data.</li><li dir=\"ltr\">​<b>Low Power Consumption:</b> Designed to extend battery life for laptop users without sacrificing high-speed data access.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>Boosted Workflow:</b> Ideal for handling large 4K video files, heavy multitasking, and reducing loading times in creative applications.</li><li dir=\"ltr\">​<b>PCIe Gen 4 Upgrade:</b> Offers a significant performance jump over the older SN580 and SN570 models.</li><li dir=\"ltr\">​<b>Reliable Endurance:</b> With a 900 TBW rating, it is built to handle heavy daily write cycles over many years.</li><li dir=\"ltr\">​<b>One-Sided Design:</b> The slim M.2 2280 profile makes it compatible with ultra-thin laptops and compact desktop builds.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-12",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-17",
+      "demo": true
+    }
+  ]
+}

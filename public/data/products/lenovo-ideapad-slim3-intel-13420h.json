@@ -1,0 +1,94 @@
+{
+  "id": 439,
+  "slug": "lenovo-ideapad-slim3-intel-13420h",
+  "name": "Laptop Lenovo IdeaPad SLIM 3 15IRH10 – INTEL COREI5-13420H , 16GB RAM, 512GB SSD, INTEL UHD Graphics , 15.6 inch FHD",
+  "model": "83EM00D5ED",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 35999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/13-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/14-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/14-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/14-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/15-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/15-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/15-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/12-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/12-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/ideapad1/12-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "Lenovo",
+    "IdeaPad",
+    "SLIM3",
+    "15IRH10",
+    "INTEL",
+    "COREI5-13420H",
+    "16GB",
+    "RAM",
+    "512GB",
+    "SSD",
+    "INTEL",
+    "UHD",
+    "Graphics",
+    "15.6″FHD"
+  ],
+  "shortDescription": "laptop IDEAPAD SLIM 3 is a Bussiness laptop that has the following features:Processor: Intel Core i5-13420H ( 8 Core, 2.10 GHz to 4.60 GHz)Display: 15.6-inch FHDMemory: 16GB DDR4 RAMStorage: SSD 512GKeyboard: Backlite Ke",
+  "descriptionHtml": "<p>laptop IDEAPAD SLIM 3 is a Bussiness laptop that has the following features:</p><ul><li>Processor: Intel Core i5-13420H ( 8 Core, 2.10 GHz to 4.60 GHz)</li><li>Display: 15.6-inch FHD</li><li>Memory: 16GB DDR4 RAM</li><li>Storage: SSD 512G</li><li>Keyboard: Backlite Keyboard</li><li>OS: WINDOWS 11</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    }
+  ]
+}

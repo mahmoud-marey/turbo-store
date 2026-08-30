@@ -1,0 +1,100 @@
+{
+  "id": 425,
+  "slug": "asus-rog-zephyrus-g16-gu603vi-i7-13620h-rtx4070",
+  "name": "Laptop ASUS ROG ZEPHYRUS G16 GU603Vi INTEL CORE I7-13620H , 16GB RAM ,512GB SSD M.2 NVMe , RTX 4070 8GB , 16 Inch WUXGA 165Hz",
+  "model": "GU603ViG16.I74070",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 77499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%204-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%204-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%204-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%204-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%203-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/rog/g16%201-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "ASUS",
+    "ROG",
+    "ZEPHYRUS",
+    "G16",
+    "GU603Vi",
+    "INTEL",
+    "CORE",
+    "I7-13620H",
+    "16GB",
+    "RAM",
+    "512GB",
+    "SSD",
+    "M.2",
+    "NVMe",
+    "RTX",
+    "4070",
+    "8GB",
+    "16&amp;quot;",
+    "WUXGA",
+    "165Hz"
+  ],
+  "shortDescription": "laptop ASUS ROG ZEPHYRUS&nbsp;GU603Vi is a gaming laptop that has the following features:&nbsp;Processor: intel® CORE™ I7-13620H ( 10 Core, 2.30 GHz to 4.90 GHz)Display: 15.6-inch WUXGA (1920 x 1200) 165Hz IPSMemory: 16G",
+  "descriptionHtml": "<p><span>laptop ASUS ROG ZEPHYRUS&nbsp;</span><span><b>GU603Vi </b></span><span>is a gaming laptop that has the following features:&nbsp;</span></p><ul><li>Processor: intel® CORE™ I7-13620H ( 10 Core, 2.30 GHz to 4.90 GHz)</li><li>Display: 15.6-inch WUXGA (1920 x 1200) 165Hz IPS</li><li>Memory: 16GB DDR4 RAM</li><li>Storage: 512GB NVME</li><li>Graphics: NVIDIA GeForce RTX 4070 8GB GDDR6</li><li>Keyboard: RGB Backlite Keyboard</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-17",
+      "demo": true
+    }
+  ]
+}

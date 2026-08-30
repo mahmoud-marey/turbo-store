@@ -1,0 +1,69 @@
+{
+  "id": 156,
+  "slug": "zk-zkb201",
+  "name": "Barcode Scanner ZKTECO ZKB201",
+  "model": "ZKB-201",
+  "brand": "ZKTECO",
+  "brandSlug": "zkteco",
+  "categorySlugs": [
+    "point-of-sale"
+  ],
+  "price": 1599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/casher/zkb201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/casher/zkb201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/casher/zkb201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/casher/zkb201-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Barcode",
+    "Scanner",
+    "ZK",
+    "Teco",
+    "ZKB201"
+  ],
+  "shortDescription": "ZKB201 SCANNER2D - 1D قارئ باركود&nbsp;&nbsp;خط ضوئي عريض وممتديعمل اتوماتيك او يدويمقاومة السقوط حتى 1.8 متر&nbsp;التوصيل عن طريق USB...",
+  "descriptionHtml": "<p><span><b>ZKB201 SCANNER</b></span></p><p><span><b>2D - 1D قارئ باركود&nbsp;</b></span></p><p><span><b>&nbsp;خط ضوئي عريض وممتد</b></span></p><p><span><b>يعمل اتوماتيك او يدوي</b></span></p><p><span><b>مقاومة السقوط حتى 1.8 متر&nbsp;</b></span></p><p><span><b>التوصيل عن طريق USB</b></span></p><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-20",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-12",
+      "demo": true
+    }
+  ]
+}

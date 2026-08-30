@@ -1,0 +1,71 @@
+{
+  "id": 313,
+  "slug": "mouse-jertech-w500",
+  "name": "Jertech W500 wireless/bluetooth rechargeable and silent mouse",
+  "model": "W500",
+  "brand": "Jertech",
+  "brandSlug": "jertech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 550,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 25,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260325170516-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260325170516-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260325170516-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260325170516-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "Jertech",
+    "W500",
+    "wireless/bluetooth",
+    "rechargeable",
+    "and",
+    "silent"
+  ],
+  "shortDescription": "Black,blue,greyنوع الموديل: W500نوع مدخل الطاقة: Type Cطريقة التوصيل: إصدار لاسلكي + إصدار لاسلكي وبلوتوثمستويات الدقة: 800-1200-2400مدة الاستخدام: 200 ساعة من الاستخدامحجم البطارية: 400 مللي أمبيركتم الصوت: نقرة صامتةمي",
+  "descriptionHtml": "<div bis_skin_checked=\"1\"><ul><li>Black,blue,grey</li></ul><p><br></p><ul><li>نوع الموديل: W500</li></ul><p><br></p><ul><li>نوع مدخل الطاقة: Type C</li></ul><p><br></p><ul><li>طريقة التوصيل: إصدار لاسلكي + إصدار لاسلكي وبلوتوث</li></ul><p><br></p><ul><li>مستويات الدقة: 800-1200-2400</li></ul><p><br></p><ul><li>مدة الاستخدام: 200 ساعة من الاستخدام</li></ul><p><br></p><ul><li>حجم البطارية: 400 مللي أمبير</li></ul><p><br></p><ul><li>كتم الصوت: نقرة صامتة</li></ul><p><br></p><ul><li>ميزات أخرى: توفير الطاقة</li></ul><p><br></p><ul><li>6 أزرار على الماوس</li></ul></div><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    }
+  ]
+}

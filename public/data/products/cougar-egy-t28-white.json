@@ -1,0 +1,71 @@
+{
+  "id": 551,
+  "slug": "cougar-egy-t28-white",
+  "name": "Cougar-Egy T28 wireless single controller white",
+  "model": "T28",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "gamepads-controllers"
+  ],
+  "price": 1099,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260204221001-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260204221001-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260204221001-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260204221001-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Cougar-Egy",
+    "T28",
+    "wireless",
+    "single",
+    "controller",
+    "white"
+  ],
+  "shortDescription": "DescriptionAbout this itemWIDE COMPATIBILITY: Wireless gaming controller designed for PS4, PC, and mobile devices, offering versatile connectivity options for seamless gaming across multiple platformsIMMERSIVE GAMING EXP",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/471657576545-550x550w.jpg\"><br></p><p>Description</p><p><br></p><p>About this itemWIDE COMPATIBILITY: Wireless gaming controller designed for PS4, PC, and mobile devices, offering versatile connectivity options for seamless gaming across multiple platformsIMMERSIVE GAMING EXPERIENCE: Features dual vibration motors and integrated touchpad for enhanced gameplay feedback and intuitive control, bringing games to life with realistic sensationsERGONOMIC DESIGN: Equipped with textured non-slip grip panels on the handles for comfortable extended gaming sessions, reducing hand fatigue during intense gameplayADVANCED FUNCTIONALITY: Built-in turbo function allows for rapid-fire button presses, giving you a competitive edge in fast-paced action games and shootersPREMIUM BUILD QUALITY: High-performance gamepad with responsive buttons, precise analogue sticks, and integrated trigger buttons (L2/R2) for accurate control in all gaming scenarios</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-15",
+      "demo": true
+    }
+  ]
+}

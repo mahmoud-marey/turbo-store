@@ -1,0 +1,131 @@
+{
+  "id": 1166,
+  "slug": "st-standard-gm-06-usb-rgb-7-1-gaming-headset-black",
+  "name": "ST-Standard GM-06 USB RGB 7.1 Gaming Headset Black",
+  "model": "GM-06",
+  "brand": "STANDARD",
+  "brandSlug": "standard",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 949,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 6,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-gm06-headset-black-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-gm06-headset-black-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-gm06-headset-black-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-gm06-headset-black-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-gm06-rgb-lighting-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-gm06-rgb-lighting-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-gm06-rgb-lighting-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ST-Standard",
+    "GM-06",
+    "Gaming Headset",
+    "7.1 Surround Sound",
+    "50mm Drivers",
+    "RGB Lighting",
+    "Noise Cancelling Mic",
+    "USB Headset",
+    "Over Ear Headphones",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ST-Standard GM-06 Virtual 7.1 Surround Sound RGB Gaming Headset (50mm Acoustic Drivers / Noise-Reduction Flexible Mic / Dynamic RGB Lighting / Heavy Duty USB Cable / 1-Year Local Warranty)Maximize your tactical awareness",
+  "descriptionHtml": "<p><span>ST-Standard GM-06 Virtual 7.1 Surround Sound RGB Gaming Headset (50mm Acoustic Drivers / Noise-Reduction Flexible Mic / Dynamic RGB Lighting / Heavy Duty USB Cable / 1-Year Local Warranty)</span></p><p>Maximize your tactical awareness and in-game immersion with the ST-Standard GM-06 Virtual 7.1 Surround Sound RGB Gaming Headset, available at Turbo Computer Egypt backed by a full 1-Year official local agent warranty layout. Built around powerful 50mm neodymium audio drivers, this headset delivers precise sound staging, impactful bass notes, and high-frequency audio clarity for all gaming genres. Designed for long-duration play, it features soft memory foam leatherette ear pads and an auto-adjusting suspension headband that distributes weight evenly across your head. The GM-06 features a flexible noise-cancelling omnidirectional microphone for crystal-clear voice coordination with your squad. Outfitted with dynamic RGB ear cup accents and a high-durability USB connector, this plug-and-play headset is ideal for PC and laptop gaming setups.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Maker</td><td>ST-Standard Hardware</td></tr><tr><td>Model Specification</td><td>GM-06 USB RGB 7.1 Surround Gaming Headset</td></tr><tr><td>Audio Driver Size</td><td>50mm High-Performance Speaker Driver Units</td></tr><tr><td>Sound System</td><td>Virtual 7.1 Multi-Channel Spatial Sound Engine</td></tr><tr><td>Frequency Response</td><td>20Hz – 20kHz Acoustic Output Range</td></tr><tr><td>Microphone Type</td><td>Flexible High-Sensitivity Noise-Reduction Mic</td></tr><tr><td>Lighting Effects</td><td>Dynamic Multi-Color RGB Ear-Cup Illumination</td></tr><tr><td>Interface &amp; Wiring</td><td>Wired USB Type-A Heavy-Duty Cable</td></tr><tr><td>Earpad Construction</td><td>Soft Memory Foam Noise-Isolating Leatherette Pads</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Maker",
+      "value": "ST-Standard Hardware"
+    },
+    {
+      "group": "specs",
+      "label": "Model Specification",
+      "value": "GM-06 USB RGB 7.1 Surround Gaming Headset"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Driver Size",
+      "value": "50mm High-Performance Speaker Driver Units"
+    },
+    {
+      "group": "specs",
+      "label": "Sound System",
+      "value": "Virtual 7.1 Multi-Channel Spatial Sound Engine"
+    },
+    {
+      "group": "specs",
+      "label": "Frequency Response",
+      "value": "20Hz – 20kHz Acoustic Output Range"
+    },
+    {
+      "group": "specs",
+      "label": "Microphone Type",
+      "value": "Flexible High-Sensitivity Noise-Reduction Mic"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting Effects",
+      "value": "Dynamic Multi-Color RGB Ear-Cup Illumination"
+    },
+    {
+      "group": "specs",
+      "label": "Interface & Wiring",
+      "value": "Wired USB Type-A Heavy-Duty Cable"
+    },
+    {
+      "group": "specs",
+      "label": "Earpad Construction",
+      "value": "Soft Memory Foam Noise-Isolating Leatherette Pads"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    }
+  ]
+}

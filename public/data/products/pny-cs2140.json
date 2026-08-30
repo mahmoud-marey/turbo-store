@@ -1,0 +1,72 @@
+{
+  "id": 630,
+  "slug": "pny-cs2140",
+  "name": "PNY CS2140 500GB M.2 NVMePCIe GEN 4 X4",
+  "model": "CS2140",
+  "brand": "PNY",
+  "brandSlug": "pny",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 4000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302223439-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302223439-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302223439-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302223439-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "PNY",
+    "CS2140",
+    "500GB",
+    "M.2",
+    "NVMe",
+    "PCIe",
+    "GEN4",
+    "X4"
+  ],
+  "shortDescription": "Product Name:PNY CS2140 500GB M.2 NVMe PCIe Gen4x4 SSDSpecifications:Capacity: 500GBForm Factor: M.2 2280Interface: PCIe Gen4 x4Protocol: NVMe 1.4NAND Flash: 3D TLC NANDController: High-performance controllerSequential R",
+  "descriptionHtml": "<p>Product Name:</p><p><br></p><p>PNY CS2140 500GB M.2 NVMe PCIe Gen4x4 SSD</p><p><br></p><p>Specifications:</p><p>Capacity: 500GB</p><p>Form Factor: M.2 2280</p><p>Interface: PCIe Gen4 x4</p><p>Protocol: NVMe 1.4</p><p>NAND Flash: 3D TLC NAND</p><p>Controller: High-performance controller</p><p>Sequential Read Speed: Up to 3,500 MB/s</p><p>Sequential Write Speed: Up to 3,000 MB/s</p><p>Random Read (4KB): Up to 580,000 IOPS</p><p>Random Write (4KB): Up to 540,000 IOPS</p><p>Operating Temperature: 0°C – 70°C</p><p>MTBF: ~1.5 Million Hours</p><p><br></p><p>Features:</p><p>PCIe Gen4 high-speed performance</p><p>Faster system boot and app loading</p><p>Low power consumption</p><p>Reliable and durable solid-state design</p><p>Ideal for gaming, content creation, and system upgrades</p><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    }
+  ]
+}

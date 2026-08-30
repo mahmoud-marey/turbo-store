@@ -1,0 +1,71 @@
+{
+  "id": 736,
+  "slug": "cougar-1400-wireless-bluetooth-silent-rechargeable-mouse",
+  "name": "Cougar Egy 1400 Wireless/Bluetooth Silent rechargeable mouse ",
+  "model": "1400",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412181542-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412181542-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412181542-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412181542-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Cougar",
+    "1400",
+    "Wireless",
+    "Bluetooth",
+    "Silent",
+    "rechargeable",
+    "mouse"
+  ],
+  "shortDescription": "**Cougar 1400 Wireless/Bluetooth Silent Rechargeable Mouse****العلامة التجارية:** Cougar**الموديل:** 1400**النوع:** ماوس لاسلكي صامت**نوع الاتصال:**- ثنائي الوضع (Dual Mode): 2.4GHz Wireless + Bluetooth- مدى التردد: 2400",
+  "descriptionHtml": "<p>**Cougar 1400 Wireless/Bluetooth Silent Rechargeable Mouse**</p><p><br></p><p>**العلامة التجارية:** Cougar</p><p>**الموديل:** 1400</p><p>**النوع:** ماوس لاسلكي صامت</p><p><br></p><p>**نوع الاتصال:**</p><p>- ثنائي الوضع (Dual Mode): 2.4GHz Wireless + Bluetooth</p><p>- مدى التردد: 2400 - 2483.5 ميجاهرتز</p><p><br></p><p>**مستشعر الحركة:**</p><p>- النوع: بصري (Optical)</p><p>- الدقة (DPI): 800/1200/1600/2400/3200/4000 (قابلة للتعديل)</p><p>- التسارع: 10G</p><p>- سرعة التتبع: 30 IPS (بوصة في الثانية)</p><p><br></p><p>**الأزرار:**</p><p>- تصميم صامت (Silent) لجميع الأزرار</p><p><br></p><p>**المتانة:**</p><p>- دورة حياة الأزرار: 3 ملايين نقرة</p><p>- عمر البطارية: 300 ساعة من الاستخدام المتواصل</p><p><br></p><p>**الشحن:**</p><p>- نوع البطارية: 500mAh قابلة لإعادة الشحن</p><p>- منفذ الشحن: USB Type-C</p><p>- وقت الشحن: حوالي 2-3 ساعات</p><p><br></p><p>**المسافة اللاسلكية:**</p><p>- 2.4GHz: حتى 10 أمتار</p><p>- Bluetooth: حتى 10 أمتار</p><p><br></p><p>**التوافق:**</p><p>- أنظمة التشغيل: Windows 7/8/10/11، MacOS، Linux، Android، iOS</p><p>- وضع Bluetooth: يدعم الاتصال بالهواتف والأجهزة اللوحية</p><p><br></p><p>**الأبعاد والوزن:**</p><p>- الأبعاد (طول × عرض × ارتفاع): 112 × 70 × 38 مم</p><p>- الوزن: 98 جرام (بما في ذلك البطارية)</p><p><br></p><p>**اللون:**</p><p>- أسود (Black)</p><p><br></p><p>**محتويات العلبة:**</p><p>- ماوس Cougar 1400</p><p>- كابل شحن USB-C إلى USB-A</p><p>- مستقبل USB 2.4GHz</p><p>- دليل المستخدم السريع</p><p><br></p><p>**ميزات إضافية:**</p><p>- تصميم متماثل (Ambi) مناسب للاستخدام باليد اليمنى أو اليسرى</p><p>- سلك USB-C قابل للفصل</p><p>- توفير الطاقة: وضع السكون التلقائي عند عدم الاستخدام</p><p>- زر DPI مخصص لتغيير الحساسية بسرعة</p><p>- مؤشر LED لحالة البطارية والاتصال</p><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 690,
+  "slug": "rahala-ral-502",
+  "name": "Rahala RAL 502 Laptop Backpack",
+  "model": "RAL 502",
+  "brand": "Rahala",
+  "brandSlug": "rahala",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319051040-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319051040-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319051040-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319051040-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319002719-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319002719-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319002719-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319050952-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319050952-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319050952-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319051015-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319051015-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319051015-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Rahala",
+    "RAL",
+    "502",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "مواصفات Rahala RAL 502 Laptop Backpackالماركة Rahalaالموديل RAL 502اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر متين مقاوم للماءالابعاد حوالي 44 × 30 × 14 سمالسعة حوالي 18 لترالوزن خفيفالمميزاتجيوب متعددة لتنظيم",
+  "descriptionHtml": "<p>مواصفات</p><p>Rahala RAL 502 Laptop Backpack</p><p><br></p><p>الماركة Rahala</p><p>الموديل RAL 502</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر متين مقاوم للماء</p><p>الابعاد حوالي 44 × 30 × 14 سم</p><p>السعة حوالي 18 لتر</p><p>الوزن خفيف</p><p><br></p><p>المميزات</p><p>جيوب متعددة لتنظيم اللابتوب والملحقات</p><p>جيب مخصص للابتوب مع حماية مبطنة</p><p>حزام كتف مبطن وقابل للتعديل للحمل المريح</p><p>تصميم عملي للاستخدام اليومي والعمل والدراسة</p><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-24",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-11",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-16",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-21",
+      "demo": true
+    }
+  ]
+}

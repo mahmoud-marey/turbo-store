@@ -1,0 +1,85 @@
+{
+  "id": 908,
+  "slug": "jertech-jr860-aiges-gaming-mouse",
+  "name": "Jertech JR860 Aiges Gaming Mouse",
+  "model": "JR860",
+  "brand": "Jertech",
+  "brandSlug": "jertech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 20,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526162437-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526162437-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526162437-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526162437-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "jertech",
+    "jr860",
+    "aiges",
+    "gaming",
+    "mouse"
+  ],
+  "shortDescription": "&nbsp;Jertech JR860 Aiges Gaming Mouse:????️ Jertech JR860 Aiges Gaming Mouse — Full Specifications⚡ Performance\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nDPI Range\r\n1200 – 4800 DPI\r\n\r\n\r\nTracking Speed\r\n60 IPS\r\n\r\n\r\nAcceleration\r\n20G\r\n\r",
+  "descriptionHtml": "<p>&nbsp;<strong>Jertech JR860 Aiges Gaming Mouse</strong>:</p><h3>????️ Jertech JR860 Aiges Gaming Mouse — Full Specifications</h3><h4>⚡ Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>DPI Range</td><td>1200 – 4800 DPI</td></tr><tr><td>Tracking Speed</td><td>60 IPS</td></tr><tr><td>Acceleration</td><td>20G</td></tr></tbody></table><h4>???? Buttons &amp; Design</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Number of Buttons</td><td>6 Buttons</td></tr><tr><td>Thumb Rest</td><td>✅ Yes — dedicated thumb rest</td></tr><tr><td>Design</td><td>Right-handed Ergonomic</td></tr><tr><td>Lighting</td><td>RGB Backlit</td></tr></tbody></table><h4>???? Connectivity</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Connection</td><td>Wired USB</td></tr><tr><td>Cable Material</td><td>Nylon braided cable</td></tr></tbody></table><h4>????️ Durability</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Click Life Span</td><td>10 million clicks</td></tr></tbody></table><h3><br></h3><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "DPI Range",
+      "value": "1200 – 4800 DPI"
+    },
+    {
+      "group": "specs",
+      "label": "Tracking Speed",
+      "value": "60 IPS"
+    },
+    {
+      "group": "specs",
+      "label": "Acceleration",
+      "value": "20G"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    }
+  ]
+}

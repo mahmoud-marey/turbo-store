@@ -1,0 +1,69 @@
+{
+  "id": 820,
+  "slug": "gigabyte-b850m-ds3h-motherboard",
+  "name": "Gigabyte B850M DS3H Motherboard",
+  "model": "B850M DS3H",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 8000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011(1)_260502171253-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011(1)_260502171253-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011(1)_260502171253-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011(1)_260502171253-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "B850M",
+    "DS3H",
+    "Motherboard"
+  ],
+  "shortDescription": "Gigabyte B850M DS3H Motherboard\r\n​The Gigabyte B850M DS3H is a Micro-ATX motherboard built on the AMD AM5 socket. It is designed to support AMD Ryzen 9000, 8000, and 7000 series processors, offering a balance of performa",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>Gigabyte B850M DS3H Motherboard</b></h3><p dir=\"ltr\">​The <b>Gigabyte B850M DS3H</b> is a Micro-ATX motherboard built on the AMD AM5 socket. It is designed to support AMD Ryzen 9000, 8000, and 7000 series processors, offering a balance of performance and future-proof connectivity including PCIe 5.0 support.</p><h3 dir=\"ltr\">​<b>General Specifications</b></h3><ul><li dir=\"ltr\">​<b>Chipset:</b> AMD B850</li><li dir=\"ltr\">​<b>Socket:</b> AM5</li><li dir=\"ltr\">​<b>Form Factor:</b> Micro-ATX</li><li dir=\"ltr\">​<b>CPU Support:</b> AMD Ryzen 9000 / 8000 / 7000 Series</li></ul><h3 dir=\"ltr\">​<b>Memory (RAM)</b></h3><ul><li dir=\"ltr\">​<b>Type:</b> Dual Channel DDR5</li><li dir=\"ltr\">​<b>Slots:</b> 4 x DIMM</li><li dir=\"ltr\">​<b>Max Capacity:</b> Up to 256 GB</li><li dir=\"ltr\">​<b>Speeds:</b> Supports up to DDR5 8200 (OC)</li><li dir=\"ltr\">​<b>Profiles:</b> Supports AMD EXPO and Intel XMP memory modules</li></ul><h3 dir=\"ltr\">​<b>Expansion &amp; Storage</b></h3><ul><li dir=\"ltr\"> ​<b>PCIe Slots:</b><ul><li dir=\"ltr\">​1 x <b>PCIe 5.0 x16</b> (Primary graphics card slot)</li><li dir=\"ltr\">​1 x PCIe 3.0 x4</li></ul></li><li dir=\"ltr\"> ​<b>M.2 Slots (SSD):</b><ul><li dir=\"ltr\">​1 x M.2 supporting <b>PCIe 5.0 x4</b></li><li dir=\"ltr\">​1 x M.2 supporting PCIe 4.0 x4</li></ul></li><li dir=\"ltr\">​<b>SATA:</b> 4 x SATA 6Gb/s connectors</li></ul><h3 dir=\"ltr\">​<b>Power &amp; Cooling</b></h3><ul><li dir=\"ltr\">​<b>VRM Design:</b> 8+2+2 Twin Digital VRM phases for stable power delivery.</li><li dir=\"ltr\">​<b>Thermals:</b> Heatsinks for MOSFETs and an M.2 Thermal Guard for the primary SSD.</li><li dir=\"ltr\">​<b>Fan Headers:</b> Supports PWM/DC fans and water cooling pump configurations.</li></ul><h3 dir=\"ltr\">​<b>Connectivity &amp; I/O (Rear Panel)</b></h3><ul><li dir=\"ltr\">​<b>Video Outputs:</b> 1 x HDMI 2.1, 2 x DisplayPort 1.4</li><li dir=\"ltr\"> ​<b>USB Ports:</b><ul><li dir=\"ltr\">​1 x USB 3.2 Gen 2 Type-C</li><li dir=\"ltr\">​1 x USB 3.2 Gen 2 Type-A</li><li dir=\"ltr\">​2 x USB 3.2 Gen 1</li><li dir=\"ltr\">​4 x USB 2.0</li></ul></li><li dir=\"ltr\">​<b>Networking:</b> Realtek 2.5GbE LAN</li><li dir=\"ltr\">​<b>Audio:</b> Realtek Audio CODEC (7.1 Channel support)</li><li dir=\"ltr\">​<b>Q-Flash Plus:</b> Dedicated button to update BIOS without installing CPU, RAM, or GPU.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><ul><li dir=\"ltr\">​<b>Next-Gen Ready:</b> Features PCIe 5.0 for both the primary GPU slot and one M.2 slot to handle ultra-fast data speeds.</li><li dir=\"ltr\">​<b>EZ-Latch:</b> Simplifies hardware installation with tool-less mechanisms for PCIe and M.2 components.</li><li dir=\"ltr\">​<b>Performance Tuning:</b> Includes specialized BIOS modes like \"X3D Turbo Mode\" to maximize gaming performance on compatible Ryzen processors.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    }
+  ]
+}

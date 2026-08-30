@@ -1,0 +1,74 @@
+{
+  "id": 540,
+  "slug": "kotion-each-g3100",
+  "name": "Kotion Each G3100 headset",
+  "model": "G3100",
+  "brand": "Kotion",
+  "brandSlug": "kotion",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 550,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202223830-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202223830-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202223830-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202223830-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202223945-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202223945-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(2)_260202223945-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Kotion",
+    "Each",
+    "G3100",
+    "gaming",
+    "headphone"
+  ],
+  "shortDescription": "Brand:&nbsp;KOTION EACHDriver diameter:&nbsp;40mmFrequency response:&nbsp;20-20KHzImpedance:&nbsp;20Ω土15%Sensitivity:&nbsp;100dB土3dBHeadset interface:&nbsp;3.5mmCable length:&nbsp;Approx. 1.7m±0.2Color:&nbsp;Black with G",
+  "descriptionHtml": "<p>Brand:&nbsp;KOTION EACH</p><p><br></p><p>Driver diameter:&nbsp;40mm</p><p><br></p><p>Frequency response:&nbsp;20-20KHz</p><p><br></p><p>Impedance:&nbsp;20Ω土15%</p><p><br></p><p>Sensitivity:&nbsp;100dB土3dB</p><p><br></p><p>Headset interface:&nbsp;3.5mm</p><p><br></p><p>Cable length:&nbsp;Approx. 1.7m±0.2</p><p><br></p><p>Color:&nbsp;Black with Green or blue</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-27",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": 1083,
+  "slug": "lenovo-loq-15arp9-83jc00p6ed-amd-ryzen-5-7235hs-rtx-3050",
+  "name": "Lenovo LOQ 15ARP9 Gaming Laptop (AMD Ryzen 5 7235HS / RTX 3050 6GB / 12GB DDR5 / 512GB SSD / 15.6 inch FHD 144Hz / Win 11)",
+  "model": "15ARP9",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 42999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15arp9-amd-ryzen-5-7235hs-3050-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15arp9-amd-ryzen-5-7235hs-3050-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15arp9-amd-ryzen-5-7235hs-3050-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15arp9-amd-ryzen-5-7235hs-3050-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15arp9-amd-ryzen-5-7235hs-3050-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15arp9-amd-ryzen-5-7235hs-3050-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-loq-15arp9-amd-ryzen-5-7235hs-3050-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "LOQ",
+    "15ARP9",
+    "83JC00P6ED",
+    "Gaming Laptop",
+    "AMD Ryzen 5",
+    "RTX 3050",
+    "16GB RAM",
+    "Windows 11",
+    "Laptops"
+  ],
+  "shortDescription": "Lenovo LOQ 15ARP9 Gaming Laptop - AMD Ryzen 5 7235HS - RTX 3050 6GB - Windows 11 EditionExperience true generational performance transitions with the Lenovo LOQ 15ARP9 gaming platform, proudly offered by Turbo Computer E",
+  "descriptionHtml": "<p><span>Lenovo LOQ 15ARP9 Gaming Laptop - AMD Ryzen 5 7235HS - RTX 3050 6GB - Windows 11 Edition</span></p><p>Experience true generational performance transitions with the Lenovo LOQ 15ARP9 gaming platform, proudly offered by Turbo Computer Egypt. Powered by the efficient AMD Ryzen 5 7235HS architecture and heavily accelerated by the NVIDIA GeForce RTX 3050 6GB dedicated graphics card, this laptop is engineered to dominate high-frame-rate esports matches. It arrives completely outfitted with pre-installed original Windows 11 Home software to keep your workflows secure and streamlined. Boasting a fluid 15.6-inch FHD display configured with an ultra-responsive 144Hz refresh rate, it delivers tear-free movement while maintaining exceptional contrast thresholds. Built within a reinforced standard Luna Grey chassis, this device is officially backed by a 2-year authorized local agent warranty across Egypt.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Lenovo</td></tr><tr><td>Model / MTM</td><td>LOQ 15ARP9 (83JC00P6ED) Official Retail Edition</td></tr><tr><td>Processor</td><td>AMD Ryzen™ 5 7235HS (4 Cores / 8 Threads, Max Boost Clock up to 4.2 GHz)</td></tr><tr><td>Graphics Card</td><td>NVIDIA® GeForce RTX™ 3050 Laptop GPU 6GB GDDR6</td></tr><tr><td>Memory (RAM)</td><td>12GB DDR5 4800MHz High-Speed Performance RAM</td></tr><tr><td>Storage Capacity</td><td>512GB NVMe PCIe® Gen4 Super-Fast Solid State Drive (SSD)</td></tr><tr><td>Display Matrix</td><td>15.6-inch FHD (1920x1080) IPS 300nits Anti-glare, 144Hz Refresh Fluidity, G-SYNC® Support</td></tr><tr><td>Color Aesthetic</td><td>Premium Luna Grey Chassis Finish</td></tr><tr><td>Keyboard Style</td><td>White Backlit Keyboard Matrix (Full English &amp; Arabic Key Layout)</td></tr><tr><td>Audio Hardware</td><td>Stereo Speakers Optimized with Nahimic Audio Sound Profile Enhancements</td></tr><tr><td>Connectivity Matrix</td><td>Wi-Fi® 6 Matrix Architecture + Bluetooth® 5.2 Wireless Connection Card</td></tr><tr><td>I/O Ports Array</td><td>3x USB-A (3.2 Gen 1), 1x USB-C® (3.2 Gen 2) with Power Delivery, 1x HDMI® 2.1 (up to 8K/60Hz), RJ-45 LAN, Audio Combo Jack</td></tr><tr><td>Operating System</td><td>Windows® 11 Home Edition (Original Factory Pre-installed License Key)</td></tr><tr><td>Warranty Matrix</td><td> 2-Years Official Agent Warranty in Egypt (ضمان معتمد من الوكيل المحلي لمدة سنتين كاملتين ضد عيوب الصناعة) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Lenovo"
+    },
+    {
+      "group": "specs",
+      "label": "Model / MTM",
+      "value": "LOQ 15ARP9 (83JC00P6ED) Official Retail Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Processor",
+      "value": "AMD Ryzen™ 5 7235HS (4 Cores / 8 Threads, Max Boost Clock up to 4.2 GHz)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Card",
+      "value": "NVIDIA® GeForce RTX™ 3050 Laptop GPU 6GB GDDR6"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "12GB DDR5 4800MHz High-Speed Performance RAM"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "512GB NVMe PCIe® Gen4 Super-Fast Solid State Drive (SSD)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Matrix",
+      "value": "15.6-inch FHD (1920x1080) IPS 300nits Anti-glare, 144Hz Refresh Fluidity, G-SYNC® Support"
+    },
+    {
+      "group": "specs",
+      "label": "Color Aesthetic",
+      "value": "Premium Luna Grey Chassis Finish"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard Style",
+      "value": "White Backlit Keyboard Matrix (Full English & Arabic Key Layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Hardware",
+      "value": "Stereo Speakers Optimized with Nahimic Audio Sound Profile Enhancements"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Matrix",
+      "value": "Wi-Fi® 6 Matrix Architecture + Bluetooth® 5.2 Wireless Connection Card"
+    },
+    {
+      "group": "specs",
+      "label": "I/O Ports Array",
+      "value": "3x USB-A (3.2 Gen 1), 1x USB-C® (3.2 Gen 2) with Power Delivery, 1x HDMI® 2.1 (up to 8K/60Hz), RJ-45 LAN, Audio Combo Jack"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows® 11 Home Edition (Original Factory Pre-installed License Key)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "2-Years Official Agent Warranty in Egypt (ضمان معتمد من الوكيل المحلي لمدة سنتين كاملتين ضد عيوب الصناعة)"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    }
+  ]
+}

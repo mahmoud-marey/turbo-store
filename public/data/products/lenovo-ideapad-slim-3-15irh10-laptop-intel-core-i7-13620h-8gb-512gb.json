@@ -1,0 +1,133 @@
+{
+  "id": 1266,
+  "slug": "lenovo-ideapad-slim-3-15irh10-laptop-intel-core-i7-13620h-8gb-512gb",
+  "name": "Lenovo IdeaPad Slim 3 15IRH10 i7-13620H 8GB 512GB",
+  "model": "15IRH10",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 34999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/lenovo-slim-3-15irh10-grey-kb-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/lenovo-slim-3-15irh10-grey-kb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/lenovo-slim-3-15irh10-grey-kb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/lenovo-slim-3-15irh10-grey-kb-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/lenovo-slim-3-15-display-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/lenovo-slim-3-15-display-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/lenovo-slim-3-15-display-top-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "IdeaPad Slim 3",
+    "15IRH10",
+    "Intel Core i7",
+    "13620H",
+    "8GB RAM",
+    "512GB SSD",
+    "Luna Grey",
+    "15.6 Inch",
+    "Windows Laptop",
+    "Productivity Laptop",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Lenovo IdeaPad Slim 3 15IRH10 Performance Laptop (Intel Core i7-13620H / 8GB RAM / 512GB NVMe SSD / 15.6 Inch FHD Display / Luna Grey Edition / 1-Year Local Warranty)Experience seamless multi-tasking capabilities and hig",
+  "descriptionHtml": "<p><br><span>Lenovo IdeaPad Slim 3 15IRH10 Performance Laptop (Intel Core i7-13620H / 8GB RAM / 512GB NVMe SSD / 15.6 Inch FHD Display / Luna Grey Edition / 1-Year Local Warranty)</span></p><p>Experience seamless multi-tasking capabilities and high-speed processing efficiency with the Lenovo IdeaPad Slim 3 15IRH10 Laptop, available at Turbo Computer Egypt with a comprehensive 1-Year official local agent warranty layout. This slim profile system is powered by the high-performance 13th Generation Intel Core i7-13620H processor matrix, built to handle heavy office tasks, academic projects, and media streaming effortlessly. Equipped with a generous 16GB of high-density memory alongside an ultra-fast 512GB NVMe PCIe solid-state storage framework, it offers instant system boot times and rapid data tracking access. The laptop showcases a beautiful 15.6 Inch Full HD display layout framed by narrow bezels to maximize screen real estate for immersive media playback. Finished in a premium minimalist Luna Grey chassis with a comprehensive array of modern input-output connectivity paths and long-lasting battery execution parameters, this device delivers premium productivity without any extra clutter.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Maker</td><td>Lenovo</td></tr><tr><td>Model Specification</td><td>IdeaPad Slim 3 15IRH10 Series Layout</td></tr><tr><td>Processor Core</td><td>Intel Core i7-13620H (13th Generation High-Performance CPU Matrix)</td></tr><tr><td>System Memory</td><td>8GB High-Speed RAM Operational Matrix</td></tr><tr><td>Storage Architecture</td><td>512GB NVMe PCIe M.2 Solid State Drive (SSD) Framework</td></tr><tr><td>Display Configuration</td><td>15.6 Inch Full HD (1920x1080) Anti-Glare Eye-Care Screen Profile</td></tr><tr><td>Graphics Engine</td><td>Intel UHD Graphics Processing Unit</td></tr><tr><td>Product Color</td><td>Luna Grey Premium Sleek Finish</td></tr><tr><td>Connectivity System</td><td>Wi-Fi Wireless + Bluetooth Suite + USB-C / USB-A / HDMI Matrix Ports</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Maker",
+      "value": "Lenovo"
+    },
+    {
+      "group": "specs",
+      "label": "Model Specification",
+      "value": "IdeaPad Slim 3 15IRH10 Series Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Core",
+      "value": "Intel Core i7-13620H (13th Generation High-Performance CPU Matrix)"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory",
+      "value": "8GB High-Speed RAM Operational Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Architecture",
+      "value": "512GB NVMe PCIe M.2 Solid State Drive (SSD) Framework"
+    },
+    {
+      "group": "specs",
+      "label": "Display Configuration",
+      "value": "15.6 Inch Full HD (1920x1080) Anti-Glare Eye-Care Screen Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "Intel UHD Graphics Processing Unit"
+    },
+    {
+      "group": "specs",
+      "label": "Product Color",
+      "value": "Luna Grey Premium Sleek Finish"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity System",
+      "value": "Wi-Fi Wireless + Bluetooth Suite + USB-C / USB-A / HDMI Matrix Ports"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-25",
+      "demo": true
+    }
+  ]
+}

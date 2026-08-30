@@ -1,0 +1,76 @@
+{
+  "id": 574,
+  "slug": "rapoo-b30-silent",
+  "name": "Rapoo B30 Silent Wireless Optical Mouse",
+  "model": "B30 silent",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/B30%202-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/B30%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/B30%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/B30%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/B30%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/B30%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/B30%203-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "B30",
+    "Silent",
+    "Wireless",
+    "Optical",
+    "Mouse"
+  ],
+  "shortDescription": "Key Features and Specifications:Silent Operation:&nbsp;Designed to significantly reduce noise, making it ideal for shared workspaces or late-night use.Connectivity:&nbsp;Reliable 2.4GHz wireless connection via a plug-and",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/B30 1.png\"><br></p><div jsaction=\"rcuQ6b:&amp;hqeFIe_m|npT2md\" jscontroller=\"zcfIf\" jsuid=\"hqeFIe_m\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_n\">Key Features and Specifications:</span><span jsuid=\"hqeFIe_o\" jsaction=\"rcuQ6b:&amp;hqeFIe_o|npT2md\" jscontroller=\"udAs2b\"><span><span aria-hidden=\"true\"></span></span></span></div><ul jscontroller=\"mPWODf\" jsuid=\"hqeFIe_r\"><li jscontroller=\"vsuOFb\" jsuid=\"hqeFIe_s\"><span jscontroller=\"fly6D\" jsuid=\"hqeFIe_t\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_u\">Silent Operation:</span>&nbsp;Designed to significantly reduce noise, making it ideal for shared workspaces or late-night use.</span></li><li jscontroller=\"vsuOFb\" jsuid=\"hqeFIe_v\"><span jscontroller=\"fly6D\" jsuid=\"hqeFIe_w\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_x\">Connectivity:</span>&nbsp;Reliable 2.4GHz wireless connection via a plug-and-play USB nano receiver.</span></li><li jscontroller=\"vsuOFb\" jsuid=\"hqeFIe_y\"><span jscontroller=\"fly6D\" jsuid=\"hqeFIe_z\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_10\">Precision &amp; Sensitivity:</span>&nbsp;Adjustable DPI settings (800/1000/1200/1600 or 800-3200 depending on model variant) for customized cursor control.</span></li><li jscontroller=\"vsuOFb\" jsuid=\"hqeFIe_11\"><span jscontroller=\"fly6D\" jsuid=\"hqeFIe_12\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_13\">Battery Life:</span>&nbsp;Up to 12 months of battery life with smart power-saving technology.</span></li><li jscontroller=\"vsuOFb\" jsuid=\"hqeFIe_14\"><span jscontroller=\"fly6D\" jsuid=\"hqeFIe_15\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_16\">Design:</span>&nbsp;Ergonomic, lightweight (75g) design suitable for both left and right-handed users.</span></li><li jscontroller=\"vsuOFb\" jsuid=\"hqeFIe_17\"><span jscontroller=\"fly6D\" jsuid=\"hqeFIe_18\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_19\">Buttons:</span>&nbsp;Generally features 4 buttons, including a scroll wheel and a dedicated DPI switch.</span></li><li jscontroller=\"vsuOFb\" jsuid=\"hqeFIe_1a\"><span jscontroller=\"fly6D\" jsuid=\"hqeFIe_1b\"><span jscontroller=\"zYmgkd\" jsuid=\"hqeFIe_1c\">Dimensions:</span>&nbsp;Approximately&nbsp;<span jsuid=\"hqeFIe_1d\" jsaction=\"rcuQ6b:&amp;hqeFIe_1d|npT2md\" jscontroller=\"DunIje\"><span><div><img aria-hidden=\"true\" draggable=\"false\" role=\"presentation\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"><div></div></div></span></span></span></li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-21",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-18",
+      "demo": true
+    }
+  ]
+}

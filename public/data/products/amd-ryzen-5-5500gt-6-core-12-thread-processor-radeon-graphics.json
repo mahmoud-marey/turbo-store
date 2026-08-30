@@ -1,0 +1,76 @@
+{
+  "id": 963,
+  "slug": "amd-ryzen-5-5500gt-6-core-12-thread-processor-radeon-graphics",
+  "name": "AMD Ryzen 5 5500GT 6-Core 12-Thread Desktop Processor with Radeon Graphics",
+  "model": "5500GT",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 6500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500gt-6-core-12-thread-processor-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500gt-6-core-12-thread-processor-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500gt-6-core-12-thread-processor-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500gt-6-core-12-thread-processor-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5",
+    "5500GT",
+    "6-Core",
+    "12-Thread",
+    "Socket AM4",
+    "Desktop Processor",
+    "CPU",
+    "APU",
+    "Radeon Graphics",
+    "Gaming",
+    "Turbo Computer"
+  ],
+  "shortDescription": "AMD Ryzen 5 5500GT 6-Core 12-Thread Desktop Processor with Radeon GraphicsBuild a high-performance, budget-friendly desktop system with the AMD Ryzen 5 5500GT desktop processor. Built on the proven and highly reliable AM",
+  "descriptionHtml": "<p dir=\"ltr\"><b><span>AMD Ryzen 5 5500GT 6-Core 12-Thread Desktop Processor with Radeon Graphics</span></b></p><p dir=\"ltr\"><b><br></b></p><p dir=\"ltr\">Build a high-performance, budget-friendly desktop system with the AMD Ryzen 5 5500GT desktop processor. Built on the proven and highly reliable AM4 architecture, this versatile 6-core, 12-thread CPU delivers impressive multi-threaded processing power, making it an exceptional choice for smooth everyday multitasking, home office productivity, student workloads, and casual content creation without breaking the bank.</p><p dir=\"ltr\"><b><br></b></p><p dir=\"ltr\"></p><p dir=\"ltr\">The standout feature of the Ryzen 5 5500GT is its integrated AMD Radeon Graphics, which eliminates the immediate need for a dedicated graphics card. It delivers fluid, high-definition visual performance and solid frame rates in popular esports titles and mainstream casual games. With a base clock speed engineered for efficiency and a boost clock designed for heavy lifting under demand, this heavy-duty processor keeps your system running cool and snappy. Upgrade your PC with legendary AMD performance and enjoy a seamless computing and gaming experience right out of the box.</p><p dir=\"ltr\"><b><br></b></p><p dir=\"ltr\"><b>AMD Ryzen 5 5500GT</b> processor:</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\">​<b>Total Cores:</b> 6</li><li dir=\"ltr\">​<b>Total Threads:</b> 12</li><li dir=\"ltr\">​<b>Base Clock:</b> 3.6 GHz</li><li dir=\"ltr\">​<b>Max Boost Clock:</b> Up to 4.4 GHz</li><li dir=\"ltr\">​<b>Architecture:</b> Zen 3 (Cezanne)</li><li dir=\"ltr\">​<b>Process Technology:</b> TSMC 7nm FinFET</li><li dir=\"ltr\">​<b>Default TDP:</b> 65W</li><li dir=\"ltr\">​<b>Unlocked for Overclocking:</b> Yes</li></ul><h3 dir=\"ltr\">​<b>Cache</b></h3><ul><li dir=\"ltr\">​<b>L1 Cache:</b> 384 KB</li><li dir=\"ltr\">​<b>L2 Cache:</b> 3 MB</li><li dir=\"ltr\">​<b>L3 Cache:</b> 16 MB</li></ul><h3 dir=\"ltr\">​<b>Memory Specifications</b></h3><ul><li dir=\"ltr\">​<b>System Memory Type:</b> DDR4</li><li dir=\"ltr\">​<b>Max Memory Speed:</b> Up to 3200 MT/s</li><li dir=\"ltr\">​<b>Memory Channels:</b> 2</li></ul><h3 dir=\"ltr\">​<b>Connectivity &amp; Graphics</b></h3><ul><li dir=\"ltr\">​<b>Integrated Graphics:</b> AMD Radeon™ Graphics (7 Cores)</li><li dir=\"ltr\">​<b>Graphics Frequency:</b> 1900 MHz</li><li dir=\"ltr\">​<b>PCI Express Version:</b> PCIe 3.0</li><li dir=\"ltr\">​<b>Socket:</b> AM4</li></ul><h3 dir=\"ltr\">​<b>Thermal Information</b></h3><p></p><ul><li dir=\"ltr\">​<b>Max Operating Temperature (Tjmax):</b> 95°C</li><li dir=\"ltr\">​<b>Thermal Solution:</b> AMD Wraith Stealth included</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    }
+  ]
+}

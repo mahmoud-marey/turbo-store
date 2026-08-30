@@ -1,0 +1,198 @@
+{
+  "id": 1206,
+  "slug": "asus-prime-geforce-rtx-5080-oc-edition-16gb-gddr7-graphics-card",
+  "name": "ASUS PRIME GeForce RTX 5080 OC Edition 16GB GDDR7 Graphics Card",
+  "model": "PRIME-RTX5080-O16G",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 87999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-rtx-5080-oc-16gb-gpu-angle-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-rtx-5080-oc-16gb-gpu-angle-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-rtx-5080-oc-16gb-gpu-angle-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-rtx-5080-oc-16gb-gpu-angle-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "PRIME",
+    "NVIDIA",
+    "GeForce RTX 5080",
+    "RTX 5080",
+    "16GB GDDR7",
+    "PCIe 5.0",
+    "OC Edition",
+    "10752 CUDA Cores",
+    "1801 TOPs",
+    "256-bit",
+    "DisplayPort 2.1b",
+    "HDMI 2.1b",
+    "SFF Ready",
+    "Gaming GPU",
+    "Graphics Card",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS PRIME GeForce RTX 5080 OC Edition 16GB GDDR7 Graphics Card (10752 CUDA Cores / 1801 AI TOPs / PCIe 5.0 / 256-bit Memory Bus / HDMI 2.1b / DisplayPort 2.1b / 2.5-Slot SFF Compatible / 1-Year Store Warranty)Experience",
+  "descriptionHtml": "<p><span>ASUS PRIME GeForce RTX 5080 OC Edition 16GB GDDR7 Graphics Card (10752 CUDA Cores / 1801 AI TOPs / PCIe 5.0 / 256-bit Memory Bus / HDMI 2.1b / DisplayPort 2.1b / 2.5-Slot SFF Compatible / 1-Year Store Warranty)</span></p><p>Experience next-generation high-frame-rate 4K gaming and AI compute acceleration with the ASUS PRIME GeForce RTX 5080 OC Edition 16GB GDDR7 graphics card, available at Turbo Computer Egypt with a 1-Year store warranty. Featuring 10752 CUDA cores, ultra-fast 30 Gbps GDDR7 memory on a 256-bit bus, and an astounding 1801 AI TOPs performance, this GPU delivers unmatched visual fidelity powered by NVIDIA architecture. Built with a compact 2.5-slot SFF-ready footprint, native PCIe 5.0 support, and next-gen DisplayPort 2.1b display outputs, it offers sleek aesthetics alongside extreme cooling efficiency for modern enthusiast gaming setups.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Product Line / Series</td><td>ASUS PRIME Series</td></tr><tr><td>Model Name</td><td>PRIME-RTX5080-O16G</td></tr><tr><td>Graphic Engine</td><td>NVIDIA GeForce RTX 5080</td></tr><tr><td>Warranty Period</td><td>1-Year Warranty (ضمان لمدة سنة)</td></tr><tr><td>AI Processing Performance</td><td>1801 TOPs AI Computing</td></tr><tr><td>Bus Standard Standard</td><td>PCI Express 5.0</td></tr><tr><td>CUDA Cores</td><td>10752 Processing Cores</td></tr><tr><td>Engine Clock Speed</td><td>OC Mode: 2685 MHz | Default Mode (Boost Clock): 2655 MHz</td></tr><tr><td>Video Memory Capacity</td><td>16GB GDDR7 High-Speed VRAM</td></tr><tr><td>Memory Speed / Bandwidth</td><td>30 Gbps Data Rate</td></tr><tr><td>Memory Interface Bus</td><td>256-bit Interface</td></tr><tr><td>Digital Max Resolution</td><td>7680 x 4320 (8K Ultra HD)</td></tr><tr><td>Display Interfaces</td><td>1 x Native HDMI 2.1b | 3 x Native DisplayPort 2.1b (HDCP 2.3 Supported)</td></tr><tr><td>Maximum Display Support</td><td>Up to 4 Simultaneous Displays</td></tr><tr><td>SLI / Crossfire / NVlink Support</td><td>No Multi-GPU Bridge Support</td></tr><tr><td>Form Factor / Slot Thickness</td><td>2.5-Slot Design (SFF Small Form Factor Ready Compatible)</td></tr><tr><td>Physical Dimensions</td><td>304 x 126 x 50 mm (12 x 5 x 2 inches)</td></tr><tr><td>Recommended Power Supply Unit (PSU)</td><td>850W High-Efficiency Power Supply</td></tr><tr><td>Power Connectors</td><td>1 x 16-pin Power Connector (Includes 1 to 3 Power Adapter Cable)</td></tr><tr><td>OpenGL Version Support</td><td>OpenGL 4.6</td></tr><tr><td>Included Accessories</td><td>Speedsetup Manual, ASUS Velcro Hook and Loop, Thank You Card, 1 to 3 Power Adapter Cable</td></tr><tr><td>Software Suite</td><td>ASUS GPU Tweak III, MuseTree, GeForce Game Ready Driver, Studio Driver</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Line / Series",
+      "value": "ASUS PRIME Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "PRIME-RTX5080-O16G"
+    },
+    {
+      "group": "specs",
+      "label": "Graphic Engine",
+      "value": "NVIDIA GeForce RTX 5080"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Warranty (ضمان لمدة سنة)"
+    },
+    {
+      "group": "specs",
+      "label": "AI Processing Performance",
+      "value": "1801 TOPs AI Computing"
+    },
+    {
+      "group": "specs",
+      "label": "Bus Standard Standard",
+      "value": "PCI Express 5.0"
+    },
+    {
+      "group": "specs",
+      "label": "CUDA Cores",
+      "value": "10752 Processing Cores"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock Speed",
+      "value": "OC Mode: 2685 MHz | Default Mode (Boost Clock): 2655 MHz"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory Capacity",
+      "value": "16GB GDDR7 High-Speed VRAM"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Speed / Bandwidth",
+      "value": "30 Gbps Data Rate"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Interface Bus",
+      "value": "256-bit Interface"
+    },
+    {
+      "group": "specs",
+      "label": "Digital Max Resolution",
+      "value": "7680 x 4320 (8K Ultra HD)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Interfaces",
+      "value": "1 x Native HDMI 2.1b | 3 x Native DisplayPort 2.1b (HDCP 2.3 Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "Maximum Display Support",
+      "value": "Up to 4 Simultaneous Displays"
+    },
+    {
+      "group": "specs",
+      "label": "SLI / Crossfire / NVlink Support",
+      "value": "No Multi-GPU Bridge Support"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor / Slot Thickness",
+      "value": "2.5-Slot Design (SFF Small Form Factor Ready Compatible)"
+    },
+    {
+      "group": "specs",
+      "label": "Physical Dimensions",
+      "value": "304 x 126 x 50 mm (12 x 5 x 2 inches)"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended Power Supply Unit (PSU)",
+      "value": "850W High-Efficiency Power Supply"
+    },
+    {
+      "group": "specs",
+      "label": "Power Connectors",
+      "value": "1 x 16-pin Power Connector (Includes 1 to 3 Power Adapter Cable)"
+    },
+    {
+      "group": "specs",
+      "label": "OpenGL Version Support",
+      "value": "OpenGL 4.6"
+    },
+    {
+      "group": "specs",
+      "label": "Included Accessories",
+      "value": "Speedsetup Manual, ASUS Velcro Hook and Loop, Thank You Card, 1 to 3 Power Adapter Cable"
+    },
+    {
+      "group": "specs",
+      "label": "Software Suite",
+      "value": "ASUS GPU Tweak III, MuseTree, GeForce Game Ready Driver, Studio Driver"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-19",
+      "demo": true
+    }
+  ]
+}

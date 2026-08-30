@@ -1,0 +1,97 @@
+{
+  "id": 782,
+  "slug": "intel-core-i7-14700f",
+  "name": "Intel® Core™ i7 14700f",
+  "model": "14700f 14th Gen Raptor Lake",
+  "brand": "INTEL",
+  "brandSlug": "intel",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 16500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501161231-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501161231-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501161231-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501161231-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Intel",
+    "Core",
+    "i7-14700F",
+    "20",
+    "Cores",
+    "28",
+    "Threads",
+    "up",
+    "to",
+    "5.4GHz",
+    "33MB",
+    "Cache"
+  ],
+  "shortDescription": "Intel Core i7-14700F (14th Gen Raptor Lake):&nbsp;Core &amp; Thread Configuration\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nTotal Cores\r\n20 (8 P-cores + 12 E-cores)\r\n\r\n\r\nTotal Threads\r\n28\r\n\r\n\r\nArchitecture\r\nRaptor Lake (Intel 7 / 10nm)",
+  "descriptionHtml": "<p><strong>Intel Core i7-14700F</strong> (14th Gen Raptor Lake):</p><h3>&nbsp;Core &amp; Thread Configuration</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Total Cores</td><td><strong>20</strong> (8 P-cores + 12 E-cores)</td></tr><tr><td>Total Threads</td><td><strong>28</strong></td></tr><tr><td>Architecture</td><td>Raptor Lake (Intel 7 / 10nm)</td></tr><tr><td>Generation</td><td>14th Gen</td></tr></tbody></table><h3>&nbsp;Clock Speeds</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>P-core Base</td><td>2.1 GHz</td></tr><tr><td>E-core Base</td><td>1.5 GHz</td></tr><tr><td>P-core Max Turbo</td><td>5.3 GHz</td></tr><tr><td>E-core Max Turbo</td><td>4.2 GHz</td></tr><tr><td>Max Turbo Boost (3.0)</td><td><strong>5.4 GHz</strong></td></tr></tbody></table><h3>&nbsp;Cache</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>L3 Cache (Smart Cache)</td><td><strong>33 MB</strong></td></tr><tr><td>L2 Cache</td><td>28 MB</td></tr><tr><td>Total Cache</td><td>61 MB</td></tr></tbody></table><h3>&nbsp;Memory Support</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>DDR5</td><td>Up to 5600 MT/s</td></tr><tr><td>DDR4</td><td>Up to 3200 MT/s</td></tr><tr><td>Max Memory</td><td>192 GB</td></tr><tr><td>Memory Channels</td><td>2 (Dual-Channel)</td></tr><tr><td>Max Bandwidth</td><td>89.6 GB/s</td></tr></tbody></table><h3>&nbsp;Platform &amp; Connectivity</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Socket</td><td><strong>LGA 1700</strong></td></tr><tr><td>Compatible Chipsets</td><td>Intel 600-series &amp; 700-series</td></tr><tr><td>PCIe Support</td><td>PCIe 5.0 &amp; 4.0</td></tr><tr><td>PCIe Lanes</td><td>20 total</td></tr></tbody></table><h3>&nbsp;Power</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Base TDP</td><td><strong>65W</strong></td></tr><tr><td>Max Turbo Power</td><td><strong>219W</strong></td></tr></tbody></table><h3>&nbsp;Graphics &amp; Other</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Integrated Graphics</td><td>❌ <strong>None</strong> (discrete GPU required)</td></tr><tr><td>Cooler Included</td><td>✅ Intel Laminar RM1</td></tr><tr><td>Hyper-Threading</td><td>✅ Yes</td></tr><tr><td>Turbo Boost Max 3.0</td><td>✅ Yes</td></tr><tr><td>Launch Date</td><td>Q1 2024</td></tr><tr><td>MSRP</td><td>~$359</td></tr></tbody></table><h3>&nbsp;Worth Noting</h3><p></p><p>The <strong>\"F\"</strong> suffix means no integrated graphics — you'll need a dedicated GPU. It supports PCIe 5.0 and up to 192GB of dual-channel DDR5 ECC memory at 5600 MHz. It's compatible with both 600-series and 700-series Intel motherboards, making it a flexible upgrade option.</p><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Total Cores",
+      "value": "20 (8 P-cores + 12 E-cores)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Threads",
+      "value": "28"
+    },
+    {
+      "group": "specs",
+      "label": "Architecture",
+      "value": "Raptor Lake (Intel 7 / 10nm)"
+    },
+    {
+      "group": "specs",
+      "label": "Generation",
+      "value": "14th Gen"
+    }
+  ],
+  "rating": 3.8,
+  "reviewCount": 20,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-27",
+      "demo": true
+    }
+  ]
+}

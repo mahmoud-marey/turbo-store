@@ -1,0 +1,190 @@
+{
+  "id": 1198,
+  "slug": "intel-core-ultra-5-processor-245kf-24m-cache-up-to-5-20-ghz-lga1851",
+  "name": "Intel Core Ultra 5 Processor 245KF 24M Cache Up to 5.20 GHz Box",
+  "model": "245KF",
+  "brand": "INTEL",
+  "brandSlug": "intel",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 10399,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-ultra-5-245kf-processor-box-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-ultra-5-245kf-processor-box-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-ultra-5-245kf-processor-box-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-ultra-5-245kf-processor-box-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Intel",
+    "Core Ultra 5",
+    "245KF",
+    "Desktop Processor",
+    "LGA1851",
+    "14 Cores",
+    "14 Threads",
+    "5.20 GHz",
+    "24MB Cache",
+    "PCIe 5.0",
+    "DDR5",
+    "Intel AI Boost NPU",
+    "Unlocked Processor",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Intel Core Ultra 5 Processor 245KF (24M Cache / Up to 5.20 GHz / 14 Cores &amp; 14 Threads / LGA 1851 Socket / DDR5 Support / PCIe 5.0 / Unlocked / Intel AI Boost NPU / Official 1-Year Local Agent Warranty)Unleash high-e",
+  "descriptionHtml": "<p><span>Intel Core Ultra 5 Processor 245KF (24M Cache / Up to 5.20 GHz / 14 Cores &amp; 14 Threads / LGA 1851 Socket / DDR5 Support / PCIe 5.0 / Unlocked / Intel AI Boost NPU / Official 1-Year Local Agent Warranty)</span></p><p>Unleash high-efficiency gaming and AI-accelerated performance with the Intel Core Ultra 5 Processor 245KF, available at Turbo Computer Egypt backed by an official 1-Year agent warranty. Built on the LGA 1851 socket architecture, this unlocked desktop processor features 14 cores (6 Performance-cores and 8 Efficient-cores) delivering up to 5.20 GHz Max Turbo Frequency with 24MB Intel Smart Cache. Equipped with integrated Intel AI Boost NPU for accelerated AI processing, native DDR5 memory support, and PCIe 5.0 readiness for next-gen GPUs and SSD storage setups.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Intel</td></tr><tr><td>Processor Model / Code</td><td>Intel Core Ultra 5 Processor 245KF</td></tr><tr><td>Product Collection</td><td>Intel Core Ultra Processors (Series 2)</td></tr><tr><td>Warranty Period</td><td>1-Year Official Agent Warranty (ضمان سنة كاملة من الوكيل الرسمي ضد عيوب الصناعة)</td></tr><tr><td>Total CPU Cores</td><td>14 Cores (6 Performance-cores + 8 Efficient-cores)</td></tr><tr><td>Total Threads</td><td>14 Threads</td></tr><tr><td>Max Turbo Frequency</td><td>Up to 5.20 GHz</td></tr><tr><td>Performance-core Max Frequency</td><td>5.20 GHz</td></tr><tr><td>Efficient-core Max Frequency</td><td>4.60 GHz</td></tr><tr><td>Performance-core Base Frequency</td><td>4.20 GHz</td></tr><tr><td>Efficient-core Base Frequency</td><td>3.60 GHz</td></tr><tr><td>Intel Smart Cache (L3)</td><td>24 MB Intel Smart Cache</td></tr><tr><td>Total L2 Cache</td><td>26 MB</td></tr><tr><td>Processor Base Power</td><td>125 W</td></tr><tr><td>Maximum Turbo Power</td><td>159 W</td></tr><tr><td>NPU AI Accelerator</td><td>Intel AI Boost NPU Engine</td></tr><tr><td>Memory Support &amp; Type</td><td>Up to DDR5 6400 MT/s (Dual Channel Architecture, Max 192GB)</td></tr><tr><td>PCI Express Revision</td><td>PCIe 5.0 and PCIe 4.0 Up to 24 Lanes</td></tr><tr><td>Sockets Supported</td><td>LGA 1851</td></tr><tr><td>Integrated Graphics</td><td>None (Discrete Graphics Card Required)</td></tr><tr><td>Unlocked Multiplier</td><td>Yes (Supports Manual Overclocking Configuration)</td></tr><tr><td>Best Applications</td><td>High-FPS Gaming Stations, AI Content Creation, Workstation Productivity, Heavy Software Multitasking &amp; Overclocking Setups</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Intel"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Model / Code",
+      "value": "Intel Core Ultra 5 Processor 245KF"
+    },
+    {
+      "group": "specs",
+      "label": "Product Collection",
+      "value": "Intel Core Ultra Processors (Series 2)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Official Agent Warranty (ضمان سنة كاملة من الوكيل الرسمي ضد عيوب الصناعة)"
+    },
+    {
+      "group": "specs",
+      "label": "Total CPU Cores",
+      "value": "14 Cores (6 Performance-cores + 8 Efficient-cores)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Threads",
+      "value": "14 Threads"
+    },
+    {
+      "group": "specs",
+      "label": "Max Turbo Frequency",
+      "value": "Up to 5.20 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Performance-core Max Frequency",
+      "value": "5.20 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Efficient-core Max Frequency",
+      "value": "4.60 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Performance-core Base Frequency",
+      "value": "4.20 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Efficient-core Base Frequency",
+      "value": "3.60 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Intel Smart Cache (L3)",
+      "value": "24 MB Intel Smart Cache"
+    },
+    {
+      "group": "specs",
+      "label": "Total L2 Cache",
+      "value": "26 MB"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Base Power",
+      "value": "125 W"
+    },
+    {
+      "group": "specs",
+      "label": "Maximum Turbo Power",
+      "value": "159 W"
+    },
+    {
+      "group": "specs",
+      "label": "NPU AI Accelerator",
+      "value": "Intel AI Boost NPU Engine"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support & Type",
+      "value": "Up to DDR5 6400 MT/s (Dual Channel Architecture, Max 192GB)"
+    },
+    {
+      "group": "specs",
+      "label": "PCI Express Revision",
+      "value": "PCIe 5.0 and PCIe 4.0 Up to 24 Lanes"
+    },
+    {
+      "group": "specs",
+      "label": "Sockets Supported",
+      "value": "LGA 1851"
+    },
+    {
+      "group": "specs",
+      "label": "Integrated Graphics",
+      "value": "None (Discrete Graphics Card Required)"
+    },
+    {
+      "group": "specs",
+      "label": "Unlocked Multiplier",
+      "value": "Yes (Supports Manual Overclocking Configuration)"
+    },
+    {
+      "group": "specs",
+      "label": "Best Applications",
+      "value": "High-FPS Gaming Stations, AI Content Creation, Workstation Productivity, Heavy Software Multitasking & Overclocking Setups"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 30,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-11",
+      "demo": true
+    }
+  ]
+}

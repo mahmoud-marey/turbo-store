@@ -1,0 +1,742 @@
+{
+  "brands": [
+    {
+      "value": "Turbo",
+      "count": 144
+    },
+    {
+      "value": "ASUS",
+      "count": 54
+    },
+    {
+      "value": "LENOVO",
+      "count": 39
+    },
+    {
+      "value": "Redragon",
+      "count": 38
+    },
+    {
+      "value": "Fantech",
+      "count": 33
+    },
+    {
+      "value": "Attack Shark",
+      "count": 25
+    },
+    {
+      "value": "Cougar-EGY",
+      "count": 23
+    },
+    {
+      "value": "GIGABYTE",
+      "count": 23
+    },
+    {
+      "value": "MSI",
+      "count": 21
+    },
+    {
+      "value": "Onikuma",
+      "count": 18
+    },
+    {
+      "value": "Aerocool",
+      "count": 15
+    },
+    {
+      "value": "ANTEC",
+      "count": 15
+    },
+    {
+      "value": "AMD",
+      "count": 14
+    },
+    {
+      "value": "Rapoo",
+      "count": 14
+    },
+    {
+      "value": "CRUCIAL",
+      "count": 13
+    },
+    {
+      "value": "LEXAR",
+      "count": 13
+    },
+    {
+      "value": "Rahala",
+      "count": 11
+    },
+    {
+      "value": "Aula",
+      "count": 9
+    },
+    {
+      "value": "Cooler Master",
+      "count": 9
+    },
+    {
+      "value": "Jertech",
+      "count": 9
+    },
+    {
+      "value": "ACER",
+      "count": 8
+    },
+    {
+      "value": "Arctic Hunter",
+      "count": 8
+    },
+    {
+      "value": "ELITE",
+      "count": 8
+    },
+    {
+      "value": "HP",
+      "count": 8
+    },
+    {
+      "value": "T-Dagger",
+      "count": 8
+    },
+    {
+      "value": "WD",
+      "count": 8
+    },
+    {
+      "value": "INTEL",
+      "count": 7
+    },
+    {
+      "value": "Meetion",
+      "count": 7
+    },
+    {
+      "value": "Onten",
+      "count": 7
+    },
+    {
+      "value": "STANDARD",
+      "count": 7
+    },
+    {
+      "value": "AOC",
+      "count": 6
+    },
+    {
+      "value": "Hiksemi",
+      "count": 6
+    },
+    {
+      "value": "Patriot",
+      "count": 6
+    },
+    {
+      "value": "Haven",
+      "count": 5
+    },
+    {
+      "value": "HyperX",
+      "count": 5
+    },
+    {
+      "value": "logitech",
+      "count": 5
+    },
+    {
+      "value": "Ocypus",
+      "count": 5
+    },
+    {
+      "value": "Philips",
+      "count": 5
+    },
+    {
+      "value": "SAMSUNG",
+      "count": 5
+    },
+    {
+      "value": "CORSAIR",
+      "count": 4
+    },
+    {
+      "value": "DEEPCOOL",
+      "count": 4
+    },
+    {
+      "value": "DELL",
+      "count": 4
+    },
+    {
+      "value": "Maono",
+      "count": 4
+    },
+    {
+      "value": "UTOPIA",
+      "count": 4
+    },
+    {
+      "value": "Cougar",
+      "count": 3
+    },
+    {
+      "value": "GAMDIAS",
+      "count": 3
+    },
+    {
+      "value": "Golden Wolf",
+      "count": 3
+    },
+    {
+      "value": "KINGSTON",
+      "count": 3
+    },
+    {
+      "value": "MARVO",
+      "count": 3
+    },
+    {
+      "value": "Tp link",
+      "count": 3
+    },
+    {
+      "value": "V Case",
+      "count": 3
+    },
+    {
+      "value": "ADATA",
+      "count": 2
+    },
+    {
+      "value": "APNX",
+      "count": 2
+    },
+    {
+      "value": "Arctic",
+      "count": 2
+    },
+    {
+      "value": "attack shark",
+      "count": 2
+    },
+    {
+      "value": "Gamesir",
+      "count": 2
+    },
+    {
+      "value": "PNY",
+      "count": 2
+    },
+    {
+      "value": "Protect",
+      "count": 2
+    },
+    {
+      "value": "Sandisk",
+      "count": 2
+    },
+    {
+      "value": "Spark",
+      "count": 2
+    },
+    {
+      "value": "Smile",
+      "count": 2
+    },
+    {
+      "value": "Team",
+      "count": 2
+    },
+    {
+      "value": "Thermaltake",
+      "count": 2
+    },
+    {
+      "value": "Transcend",
+      "count": 2
+    },
+    {
+      "value": "ViewSonic",
+      "count": 2
+    },
+    {
+      "value": "XPRINTER",
+      "count": 2
+    },
+    {
+      "value": "Zero",
+      "count": 2
+    },
+    {
+      "value": "SUNMI",
+      "count": 1
+    },
+    {
+      "value": "Chiropter",
+      "count": 1
+    },
+    {
+      "value": "ZKTECO",
+      "count": 1
+    },
+    {
+      "value": "darkFlash",
+      "count": 1
+    },
+    {
+      "value": "Epson",
+      "count": 1
+    },
+    {
+      "value": "HikVision",
+      "count": 1
+    },
+    {
+      "value": "Imou",
+      "count": 1
+    },
+    {
+      "value": "Jedel",
+      "count": 1
+    },
+    {
+      "value": "Kotion",
+      "count": 1
+    },
+    {
+      "value": "MJK",
+      "count": 1
+    },
+    {
+      "value": "NYKO",
+      "count": 1
+    },
+    {
+      "value": "Raidmax",
+      "count": 1
+    },
+    {
+      "value": "Standard",
+      "count": 1
+    },
+    {
+      "value": "Seething",
+      "count": 1
+    },
+    {
+      "value": "Xtrike Me",
+      "count": 1
+    },
+    {
+      "value": "ZOTAC",
+      "count": 1
+    },
+    {
+      "value": "2B",
+      "count": 1
+    }
+  ],
+  "cpu": [
+    {
+      "value": "AMD Ryzen 5",
+      "count": 20
+    },
+    {
+      "value": "AMD Ryzen 7",
+      "count": 9
+    },
+    {
+      "value": "Intel Core i7",
+      "count": 6
+    },
+    {
+      "value": "Intel Core i7-13620H",
+      "count": 5
+    },
+    {
+      "value": "AMD Ryzen 9000",
+      "count": 5
+    },
+    {
+      "value": "Intel Core i5-13420H",
+      "count": 4
+    },
+    {
+      "value": "Intel Core i7-13650HX",
+      "count": 4
+    },
+    {
+      "value": "Intel Core i7-14650HX",
+      "count": 3
+    },
+    {
+      "value": "Intel Core I7-14650HX",
+      "count": 3
+    },
+    {
+      "value": "Intel Core i7-14700HX",
+      "count": 3
+    },
+    {
+      "value": "Intel Core i5-12450HX",
+      "count": 3
+    },
+    {
+      "value": "INTEL Core i5",
+      "count": 3
+    },
+    {
+      "value": "AMD Ryzen 5000",
+      "count": 2
+    },
+    {
+      "value": "Intel Core i5-12400F",
+      "count": 2
+    },
+    {
+      "value": "Intel Core i5-14400F",
+      "count": 2
+    },
+    {
+      "value": "Intel Core I5-13500H",
+      "count": 2
+    },
+    {
+      "value": "Intel Core i5-12600HX",
+      "count": 2
+    },
+    {
+      "value": "Intel Core i5-13450HX",
+      "count": 2
+    }
+  ],
+  "gpu": [
+    {
+      "value": "RTX 5060 ",
+      "count": 24
+    },
+    {
+      "value": "RTX 3050 ",
+      "count": 23
+    },
+    {
+      "value": "RTX 5050 ",
+      "count": 11
+    },
+    {
+      "value": "RTX 4050 ",
+      "count": 10
+    },
+    {
+      "value": "RTX 5060 TI",
+      "count": 5
+    },
+    {
+      "value": "RTX 5070 ",
+      "count": 5
+    },
+    {
+      "value": "RTX 5080 ",
+      "count": 2
+    },
+    {
+      "value": "RX 9070 ",
+      "count": 2
+    },
+    {
+      "value": "RTX5060",
+      "count": 2
+    },
+    {
+      "value": "RTX4050",
+      "count": 2
+    },
+    {
+      "value": "RTX 5060TI 8G",
+      "count": 2
+    },
+    {
+      "value": "RTX 3060 ",
+      "count": 1
+    },
+    {
+      "value": "RTX 5070 TI",
+      "count": 1
+    },
+    {
+      "value": "RX 9060 XT",
+      "count": 1
+    },
+    {
+      "value": "RTX5050",
+      "count": 1
+    },
+    {
+      "value": "RTX3050",
+      "count": 1
+    },
+    {
+      "value": "RTX 4070 ",
+      "count": 1
+    },
+    {
+      "value": "RTX 2050 ",
+      "count": 1
+    }
+  ],
+  "ram": [
+    {
+      "value": "16GB",
+      "count": 65
+    },
+    {
+      "value": "8GB",
+      "count": 29
+    },
+    {
+      "value": "32GB",
+      "count": 13
+    },
+    {
+      "value": "6GB",
+      "count": 7
+    },
+    {
+      "value": "12GB",
+      "count": 7
+    },
+    {
+      "value": "512GB",
+      "count": 7
+    },
+    {
+      "value": "256GB",
+      "count": 7
+    },
+    {
+      "value": "5Gb",
+      "count": 6
+    },
+    {
+      "value": "128GB",
+      "count": 5
+    },
+    {
+      "value": "16GB DDR5",
+      "count": 4
+    },
+    {
+      "value": "4GB",
+      "count": 4
+    },
+    {
+      "value": "500GB",
+      "count": 4
+    },
+    {
+      "value": "24GB",
+      "count": 4
+    },
+    {
+      "value": "240GB",
+      "count": 3
+    },
+    {
+      "value": "10Gb",
+      "count": 3
+    },
+    {
+      "value": "6Gb",
+      "count": 2
+    },
+    {
+      "value": "1Gb",
+      "count": 1
+    },
+    {
+      "value": "64GB DDR4",
+      "count": 1
+    }
+  ],
+  "storage": [
+    {
+      "value": "16GB SSD",
+      "count": 69
+    },
+    {
+      "value": "8GB SSD",
+      "count": 31
+    },
+    {
+      "value": "32GB SSD",
+      "count": 13
+    },
+    {
+      "value": "1TB SSD",
+      "count": 10
+    },
+    {
+      "value": "6GB SSD",
+      "count": 7
+    },
+    {
+      "value": "12GB SSD",
+      "count": 7
+    },
+    {
+      "value": "5Gb SSD",
+      "count": 6
+    },
+    {
+      "value": "512GB SSD",
+      "count": 6
+    },
+    {
+      "value": "2TB SSD",
+      "count": 5
+    },
+    {
+      "value": "128GB SSD",
+      "count": 5
+    },
+    {
+      "value": "256GB SSD",
+      "count": 5
+    },
+    {
+      "value": "4GB SSD",
+      "count": 4
+    },
+    {
+      "value": "1TB M.2",
+      "count": 4
+    },
+    {
+      "value": "24GB SSD",
+      "count": 4
+    },
+    {
+      "value": "240GB SSD",
+      "count": 3
+    },
+    {
+      "value": "500GB M.2",
+      "count": 3
+    },
+    {
+      "value": "64GB SSD",
+      "count": 2
+    },
+    {
+      "value": "10Gb SSD",
+      "count": 2
+    }
+  ],
+  "refresh": [
+    {
+      "value": "144Hz",
+      "count": 43
+    },
+    {
+      "value": "165Hz",
+      "count": 25
+    },
+    {
+      "value": "000Hz",
+      "count": 25
+    },
+    {
+      "value": "20Hz",
+      "count": 16
+    },
+    {
+      "value": "240Hz",
+      "count": 13
+    },
+    {
+      "value": "60Hz",
+      "count": 10
+    },
+    {
+      "value": "120Hz",
+      "count": 10
+    },
+    {
+      "value": "260Hz",
+      "count": 6
+    },
+    {
+      "value": "200Hz",
+      "count": 6
+    },
+    {
+      "value": "125Hz",
+      "count": 6
+    },
+    {
+      "value": "180Hz",
+      "count": 6
+    },
+    {
+      "value": "50Hz",
+      "count": 4
+    },
+    {
+      "value": "30Hz",
+      "count": 4
+    },
+    {
+      "value": "10Hz",
+      "count": 4
+    },
+    {
+      "value": "210Hz",
+      "count": 3
+    },
+    {
+      "value": "15Hz",
+      "count": 2
+    },
+    {
+      "value": "270Hz",
+      "count": 1
+    },
+    {
+      "value": "146Hz",
+      "count": 1
+    }
+  ],
+  "priceBuckets": [
+    {
+      "id": "0-2000",
+      "min": 0,
+      "max": 2000,
+      "label": "Under 2,000"
+    },
+    {
+      "id": "2000-10000",
+      "min": 2000,
+      "max": 10000,
+      "label": "2,000 – 10,000"
+    },
+    {
+      "id": "10000-30000",
+      "min": 10000,
+      "max": 30000,
+      "label": "10,000 – 30,000"
+    },
+    {
+      "id": "30000-60000",
+      "min": 30000,
+      "max": 60000,
+      "label": "30,000 – 60,000"
+    },
+    {
+      "id": "60000+",
+      "min": 60000,
+      "max": null,
+      "label": "60,000+"
+    }
+  ]
+}

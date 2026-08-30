@@ -1,0 +1,73 @@
+{
+  "id": 572,
+  "slug": "rapoo-h150s",
+  "name": "Rapoo H150S Black USB",
+  "model": "H150S",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 650,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/150%20s%202-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/150%20s%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/150%20s%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/150%20s%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/150s%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/150s%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/150s%201-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "H150S",
+    "Black",
+    "USB"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/150s 8.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/150s 5.jpeg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/150s 6.jpg\"></p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 696,
+  "slug": "golden-wolf-gb00712",
+  "name": "Golden Wolf GB00712 Laptop Backpack",
+  "model": "GB00712",
+  "brand": "Golden Wolf",
+  "brandSlug": "golden-wolf",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061438-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061438-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061438-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061438-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061454-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061454-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061454-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061508-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061508-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319061508-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Golden",
+    "Wolf",
+    "GB00712",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "ضمان عام من الوكيلمواصفات Golden Wolf GB00712 Laptop Backpackالماركة Golden Wolfالموديل GB00712اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر عالي الجودة مقاوم للماءالابعاد حوالي 45 × 30 × 15 سمالسعة حوالي 20 لترا",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل</p><p><br></p><p>مواصفات</p><p>Golden Wolf GB00712 Laptop Backpack</p><p><br></p><p>الماركة Golden Wolf</p><p>الموديل GB00712</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر عالي الجودة مقاوم للماء</p><p>الابعاد حوالي 45 × 30 × 15 سم</p><p>السعة حوالي 20 لتر</p><p>الوزن حوالي 09 كجم</p><p><br></p><p>المميزات</p><p>تصميم عملي وعصري مناسب للعمل والدراسة والسفر</p><p>جيب مخصص للابتوب مع بطانة حماية سميكة</p><p>مساحة داخلية كبيرة مع تقسيم منظم</p><p>جيوب متعددة للاكسسوارات والاغراض الشخصية</p><p>ظهر مبطن مريح مع نظام تهوية لتقليل العرق</p><p>حمالات كتف مبطنة وقابلة للتعديل</p><p>سوست قوية تتحمل الاستخدام اليومي</p><p>منفذ USB خارجي لشحن الموبايل</p><p>مقاومة جيدة للماء لحماية المحتويات</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    }
+  ]
+}

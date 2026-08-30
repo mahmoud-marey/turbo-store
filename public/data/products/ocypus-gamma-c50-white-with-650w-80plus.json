@@ -1,0 +1,80 @@
+{
+  "id": 850,
+  "slug": "ocypus-gamma-c50-white-with-650w-80plus",
+  "name": "Ocypus Gamma C50 White 4 Fan with 650w 80plus white power supply",
+  "model": "Gamma C50",
+  "brand": "Ocypus",
+  "brandSlug": "ocypus",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 3500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155052-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155052-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155052-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155052-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155105-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155105-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509155105-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Ocypus",
+    "Gamma",
+    "C50",
+    "White",
+    "with",
+    "650w",
+    "80plus",
+    "white",
+    "power",
+    "supply"
+  ],
+  "shortDescription": "Ocypus Gamma C50 White (650W Bundle) SpecificationsCase SpecificationsModel: Ocypus Gamma C50 WhiteForm Factor: Mid-TowerColor: WhiteDimensions: Approximately 385mm x 210mm x 450mmMotherboard Support: ATX, Micro-ATX, Min",
+  "descriptionHtml": "<div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_de1022a6f1b31d13\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h2><img src=\"https://turbo-computer.com/image/catalog/case/IMG-20260201-WA0012_260509155135.png\"><br></h2><h2><br></h2><h2>Ocypus Gamma C50 White (650W Bundle) Specifications</h2><h3><b>Case Specifications</b></h3><ul><li><p><b>Model:</b> Ocypus Gamma C50 White</p></li><li><p><b>Form Factor:</b> Mid-Tower</p></li><li><p><b>Color:</b> White</p></li><li><p><b>Dimensions:</b> Approximately 385mm x 210mm x 450mm</p></li><li><p><b>Motherboard Support:</b> ATX, Micro-ATX, Mini-ITX</p></li><li><p><b>I/O Panel:</b></p><ul><li><p>1 x USB 3.0</p></li><li><p>2 x USB 2.0</p></li><li><p>HD Audio (Mic/Headphone)</p></li><li><p>Power/Reset Buttons</p></li></ul></li><li><p><b>Cooling Support:</b></p><ul><li><p><b>Front:</b> 3 x 120mm or 2 x 140mm fans (Supports up to 360mm radiator)</p></li><li><p><b>Top:</b> 2 x 120mm or 2 x 140mm fans (Supports up to 240mm/280mm radiator)</p></li><li><p><b>Rear:</b> 1 x 120mm fan (Supports 120mm radiator)</p></li></ul></li><li><p><b>Clearance:</b></p><ul><li><p><b>Max GPU Length:</b> Up to 330mm</p></li><li><p><b>Max CPU Cooler Height:</b> Up to 160mm</p></li></ul></li><li><p><b>Drive Bays:</b></p><ul><li",
+  "specs": [],
+  "rating": 4.4,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-16",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-21",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-13",
+      "demo": true
+    }
+  ]
+}

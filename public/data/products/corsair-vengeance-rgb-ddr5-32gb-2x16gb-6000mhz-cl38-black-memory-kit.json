@@ -1,0 +1,131 @@
+{
+  "id": 1175,
+  "slug": "corsair-vengeance-rgb-ddr5-32gb-2x16gb-6000mhz-cl38-black-memory-kit",
+  "name": "Corsair Vengeance RGB DDR5 32GB 2x16GB 6000MHz CL38 Black",
+  "model": "Vengeance RGB",
+  "brand": "CORSAIR",
+  "brandSlug": "corsair",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 23999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-rgb-ddr5-black-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-rgb-ddr5-black-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-rgb-ddr5-black-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-rgb-ddr5-black-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-2x16gb-kit-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-2x16gb-kit-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/corsair-vengeance-ddr5-2x16gb-kit-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Corsair",
+    "Vengeance RGB",
+    "DDR5",
+    "32GB",
+    "2x16GB",
+    "6000MHz",
+    "CL38",
+    "Desktop RAM",
+    "Memory Kit",
+    "Intel XMP 3.0",
+    "AMD EXPO",
+    "RGB RAM",
+    "Black RAM",
+    "Gaming RAM",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Corsair Vengeance RGB DDR5 32GB (2 x 16GB) 6000MHz CL38 Black Desktop Memory Kit (Dynamic Ten-Zone RGB Light Bar / Dual Profile AMD EXPO &amp; Intel XMP 3.0 Compatible / Dual Channel Kit / 1-Year Local Warranty)Maximize ",
+  "descriptionHtml": "<p><span>Corsair Vengeance RGB DDR5 32GB (2 x 16GB) 6000MHz CL38 Black Desktop Memory Kit (Dynamic Ten-Zone RGB Light Bar / Dual Profile AMD EXPO &amp; Intel XMP 3.0 Compatible / Dual Channel Kit / 1-Year Local Warranty)</span></p><p>Maximize your gaming performance and aesthetic appeal with the Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz Dual Memory Kit in sleek black finish, available at Turbo Computer Egypt backed by a full 1-Year official local agent warranty layout. Engineered for dual-channel architecture, this memory kit delivers optimal memory bandwidth and ultra-fast high frequencies up to 6000MHz with tight CL38 latency timings. Featuring a dynamic panoramic ten-zone RGB light bar enclosed in a solid aluminum heatspreader, it provides fully customizable RGB lighting synchronized across your system using Corsair iCUE software. With native dual profile hardware integration for both AMD EXPO and Intel XMP 3.0, it allows simple one-click BIOS overclocking optimization across modern motherboard platforms.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; RAM Series</td><td>Corsair Vengeance RGB DDR5 High Performance Series</td></tr><tr><td>Memory Capacity &amp; Kit Configuration</td><td>32GB Total Capacity (Dual-Channel Kit 2 x 16GB)</td></tr><tr><td>Memory Technology Type</td><td>DDR5 Desktop UDIMM Memory</td></tr><tr><td>Tested Speed Frequency</td><td>6000MHz High Bandwidth Speed</td></tr><tr><td>Tested Latency Timings</td><td>CL38 Tested Latency</td></tr><tr><td>Lighting Integration</td><td>Dynamic Ten-Zone RGB Illumination (Corsair iCUE Support)</td></tr><tr><td>Overclocking Profiles Support</td><td>Supports Dual Profiles: AMD EXPO &amp; Intel XMP 3.0</td></tr><tr><td>Heatspreader Finish &amp; Color</td><td>Solid Aluminum Heatspreader in Matte Black Color</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & RAM Series",
+      "value": "Corsair Vengeance RGB DDR5 High Performance Series"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Capacity & Kit Configuration",
+      "value": "32GB Total Capacity (Dual-Channel Kit 2 x 16GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Technology Type",
+      "value": "DDR5 Desktop UDIMM Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Tested Speed Frequency",
+      "value": "6000MHz High Bandwidth Speed"
+    },
+    {
+      "group": "specs",
+      "label": "Tested Latency Timings",
+      "value": "CL38 Tested Latency"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting Integration",
+      "value": "Dynamic Ten-Zone RGB Illumination (Corsair iCUE Support)"
+    },
+    {
+      "group": "specs",
+      "label": "Overclocking Profiles Support",
+      "value": "Supports Dual Profiles: AMD EXPO & Intel XMP 3.0"
+    },
+    {
+      "group": "specs",
+      "label": "Heatspreader Finish & Color",
+      "value": "Solid Aluminum Heatspreader in Matte Black Color"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    }
+  ]
+}

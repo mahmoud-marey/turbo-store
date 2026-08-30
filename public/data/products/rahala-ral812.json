@@ -1,0 +1,84 @@
+{
+  "id": 694,
+  "slug": "rahala-ral812",
+  "name": "Rahala RAL812 Laptop Backpack",
+  "model": "RAL812",
+  "brand": "Rahala",
+  "brandSlug": "rahala",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055125-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055125-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055125-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055125-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055223-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055223-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055223-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055138-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055138-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055138-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055112-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055112-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319055112-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Rahala",
+    "RAL812",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "ضمان عام من الوكيلمواصفات Rahala RAL812 Laptop Backpackالموديل RAL 812&nbsp;للابتوبات15.6 بوصةالخامة بوليستر متينالوزن خفيفالسعة مناسبة للاستخدام اليوميالمميزاتجيوب متعددة لتنظيم اللابتوب والملحقاتحزام كتف قابل للتعديل ل",
+  "descriptionHtml": "<p>ضمان عام من الوكيل</p><p><br></p><p><br></p><p>مواصفات</p><p>Rahala RAL812 Laptop Backpack</p><p>الموديل RAL 812</p><p>&nbsp;للابتوبات15.6 بوصة</p><p>الخامة بوليستر متين</p><p>الوزن خفيف</p><p>السعة مناسبة للاستخدام اليومي</p><p><br></p><p>المميزات</p><p>جيوب متعددة لتنظيم اللابتوب والملحقات</p><p>حزام كتف قابل للتعديل للحمل المريح</p><p>تصميم عملي للعمل والدراسة والسفر</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    }
+  ]
+}

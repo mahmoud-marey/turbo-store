@@ -1,0 +1,71 @@
+{
+  "id": 750,
+  "slug": "onten-otn-uca9703s",
+  "name": "Onten OTN-UCA9703S USB-C TO USB-C/USB 3.0 HUB",
+  "model": "OTN-UCA9703S",
+  "brand": "Onten",
+  "brandSlug": "onten",
+  "categorySlugs": [
+    "converters-docking-stations"
+  ],
+  "price": 400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413063432-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413063432-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413063432-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413063432-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Onten",
+    "OTN-UCA9703S",
+    "USB-C",
+    "TO",
+    "USB-C/USB",
+    "3.0",
+    "HUB"
+  ],
+  "shortDescription": "ضمان عام من الوكيلOnten OTN-UCA9703S - Specs\r\n\r\nModel: OTN-UCA9703S\r\nType: 4-in-2 USB-C / USB-A HUB\r\nInput: USB-C + USB-A (Dual input)\r\nOutput Ports: 3x USB-C + 1x USB-A 3.0\r\nUSB 3.0 Speed: 5 Gbps\r\nOTG: Supported\r\nDriver",
+  "descriptionHtml": "<h2><p>ضمان عام من الوكيل</p><p><br></p></h2><h2>Onten OTN-UCA9703S - Specs</h2><ul><li>Model: OTN-UCA9703S</li><li>Type: 4-in-2 USB-C / USB-A HUB</li><li>Input: USB-C + USB-A (Dual input)</li><li>Output Ports: 3x USB-C + 1x USB-A 3.0</li><li>USB 3.0 Speed: 5 Gbps</li><li>OTG: Supported</li><li>Driver: Plug &amp; Play (No driver needed)</li><li>Compatible with: Laptops, Desktops, and USB-C devices</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": 487,
+  "slug": "dell-vostro-3530-i5",
+  "name": "Laptop Dell (Vostro-3530) ,Intel Core I5-1335U ,RAM-8G ,SSD 512G , INTEL INTEGRATED ,15.6&quot; FHD 120Hz",
+  "model": "VOSTRO 3530",
+  "brand": "DELL",
+  "brandSlug": "dell",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 29499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/DELL/3520%204-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/DELL/3520%204-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/DELL/3520%204-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/DELL/3520%204-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/DELL/3520%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/DELL/3520%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/DELL/3520%203-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/DELL/3520%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/DELL/3520%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/DELL/3520%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/DELL/3520%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/DELL/3520%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/DELL/3520%201-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "Dell",
+    "(Vostro-3530)",
+    "Intel",
+    "Core",
+    "I3-1335U",
+    "RAM-8G",
+    "SSD",
+    "512G",
+    "INTEL",
+    "INTEGRATED",
+    "15.6&amp;quot;",
+    "FHD"
+  ],
+  "shortDescription": "laptop Dell Vostro 3530 is a Bussiness laptop that has the following features:Processor: Intel® Core™ i3-1335U (12 MB Cache, 10 Core, 2.40 GHz to 4.60 GHz)Display: 15.6-inch FHD (1920 x 1080) 120HzMemory: 8GB DDR4 RAMSto",
+  "descriptionHtml": "<p>laptop Dell Vostro 3530 is a Bussiness laptop that has the following features:</p><ul><li>Processor: Intel® Core™ i3-1335U (12 MB Cache, 10 Core, 2.40 GHz to 4.60 GHz)</li><li>Display: 15.6-inch FHD (1920 x 1080) 120Hz</li><li>Memory: 8GB DDR4 RAM</li><li>Storage: 512GB SSD</li><li>Graphics: INTEL INTEGRATED</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 30,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    }
+  ]
+}

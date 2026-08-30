@@ -1,0 +1,135 @@
+{
+  "id": 1254,
+  "slug": "gigabyte-b850-gaming-x-wifi6e-am5-motherboard",
+  "name": "GIGABYTE B850 GAMING X WIFI6E AM5 Motherboard",
+  "model": "B850 GAMING X WIFI6E",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 11399,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-wifi6e-board-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-wifi6e-board-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-wifi6e-board-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-wifi6e-board-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-vrm-heatsink-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-vrm-heatsink-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-x-vrm-heatsink-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "B850",
+    "GAMING X",
+    "WIFI6E",
+    "AM5 Motherboard",
+    "DDR5 Memory",
+    "PCIe 5.0 x16",
+    "PCIe 5.0 M2",
+    "12 2 2 VRM",
+    "2.5GbE LAN",
+    "Wi-Fi 6E",
+    "Bluetooth 5.3",
+    "AMD Ryzen 9000",
+    "Turbo Computer"
+  ],
+  "shortDescription": "GIGABYTE B850 GAMING X WIFI6E AM5 Motherboard (Socket AM5 / AMD B850 Chipset / 12+2+2 Phase Twin Digital VRM / Dual Channel DDR5 up to 8200MT/s OC / PCIe 5.0 x16 Slot / 1x PCIe 5.0 M.2 + 2x PCIe 4.0 M.2 / Realtek 2.5GbE ",
+  "descriptionHtml": "<p><span>GIGABYTE B850 GAMING X WIFI6E AM5 Motherboard (Socket AM5 / AMD B850 Chipset / 12+2+2 Phase Twin Digital VRM / Dual Channel DDR5 up to 8200MT/s OC / PCIe 5.0 x16 Slot / 1x PCIe 5.0 M.2 + 2x PCIe 4.0 M.2 / Realtek 2.5GbE LAN / Wi-Fi 6E + Bluetooth 5.3 / EZ-Latch Plus / ATX Form Factor)</span></p><p>Empower your next-generation gaming rig with the GIGABYTE B850 GAMING X WIFI6E AM5 Motherboard, available at Turbo Computer Egypt. Built to harness the full potential of AMD Ryzen 9000, 8000, and 7000 Series processors, this ATX motherboard features a robust 12+2+2 Twin Digital VRM power design, advanced DDR5 memory overclocking capabilities up to 8200+ MT/s, ultra-fast PCIe 5.0 graphics and M.2 storage slots, Realtek 2.5GbE LAN, integrated Wi-Fi 6E wireless connectivity, and DIY-friendly EZ-Latch mechanisms for effortless PC building.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>GIGABYTE B850 GAMING X WIFI6E (rev. 1.x)</td></tr><tr><td>CPU Socket &amp; Chipset</td><td>AMD Socket AM5 / AMD B850 Chipset (Supports Ryzen 9000 / 8000 / 7000 Series)</td></tr><tr><td>Power Delivery (VRM)</td><td>12+2+2 Twin Digital VRM Design (6+6 Parallel Phases 60A DrMOS) with VRM Thermal Armor Advanced</td></tr><tr><td>Memory Support</td><td>4 x DDR5 DIMM Slots (Up to 256GB Dual Channel / EXPO &amp; XMP Support / OC up to 8200+ MT/s)</td></tr><tr><td>PCIe Expansion Slots</td><td>1 x PCIe 5.0 x16 UD Slot (PCIe 4.0 mode on Phoenix CPUs) + 2 x PCIe 3.0 x1 Slots</td></tr><tr><td>Storage Interfaces</td><td>1 x M.2 PCIe 5.0 x4 Slot + 2 x M.2 PCIe 4.0 x4 Slots + 4 x SATA 6Gb/s Ports (RAID 0/1/5/10)</td></tr><tr><td>Networking &amp; Wireless</td><td>Realtek 2.5GbE Ethernet LAN + Realtek Wi-Fi 6E RTL8852CE (2.4/5/6 GHz) + Bluetooth 5.3</td></tr><tr><td>Audio Hardware</td><td>Realtek Audio CODEC High Definition Audio (7.1-Channel Support)</td></tr><tr><td>Display Outputs</td><td>1 x HDMI 2.1 (4096x2160@60Hz) + 1 x DisplayPort (3840x2160@144Hz)</td></tr><tr><td>DIY &amp; Thermal Features</td><td>EZ-Latch Plus, EZ-Latch Click, M.2 Thermal Guard Ext, WIFI EZ-Plug, Q-Flash Plus &amp; Smart Fan 6</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "GIGABYTE B850 GAMING X WIFI6E (rev. 1.x)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket & Chipset",
+      "value": "AMD Socket AM5 / AMD B850 Chipset (Supports Ryzen 9000 / 8000 / 7000 Series)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Delivery (VRM)",
+      "value": "12+2+2 Twin Digital VRM Design (6+6 Parallel Phases 60A DrMOS) with VRM Thermal Armor Advanced"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support",
+      "value": "4 x DDR5 DIMM Slots (Up to 256GB Dual Channel / EXPO & XMP Support / OC up to 8200+ MT/s)"
+    },
+    {
+      "group": "specs",
+      "label": "PCIe Expansion Slots",
+      "value": "1 x PCIe 5.0 x16 UD Slot (PCIe 4.0 mode on Phoenix CPUs) + 2 x PCIe 3.0 x1 Slots"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interfaces",
+      "value": "1 x M.2 PCIe 5.0 x4 Slot + 2 x M.2 PCIe 4.0 x4 Slots + 4 x SATA 6Gb/s Ports (RAID 0/1/5/10)"
+    },
+    {
+      "group": "specs",
+      "label": "Networking & Wireless",
+      "value": "Realtek 2.5GbE Ethernet LAN + Realtek Wi-Fi 6E RTL8852CE (2.4/5/6 GHz) + Bluetooth 5.3"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Hardware",
+      "value": "Realtek Audio CODEC High Definition Audio (7.1-Channel Support)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "1 x HDMI 2.1 (4096x2160@60Hz) + 1 x DisplayPort (3840x2160@144Hz)"
+    },
+    {
+      "group": "specs",
+      "label": "DIY & Thermal Features",
+      "value": "EZ-Latch Plus, EZ-Latch Click, M.2 Thermal Guard Ext, WIFI EZ-Plug, Q-Flash Plus & Smart Fan 6"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-14",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": 798,
+  "slug": "amd-ryzen-7-7800x3d",
+  "name": "AMD Ryzen 7 7800X3D Desktop Processor Boxed",
+  "model": "7800X3D Box",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 18999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-box-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-box-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-box-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-box-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-retail-box-sealed-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-retail-box-sealed-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-retail-box-sealed-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-am5-bottom-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-am5-bottom-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-7-7800x3d-processor-am5-bottom-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 7",
+    "7800X3D",
+    "Retail Boxed",
+    "Box Edition",
+    "3D V-Cache",
+    "Desktop Processor",
+    "AM5 Socket",
+    "Zen 4",
+    "8 Cores",
+    "16 Threads",
+    "Gaming CPU",
+    "PCIe 5.0",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "AMD Ryzen 7 7800X3D Retail Boxed Gaming Desktop Processor (Official Sealed Box Edition / Zen 4 Architecture / 8 Cores &amp; 16 Threads / Up to 5.0 GHz Max Boost / Massive 96MB L3 3D V-Cache / AM5 Socket / PCIe 5.0 Suppor",
+  "descriptionHtml": "<p>AMD Ryzen 7 7800X3D Retail Boxed Gaming Desktop Processor (Official Sealed Box Edition / Zen 4 Architecture / 8 Cores &amp; 16 Threads / Up to 5.0 GHz Max Boost / Massive 96MB L3 3D V-Cache / AM5 Socket / PCIe 5.0 Support / 120W TDP / 1-Year Warranty)</p><p>Experience ultimate gaming performance with the official Retail Boxed AMD Ryzen 7 7800X3D Desktop Processor, available at Turbo Computer Egypt with a 1-Year Warranty (ضمان سنة). Supplied in its factory-sealed retail box packaging, this 8-core, 16-thread powerhouse is built on Zen 4 architecture with revolutionary AMD 3D V-Cache technology. Designed for the advanced AM5 socket platform with PCIe 5.0 support, Precision Boost 2, and AMD EXPO memory profiles, it delivers unmatched speed and efficiency for high-end gaming rigs.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Line</td><td>AMD Ryzen Processors (Ryzen 7000 Series)</td></tr><tr><td>Model Name</td><td>AMD Ryzen 7 7800X3D</td></tr><tr><td>Packaging Type</td><td>Official Retail Boxed Processor (Factory Sealed Box)</td></tr><tr><td>Processor Architecture</td><td>Zen 4 (Raphael AM5)</td></tr><tr><td>Warranty Period</td><td>1-Year Warranty (ضمان سنة)</td></tr><tr><td>CPU Cores / Threads</td><td>8 Cores / 16 Threads</td></tr><tr><td>Clock Frequencies</td><td>4.2 GHz Base Clock / Up to 5.0 GHz Max Boost Clock</td></tr><tr><td>Cache Sizes</td><td>512 KB L1 / 8 MB L2 / 96 MB L3 (3D V-Cache)</td></tr><tr><td>CPU Socket &amp; Chipsets</td><td>AM5 Socket (Supports A620, X670E, X670, B650E, B650, X870E, X870, B840, B850)</td></tr><tr><td>PCI Express Version</td><td>PCIe 5.0 (Native Lanes: 28 Total / 24 Usable)</td></tr><tr><td>Default TDP &amp; Max Temp</td><td>120W TDP / Max Tjmax 89°C (Liquid Cooler Recommended)</td></tr><tr><td>Overclocking Technologies</td><td>AMD EXPO Memory Overclocking, Precision Boost Overdrive, Curve Optimizer</td></tr><tr><td>Process Technology</td><td>TSMC 5nm FinFET (CPU Cores) / TSMC 6nm FinFET (I/O Die)</td></tr><tr><td>OS Support</td><td>Windows 11 64-Bit, Windows 10 64-Bit, RHEL x86 64-Bit, Ubuntu x86 64-Bit</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Line",
+      "value": "AMD Ryzen Processors (Ryzen 7000 Series)"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "AMD Ryzen 7 7800X3D"
+    },
+    {
+      "group": "specs",
+      "label": "Packaging Type",
+      "value": "Official Retail Boxed Processor (Factory Sealed Box)"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Architecture",
+      "value": "Zen 4 (Raphael AM5)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Warranty (ضمان سنة)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Cores / Threads",
+      "value": "8 Cores / 16 Threads"
+    },
+    {
+      "group": "specs",
+      "label": "Clock Frequencies",
+      "value": "4.2 GHz Base Clock / Up to 5.0 GHz Max Boost Clock"
+    },
+    {
+      "group": "specs",
+      "label": "Cache Sizes",
+      "value": "512 KB L1 / 8 MB L2 / 96 MB L3 (3D V-Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket & Chipsets",
+      "value": "AM5 Socket (Supports A620, X670E, X670, B650E, B650, X870E, X870, B840, B850)"
+    },
+    {
+      "group": "specs",
+      "label": "PCI Express Version",
+      "value": "PCIe 5.0 (Native Lanes: 28 Total / 24 Usable)"
+    },
+    {
+      "group": "specs",
+      "label": "Default TDP & Max Temp",
+      "value": "120W TDP / Max Tjmax 89°C (Liquid Cooler Recommended)"
+    },
+    {
+      "group": "specs",
+      "label": "Overclocking Technologies",
+      "value": "AMD EXPO Memory Overclocking, Precision Boost Overdrive, Curve Optimizer"
+    },
+    {
+      "group": "specs",
+      "label": "Process Technology",
+      "value": "TSMC 5nm FinFET (CPU Cores) / TSMC 6nm FinFET (I/O Die)"
+    },
+    {
+      "group": "specs",
+      "label": "OS Support",
+      "value": "Windows 11 64-Bit, Windows 10 64-Bit, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-10",
+      "demo": true
+    }
+  ]
+}

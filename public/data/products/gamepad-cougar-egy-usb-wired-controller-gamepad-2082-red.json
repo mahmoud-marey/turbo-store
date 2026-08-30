@@ -1,0 +1,71 @@
+{
+  "id": 737,
+  "slug": "gamepad-cougar-egy-usb-wired-controller-gamepad-2082-red",
+  "name": "Two in 1 Cougar-Egy USB wired controller 2082 red",
+  "model": "2082",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "gamepads-controllers"
+  ],
+  "price": 350,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412182745-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412182745-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412182745-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412182745-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Cougar-Egy",
+    "USB",
+    "wired",
+    "controller",
+    "Gamepad",
+    "2082",
+    "red"
+  ],
+  "shortDescription": "**Gamepad Cougar-Egy USB Wired Controller Gamepad 2082 Red****العلامة التجارية:** Cougar-Egy**الموديل:** 2082**النوع:** يد تحكم سلكية (Wired Gamepad)**اللون:** أحمر (Red)**الاتصال:**النوع: سلكي (Wired)الواجهة: USB 2.0طول",
+  "descriptionHtml": "<p>**Gamepad Cougar-Egy USB Wired Controller Gamepad 2082 Red**</p><p><br></p><p>**العلامة التجارية:** Cougar-Egy</p><p>**الموديل:** 2082</p><p>**النوع:** يد تحكم سلكية (Wired Gamepad)</p><p>**اللون:** أحمر (Red)</p><p><br></p><p>**الاتصال:**</p><p>النوع: سلكي (Wired)</p><p>الواجهة: USB 2.0</p><p>طول الكابل: 1.5 متر</p><p><br></p><p>**التصميم:**</p><p>نوع التحكم: تصميم متماثل (مشابه لـ PlayStation)</p><p>نقاط الاهتزاز: محركان اهتزاز (Dual Vibration Motors)</p><p>تقنية الضغط التناظري: دعم الضغط التناظري على الأزرار (Analog Pressure Sensitivity)</p><p><br></p><p>**الأزرار والمفاتيح:**</p><p>أزرار الإجراءات: 4 أزرار (Triangle، Circle، X، Square)</p><p>أزرار الكتف: 4 أزرار (L1، L2، R1، R2)</p><p>أذرع التحكم: 2 ذراع تناظري (Analog Sticks)</p><p>لوحة الاتجاهات: D-Pad بـ 8 اتجاهات</p><p>أزرار التحكم: زر Start، زر Select، زر Home (الموطن)</p><p><br></p><p>**التوافق:**</p><p>أنظمة التشغيل: Windows 7/8/10/11، MacOS، Linux</p><p>أجهزة الألعاب: PlayStation 3 (PS3)</p><p>أجهزة أخرى: Android TV، Raspberry Pi</p><p><br></p><p>**الميزات:**</p><p>دعم البرامج: Xinput (لألعاب Windows الحديثة) / Dinput (للألعاب القديمة)</p><p>التبديل بين الوضعين: Xinput/Dinput عبر زر مخصص</p><p>محرك الاهتزاز: نعم (ردود فعل لمسية)</p><p>زر Turbo: دعم إطلاق النار المتكرر (Turbo Function)</p><p>زر Clear: إلغاء وضع Turbo</p><p><br></p><p>**الطاقة:**</p><p>مصدر الطاقة: عبر USB (لا يحتاج بطاريات)</p><p><br></p><p>**الأبعاد والوزن:**</p><p>الأبعاد (طول × عرض × ارتفاع): 150 × 100 × 55 مم</p><p>الوزن: 200 جرام (تقريبًا)</p><p><br></p><p>**محتويات العلبة:**</p><p>يد تحكم Cougar-Egy 2082</p><p>دليل المستخدم السريع</p><p><br></p><p>**ميزات إضافية:**</p><p>تصميم إرجونومي مريح لفترات اللعب الطويلة</p><p>مقابض جانبية محكمة لمنع الانزلاق</p><p>إضاءة LED حمراء (في بعض الإصدارات)</p><p>متوافق مع ألعاب الكمبيوتر و PS3 و Android TV</p><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    }
+  ]
+}

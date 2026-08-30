@@ -1,0 +1,76 @@
+{
+  "id": 722,
+  "slug": "asus-va279hg",
+  "name": "ASUS VA279HG 27 inch FHD IPS 120Hz",
+  "model": "VA279HG",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 5699,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/asus/IMG-20260201-WA0011_260406203309-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/asus/IMG-20260201-WA0011_260406203309-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/asus/IMG-20260201-WA0011_260406203309-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/asus/IMG-20260201-WA0011_260406203309-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/asus/IMG-20260201-WA0011_260325191827-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/asus/IMG-20260201-WA0011_260325191827-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/asus/IMG-20260201-WA0011_260325191827-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "VA279HG",
+    "27",
+    "Inch",
+    "FHD",
+    "IPS",
+    "120Hz"
+  ],
+  "shortDescription": "مواصفات ASUS VA279HG 27 Inch FHD IPS 120Hzالماركة ASUSالموديل VA279HGحجم الشاشة 27 بوصةنوع اللوحة IPSالدقة 1920 × 1080 (FHD)معدل التحديث 120Hz99% sRGBزمن الاستجابة 1ms MPRTنسبة العرض 16:9السطوع حوالي 250 شمعةنسبة التباين",
+  "descriptionHtml": "<p>مواصفات</p><p>ASUS VA279HG 27 Inch FHD IPS 120Hz</p><p><br></p><p>الماركة ASUS</p><p>الموديل VA279HG</p><p>حجم الشاشة 27 بوصة</p><p>نوع اللوحة IPS</p><p>الدقة 1920 × 1080 (FHD)</p><p>معدل التحديث 120Hz</p><p>99% sRGB</p><p>زمن الاستجابة 1ms MPRT</p><p>نسبة العرض 16:9</p><p>السطوع حوالي 250 شمعة</p><p>نسبة التباين 1000:1</p><p>زوايا الرؤية 178 درجة</p><p><br></p><p>المنافذ</p><p>HDMI</p><p>VGA</p><p>مدخل صوت 3.5 مم</p><p><br></p><p>المميزات</p><p>ألوان دقيقة بفضل لوحة IPS</p><p>معدل تحديث 120Hz لتجربة سلسة في الألعاب</p><p>تقنية Adaptive Sync لتقليل التقطيع</p><p>تقنية Flicker-Free لتقليل إجهاد العين</p><p>فلتر الضوء الأزرق لحماية العين</p><p>تصميم نحيف مناسب للمكاتب والاستخدام اليومي</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    }
+  ]
+}

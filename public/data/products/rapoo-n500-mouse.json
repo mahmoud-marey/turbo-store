@@ -1,0 +1,142 @@
+{
+  "id": 575,
+  "slug": "rapoo-n500-mouse",
+  "name": "Rapoo N500 Wired Optical Mouse - Black (1000 DPI, Ergonomic Full-Size Design)",
+  "model": "N500",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 350,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 21,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/rapoo-n500-mouse-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/rapoo-n500-mouse-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/rapoo-n500-mouse-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/rapoo-n500-mouse-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/N500%205-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/N500%205-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/N500%205-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "N500",
+    "Wired Mouse",
+    "Optical Mouse",
+    "1000 DPI",
+    "Office Mouse",
+    "Ergonomic Mouse",
+    "Full-Size Mouse",
+    "PC Accessory",
+    "Hardware Component",
+    "ماوس سلكي",
+    "ماوس رابو مكتبي"
+  ],
+  "shortDescription": "Rapoo N500 Wired Optical MouseEnjoy reliable everyday computing efficiency and ergonomic hand posture with the Rapoo N500 Wired Optical Mouse. Available at Turbo Computer, this full-size hardware peripheral is masterfull",
+  "descriptionHtml": "<p><span>Rapoo N500 Wired Optical Mouse</span></p><p>Enjoy reliable everyday computing efficiency and ergonomic hand posture with the Rapoo N500 Wired Optical Mouse. Available at Turbo Computer, this full-size hardware peripheral is masterfully engineered for corporate offices, call centers, students, and home setups across Egypt who demand high durability, battery-free freedom, and stable daily hardware performance. It stands as the definitive choice for an affordable, straightforward desktop layout configuration upgrade.</p><p>The Rapoo N500 features a highly accurate 1000 DPI high-definition optical tracking sensor, ensuring fluid, responsive, and uniform cursor management across standard office software layout environments. Designed with an easy plug-and-play USB interface, it works instantly out of the box without requiring specialized software installation tracking systems. Outfitted with an anti-slip textured scroll wheel and a full-size contoured structure, it naturally reduces wrist fatigue during extended usage timelines.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Rapoo</td></tr><tr><td><strong>Model Number</strong></td><td>N500 (Wired Office Series)</td></tr><tr><td><strong>Color Edition</strong></td><td>Matte Black (اللون الأسود المطفي)</td></tr><tr><td><strong>Connectivity Layout</strong></td><td>Wired USB 2.0 / 3.0 interface translation channel</td></tr><tr><td><strong>Sensor Technology</strong></td><td>High-Definition Optical Sensor Chipset</td></tr><tr><td><strong>Tracking Resolution</strong></td><td>1000 DPI (Optimized for fluid document management and daily web browsing tasks)</td></tr><tr><td><strong>Total Button Layout</strong></td><td>3 Layout Buttons (Left click, Right click, and clickable scroll wheel)</td></tr><tr><td><strong>Scroll Wheel Architecture</strong></td><td>Anti-slip textured scrolling layout tracking system</td></tr><tr><td><strong>Ergonomic Build Size</strong></td><td>Full-size contoured symmetrical layout tailored for comfortable palm and claw grip structure configurations</td></tr><tr><td><strong>Installation Method</strong></td><td>100% Plug and Play (No dedicated driver software installation layout required)</td></tr><tr><td><strong>OS Compatibility Matrix</strong></td><td>Windows 11 / 10 / 8 / 7, macOS configurations, ChromeOS, and Linux setups</td></tr><tr><td><strong>Best Applications</strong></td><td>Corporate Workplace Layouts, Daily Office Data Entry, School/University Labs, and Steady Budget Desktop Configurations</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Rapoo"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number",
+      "value": "N500 (Wired Office Series)"
+    },
+    {
+      "group": "specs",
+      "label": "Color Edition",
+      "value": "Matte Black (اللون الأسود المطفي)"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Layout",
+      "value": "Wired USB 2.0 / 3.0 interface translation channel"
+    },
+    {
+      "group": "specs",
+      "label": "Sensor Technology",
+      "value": "High-Definition Optical Sensor Chipset"
+    },
+    {
+      "group": "specs",
+      "label": "Tracking Resolution",
+      "value": "1000 DPI (Optimized for fluid document management and daily web browsing tasks)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Button Layout",
+      "value": "3 Layout Buttons (Left click, Right click, and clickable scroll wheel)"
+    },
+    {
+      "group": "specs",
+      "label": "Scroll Wheel Architecture",
+      "value": "Anti-slip textured scrolling layout tracking system"
+    },
+    {
+      "group": "specs",
+      "label": "Ergonomic Build Size",
+      "value": "Full-size contoured symmetrical layout tailored for comfortable palm and claw grip structure configurations"
+    },
+    {
+      "group": "specs",
+      "label": "Installation Method",
+      "value": "100% Plug and Play (No dedicated driver software installation layout required)"
+    },
+    {
+      "group": "specs",
+      "label": "OS Compatibility Matrix",
+      "value": "Windows 11 / 10 / 8 / 7, macOS configurations, ChromeOS, and Linux setups"
+    },
+    {
+      "group": "specs",
+      "label": "Best Applications",
+      "value": "Corporate Workplace Layouts, Daily Office Data Entry, School/University Labs, and Steady Budget Desktop Configurations"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-19",
+      "demo": true
+    }
+  ]
+}
