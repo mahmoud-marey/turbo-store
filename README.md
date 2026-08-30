@@ -2,6 +2,8 @@
 
 Angular 20 zoneless prototype for [TURBO Computer](https://turbo-computer.com/). Dark-first navy/yellow storefront, bilingual EN/AR, catalog data served from JSON so a backend swap is a provider change.
 
+**Live demo:** https://mahmoud-marey.github.io/turbo-store/
+
 Ratings and a few reviews are **demo-seeded** (`demo: true` on each review). The live OpenCart site currently has 0 reviews; these exist so “Best Rated” and rating sort look alive in the prototype.
 
 Product photos are hotlinked from `turbo-computer.com`.
