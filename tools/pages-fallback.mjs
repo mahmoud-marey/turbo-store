@@ -1,4 +1,3 @@
-# Copy index.html to 404.html so GitHub Pages serves the SPA on deep links.
 import { copyFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
