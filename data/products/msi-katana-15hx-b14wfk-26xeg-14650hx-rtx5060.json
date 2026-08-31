@@ -1,0 +1,100 @@
+{
+  "id": 1027,
+  "slug": "msi-katana-15hx-b14wfk-26xeg-14650hx-rtx5060",
+  "name": "Laptop MSI Katana 15 HX B14WFK-246XEG Intel Core I7-14650HX , 16GB RAM , 512G SSD M.2 NVMe , RTX 5060 8GB , 15.6-inch QHD IPS 165Hz",
+  "model": "B14WFK-246XEG",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/msi/kat%201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/msi/kat%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/msi/kat%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/msi/kat%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/msi/kat%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/msi/kat%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/msi/kat%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/msi/kat%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/msi/kat%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/msi/kat%203-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/msi/kat%204-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/msi/kat%204-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/msi/kat%204-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "msi",
+    "15hx",
+    "B14WFK-246XEG",
+    "Intel",
+    "Core",
+    "I7-14650HX",
+    "16GB",
+    "RAM",
+    "512G",
+    "SSD",
+    "M.2",
+    "NVMe",
+    "RTX",
+    "5060",
+    "8GB",
+    "16&amp;quot;",
+    "QHD",
+    "IPS",
+    "165Hz"
+  ],
+  "shortDescription": "laptop B14WFK-246XEG&nbsp;is a gaming laptop that has the following features:Processor: intel® CORE™ I7-14650HX ( 16 Core, 3.50 GHz to 5.20 GHz)Display: 15.6-inch QHD (2560x 1440) 165Hz IPSMemory: 16GB DDR5 RAMStorage: 5",
+  "descriptionHtml": "<p>laptop B14WFK-246XEG&nbsp;is a gaming laptop that has the following features:</p><ul><li>Processor: intel® CORE™ I7-14650HX ( 16 Core, 3.50 GHz to 5.20 GHz)</li><li>Display: 15.6-inch QHD (2560x 1440) 165Hz IPS</li><li>Memory: 16GB DDR5 RAM</li><li>Storage: 512G</li><li>Graphics: NVIDIA GeForce RTX 5060 8GB&nbsp;</li><li>Keyboard: Backlite Keyboard</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    }
+  ]
+}

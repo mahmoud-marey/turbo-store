@@ -1,0 +1,72 @@
+{
+  "id": 874,
+  "slug": "jedel-ws739",
+  "name": "Jedel WS739 Dual Mode bluetoth and Wireless Combo",
+  "model": "ws739",
+  "brand": "Jedel",
+  "brandSlug": "jedel",
+  "categorySlugs": [
+    "keyboard-mouse-combos"
+  ],
+  "price": 600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 8,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260511175305-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260511175305-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260511175305-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260511175305-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Jedel",
+    "WS739",
+    "Dual",
+    "Mode",
+    "bluetoth",
+    "and",
+    "Wireless",
+    "Combo"
+  ],
+  "shortDescription": "Jedel WS739 SpecsConnectivity: Dual Mode (Bluetooth 5.0 + 2.4GHz Wireless)Operating Range: 10 metersKeyboard Type: Membrane with silent keysMouse Sensitivity: 800 - 1200 - 1600 DPIBattery Type: AAA/AA Battery operatedRec",
+  "descriptionHtml": "<div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_10f87b7c54978f38\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><b>Jedel WS739 Specs</b></h3><ul><li><p><b>Connectivity:</b> Dual Mode (Bluetooth 5.0 + 2.4GHz Wireless)</p></li><li><p><b>Operating Range:</b> 10 meters</p></li><li><p><b>Keyboard Type:</b> Membrane with silent keys</p></li><li><p><b>Mouse Sensitivity:</b> 800 - 1200 - 1600 DPI</p></li><li><p><b>Battery Type:</b> AAA/AA Battery operated</p></li><li><p><b>Receiver:</b> USB Nano Receiver (Plug &amp; Play)</p></li><li><p><b>Compatibility:</b> Windows, Mac, Android, and Tablets</p></li><li><p><b>Design:</b> Ergonomic and slim profile</p></li></ul></div><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 20,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": 960,
+  "slug": "amd-ryzen-5-7500x3d-6-core-12-thread-processor-3d-v-cache",
+  "name": "AMD Ryzen 5 7500X3D 6-Core 12-Thread Gaming Processor",
+  "model": "7500X3D tray",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 12200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7600x3d-6-core-12-thread-processor-x3d-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7600x3d-6-core-12-thread-processor-x3d-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7600x3d-6-core-12-thread-processor-x3d-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7600x3d-6-core-12-thread-processor-x3d-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5",
+    "7500X3D",
+    "6 Cores",
+    "12 Threads",
+    "3D V-Cache",
+    "Socket AM5",
+    "Zen 4",
+    "Gaming Processor",
+    "CPU",
+    "DDR5",
+    "PCIe 5.0",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "AMD Ryzen 5 7500X3D Gaming Processor (6 Cores / 12 Threads / 96MB L3 3D V-Cache / Socket AM5 / Zen 4 Architecture / 4.0GHz Base &amp; 4.5GHz Max Boost / PCIe 5.0 &amp; DDR5 Support / 65W TDP / Heatsink Not Included / 1 Y",
+  "descriptionHtml": "<p><span>AMD Ryzen 5 7500X3D Gaming Processor (6 Cores / 12 Threads / 96MB L3 3D V-Cache / Socket AM5 / Zen 4 Architecture / 4.0GHz Base &amp; 4.5GHz Max Boost / PCIe 5.0 &amp; DDR5 Support / 65W TDP / Heatsink Not Included / 1 Year Warranty)</span></p><p>Supercharge your gaming performance with the AMD Ryzen 5 7500X3D processor, available at Turbo Computer Egypt with a 1-Year Warranty. Engineered on Zen 4 architecture for Socket AM5 motherboards, this 6-core, 12-thread desktop CPU packs a massive 96MB of L3 3D V-Cache to deliver low latency and high frame rates in esports and AAA titles. Operating at a 4.0 GHz base clock with boost speeds up to 4.5 GHz at a low 65W TDP, it supports DDR5 memory overclocking via AMD EXPO and PCIe 5.0 expansion. Please note: liquid cooling or a high-performance air cooler is recommended as a thermal solution is not included in the box.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>AMD Ryzen 5 7500X3D</td></tr><tr><td>Cores &amp; Threads</td><td>6 Cores / 12 Threads (SMT Supported)</td></tr><tr><td>Architecture &amp; Socket</td><td>Zen 4 (TSMC 5nm) / Socket AM5</td></tr><tr><td>Clock Frequencies</td><td>4.0 GHz Base Clock / Up to 4.5 GHz Max Boost Clock</td></tr><tr><td>Cache Memory Architecture</td><td>96MB L3 Cache (3D V-Cache) / 6MB L2 Cache / 384KB L1 Cache</td></tr><tr><td>Memory &amp; Expansion</td><td>DDR5 Memory Support / AMD EXPO Support / PCIe Gen 5.0</td></tr><tr><td>Power &amp; Thermal Limits</td><td>65W Default TDP / 89 Degree Celsius Max Operating Temp (Tjmax)</td></tr><tr><td>Bundled Thermal Solution</td><td>Not Included</td></tr><tr><td>Warranty Coverage</td><td>1 Year Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "AMD Ryzen 5 7500X3D"
+    },
+    {
+      "group": "specs",
+      "label": "Cores & Threads",
+      "value": "6 Cores / 12 Threads (SMT Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "Architecture & Socket",
+      "value": "Zen 4 (TSMC 5nm) / Socket AM5"
+    },
+    {
+      "group": "specs",
+      "label": "Clock Frequencies",
+      "value": "4.0 GHz Base Clock / Up to 4.5 GHz Max Boost Clock"
+    },
+    {
+      "group": "specs",
+      "label": "Cache Memory Architecture",
+      "value": "96MB L3 Cache (3D V-Cache) / 6MB L2 Cache / 384KB L1 Cache"
+    },
+    {
+      "group": "specs",
+      "label": "Memory & Expansion",
+      "value": "DDR5 Memory Support / AMD EXPO Support / PCIe Gen 5.0"
+    },
+    {
+      "group": "specs",
+      "label": "Power & Thermal Limits",
+      "value": "65W Default TDP / 89 Degree Celsius Max Operating Temp (Tjmax)"
+    },
+    {
+      "group": "specs",
+      "label": "Bundled Thermal Solution",
+      "value": "Not Included"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "1 Year Warranty"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-16",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-21",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-13",
+      "demo": true
+    }
+  ]
+}

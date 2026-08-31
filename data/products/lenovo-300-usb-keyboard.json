@@ -1,0 +1,139 @@
+{
+  "id": 914,
+  "slug": "lenovo-300-usb-keyboard",
+  "name": "Lenovo 300 USB Keyboard",
+  "model": "300",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "keyboards-input-devices"
+  ],
+  "price": 450,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 20,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183835-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183835-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183835-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526183835-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "lenovo",
+    "300",
+    "usb",
+    "keyboard"
+  ],
+  "shortDescription": "```html\r\n\r\n\r\n\r\n    \r\n    \r\n    lenovo 300 usb keyboard specs\r\n    \r\n        body {\r\n            font-family: sans-serif;\r\n            background-color: #f4f4f4;\r\n            padding: 20px;\r\n        }\r\n        .specs-cont",
+  "descriptionHtml": "```htmllenovo 300 usb keyboard specs<div><h2>lenovo 300 usb keyboard</h2><table><tbody><tr><td>brand</td><td>lenovo</td></tr><tr><td>model</td><td>300 usb keyboard (gx30m39655)</td></tr><tr><td>product-type</td><td>standard wired keyboard</td></tr><tr><td>connectivity</td><td>wired usb-a (plug-and-play)</td></tr><tr><td>cable-length</td><td>1.8 meters</td></tr><tr><td>keyboard-layout</td><td>2.5-zone full-size layout</td></tr><tr><td>keycap-type</td><td>quiet island-style low-profile caps</td></tr><tr><td>key-durability</td><td>up to 10 million clicks</td></tr><tr><td>spill-resistance</td><td>yes (with integrated board drain)</td></tr><tr><td>ergonomic-features</td><td>adjustable tilt legs</td></tr><tr><td>led-indicators</td><td>caps lock, num lock</td></tr><tr><td>operating-voltage</td><td>5 vdc</td></tr><tr><td>dimensions</td><td>424.0mm x 146.4mm x 20.2mm</td></tr><tr><td>weight</td><td>580g</td></tr><tr><td>color</td><td>black</td></tr></tbody></table></div>```<div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "model",
+      "value": "300 usb keyboard (gx30m39655)"
+    },
+    {
+      "group": "specs",
+      "label": "product-type",
+      "value": "standard wired keyboard"
+    },
+    {
+      "group": "specs",
+      "label": "connectivity",
+      "value": "wired usb-a (plug-and-play)"
+    },
+    {
+      "group": "specs",
+      "label": "cable-length",
+      "value": "1.8 meters"
+    },
+    {
+      "group": "specs",
+      "label": "keyboard-layout",
+      "value": "2.5-zone full-size layout"
+    },
+    {
+      "group": "specs",
+      "label": "keycap-type",
+      "value": "quiet island-style low-profile caps"
+    },
+    {
+      "group": "specs",
+      "label": "key-durability",
+      "value": "up to 10 million clicks"
+    },
+    {
+      "group": "specs",
+      "label": "spill-resistance",
+      "value": "yes (with integrated board drain)"
+    },
+    {
+      "group": "specs",
+      "label": "ergonomic-features",
+      "value": "adjustable tilt legs"
+    },
+    {
+      "group": "specs",
+      "label": "led-indicators",
+      "value": "caps lock, num lock"
+    },
+    {
+      "group": "specs",
+      "label": "operating-voltage",
+      "value": "5 vdc"
+    },
+    {
+      "group": "specs",
+      "label": "dimensions",
+      "value": "424.0mm x 146.4mm x 20.2mm"
+    },
+    {
+      "group": "specs",
+      "label": "weight",
+      "value": "580g"
+    },
+    {
+      "group": "specs",
+      "label": "color",
+      "value": "black"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-19",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-24",
+      "demo": true
+    }
+  ]
+}

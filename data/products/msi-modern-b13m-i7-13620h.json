@@ -1,0 +1,96 @@
+{
+  "id": 327,
+  "slug": "msi-modern-b13m-i7-13620h",
+  "name": "Laptop MSI Modern 15 H B13M,Intel Core I7-13620H ,RAM-8G ,SSD-512GB , VGA INTEL UHD ,15.6&quot; FHD IPS",
+  "model": "9S7-15H411-088",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 31999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m9-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m9-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m9-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m9-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m6-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m6-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m6-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m7-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m7-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m7-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m8-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m8-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MSI/MODERN/m8-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "MSI",
+    "Modern",
+    "15",
+    "H",
+    "B13M",
+    "Intel",
+    "Core",
+    "I7-13620H",
+    "RAM-8G",
+    "SSD-512GB",
+    "VGA",
+    "INTEL",
+    "UHD",
+    "15.6&amp;quot;",
+    "FHD",
+    "IPS"
+  ],
+  "shortDescription": "laptop MSI Modern 15 H B13M&nbsp;is a Bussiness laptop that has the following features:Processor: Intel® Core™ i7-13620H (24 MB Cache, 10 Core, 3.60 GHz to 4.90 GHz)Display: 15.6-inch FHD (1980 x 1080) IPSMemory: 8GB DDR",
+  "descriptionHtml": "<p>laptop MSI Modern 15 H B13M&nbsp;is a Bussiness laptop that has the following features:</p><ul><li>Processor: Intel® Core™ i7-13620H (24 MB Cache, 10 Core, 3.60 GHz to 4.90 GHz)</li><li>Display: 15.6-inch FHD (1980 x 1080) IPS</li><li>Memory: 8GB DDR4 RAM</li><li>Storage: 512G SSD</li><li>Graphics: intel UHD Graphics</li><li>Keyboard: Backlite Keyboard</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    }
+  ]
+}

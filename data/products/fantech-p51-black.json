@@ -1,0 +1,73 @@
+{
+  "id": 587,
+  "slug": "fantech-p51-black",
+  "name": "Fantech P51 Gaming 5 in 1 Combo black",
+  "model": "P51 black",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "keyboard-mouse-combos"
+  ],
+  "price": 1600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/P51%200-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/P51%200-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/P51%200-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/P51%200-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "P51",
+    "Gaming",
+    "5",
+    "in",
+    "1",
+    "Combo",
+    "black"
+  ],
+  "shortDescription": "ضمان عامان من الوكيل&nbsp;ماوس باد&nbsp;&nbsp;+ ماوس +&nbsp; سماعات + ستاند سماعة + كيبورد&nbsp;...",
+  "descriptionHtml": "<p><span>ضمان عامان من الوكيل&nbsp;</span></p><p><span>ماوس باد&nbsp;&nbsp;+ ماوس +&nbsp; سماعات + ستاند سماعة + كيبورد</span></p><p><span><br></span><img src=\"https://turbo-computer.com/image/catalog/accessories/P51 9.jpeg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51 8.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51 7.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51 5.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51 3 (1).jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51 2.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51 1.jpg\"><span>&nbsp;</span></p><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    }
+  ]
+}

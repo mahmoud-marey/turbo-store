@@ -1,0 +1,136 @@
+{
+  "id": 1270,
+  "slug": "lenovo-loq-15irx10-gaming-laptop-intel-core-i7-13700hx-rtx-5060-83je010jed",
+  "name": "Lenovo LOQ 15IRX10 Gaming Laptop - 83JE010JED - Luna Grey (Intel Core i7-13700HX, 16GB RAM DDR5, 512GB SSD, RTX 5060 8G, 15.6 inch FHD IPS 100% sRGB 144Hz, DOS) - 2 Years Warranty",
+  "model": "83JE010JED",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 66999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/15irx10%203-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "LenovoLOQ",
+    "LenovoLOQ15IRX10",
+    "IntelCorei713700HX",
+    "RTX50608GB",
+    "GamingLaptop",
+    "16GBDDR5",
+    "512GBSSDNVMe",
+    "15.6inchFHD144Hz",
+    "83JE010JED",
+    "LunaGrey",
+    "LenovoLaptop"
+  ],
+  "shortDescription": "Dominate modern games and demanding workloads with the Lenovo LOQ 15IRX10! Driven by a high-performance 13th Gen Intel Core i7 HX-series processor, next-generation NVIDIA GeForce RTX 5060 8GB graphics, and a vibrant 100%",
+  "descriptionHtml": "<p><b>Dominate modern games and demanding workloads with the Lenovo LOQ 15IRX10! Driven by a high-performance 13th Gen Intel Core i7 HX-series processor, next-generation NVIDIA GeForce RTX 5060 8GB graphics, and a vibrant 100% sRGB 144Hz display, this laptop delivers exceptional speed, fidelity, and reliability.</b></p><h3>???? Technical Specifications:</h3><table><thead><tr><td><strong>Component</strong></td><td><strong>Detailed Specifications</strong></td></tr></thead><tbody><tr><td><span><b>Processor (CPU)</b></span></td><td><span><b>Intel Core i7-13700HX</b> (16 Cores: 8P + 8E / 24 Threads, P-core 2.1 / 5.0GHz, E-core 1.5 / 3.7GHz, 30MB Cache)</span></td></tr><tr><td><span><b>Graphics (GPU)</b></span></td><td><span><b>NVIDIA GeForce RTX 5060 8GB GDDR6</b></span></td></tr><tr><td><span><b>Memory (RAM)</b></span></td><td><span><b>16GB DDR5-4800MHz</b> (1x16GB SO-DIMM)</span></td></tr><tr><td><span><b>Storage</b></span></td><td><span><b>512GB SSD M.2 2242 PCIe 4.0x4 NVMe</b></span></td></tr><tr><td><span><b>Display</b></span></td><td><span><b>15.6 inch FHD (1920x1080) IPS 300nits Anti-glare</b> (100% sRGB, 144Hz, G-SYNC)</span></td></tr><tr><td><span><b>Operating System</b></span></td><td><span><b>DOS</b> (FreeDOS)</span></td></tr><tr><td><span><b>Keyboard &amp; Camera</b></span></td><td><span><b>White Backlit Keyboard</b> (English/Arabic) + <b>HD 720p Camera</b> with E-shutter</span></td></tr><tr><td><span><b>Audio &amp; Network</b></span></td><td><span><b>Stereo Speakers 2W x2 (Nahimic Audio)</b> + <b>Wi-Fi 6 + Bluetooth 5.2</b> + Ethernet LAN</span></td></tr><tr><td><span><b>Battery &amp; Adapter</b></span></td><td><span><b>60Wh Battery</b> with <b>170W Slim Tip Adapter</b></span></td></tr><tr><td><span><b>Color &amp; Model</b></span></td><td><span><b>Luna Grey</b> | MTM: <b>83JE010JED</b></span></td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel Core i7-13700HX (16 Cores: 8P + 8E / 24 Threads, P-core 2.1 / 5.0GHz, E-core 1.5 / 3.7GHz, 30MB Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA GeForce RTX 5060 8GB GDDR6"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "16GB DDR5-4800MHz (1x16GB SO-DIMM)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage",
+      "value": "512GB SSD M.2 2242 PCIe 4.0x4 NVMe"
+    },
+    {
+      "group": "specs",
+      "label": "Display",
+      "value": "15.6 inch FHD (1920x1080) IPS 300nits Anti-glare (100% sRGB, 144Hz, G-SYNC)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "DOS (FreeDOS)"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard & Camera",
+      "value": "White Backlit Keyboard (English/Arabic) + HD 720p Camera with E-shutter"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & Network",
+      "value": "Stereo Speakers 2W x2 (Nahimic Audio) + Wi-Fi 6 + Bluetooth 5.2 + Ethernet LAN"
+    },
+    {
+      "group": "specs",
+      "label": "Battery & Adapter",
+      "value": "60Wh Battery with 170W Slim Tip Adapter"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Model",
+      "value": "Luna Grey | MTM: 83JE010JED"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    }
+  ]
+}

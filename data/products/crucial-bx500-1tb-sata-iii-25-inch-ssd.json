@@ -1,0 +1,146 @@
+{
+  "id": 977,
+  "slug": "crucial-bx500-1tb-sata-iii-25-inch-ssd",
+  "name": "Crucial BX500 1TB 2.5-Inch SATA III Internal SSD",
+  "model": "BX500",
+  "brand": "CRUCIAL",
+  "brandSlug": "crucial",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 6199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/crucial-bx500-1tb-sata-iii-25-inch-ssd-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/crucial-bx500-1tb-sata-iii-25-inch-ssd-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/crucial-bx500-1tb-sata-iii-25-inch-ssd-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/crucial-bx500-1tb-sata-iii-25-inch-ssd-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New",
+    "🔥 Bestseller"
+  ],
+  "tags": [
+    "Crucial",
+    "BX500",
+    "1TB",
+    "SATA III",
+    "2.5-Inch",
+    "Internal SSD",
+    "Solid State Drive",
+    "PC Upgrade",
+    "هارد كروشيال",
+    "هارد ssd 1 تيرا"
+  ],
+  "shortDescription": "Crucial BX500 1TB 2.5-Inch SATA III Internal Solid State Drive (SSD)Breathing new life into your aging laptop or sluggish desktop PC is easier than ever with the highly reliable Crucial BX500 1TB 2.5-Inch SATA III SSD. A",
+  "descriptionHtml": "<p>Crucial BX500 1TB 2.5-Inch SATA III Internal Solid State Drive (SSD)</p><p>Breathing new life into your aging laptop or sluggish desktop PC is easier than ever with the highly reliable Crucial BX500 1TB 2.5-Inch SATA III SSD. Available at Turbo Computer, this cost-effective storage hardware upgrade replaces slow mechanical hard drives to deliver impressive sequential read speeds up to 540MB/s. It stands as the definitive choice for users and system builders across Egypt looking for an immediate, budget-friendly hardware modification to boost overall system configuration tracking, file transfers, and daily application loading response times.</p><p>The Crucial BX500 is expertly engineered by Micron with award-winning premium 3D NAND flash technology, ensuring stellar performance efficiency without compromising long-term hardware durability. Featuring a standard 7mm slim 2.5\" form factor, it guarantees effortless integration into existing drive bays of older notebooks and desktop chassis. Built without moving parts, it provides completely silent operation, optimized cooling safety, and robust protection to keep your data secure, enhancing your everyday desktop ecosystem.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Crucial (by Micron)</td></tr><tr><td><strong>Series</strong></td><td>BX500 SSD</td></tr><tr><td><strong>Model Part Number</strong></td><td>CT1000BX500SSD1</td></tr><tr><td><strong>Capacity</strong></td><td>1TB (1000GB)</td></tr><tr><td><strong>Form Factor</strong></td><td>2.5-Inch (7mm slim profile)</td></tr><tr><td><strong>Interface</strong></td><td>SATA III (6Gb/s) / Backwards compatible with SATA II</td></tr><tr><td><strong>Max Sequential Read Speed</strong></td><td>Up to 540 MB/s</td></tr><tr><td><strong>Max Sequential Write Speed</strong></td><td>Up to 500 MB/s</td></tr><tr><td><strong>NAND Technology</strong></td><td>Micron 3D NAND Flash Memory</td></tr><tr><td><strong>SSD Endurance (TBW)</strong></td><td>360 TBW (Terabytes Written)</td></tr><tr><td><strong>Advanced Features</strong></td><td>Multistep Data Integrity Algorithm, Thermal Monitoring, SLC Write Acceleration &amp; Active Garbage Collection</td></tr><tr><td><strong>Durability</strong></td><td>Solid State Reliability (No moving parts) / Shock &amp; Vibration Resistant</td></tr><tr><td><strong>Compatibility</strong></td><td>Standard Laptop Upgrades, Desktop Drive Bays, Legacy PCs &amp; 2.5\" External Enclosures</td></tr><tr><td><strong>Application</strong></td><td>Everyday Computing, Fast OS Boot Drive, Secondary Storage Expansion &amp; Daily Office Productivity</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Crucial (by Micron)"
+    },
+    {
+      "group": "specs",
+      "label": "Series",
+      "value": "BX500 SSD"
+    },
+    {
+      "group": "specs",
+      "label": "Model Part Number",
+      "value": "CT1000BX500SSD1"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "1TB (1000GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "2.5-Inch (7mm slim profile)"
+    },
+    {
+      "group": "specs",
+      "label": "Interface",
+      "value": "SATA III (6Gb/s) / Backwards compatible with SATA II"
+    },
+    {
+      "group": "specs",
+      "label": "Max Sequential Read Speed",
+      "value": "Up to 540 MB/s"
+    },
+    {
+      "group": "specs",
+      "label": "Max Sequential Write Speed",
+      "value": "Up to 500 MB/s"
+    },
+    {
+      "group": "specs",
+      "label": "NAND Technology",
+      "value": "Micron 3D NAND Flash Memory"
+    },
+    {
+      "group": "specs",
+      "label": "SSD Endurance (TBW)",
+      "value": "360 TBW (Terabytes Written)"
+    },
+    {
+      "group": "specs",
+      "label": "Advanced Features",
+      "value": "Multistep Data Integrity Algorithm, Thermal Monitoring, SLC Write Acceleration & Active Garbage Collection"
+    },
+    {
+      "group": "specs",
+      "label": "Durability",
+      "value": "Solid State Reliability (No moving parts) / Shock & Vibration Resistant"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "Standard Laptop Upgrades, Desktop Drive Bays, Legacy PCs & 2.5\" External Enclosures"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "Everyday Computing, Fast OS Boot Drive, Secondary Storage Expansion & Daily Office Productivity"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": 1168,
+  "slug": "aerocool-p500a-panoramic-270-glass-argb-mid-tower-case-black",
+  "name": "Aerocool P500A Panoramic ARGB Mid Tower Case Black",
+  "model": "P500A black",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 3849,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-panoramic-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-panoramic-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-panoramic-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-panoramic-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-argb-pwm-fans-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-argb-pwm-fans-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-argb-pwm-fans-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-curved-glass-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-curved-glass-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/aerocool-p500a-curved-glass-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "P500A",
+    "Gaming Case",
+    "Mid Tower",
+    "Panoramic Glass",
+    "270 Degree View",
+    "ARGB Fans",
+    "PWM Fans",
+    "BTF Support",
+    "Type-C",
+    "PC Chassis",
+    "Gaming PC",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Aerocool P500A Panoramic 270-Degree Curved Glass Mid Tower Gaming Case (4 Pre-Installed ARGB PWM Fans / Reverse Connector BTF Motherboard Support / USB 3.2 Gen 2x2 Type-C / GPU Support Bracket / 1-Year Local Warranty)Sho",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Chassis Series",
+      "value": "Aerocool Panoramic Flagship Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Specification",
+      "value": "P500A Panoramic 270-Degree Glass Case (ACL-P500A-BK-FRPB)"
+    },
+    {
+      "group": "specs",
+      "label": "Motherboard Compatibility",
+      "value": "Standard & BTF Reverse Connector ATX, Micro-ATX, Mini-ITX"
+    },
+    {
+      "group": "specs",
+      "label": "Glass Panel Design",
+      "value": "Dual Curved Seamless Tempered Glass Panels (270-Degree View)"
+    },
+    {
+      "group": "specs",
+      "label": "Pre-Installed Fans",
+      "value": "4 Fans (3x 120mm Side Reversed ARGB PWM + 1x 120mm Rear ARGB PWM)"
+    },
+    {
+      "group": "specs",
+      "label": "Liquid Cooling Support",
+      "value": "Top Radiator Support Up To 360mm / 280mm / 240mm"
+    },
+    {
+      "group": "specs",
+      "label": "GPU Clearance Space",
+      "value": "Supports Long High-End GPUs Up To 420mm Length"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Cooler Clearance",
+      "value": "Supports Large CPU Air Coolers Up To 180mm Height"
+    },
+    {
+      "group": "specs",
+      "label": "Front IO Interface",
+      "value": "1x USB 3.2 Gen 2x2 Type-C + 2x USB 3.2 Gen 1 Type-A + HD Audio"
+    },
+    {
+      "group": "specs",
+      "label": "Included Accessories",
+      "value": "Integrated GPU Support Bracket + Top and Bottom Nylon Dust Filters"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    }
+  ]
+}

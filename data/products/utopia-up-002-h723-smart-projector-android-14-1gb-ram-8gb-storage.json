@@ -1,0 +1,133 @@
+{
+  "id": 1242,
+  "slug": "utopia-up-002-h723-smart-projector-android-14-1gb-ram-8gb-storage",
+  "name": "Utopia UP-002 H723 Smart Projector Android 14 1GB RAM 8GB Storage",
+  "model": "UP-002",
+  "brand": "UTOPIA",
+  "brandSlug": "utopia",
+  "categorySlugs": [
+    "cables-adapters"
+  ],
+  "price": 2699,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/utopia-up-002-h723-projector-front-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/utopia-up-002-h723-projector-front-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/utopia-up-002-h723-projector-front-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/utopia-up-002-h723-projector-front-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/utopia-up-002-h723-projector-side-ports-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/utopia-up-002-h723-projector-side-ports-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/utopia-up-002-h723-projector-side-ports-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Utopia",
+    "UP-002",
+    "H723",
+    "Smart Projector",
+    "Android 14",
+    "Portable Projector",
+    "1GB RAM",
+    "8GB Storage",
+    "WiFi Projector",
+    "Home Theater",
+    "HD Projector",
+    "LED Projector",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Utopia UP-002 H723 Smart Android 14 Projector (Integrated Android 14 Operating System / 1GB RAM + 8GB Storage / Wireless Wi-Fi &amp; Bluetooth Connectivity / Built-In Speaker / HDMI &amp; USB Ports / Portable Home Theate",
+  "descriptionHtml": "<p><span>Utopia UP-002 H723 Smart Android 14 Projector (Integrated Android 14 Operating System / 1GB RAM + 8GB Storage / Wireless Wi-Fi &amp; Bluetooth Connectivity / Built-In Speaker / HDMI &amp; USB Ports / Portable Home Theater Display)</span></p><p>Transform any room into an immersive cinema with the Utopia UP-002 H723 Smart Projector, available at Turbo Computer Egypt. Powered by the Android 14 operating system with 1GB RAM and 8GB internal storage, this portable LED projector allows you to stream your favorite movies, apps, and video content directly via Wi-Fi. Featuring versatile HDMI and USB connectivity along with an integrated speaker system, it offers a complete big-screen experience for home entertainment, gaming, and presentations.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Utopia</td></tr><tr><td>Model Number</td><td>UP-002 (H723)</td></tr><tr><td>Operating System</td><td>Android 14 OS</td></tr><tr><td>System Memory (RAM)</td><td>1GB RAM</td></tr><tr><td>Internal Storage (ROM)</td><td>8GB Storage</td></tr><tr><td>Light Source Technology</td><td>Energy-Efficient LED Lamp</td></tr><tr><td>Wireless Connectivity</td><td>Wi-Fi &amp; Bluetooth Support</td></tr><tr><td>Input &amp; Output Interfaces</td><td>HDMI Port, USB Port, Audio Out Jack, DC Power Input</td></tr><tr><td>Audio Output</td><td>Built-In Stereo Speaker System</td></tr><tr><td>Screen Projection Size</td><td>Flexible Adjustable Screen Scaling for Home Cinema Use</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Utopia"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number",
+      "value": "UP-002 (H723)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Android 14 OS"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory (RAM)",
+      "value": "1GB RAM"
+    },
+    {
+      "group": "specs",
+      "label": "Internal Storage (ROM)",
+      "value": "8GB Storage"
+    },
+    {
+      "group": "specs",
+      "label": "Light Source Technology",
+      "value": "Energy-Efficient LED Lamp"
+    },
+    {
+      "group": "specs",
+      "label": "Wireless Connectivity",
+      "value": "Wi-Fi & Bluetooth Support"
+    },
+    {
+      "group": "specs",
+      "label": "Input & Output Interfaces",
+      "value": "HDMI Port, USB Port, Audio Out Jack, DC Power Input"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Output",
+      "value": "Built-In Stereo Speaker System"
+    },
+    {
+      "group": "specs",
+      "label": "Screen Projection Size",
+      "value": "Flexible Adjustable Screen Scaling for Home Cinema Use"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-19",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-11",
+      "demo": true
+    }
+  ]
+}

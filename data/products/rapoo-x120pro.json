@@ -1,0 +1,75 @@
+{
+  "id": 659,
+  "slug": "rapoo-x120pro",
+  "name": "Rapoo X120PRO wired keyboard and mouse",
+  "model": "X120PRO",
+  "brand": "Rapoo",
+  "brandSlug": "rapoo",
+  "categorySlugs": [
+    "keyboard-mouse-combos"
+  ],
+  "price": 600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260316211821-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260316211821-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260316211821-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260316211821-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260316211848-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260316211848-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260316211848-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Rapoo",
+    "X120PRO",
+    "wired",
+    "keyboard",
+    "and",
+    "mouse"
+  ],
+  "shortDescription": "Rapoo X120PRO wired keyboard and mouse,Connection: Wired USB,Keyboard type: Membrane,Number of keys: 104 keys,Keycap type: Laser-engraved,Spill-resistant design,Keyboard cable length: 1.5 m,Mouse type: Optical,Mouse butt",
+  "descriptionHtml": "<p>Rapoo X120PRO wired keyboard and mouse,</p><p>Connection: Wired USB,</p><p>Keyboard type: Membrane,</p><p>Number of keys: 104 keys,</p><p>Keycap type: Laser-engraved,</p><p>Spill-resistant design,</p><p>Keyboard cable length: 1.5 m,</p><p>Mouse type: Optical,</p><p>Mouse buttons: 3 buttons,</p><p>Mouse DPI: 1000–1600 DPI optical sensor,</p><p>Mouse cable length: 1.5 m,</p><p>Compatibility: Windows PCs and laptops,</p><p>Keyboard language: Arabic / English,</p><p>Estimated lifespan: about 10 million keystrokes.</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    }
+  ]
+}

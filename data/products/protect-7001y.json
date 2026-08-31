@@ -1,0 +1,68 @@
+{
+  "id": 671,
+  "slug": "protect-7001y",
+  "name": "Protect 7001Y Laptop Bag",
+  "model": "7001y",
+  "brand": "Protect",
+  "brandSlug": "protect",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 550,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317235539-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317235539-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317235539-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317235539-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "protect",
+    "7001y",
+    "Laptop",
+    "Bag"
+  ],
+  "shortDescription": "مواصفات Protect 7001Y Laptop Bagالماركة Protectالموديل 7001Yاللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر متين مقاوم للماءالوزن خفيفالسعة مناسبة للاستخدام اليوميالمميزاتجيوب متعددة لتنظيم اللابتوب والملحقاتحزام ك",
+  "descriptionHtml": "<p>مواصفات</p><p>Protect 7001Y Laptop Bag</p><p><br></p><p>الماركة Protect</p><p>الموديل 7001Y</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر متين مقاوم للماء</p><p>الوزن خفيف</p><p>السعة مناسبة للاستخدام اليومي</p><p><br></p><p>المميزات</p><p>جيوب متعددة لتنظيم اللابتوب والملحقات</p><p>حزام كتف قابل للتعديل للحمل المريح</p><p>تصميم عملي للعمل والدراسة والسفر</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    }
+  ]
+}

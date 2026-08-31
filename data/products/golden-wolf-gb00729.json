@@ -1,0 +1,89 @@
+{
+  "id": 687,
+  "slug": "golden-wolf-gb00729",
+  "name": "Golden Wolf GB00729 Laptop Backpack",
+  "model": "GB00729",
+  "brand": "Golden Wolf",
+  "brandSlug": "golden-wolf",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1100,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231757-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231757-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231757-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231757-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231911-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231911-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231911-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231810-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231810-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231810-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231831-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231831-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231831-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231850-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231850-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318231850-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Golden",
+    "Wolf",
+    "GB00729",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "ضمان عام من الوكيلمواصفات Golden Wolf GB00729 Laptop Backpackالماركة Golden Wolfالموديل GB00729اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر عالي الجودة مقاوم للماءالابعاد حوالي 46 × 31 × 16 سمالسعة حوالي 22 لترا",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل</p><p><br></p><p>مواصفات</p><p>Golden Wolf GB00729 Laptop Backpack</p><p><br></p><p>الماركة Golden Wolf</p><p>الموديل GB00729</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر عالي الجودة مقاوم للماء</p><p>الابعاد حوالي 46 × 31 × 16 سم</p><p>السعة حوالي 22 لتر</p><p>الوزن حوالي 095 كجم</p><p><br></p><p>المميزات</p><p>تصميم عصري وعملي مناسب للعمل والدراسة والسفر</p><p>مساحة تخزين كبيرة مع تقسيم داخلي منظم</p><p>جيب مخصص للابتوب مع بطانة حماية</p><p>جيوب متعددة للاكسسوارات والاغراض الشخصية</p><p>ظهر مبطن مريح مع تهوية جيدة</p><p>حمالات كتف قابلة للتعديل ومبطنة</p><p>سوست قوية وعملية للاستخدام اليومي</p><p>بعض الاصدارات تدعم منفذ USB خارجي</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    }
+  ]
+}

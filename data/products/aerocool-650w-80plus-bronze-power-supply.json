@@ -1,0 +1,70 @@
+{
+  "id": 859,
+  "slug": "aerocool-650w-80plus-bronze-power-supply",
+  "name": "Aerocool Lux 650W 80 Plus Bronze Power Supply",
+  "model": "Lux 650W",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 2400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260509205842-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260509205842-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260509205842-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/IMG-20260201-WA0012_260509205842-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "650w",
+    "80plus",
+    "Bronze",
+    "Power",
+    "Supply"
+  ],
+  "shortDescription": "Technical SpecificationsModel: Aerocool 650W Bronze (Typical of Aero/Lux Bronze Series)Wattage: 650 WattsEfficiency Rating: 80 Plus Bronze (Up to 85% efficiency or higher)Form Factor: ATXInput Voltage: 200-240VacInput Cu",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 698,
+  "slug": "arctic-hunter-b00187",
+  "name": "Arctic Hunter B00187 Laptop Backpack",
+  "model": "B00187",
+  "brand": "Arctic Hunter",
+  "brandSlug": "arctic-hunter",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152001-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152001-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152001-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152001-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152035-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152035-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152035-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152214-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152214-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152214-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152355-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152355-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319152355-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Arctic",
+    "Hunter",
+    "B00187",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "ضمان عام من الوكيل&nbsp;مواصفات Arctic Hunter B00187 Laptop Backpackالماركة Arctic Hunterالموديل B00187اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر عالي الجودة مقاوم للماءالابعاد حوالي 46 × 31 × 15 سمالسعة حوالي",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل&nbsp;</p><p><br></p><p><br></p><p>مواصفات</p><p> Arctic Hunter B00187 Laptop Backpack</p><p><br></p><p>الماركة Arctic Hunter</p><p>الموديل B00187</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر عالي الجودة مقاوم للماء</p><p>الابعاد حوالي 46 × 31 × 15 سم</p><p>السعة حوالي 21 لتر</p><p>الوزن حوالي 095 كجم</p><p><br></p><p>المميزات</p><p>تصميم عملي وعصري مناسب للعمل والدراسة والسفر</p><p>جيب مخصص للابتوب مع بطانة حماية سميكة</p><p>مساحة داخلية كبيرة مع تقسيم منظم</p><p>جيوب متعددة للاكسسوارات والاغراض الشخصية</p><p>ظهر مبطن مريح مع تهوية جيدة</p><p>حمالات كتف مبطنة وقابلة للتعديل</p><p>سوست قوية تتحمل الاستخدام اليومي</p><p>منفذ USB خارجي لشحن الهاتف</p><p>مقاومة للماء لحماية المحتويات</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-13",
+      "demo": true
+    }
+  ]
+}

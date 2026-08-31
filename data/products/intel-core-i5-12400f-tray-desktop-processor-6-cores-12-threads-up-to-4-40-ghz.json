@@ -1,0 +1,158 @@
+{
+  "id": 1041,
+  "slug": "intel-core-i5-12400f-tray-desktop-processor-6-cores-12-threads-up-to-4-40-ghz",
+  "name": "Intel Core i5-12400F Processor (18M Cache, up to 4.40 GHz, 6 Cores, 12 Threads, LGA1700, Desktop CPU) - Tray",
+  "model": "i5-12400F",
+  "brand": "INTEL",
+  "brandSlug": "intel",
+  "categorySlugs": [
+    "pc-bundle"
+  ],
+  "price": 7199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-12400f-tray-desktop-processor-6-core-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-12400f-tray-desktop-processor-6-core-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-12400f-tray-desktop-processor-6-core-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-12400f-tray-desktop-processor-6-core-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Intel",
+    "Core i5",
+    "12400F",
+    "Tray Version",
+    "LGA1700",
+    "Alder Lake",
+    "6 Cores",
+    "12 Threads",
+    "18MB Cache",
+    "DDR4 RAM",
+    "DDR5 RAM",
+    "Desktop Processor",
+    "CPU",
+    "PC Hardware",
+    "Computer Component",
+    "معالج انتل",
+    "بروسيسور i5 تري",
+    "تجميعة جيمنج اقتصادية ديسكتوب"
+  ],
+  "shortDescription": "Intel Core i5-12400F Desktop Tray Processor 6 Cores 12 Threads up to 4.40 GHzOptimize your custom desktop setup budget with the incredible value of the Intel Core i5-12400F Tray edition processor. Available at Turbo Comp",
+  "descriptionHtml": "<p><span>Intel Core i5-12400F Desktop Tray Processor 6 Cores 12 Threads up to 4.40 GHz</span></p><p>Optimize your custom desktop setup budget with the incredible value of the Intel Core i5-12400F Tray edition processor. Available at Turbo Computer, this high-performance PC hardware core component layout is shipped in standard tray packaging layout without a retail box or stock cooler, making it the absolute ideal choice for tech-savvy gamers, e-commerce store builders, and system integrators across Egypt who intend to deploy superior aftermarket air or liquid cooling thermal solutions. Built on Intel's 12th Gen Alder Lake architecture design, this CPU delivers great computational execution and solid everyday multi-app multitasking stability.</p><p>The Intel Core i5-12400F Tray version provides a highly efficient core layout featuring 6 dedicated Performance-cores (P-cores) and 12 processing threads to handle demanding applications smoothly. Operating at a 2.50 GHz base clock frequency that reaches a maximum turbo speed translation of 4.40 GHz via Intel Turbo Boost 2.0, it processes competitive gaming frames effortlessly. Backed by 18MB of responsive Intel Smart Cache, this flexible hardware platform provides dual-channel tracking matrix options supporting both standard DDR4 up to 3200MHz and next-generation DDR5 memory profiles up to 4800MHz speeds. Utilizing secure PCIe 5.0 and 4.0 data channels directly through the LGA1700 motherboard socket, this 'F' suffix variant features a 65W base power standard and strictly requires a discrete independent graphics card to handle display outputs. (Please Note: This is a Tray processor model; a separate aftermarket thermal cooling solution must be sourced for operational deployment).</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification Details</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Intel</td></tr><tr><td><strong>Processor Line Layout</strong></td><td>Intel Core i5 Desktop Series (12th Generation)</td></tr><tr><td><strong>Packaging Type</strong></td><td>Tray Version (Saves cost, shipped safely without retail box packaging)</td></tr><tr><td><strong>Thermal Solution (Cooler)</strong></td><td>Not Included (Requires independent aftermarket air or liquid CPU cooler setup)</td></tr><tr><td><strong>Supported Sockets Matrix</strong></td><td>LGA1700 (Compatible with standard Intel H610, B660, B760, Z690, Z790 motherboard profiles)</td></tr><tr><td><strong>Total Cores Count</strong></td><td>6 Cores (6 Dedicated Performance-cores | 0 Efficient-cores)</td></tr><tr><td><strong>Total Threads Count</strong></td><td>12 Processing Threads Matrix</td></tr><tr><td><strong>Max Turbo Frequency</strong></td><td>4.40 GHz (Intel Turbo Boost Technology 2.0 translation profile)</td></tr><tr><td><strong>Performance-core Base Frequency</strong></td><td>2.50 GHz base clock tracking framework</td></tr><tr><td><strong>Cache Configuration</strong></td><td>18 MB Intel Smart Cache layout | Total L2 Cache: 7.5 MB</td></tr><tr><td><strong>Processor Base Power</strong></td><td>65W (Maximum Turbo Power output peaks safely up to 117W layout)</td></tr><tr><td><strong>Memory Types Support</strong></td><td>Up to DDR5 4800 MT/s | Up to DDR4 3200 MT/s channel options</td></tr><tr><td><strong>Processor Graphics (Integrated)</strong></td><td>None (Discrete external graphics card matrix tracking required for system execution)</td></tr><tr><td><strong>Expansion Options Matrix</strong></td><td>PCI Express Revision 5.0 and 4.0 layout (Up to 20 total CPU PCIe lanes configuration)</td></tr><tr><td><strong>Best Applications</strong></td><td>Custom Cooler Gaming Builds, Budget Esports PC Builds, Creative Graphics Processing Platforms, High-Speed Data Management Entry, and Optimized Product Database Deployments</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Intel"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Line Layout",
+      "value": "Intel Core i5 Desktop Series (12th Generation)"
+    },
+    {
+      "group": "specs",
+      "label": "Packaging Type",
+      "value": "Tray Version (Saves cost, shipped safely without retail box packaging)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Solution (Cooler)",
+      "value": "Not Included (Requires independent aftermarket air or liquid CPU cooler setup)"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Sockets Matrix",
+      "value": "LGA1700 (Compatible with standard Intel H610, B660, B760, Z690, Z790 motherboard profiles)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Cores Count",
+      "value": "6 Cores (6 Dedicated Performance-cores | 0 Efficient-cores)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Threads Count",
+      "value": "12 Processing Threads Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Max Turbo Frequency",
+      "value": "4.40 GHz (Intel Turbo Boost Technology 2.0 translation profile)"
+    },
+    {
+      "group": "specs",
+      "label": "Performance-core Base Frequency",
+      "value": "2.50 GHz base clock tracking framework"
+    },
+    {
+      "group": "specs",
+      "label": "Cache Configuration",
+      "value": "18 MB Intel Smart Cache layout | Total L2 Cache: 7.5 MB"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Base Power",
+      "value": "65W (Maximum Turbo Power output peaks safely up to 117W layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Types Support",
+      "value": "Up to DDR5 4800 MT/s | Up to DDR4 3200 MT/s channel options"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Graphics (Integrated)",
+      "value": "None (Discrete external graphics card matrix tracking required for system execution)"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Options Matrix",
+      "value": "PCI Express Revision 5.0 and 4.0 layout (Up to 20 total CPU PCIe lanes configuration)"
+    },
+    {
+      "group": "specs",
+      "label": "Best Applications",
+      "value": "Custom Cooler Gaming Builds, Budget Esports PC Builds, Creative Graphics Processing Platforms, High-Speed Data Management Entry, and Optimized Product Database Deployments"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    }
+  ]
+}

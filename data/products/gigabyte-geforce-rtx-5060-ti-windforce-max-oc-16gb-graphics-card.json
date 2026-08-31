@@ -1,0 +1,138 @@
+{
+  "id": 1288,
+  "slug": "gigabyte-geforce-rtx-5060-ti-windforce-max-oc-16gb-graphics-card",
+  "name": "GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC 16GB Graphics Card",
+  "model": "WINDFORCE MAX OC",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 37499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-angle-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-angle-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-angle-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-back-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-back-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rtx-5060-ti-windforce-16gb-back-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "GeForce",
+    "RTX 5060 Ti",
+    "WINDFORCE MAX OC",
+    "16GB",
+    "GDDR7",
+    "Graphics Card",
+    "GPU",
+    "Dual Fan",
+    "WINDFORCE Cooling",
+    "Protection Backplate",
+    "Ray Tracing",
+    "DLSS",
+    "DisplayPort",
+    "HDMI",
+    "3 Years Warranty",
+    "Local Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC 16GB Graphics Card (16GB GDDR7 Memory / Factory Overclocked / WINDFORCE Cooling System with Dual Alternate Spinning Fans / Pure Copper Heat Pipes / Protection Backplate / Dis",
+  "descriptionHtml": "<p><span>GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC 16GB Graphics Card (16GB GDDR7 Memory / Factory Overclocked / WINDFORCE Cooling System with Dual Alternate Spinning Fans / Pure Copper Heat Pipes / Protection Backplate / DisplayPort 1.4a &amp; HDMI 2.1a / 3 Years Official Local Agent Warranty)</span></p><p>Experience high-frame-rate 1440p gaming and advanced content creation with the GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC 16GB graphics card, available at Turbo Computer Egypt with an Official 3-Year Local Agent Warranty. Powered by the latest NVIDIA Blackwell architecture and packed with 16GB of high-speed GDDR7 VRAM, this card delivers exceptional Ray Tracing performance and AI-accelerated rendering with DLSS support. Featuring the signature WINDFORCE cooling system with alternate spinning unique blade fans, composite copper heat pipes direct touch GPU, 3D Active Fan technology, and a durable protection backplate, it guarantees maximum thermal efficiency and stability during intense gaming sessions.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Graphics Processing Unit</td><td>NVIDIA GeForce RTX 5060 Ti</td></tr><tr><td>Brand &amp; Model</td><td>GIGABYTE WINDFORCE MAX OC (GV-N506TWF2MAX-OC-16GD)</td></tr><tr><td>Memory Size &amp; Type</td><td>16GB GDDR7</td></tr><tr><td>Thermal Solution</td><td>WINDFORCE Dual Fan System with Alternate Spinning &amp; Direct-Touch Copper Heat Pipes</td></tr><tr><td>Bus Standard &amp; Interface</td><td>PCI Express 5.0 / 4.0 Support</td></tr><tr><td>Display Outputs</td><td>3x DisplayPort 1.4a, 1x HDMI 2.1a</td></tr><tr><td>Build &amp; Structural Integrity</td><td>Rigid Protection Metal Backplate &amp; Ultra Durable Components</td></tr><tr><td>Recommended Power Supply</td><td>550W or Higher PSU</td></tr><tr><td>Warranty Coverage</td><td>3 Years Official Local Agent Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Graphics Processing Unit",
+      "value": "NVIDIA GeForce RTX 5060 Ti"
+    },
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "GIGABYTE WINDFORCE MAX OC (GV-N506TWF2MAX-OC-16GD)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Size & Type",
+      "value": "16GB GDDR7"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Solution",
+      "value": "WINDFORCE Dual Fan System with Alternate Spinning & Direct-Touch Copper Heat Pipes"
+    },
+    {
+      "group": "specs",
+      "label": "Bus Standard & Interface",
+      "value": "PCI Express 5.0 / 4.0 Support"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "3x DisplayPort 1.4a, 1x HDMI 2.1a"
+    },
+    {
+      "group": "specs",
+      "label": "Build & Structural Integrity",
+      "value": "Rigid Protection Metal Backplate & Ultra Durable Components"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended Power Supply",
+      "value": "550W or Higher PSU"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "3 Years Official Local Agent Warranty"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    }
+  ]
+}

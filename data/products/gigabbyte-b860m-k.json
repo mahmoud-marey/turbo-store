@@ -1,0 +1,99 @@
+{
+  "id": 779,
+  "slug": "gigabbyte-b860m-k",
+  "name": "GIGABYTE B860M K LGA 1851 DDR5 SUPPORT MOTHERBOARD",
+  "model": "B860M K",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 6200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260419175458-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260419175458-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260419175458-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260419175458-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "B860M",
+    "K",
+    "LGA",
+    "1851",
+    "DDR5",
+    "SUPPORT",
+    "MOTHERBOARD"
+  ],
+  "shortDescription": "Q&nbsp;GIGABYTE B860M K (LGA 1851):GIGABYTE B860M K — Specs\r\n\r\n\r\nSpec\r\nDetails\r\n\r\n\r\n\r\n\r\nSocket\r\nLGA 1851\r\n\r\n\r\nChipset\r\nIntel® B860 Express\r\n\r\n\r\nForm Factor\r\nMicro ATX (244 × 215 mm)\r\n\r\n\r\nSupported CPUs\r\nIntel® Core™ Ultr",
+  "descriptionHtml": "<p>Q&nbsp;<strong>GIGABYTE B860M K</strong> (LGA 1851):</p><h3>GIGABYTE B860M K — Specs</h3><table><thead><tr><th>Spec</th><th>Details</th></tr></thead><tbody><tr><td><strong>Socket</strong></td><td>LGA 1851</td></tr><tr><td><strong>Chipset</strong></td><td>Intel® B860 Express</td></tr><tr><td><strong>Form Factor</strong></td><td>Micro ATX (244 × 215 mm)</td></tr><tr><td><strong>Supported CPUs</strong></td><td>Intel® Core™ Ultra Processors (Series 2)</td></tr><tr><td><strong>OS Support</strong></td><td>Windows 11 / Windows 10 (64-bit)</td></tr></tbody></table><h3>Memory</h3><table><thead><tr><th>Spec</th><th>Details</th></tr></thead><tbody><tr><td><strong>Memory Type</strong></td><td>DDR5</td></tr><tr><td><strong>DIMM Slots</strong></td><td>2× DDR5</td></tr><tr><td><strong>Max Capacity</strong></td><td>128 GB (64 GB per slot)</td></tr><tr><td><strong>Memory Channels</strong></td><td>Dual Channel</td></tr><tr><td><strong>Speed Support</strong></td><td>5600 / 6400 MT/s native; up to 8800 MT/s (O.C.)</td></tr><tr><td><strong>XMP Support</strong></td><td>Yes</td></tr><tr><td><strong>ECC Support</strong></td><td>Yes (operates in non-ECC mode)</td></tr></tbody></table><h3>Expansion Slots</h3><table><thead><tr><th>Slot</th><th>Details</th></tr></thead><tbody><tr><td><strong>PCIe x16 (CPU)</strong></td><td>1× PCIe 4.0 x16</td></tr><tr><td><strong>PCIe x1 (Chipset)</strong></td><td>1× PCIe 3.0 x1</td></tr></tbody></table><h3>Storage</h3><table><thead><tr><th>Spec</th><th>Details</th></tr></thead><tbody><tr><td><strong>M.2 Slots</strong></td><td>2× M.2 (PCIe 4.0 x4/x2, type 2280)</td></tr><tr><td><strong>SATA Ports</strong></td><td>4× SATA 6Gb/s</td></tr><tr><td><strong>RAID</strong></td><td>RAID 0, 1, 5, 10 (SATA)</td></tr></tbody></table><h3>Back Panel I/O</h3><table><thead><tr><th>Port</th><th>Details</th></tr></thead><tbody><tr><td><strong>HDMI</strong></td><td>1× HDMI 2.1 (up to 4K @ 60Hz)</td></tr><tr><td><strong>USB 3.2 Gen 1</strong></td><td>4× USB-A</td></tr><tr><td><strong>USB 2.0</strong></td><td>2× USB-A</td></tr><tr><td><strong>PS/2</strong></td><td>1× (keyboard/mouse)</td></tr><tr><td><strong>LAN</strong></td><td>1× RJ-45 (Realtek GbE — 1 Gbps)</td></tr><tr><td><strong>Audio</strong></td><td>3× 3.5mm audio jacks</td></tr></tbody></table><h3>Internal Headers</h3><p>1× 24-pin ATX power, 1× 8-pin ATX 12V, 1× CPU fan, 1× CPU fan/water pump, 1× system fan/water pump, 2× ARGB Gen2 headers, 1× USB 3.2 Gen 1 header, 2× USB 2.0 headers, 1× front panel audio, 1× S/PDIF out, 1× Clear CMOS jumper, and 1× TPM header</p><h3>Audio &amp; Network</h3><table><thead><tr><th>Spec</th><th>Details</th></tr></thead><tbody><tr><td><strong>Audio</strong></td><td>Realtek® HD Audio CODEC — up to 7.1-channel + S/PDIF out</td></tr><tr><td><strong>LAN</strong></td><td>Realtek® GbE (1 Gbps / 100 Mbps / 10 Mbps)</td></tr><tr><td><strong>Wi-Fi</strong></td><td>None</td></tr></tbody></table><h3>Other Features</h3><table><thead><tr><th>Spec</th><th>Details</th></tr></thead><tbody><tr><td><strong>BIOS</strong></td><td>AMI UEFI, 256 Mbit flash</td></tr><tr><td><strong>RGB Headers</strong></td><td>2× ARGB Gen2</td></tr><tr><td><strong>H/W Monitoring</strong></td><td>Voltage, temperature, fan speed, water flow rate</td></tr><tr><td><strong>Software</strong></td><td>GIGABYTE Control Center (GCC), Q-Flash, Smart Backup</td></tr><tr><td><strong>Warranty</strong></td><td>3 Years</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Socket",
+      "value": "LGA 1851"
+    },
+    {
+      "group": "specs",
+      "label": "Chipset",
+      "value": "Intel® B860 Express"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "Micro ATX (244 × 215 mm)"
+    },
+    {
+      "group": "specs",
+      "label": "Supported CPUs",
+      "value": "Intel® Core™ Ultra Processors (Series 2)"
+    },
+    {
+      "group": "specs",
+      "label": "OS Support",
+      "value": "Windows 11 / Windows 10 (64-bit)"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-11",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": 1239,
+  "slug": "usb-3-0-to-sata-2-5-inch-hard-drive-converter-cable",
+  "name": "USB 3.0 to SATA 2.5 Inch Hard Drive Converter Cable",
+  "model": "Usb3 for 4tb",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 150,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-converter-cable-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-converter-cable-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-converter-cable-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-converter-cable-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-cable-connector-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-cable-connector-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/usb-3-to-sata-2-5-cable-connector-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "USB 3.0",
+    "SATA",
+    "Converter Cable",
+    "USB to SATA Adapter",
+    "2.5 Inch HDD",
+    "2.5 Inch SSD",
+    "SATA Cable",
+    "Hard Drive Adapter",
+    "Plug and Play",
+    "5Gbps Speed",
+    "Turbo Computer"
+  ],
+  "shortDescription": "USB 3.0 to SATA 2.5 Inch Hard Drive Converter Cable (High-Speed USB 3.0 Interface / Supports 2.5 Inch SATA I II III HDDs &amp; SSDs / Up to 5Gbps Data Transmission / Plug &amp; Play Installation / Hot-Swappable Design)Ea",
+  "descriptionHtml": "<p><span>USB 3.0 to SATA 2.5 Inch Hard Drive Converter Cable (High-Speed USB 3.0 Interface / Supports 2.5 Inch SATA I II III HDDs &amp; SSDs / Up to 5Gbps Data Transmission / Plug &amp; Play Installation / Hot-Swappable Design)</span></p><p>Easily connect any internal 2.5-inch SATA hard drive or solid-state drive to your computer using the USB 3.0 to SATA 2.5 Inch Hard Drive Converter Cable, available at Turbo Computer Egypt. Perfect for fast drive cloning, data recovery, and external storage expansion, this compact adapter cable delivers ultra-fast transfer speeds up to 5Gbps without requiring additional power adapters or external drivers.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Product Category</td><td>USB 3.0 to SATA Hard Drive Converter Cable</td></tr><tr><td>Drive Compatibility</td><td>2.5-Inch SATA I / II / III HDDs and SSDs (7mm &amp; 9.5mm Thickness)</td></tr><tr><td>Warranty Period</td><td>1 month</td></tr><tr><td>Connector Interfaces</td><td>USB 3.0 Type-A Male to 7+15 Pin SATA Data &amp; Power Connector</td></tr><tr><td>Transfer Speed Rate</td><td>High-Speed USB 3.0 Up to 5Gbps Transmission Rate</td></tr><tr><td>Installation Setup</td><td>Plug &amp; Play / Hot-Swappable (No External Driver Required)</td></tr><tr><td>Power Source</td><td>USB Bus-Powered (No External Power Adapter Needed)</td></tr><tr><td>Activity Indicator</td><td>LED Data Transfer &amp; Power Status Indicator</td></tr><tr><td>Cable Material</td><td>High-Grade Flexible PVC Cable Jacket</td></tr><tr><td>System Compatibility</td><td>Windows 11 / 10 / 8 / 7 / XP, macOS, Linux, Chrome OS</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Product Category",
+      "value": "USB 3.0 to SATA Hard Drive Converter Cable"
+    },
+    {
+      "group": "specs",
+      "label": "Drive Compatibility",
+      "value": "2.5-Inch SATA I / II / III HDDs and SSDs (7mm & 9.5mm Thickness)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1 month"
+    },
+    {
+      "group": "specs",
+      "label": "Connector Interfaces",
+      "value": "USB 3.0 Type-A Male to 7+15 Pin SATA Data & Power Connector"
+    },
+    {
+      "group": "specs",
+      "label": "Transfer Speed Rate",
+      "value": "High-Speed USB 3.0 Up to 5Gbps Transmission Rate"
+    },
+    {
+      "group": "specs",
+      "label": "Installation Setup",
+      "value": "Plug & Play / Hot-Swappable (No External Driver Required)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Source",
+      "value": "USB Bus-Powered (No External Power Adapter Needed)"
+    },
+    {
+      "group": "specs",
+      "label": "Activity Indicator",
+      "value": "LED Data Transfer & Power Status Indicator"
+    },
+    {
+      "group": "specs",
+      "label": "Cable Material",
+      "value": "High-Grade Flexible PVC Cable Jacket"
+    },
+    {
+      "group": "specs",
+      "label": "System Compatibility",
+      "value": "Windows 11 / 10 / 8 / 7 / XP, macOS, Linux, Chrome OS"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-17",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-22",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-27",
+      "demo": true
+    }
+  ]
+}

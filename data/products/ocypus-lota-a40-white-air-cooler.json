@@ -1,0 +1,143 @@
+{
+  "id": 813,
+  "slug": "ocypus-lota-a40-white-air-cooler",
+  "name": "Ocypus Lota A40 White CPU Air Cooler Digital Display",
+  "model": "Lota A40",
+  "brand": "Ocypus",
+  "brandSlug": "ocypus",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 1649,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-lota-a40-white-cooler-digital-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-lota-a40-white-cooler-digital-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-lota-a40-white-cooler-digital-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/ocypus-lota-a40-white-cooler-digital-top-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Ocypus",
+    "Lota A40",
+    "White Air Cooler",
+    "CPU Cooler",
+    "Digital Display",
+    "180W TDP",
+    "120mm PWM Fan",
+    "4 Heat Pipes",
+    "FDB Bearing",
+    "LGA1851",
+    "AM5 Compatible",
+    "Turbo Computer",
+    "Agent Warranty"
+  ],
+  "shortDescription": "Ocypus Lota A40 White CPU Air Cooler (Real-Time Digital CPU Temp &amp; Utilization Display / 180W TDP Support / Four 6mm Direct Touch Copper Heat Pipes / High-Static Pressure 120mm PWM FDB Fan / Intel LGA1851 &amp; AMD A",
+  "descriptionHtml": "<p><span>Ocypus Lota A40 White CPU Air Cooler (Real-Time Digital CPU Temp &amp; Utilization Display / 180W TDP Support / Four 6mm Direct Touch Copper Heat Pipes / High-Static Pressure 120mm PWM FDB Fan / Intel LGA1851 &amp; AMD AM5 Ready / 1-Year Local Warranty)</span></p><p>Combine smart hardware monitoring with sleek white aesthetics using the Ocypus Lota A40 White CPU Air Cooler, available at Turbo Computer Egypt backed by a full 1-Year official local agent warranty layout. Equipped with a top-mounted digital display screen that provides real-time CPU temperature and utilization tracking alongside visual critical temperature warnings, this single-tower white air cooler supports up to 180W TDP. It features four 6mm direct-touch copper heat pipes, high-density aluminum fins, and a 120mm PWM high-static pressure fan utilizing Fluid Dynamic Bearings (FDB). Delivering up to 75.81 CFM airflow at a maximum noise level of 31.6 dB(A) with an optimized 155mm height layout, it provides excellent RAM clearance and full support for Intel LGA1851/1700 and AMD AM5 sockets.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Cooler Series</td><td>Ocypus Lota Series</td></tr><tr><td>Cooler Model &amp; Color</td><td>Lota A40 / White Edition</td></tr><tr><td>Smart Digital Display Features</td><td>Real-Time CPU Temperature &amp; Utilization Monitoring with Visual Warning System</td></tr><tr><td>Thermal Design Power (TDP)</td><td>Up to 180W TDP Heat Dissipation Support</td></tr><tr><td>Heat Pipes Architecture</td><td>4x 6mm Direct Touch High Performance Copper Heat Pipes</td></tr><tr><td>Intel Socket Compatibility</td><td>LGA 1851 / LGA 1700 / LGA 1200 / LGA 115X</td></tr><tr><td>AMD Socket Compatibility</td><td>AM5 / AM4 Platforms Supported</td></tr><tr><td>Fan Dimension &amp; Bearing Type</td><td>120 x 120 x 25 mm High-Static Pressure PWM Fan with FDB Bearing</td></tr><tr><td>Fan Speed Range</td><td>500 - 2000 RPM (±10% PWM Control)</td></tr><tr><td>Max Airflow &amp; Static Pressure</td><td>75.81 CFM Airflow / 2.53 mmAq Static Pressure</td></tr><tr><td>Noise Level Rating</td><td>Quiet Operation ≤ 31.6 dB(A) at Max Speed</td></tr><tr><td>Physical Dimensions &amp; Case Height</td><td>155 mm Height / 125 mm Width / 75 mm Depth (High RAM Clearance Design)</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Cooler Series",
+      "value": "Ocypus Lota Series"
+    },
+    {
+      "group": "specs",
+      "label": "Cooler Model & Color",
+      "value": "Lota A40 / White Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Smart Digital Display Features",
+      "value": "Real-Time CPU Temperature & Utilization Monitoring with Visual Warning System"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Design Power (TDP)",
+      "value": "Up to 180W TDP Heat Dissipation Support"
+    },
+    {
+      "group": "specs",
+      "label": "Heat Pipes Architecture",
+      "value": "4x 6mm Direct Touch High Performance Copper Heat Pipes"
+    },
+    {
+      "group": "specs",
+      "label": "Intel Socket Compatibility",
+      "value": "LGA 1851 / LGA 1700 / LGA 1200 / LGA 115X"
+    },
+    {
+      "group": "specs",
+      "label": "AMD Socket Compatibility",
+      "value": "AM5 / AM4 Platforms Supported"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Dimension & Bearing Type",
+      "value": "120 x 120 x 25 mm High-Static Pressure PWM Fan with FDB Bearing"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Speed Range",
+      "value": "500 - 2000 RPM (±10% PWM Control)"
+    },
+    {
+      "group": "specs",
+      "label": "Max Airflow & Static Pressure",
+      "value": "75.81 CFM Airflow / 2.53 mmAq Static Pressure"
+    },
+    {
+      "group": "specs",
+      "label": "Noise Level Rating",
+      "value": "Quiet Operation ≤ 31.6 dB(A) at Max Speed"
+    },
+    {
+      "group": "specs",
+      "label": "Physical Dimensions & Case Height",
+      "value": "155 mm Height / 125 mm Width / 75 mm Depth (High RAM Clearance Design)"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    }
+  ]
+}

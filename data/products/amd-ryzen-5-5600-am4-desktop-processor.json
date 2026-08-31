@@ -1,0 +1,155 @@
+{
+  "id": 983,
+  "slug": "amd-ryzen-5-5600-am4-desktop-processor",
+  "name": "AMD Ryzen 5 5600 6-Core 12-Thread AM4 Processor with Wraith Stealth Cooler",
+  "model": "5600",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 6900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5600-am4-desktop-processor-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5600-am4-desktop-processor-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5600-am4-desktop-processor-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5600-am4-desktop-processor-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5",
+    "5600",
+    "AM4",
+    "Socket AM4",
+    "6-Core",
+    "Desktop Processor",
+    "Gaming CPU",
+    "بروسيسور رايزن",
+    "معالج AMD 5600"
+  ],
+  "shortDescription": "AMD Ryzen 5 5600 6-Core 12-Thread Unlocked Desktop Processor with Wraith Stealth CoolerSupercharge your gaming rig or mid-range creative workstation with the legendary AMD Ryzen 5 5600 Desktop Processor. Available at Tur",
+  "descriptionHtml": "<p>AMD Ryzen 5 5600 6-Core 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler</p><p>Supercharge your gaming rig or mid-range creative workstation with the legendary AMD Ryzen 5 5600 Desktop Processor. Available at Turbo Computer, this highly efficient AM4 socket CPU is built on advanced 7nm \"Zen 3\" architecture, featuring 6 cores and 12 threads of pure processing power. It stands as the absolute definitive hardware choice for mainstream PC builders across Egypt who demand elite frame rates, smooth multi-threaded rendering, and unbeatable price-to-performance tracking.</p><p>The AMD Ryzen 5 5600 delivers exceptional speed, boasting a 3.5GHz base clock that ramps up to a blistering 4.4GHz Max Boost alongside a massive 35MB total game cache. It features native support for high-speed PCIe 4.0 lanes, allowing you to maximize hardware modification performance when paired with advanced B550 or X570 motherboards and next-gen graphics cards. Bundled with the quiet and dependable AMD Wraith Stealth thermal cooling fan, unlocked for effortless overclocking, and keeping a low 65W TDP, it offers an outstanding desktop ecosystem.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>AMD</td></tr><tr><td><strong>Processor Line</strong></td><td>AMD Ryzen 5 Desktop Processors</td></tr><tr><td><strong>Model</strong></td><td>AMD Ryzen 5 5600</td></tr><tr><td><strong>CPU Socket</strong></td><td>Socket AM4</td></tr><tr><td><strong>Architecture</strong></td><td>\"Zen 3\" (7nm TSMC FinFET)</td></tr><tr><td><strong>Cores / Threads</strong></td><td>6 Cores / 12 Threads</td></tr><tr><td><strong>Base Clock Speed</strong></td><td>3.5 GHz</td></tr><tr><td><strong>Max Boost Clock</strong></td><td>Up to 4.4 GHz</td></tr><tr><td><strong>Total Cache</strong></td><td>35 MB (3 MB L2 Cache + 32 MB L3 Cache)</td></tr><tr><td><strong>PCI Express Version</strong></td><td>PCIe 4.0</td></tr><tr><td><strong>Default TDP</strong></td><td>65W</td></tr><tr><td><strong>Unlocked for Overclocking</strong></td><td>Yes (Supports Precision Boost Overdrive)</td></tr><tr><td><strong>System Memory Type</strong></td><td>DDR4 (Up to 3200MHz native support)</td></tr><tr><td><strong>Thermal Solution Included</strong></td><td>AMD Wraith Stealth Cooler</td></tr><tr><td><strong>Integrated Graphics</strong></td><td>No (Discrete Graphics Card Required)</td></tr><tr><td><strong>Application</strong></td><td>High-Performance Gaming, Content Creation, Streaming &amp; General Multitasking</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "AMD"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Line",
+      "value": "AMD Ryzen 5 Desktop Processors"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "AMD Ryzen 5 5600"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket",
+      "value": "Socket AM4"
+    },
+    {
+      "group": "specs",
+      "label": "Architecture",
+      "value": "\"Zen 3\" (7nm TSMC FinFET)"
+    },
+    {
+      "group": "specs",
+      "label": "Cores / Threads",
+      "value": "6 Cores / 12 Threads"
+    },
+    {
+      "group": "specs",
+      "label": "Base Clock Speed",
+      "value": "3.5 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Max Boost Clock",
+      "value": "Up to 4.4 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Total Cache",
+      "value": "35 MB (3 MB L2 Cache + 32 MB L3 Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "PCI Express Version",
+      "value": "PCIe 4.0"
+    },
+    {
+      "group": "specs",
+      "label": "Default TDP",
+      "value": "65W"
+    },
+    {
+      "group": "specs",
+      "label": "Unlocked for Overclocking",
+      "value": "Yes (Supports Precision Boost Overdrive)"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory Type",
+      "value": "DDR4 (Up to 3200MHz native support)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Solution Included",
+      "value": "AMD Wraith Stealth Cooler"
+    },
+    {
+      "group": "specs",
+      "label": "Integrated Graphics",
+      "value": "No (Discrete Graphics Card Required)"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "High-Performance Gaming, Content Creation, Streaming & General Multitasking"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    }
+  ]
+}

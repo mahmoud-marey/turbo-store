@@ -1,0 +1,75 @@
+{
+  "id": 620,
+  "slug": "hiksemi-wave",
+  "name": "HIKSEMI WAVE 256GB SSD SATA 3.0 ",
+  "model": "WAVE",
+  "brand": "Hiksemi",
+  "brandSlug": "hiksemi",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 1899,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 6,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001110-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001110-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001110-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001110-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001129-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001129-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302001129-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "HIKSEMI",
+    "WAVE",
+    "256GB",
+    "SSD",
+    "SATA",
+    "3.0"
+  ],
+  "shortDescription": "HIKSEMI WAVE(S) SATA SSD Solid State Drive 2.5 Inch Sata3-256GB Up to 530MB/sInternal Solid State Drive for Desktop and Laptop Computer 256GB/3D NAND/SATA III 6 Gb/s SATA II 3 Gb/s Up to 530MB/s read speed400MB/s write s",
+  "descriptionHtml": "<p>HIKSEMI WAVE(S) SATA SSD Solid State Drive 2.5 Inch Sata3-256GB Up to 530MB/s</p><p>Internal Solid State Drive for Desktop and Laptop Computer 256GB/3D NAND/SATA III 6 Gb/s SATA II 3 Gb/s</p><p>Up to 530MB/s read speed400MB/s write speed</p><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    }
+  ]
+}

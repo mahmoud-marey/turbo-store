@@ -1,0 +1,139 @@
+{
+  "id": 777,
+  "slug": "gigabyte-rtx-5060ti-gaming-oc-16gb",
+  "name": "Gigabyte GeForce RTX 5060 Ti Gaming OC 16GB GDDR7 Graphics Card (GV-N506TGAMING-OC-16GD)",
+  "model": "GV-N506TGAMING OC-16GD",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 35499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-2-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-ti-gaming-oc-16gb-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "Gaming OC",
+    "GeForce RTX",
+    "RTX 5060 Ti",
+    "16GB GDDR7",
+    "Triple Fan",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "Gigabyte GeForce RTX 5060 Ti Gaming OC 16GB GDDR7 Graphics CardEmpower your desktop gaming workstation and high-end rendering projects with the power of the Gigabyte GeForce RTX 5060 Ti Gaming OC 16GB GDDR7 graphics card",
+  "descriptionHtml": "<p><span>Gigabyte GeForce RTX 5060 Ti Gaming OC 16GB GDDR7 Graphics Card</span></p><p>Empower your desktop gaming workstation and high-end rendering projects with the power of the Gigabyte GeForce RTX 5060 Ti Gaming OC 16GB GDDR7 graphics card, distributed via Turbo Computer Egypt. Driven by NVIDIA's high-efficiency next-generation architecture, this premium card offers a massive 16GB of ultra-fast dedicated GDDR7 memory buffer to eliminate performance bottlenecks in texture-heavy AAA titles and complex AI computing workloads. To ensure optimal thermal dissipation, it is equipped with Gigabyte's iconic Windforce cooling system, featuring three alternate-spinning unique blade fans, high-efficiency composite pure copper heat pipes, and screen cooling architecture. Built with a rigid protection backplate, premium components, and customizable RGB Fusion lighting array, this factory overclocked edition delivers ultimate structural durability and premium frame rates, officially backed by a 3-year factory warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Gigabyte</td></tr><tr><td>Product Series</td><td>Gigabyte Gaming OC Edition</td></tr><tr><td>Model Number / P/N</td><td>GV-N506TGAMING-OC-16GD</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5060 Ti</td></tr><tr><td>Video Memory (VRAM)</td><td>16GB GDDR7 Next-Generation Ultra-Fast Memory Matrix</td></tr><tr><td>Core Clock Profile</td><td>Factory Overclocked (Gaming OC Tuned High-Performance)</td></tr><tr><td>Cooling Architecture</td><td>Windforce Thermal System (3x Unique Blade Fans, Alternate Spinning, 3D Active Fan)</td></tr><tr><td>Aesthetics &amp; Build</td><td>Protective Metal Backplate layout + RGB Fusion Interface Synchronization</td></tr><tr><td>Display Outputs</td><td>Native DisplayPort Array + Native HDMI Outputs (HDCP 2.3 Ready)</td></tr><tr><td>Recommended PSU</td><td>550W or Higher Quality Certified Power Supply Unit</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Gigabyte"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "Gigabyte Gaming OC Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / P/N",
+      "value": "GV-N506TGAMING-OC-16GD"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5060 Ti"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "16GB GDDR7 Next-Generation Ultra-Fast Memory Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Core Clock Profile",
+      "value": "Factory Overclocked (Gaming OC Tuned High-Performance)"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Architecture",
+      "value": "Windforce Thermal System (3x Unique Blade Fans, Alternate Spinning, 3D Active Fan)"
+    },
+    {
+      "group": "specs",
+      "label": "Aesthetics & Build",
+      "value": "Protective Metal Backplate layout + RGB Fusion Interface Synchronization"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "Native DisplayPort Array + Native HDMI Outputs (HDCP 2.3 Ready)"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "550W or Higher Quality Certified Power Supply Unit"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

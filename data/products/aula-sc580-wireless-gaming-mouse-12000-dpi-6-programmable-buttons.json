@@ -1,0 +1,126 @@
+{
+  "id": 1154,
+  "slug": "aula-sc580-wireless-gaming-mouse-12000-dpi-6-programmable-buttons",
+  "name": "AULA SC580 Wireless Gaming Mouse 12000 DPI - 6 Buttons",
+  "model": "SC580",
+  "brand": "Aula",
+  "brandSlug": "aula",
+  "categorySlugs": [
+    "pc-cases-chasses"
+  ],
+  "price": 1099,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-wireless-mouse-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-wireless-mouse-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-wireless-mouse-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-wireless-mouse-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-12000-dpi-sensor-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-12000-dpi-sensor-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc580-12000-dpi-sensor-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AULA",
+    "SC580",
+    "Wireless Mouse",
+    "Gaming Mouse",
+    "12000 DPI",
+    "6 Programmable Buttons",
+    "Optical Sensor",
+    "Lightweight",
+    "Ergonomic Design",
+    "RGB Backlight",
+    "Turbo Computer"
+  ],
+  "shortDescription": "AULA SC580 Wireless Gaming Mouse (12000 DPI Optical Sensor / 6 Programmable Buttons / Lightweight Ergonomic Form Factor / Dynamic RGB Illumination)Achieve precision and lightning-fast responsiveness with the AULA SC580 W",
+  "descriptionHtml": "<p><span>AULA SC580 Wireless Gaming Mouse (12000 DPI Optical Sensor / 6 Programmable Buttons / Lightweight Ergonomic Form Factor / Dynamic RGB Illumination)</span></p><p>Achieve precision and lightning-fast responsiveness with the AULA SC580 Wireless Gaming Mouse, available now at Turbo Computer Egypt. Engineered to deliver an exceptional balance of speed and tracking accuracy, this mouse features a high-performance optical gaming sensor capable of scaling up to 12000 DPI. Equipped with 6 fully programmable buttons, players can customize macros, hotkeys, and profile setups to optimize layout efficiency for intensive competitive matches. Built inside an ultra-lightweight, streamlined ergonomic chassis, the SC580 contours naturally to various grip styles to minimize hand fatigue during extended desktop sessions. Powered by an advanced low-latency high-speed wireless tracking module and backed by a long-lasting rechargeable battery cell configuration, it features customizable dynamic RGB accent light loops to integrate beautifully with any modern battle station layout matrix.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Maker</td><td>AULA Gaming</td></tr><tr><td>Model Specification</td><td>SC580 High-Speed Wireless Series</td></tr><tr><td>Sensor Engine</td><td>Esports-Grade Optical Gaming Sensor Core Matrix</td></tr><tr><td>Maximum Resolution</td><td>Up to 12000 DPI (Multi-Stage On-The-Fly Customization)</td></tr><tr><td>Total Control Layout</td><td>6 Fully Programmable Action Buttons Layout (Supports Macro Software)</td></tr><tr><td>Connectivity Ecosystem</td><td>High-Speed Wireless Tracking Interface + Wired Charging Path</td></tr><tr><td>Chassis Ergonomics</td><td>Ultra-Lightweight Comfort Streamlined Profile Layout</td></tr><tr><td>Illumination System</td><td>Customizable Dynamic RGB Ambient Accent Effects Matrix</td></tr><tr><td>OS Compatibility</td><td>Windows and Mac OS Cross-Platform Tracking Integration</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Maker",
+      "value": "AULA Gaming"
+    },
+    {
+      "group": "specs",
+      "label": "Model Specification",
+      "value": "SC580 High-Speed Wireless Series"
+    },
+    {
+      "group": "specs",
+      "label": "Sensor Engine",
+      "value": "Esports-Grade Optical Gaming Sensor Core Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Maximum Resolution",
+      "value": "Up to 12000 DPI (Multi-Stage On-The-Fly Customization)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Control Layout",
+      "value": "6 Fully Programmable Action Buttons Layout (Supports Macro Software)"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Ecosystem",
+      "value": "High-Speed Wireless Tracking Interface + Wired Charging Path"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Ergonomics",
+      "value": "Ultra-Lightweight Comfort Streamlined Profile Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Illumination System",
+      "value": "Customizable Dynamic RGB Ambient Accent Effects Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "OS Compatibility",
+      "value": "Windows and Mac OS Cross-Platform Tracking Integration"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-17",
+      "demo": true
+    }
+  ]
+}

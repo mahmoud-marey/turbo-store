@@ -1,0 +1,135 @@
+{
+  "id": 973,
+  "slug": "crucial-8gb-ddr5-5600mhz-laptop-ram-sodimm",
+  "name": "Crucial 8GB DDR5 5600MHz CL46 Laptop Memory (SODIMM)",
+  "model": "8GB DDR5 5600MHz",
+  "brand": "CRUCIAL",
+  "brandSlug": "crucial",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 5400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/crucial-8gb-ddr5-5600mhz-laptop-ram-sodimm-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/crucial-8gb-ddr5-5600mhz-laptop-ram-sodimm-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/crucial-8gb-ddr5-5600mhz-laptop-ram-sodimm-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/crucial-8gb-ddr5-5600mhz-laptop-ram-sodimm-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Crucial",
+    "8GB DDR5",
+    "5600MHz",
+    "Laptop RAM",
+    "SODIMM",
+    "DDR5 Memory",
+    "Gaming Laptop Upgrade",
+    "Workstation RAM",
+    "رامات لاب توب",
+    "رامة 8 جيجا ddr5"
+  ],
+  "shortDescription": "Crucial 8GB DDR5 5600MHz CL46 Laptop Memory (SODIMM)Experience the next-generation performance leap for your modern notebook with the ultra-fast Crucial 8GB DDR5 5600MHz Laptop Memory. Available at Turbo Computer, this h",
+  "descriptionHtml": "<p><span>Crucial 8GB DDR5 5600MHz CL46 Laptop Memory (SODIMM)</span></p><p>Experience the next-generation performance leap for your modern notebook with the ultra-fast Crucial 8GB DDR5 5600MHz Laptop Memory. Available at Turbo Computer, this high-density SODIMM hardware upgrade delivers nearly 1.75x the data rates of standard DDR4, providing blazingly fast frequencies right out of the box. It stands as the definitive choice for professionals, gamers, and multitasking users across Egypt looking for a seamless, reliable hardware modification to optimize system configurations and daily performance tracking.</p><p>Expertly engineered powered by Micron quality, the Crucial DDR5 laptop module operates at a blistering 5600MHz with an efficient low-voltage design of 1.1V for enhanced power management and reduced thermal footprint. It features on-module voltage regulation (PMIC) and on-die ECC (Error Correction Code) to guarantee rock-solid system stability and improved bandwidth execution, unlocking an elevated multi-core processing ecosystem.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Crucial (by Micron)</td></tr><tr><td><strong>Memory Type</strong></td><td>DDR5 Laptop Memory</td></tr><tr><td><strong>Model Part Number</strong></td><td>CT8G56C46S5</td></tr><tr><td><strong>Capacity</strong></td><td>8GB</td></tr><tr><td><strong>Form Factor</strong></td><td>SODIMM (262-pin)</td></tr><tr><td><strong>Speed (Frequency)</strong></td><td>5600 MHz (Also compatible with 5200MHz and 4800MHz downclocking)</td></tr><tr><td><strong>CAS Latency</strong></td><td>CL46</td></tr><tr><td><strong>Operating Voltage</strong></td><td>1.1V (Ultra Low Power Management)</td></tr><tr><td><strong>ECC Technology</strong></td><td>On-die ECC (Error Correction Code) for enhanced reliability</td></tr><tr><td><strong>Power Management</strong></td><td>Integrated PMIC (Power Management IC) on the module</td></tr><tr><td><strong>Compatibility</strong></td><td>DDR5-enabled Laptops, Next-Gen Mobile Workstations, and Small Form Factor NUCs (Intel Core 13th/14th Gen &amp; AMD Ryzen 7000/8000/9000 Series Mobile)</td></tr><tr><td><strong>Application</strong></td><td>High-performance Gaming Laptops, Heavy Multitasking, Content Creation &amp; System Memory Expansion</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Crucial (by Micron)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Type",
+      "value": "DDR5 Laptop Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Model Part Number",
+      "value": "CT8G56C46S5"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "8GB"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "SODIMM (262-pin)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed (Frequency)",
+      "value": "5600 MHz (Also compatible with 5200MHz and 4800MHz downclocking)"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL46"
+    },
+    {
+      "group": "specs",
+      "label": "Operating Voltage",
+      "value": "1.1V (Ultra Low Power Management)"
+    },
+    {
+      "group": "specs",
+      "label": "ECC Technology",
+      "value": "On-die ECC (Error Correction Code) for enhanced reliability"
+    },
+    {
+      "group": "specs",
+      "label": "Power Management",
+      "value": "Integrated PMIC (Power Management IC) on the module"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "DDR5-enabled Laptops, Next-Gen Mobile Workstations, and Small Form Factor NUCs (Intel Core 13th/14th Gen & AMD Ryzen 7000/8000/9000 Series Mobile)"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "High-performance Gaming Laptops, Heavy Multitasking, Content Creation & System Memory Expansion"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    }
+  ]
+}

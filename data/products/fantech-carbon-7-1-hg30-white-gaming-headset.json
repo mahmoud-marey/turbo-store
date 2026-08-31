@@ -1,0 +1,137 @@
+{
+  "id": 1276,
+  "slug": "fantech-carbon-7-1-hg30-white-gaming-headset",
+  "name": "Fantech Carbon 7.1 HG30 White Gaming Headset",
+  "model": "HG30",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1849,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-rgb-earcup-lighting-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-rgb-earcup-lighting-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-rgb-earcup-lighting-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-rgb-earcup-lighting-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-gaming-headset-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-gaming-headset-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-gaming-headset-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-headset-mic-cable-set-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-headset-mic-cable-set-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-hg30-white-headset-mic-cable-set-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "Carbon 7.1",
+    "HG30",
+    "White Headset",
+    "Gaming Headset",
+    "7.1 Surround Sound",
+    "RGB Lighting",
+    "50mm Drivers",
+    "USB Headset",
+    "PC Gaming",
+    "Noise Canceling Mic",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Fantech Carbon 7.1 HG30 White Gaming Headset (7.1 Virtual Surround Sound / 50mm Audio Drivers / RGB Lighting / Omni-Directional Noise-Canceling Mic / Ergonomic Over-Ear Design / USB Audio Interface)Immerse yourself in co",
+  "descriptionHtml": "<p><span>Fantech Carbon 7.1 HG30 White Gaming Headset (7.1 Virtual Surround Sound / 50mm Audio Drivers / RGB Lighting / Omni-Directional Noise-Canceling Mic / Ergonomic Over-Ear Design / USB Audio Interface)</span></p><p>Immerse yourself in competitive gameplay with the Fantech Carbon 7.1 HG30 Gaming Headset in White, available at Turbo Computer Egypt. Engineered with 7.1 virtual surround sound and powerful 50mm dynamic drivers, this headset delivers precise spatial awareness and deep, impactful bass for intense gaming sessions. Features vibrant RGB lighting, an omni-directional noise-canceling microphone for crystal-clear team communication, soft leatherette ear cushions for long-lasting comfort, and a durable USB connection optimized for PC setups.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>Fantech Carbon 7.1 (HG30)</td></tr><tr><td>Color &amp; Design</td><td>White Finish with Silver &amp; RGB Accents</td></tr><tr><td>Audio Sound Engine</td><td>7.1 Virtual Surround Sound Engine</td></tr><tr><td>Driver Diameter</td><td>50mm Dynamic Speakers with Neodymium Magnets</td></tr><tr><td>Frequency Response &amp; Sensitivity</td><td>20Hz - 20,000Hz / 112dB ± 3dB</td></tr><tr><td>Lighting Effects</td><td>RGB Illumination on Earcups</td></tr><tr><td>Microphone Type</td><td>Flexible Omni-Directional Noise-Canceling Microphone</td></tr><tr><td>Ear Cushion &amp; Headband</td><td>Plush Soft Leatherette Ear Pads with Adjustable Headband</td></tr><tr><td>Interface &amp; Cable</td><td>Gold-Plated USB Plug / Durable PVC Cable</td></tr><tr><td>System Compatibility</td><td>PC / Laptop / Windows OS Compatible</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "Fantech Carbon 7.1 (HG30)"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Design",
+      "value": "White Finish with Silver & RGB Accents"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Sound Engine",
+      "value": "7.1 Virtual Surround Sound Engine"
+    },
+    {
+      "group": "specs",
+      "label": "Driver Diameter",
+      "value": "50mm Dynamic Speakers with Neodymium Magnets"
+    },
+    {
+      "group": "specs",
+      "label": "Frequency Response & Sensitivity",
+      "value": "20Hz - 20,000Hz / 112dB ± 3dB"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting Effects",
+      "value": "RGB Illumination on Earcups"
+    },
+    {
+      "group": "specs",
+      "label": "Microphone Type",
+      "value": "Flexible Omni-Directional Noise-Canceling Microphone"
+    },
+    {
+      "group": "specs",
+      "label": "Ear Cushion & Headband",
+      "value": "Plush Soft Leatherette Ear Pads with Adjustable Headband"
+    },
+    {
+      "group": "specs",
+      "label": "Interface & Cable",
+      "value": "Gold-Plated USB Plug / Durable PVC Cable"
+    },
+    {
+      "group": "specs",
+      "label": "System Compatibility",
+      "value": "PC / Laptop / Windows OS Compatible"
+    }
+  ],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-25",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-12",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-17",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    }
+  ]
+}

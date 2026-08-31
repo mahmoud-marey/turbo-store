@@ -1,0 +1,137 @@
+{
+  "id": 1001,
+  "slug": "t-dagger-recruit-t-tgm208-rgb-gaming-mouse",
+  "name": "T-Dagger Recruit T-TGM208 RGB Gaming Mouse",
+  "model": "T-TGM208",
+  "brand": "T-Dagger",
+  "brandSlug": "t-dagger",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/t-dagger-recruit-t-tgm208-rgb-gaming-mouse-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/t-dagger-recruit-t-tgm208-rgb-gaming-mouse-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/t-dagger-recruit-t-tgm208-rgb-gaming-mouse-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/t-dagger-recruit-t-tgm208-rgb-gaming-mouse-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/t-dagger-recruit-t-tgm208-rgb-gaming-mouse-2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/t-dagger-recruit-t-tgm208-rgb-gaming-mouse-2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/t-dagger-recruit-t-tgm208-rgb-gaming-mouse-2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "t-dagger t-tgm208 egypt",
+    "t-dagger recruit price",
+    "سعر ماوس t-dagger tgm208",
+    "ماوس جيمنج تي داجر مصر",
+    "اسعار ماوسات تي داجر",
+    "ماوس ار جي بي لتربو",
+    "tgm208 specs"
+  ],
+  "shortDescription": "T-Dagger Recruit T-TGM208 RGB Gaming MouseDominate the digital battlefield and secure pixel-perfect tracking control with the T-Dagger Recruit T-TGM208 RGB Gaming Mouse. Available at Turbo Computer, this high-performance",
+  "descriptionHtml": "<p><span>T-Dagger Recruit T-TGM208 RGB Gaming Mouse</span></p><p>Dominate the digital battlefield and secure pixel-perfect tracking control with the T-Dagger Recruit T-TGM208 RGB Gaming Mouse. Available at Turbo Computer, this high-performance wired hardware accessory is engineered for competitive gamers who demand speed, reliability, and precision without breaking the bank. It stands as the definitive choice for entry-level setups and budget builders across Egypt looking for an immediate hardware modification to upgrade their desktop performance tracking.</p><p>The T-Dagger Recruit features an advanced optical gaming sensor with adjustable DPI configurations up to 4800 DPI, letting you swap sensitivity layouts instantly mid-game. Outfitted with 7 fully programmable buttons and durable gaming switches built for heavy-duty daily performance, it delivers crisp click management. Complete with smooth dynamic RGB backlighting zones and an ergonomic, non-slip textured layout, it anchors comfortably in your hand for long-term endurance.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>T-Dagger</td></tr><tr><td><strong>Model Name</strong></td><td>Recruit (T-TGM208)</td></tr><tr><td><strong>Sensor Type</strong></td><td>High-Precision Optical Gaming Sensor</td></tr><tr><td><strong>Resolution Speed</strong></td><td>Adjustable DPI (800 / 1600 / 2400 / 3200 / 4800 DPI tracking steps)</td></tr><tr><td><strong>Polling Rate</strong></td><td>125Hz Polling Rate layout system specs</td></tr><tr><td><strong>Total Buttons</strong></td><td>7 Fully Programmable Buttons (Customizable via software configuration)</td></tr><tr><td><strong>Lighting Ecosystem</strong></td><td>Dynamic RGB Backlit with multiple vibrant presets and tracking effects</td></tr><tr><td><strong>Acceleration</strong></td><td>10G Acceleration force tracking management</td></tr><tr><td><strong>Connectivity</strong></td><td>High-Speed Wired USB with a durable PVC cable layout</td></tr><tr><td><strong>Design Layout</strong></td><td>Ergonomic right-handed design with comfortable non-slip side grips</td></tr><tr><td><strong>OS Compatibility</strong></td><td>Windows 11 / 10 / 8 / 7 / XP / Vista and modern laptop/desktop setups</td></tr><tr><td><strong>Application</strong></td><td>FPS / MOBA / RTS PC Gaming, Budget Esports Stations, Everyday Office Work, and Workstation Desktop Tracking Configurations</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "T-Dagger"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "Recruit (T-TGM208)"
+    },
+    {
+      "group": "specs",
+      "label": "Sensor Type",
+      "value": "High-Precision Optical Gaming Sensor"
+    },
+    {
+      "group": "specs",
+      "label": "Resolution Speed",
+      "value": "Adjustable DPI (800 / 1600 / 2400 / 3200 / 4800 DPI tracking steps)"
+    },
+    {
+      "group": "specs",
+      "label": "Polling Rate",
+      "value": "125Hz Polling Rate layout system specs"
+    },
+    {
+      "group": "specs",
+      "label": "Total Buttons",
+      "value": "7 Fully Programmable Buttons (Customizable via software configuration)"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting Ecosystem",
+      "value": "Dynamic RGB Backlit with multiple vibrant presets and tracking effects"
+    },
+    {
+      "group": "specs",
+      "label": "Acceleration",
+      "value": "10G Acceleration force tracking management"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity",
+      "value": "High-Speed Wired USB with a durable PVC cable layout"
+    },
+    {
+      "group": "specs",
+      "label": "Design Layout",
+      "value": "Ergonomic right-handed design with comfortable non-slip side grips"
+    },
+    {
+      "group": "specs",
+      "label": "OS Compatibility",
+      "value": "Windows 11 / 10 / 8 / 7 / XP / Vista and modern laptop/desktop setups"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "FPS / MOBA / RTS PC Gaming, Budget Esports Stations, Everyday Office Work, and Workstation Desktop Tracking Configurations"
+    }
+  ],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    }
+  ]
+}

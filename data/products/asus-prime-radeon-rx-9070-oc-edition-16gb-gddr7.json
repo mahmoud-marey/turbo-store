@@ -1,0 +1,133 @@
+{
+  "id": 1093,
+  "slug": "asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7",
+  "name": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR7 Graphics Card (PRIME-RX9070-O16G)",
+  "model": "RX 9070 OC Edition",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 37999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-1-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr7-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Prime",
+    "Radeon RX",
+    "RX 9070",
+    "OC Edition",
+    "16GB GDDR7",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR7 Graphics CardUnleash next-generation gaming performance and high-bandwidth rendering with the ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR7 graphics card, distributed via",
+  "descriptionHtml": "<p><span>ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR7 Graphics Card</span></p><p>Unleash next-generation gaming performance and high-bandwidth rendering with the ASUS Prime Radeon RX 9070 OC Edition 16GB GDDR7 graphics card, distributed via Turbo Computer Egypt. Built on AMD's latest high-efficiency architecture, this advanced GPU features a massive 16GB of ultra-fast next-gen GDDR7 memory matrix to deliver smooth high-frame-rate gaming at demanding resolutions. The sophisticated 2.5-slot compact profile is engineered to ensure seamless compatibility with small form factor (SFF) desktop setups while keeping thermal management at its peak. Equipped with a premium triple-fan array operating on dual ball bearings, it guarantees exceptional, quiet cooling under extended heavy loads. Factory overclocked for enhanced performance out of the box, this cutting-edge graphics infrastructure is backed by a 3-year official warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Product Series</td><td>ASUS Prime Series</td></tr><tr><td>Model Name / P/N</td><td>Prime Radeon RX 9070 OC Edition (PRIME-RX9070-O16G)</td></tr><tr><td>Graphics Engine</td><td>AMD Radeon™ RX 9070</td></tr><tr><td>Video Memory (VRAM)</td><td>16GB GDDR7 Dedicated Next-Gen Memory Matrix</td></tr><tr><td>Engine Clock</td><td>OC Mode: Factory Overclocked Performance Profile</td></tr><tr><td>Cooling System</td><td>Triple Fan Thermal Array (Dual Ball Fan Bearings, 0dB Quiet Technology)</td></tr><tr><td>Form Factor / Slots</td><td>2.5-Slot Design (Excellent SFF Case Compatibility)</td></tr><tr><td>Display Outputs</td><td>Native HDMI, Native DisplayPort Outputs (HDCP Support Matrix)</td></tr><tr><td>Power Connectors</td><td>Standard High-Reliability PCIe Power Connector Setup</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "ASUS Prime Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / P/N",
+      "value": "Prime Radeon RX 9070 OC Edition (PRIME-RX9070-O16G)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "AMD Radeon™ RX 9070"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "16GB GDDR7 Dedicated Next-Gen Memory Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock",
+      "value": "OC Mode: Factory Overclocked Performance Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System",
+      "value": "Triple Fan Thermal Array (Dual Ball Fan Bearings, 0dB Quiet Technology)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor / Slots",
+      "value": "2.5-Slot Design (Excellent SFF Case Compatibility)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "Native HDMI, Native DisplayPort Outputs (HDCP Support Matrix)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Connectors",
+      "value": "Standard High-Reliability PCIe Power Connector Setup"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-22",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-19",
+      "demo": true
+    }
+  ]
+}

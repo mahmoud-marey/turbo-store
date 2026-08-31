@@ -1,0 +1,99 @@
+{
+  "id": 417,
+  "slug": "victus-13500h-rtx3050",
+  "name": "Laptop HP VICTUS 15-FA1010NE ,Intel Core I5-13500H ,RAM-8G ,SSD-512G ,VGA Nvidia RTX3050-6G DDR6 ,15.6&quot; FHD IPS 144Hz WINDOWS 11",
+  "model": "15-FA1010NE",
+  "brand": "HP",
+  "brandSlug": "hp",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/HPL/V6-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V6-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V6-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V6-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V2-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V4-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V4-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V4-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/V1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/V1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/V1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "HP",
+    "VICTUS",
+    "15-FA1010NE",
+    "Intel",
+    "Core",
+    "I5-13500H",
+    "RAM-8G",
+    "SSD-512G",
+    "VGA",
+    "Nvidia",
+    "RTX3050-6G",
+    "DDR6",
+    "15.6&amp;quot;",
+    "FHD",
+    "IPS",
+    "144Hz",
+    "WINDOWS",
+    "11"
+  ],
+  "shortDescription": "laptop HP VICTUS is a gaming laptop that has the following features:Processor: Intel® Core™ i5-13500H (18 MB Cache, 12 Core, 3.50 GHz to 4.70 GHz)Display: 15.6-inch FHD (1920 x 1080) 144Hz IPSMemory: 8GB DDR4 RAMStorage:",
+  "descriptionHtml": "<p>laptop HP VICTUS is a gaming laptop that has the following features:</p><ul><li>Processor: Intel® Core™ i5-13500H (18 MB Cache, 12 Core, 3.50 GHz to 4.70 GHz)</li><li>Display: 15.6-inch FHD (1920 x 1080) 144Hz IPS</li><li>Memory: 8GB DDR4 RAM</li><li>Storage: 512GB M.2 PCIe NVMe SSD</li><li>Graphics: NVIDIA GeForce RTX 3050 6GB GDDR6</li><li>Keyboard: Backlite Keyboard</li><li>OS: WINDOWS 11</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    }
+  ]
+}

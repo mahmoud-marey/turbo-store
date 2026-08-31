@@ -1,0 +1,128 @@
+{
+  "id": 1240,
+  "slug": "yl-906-aluminium-tabletop-rotating-laptop-stand-with-double-fan-black",
+  "name": "YL-906 Aluminium Tabletop Rotating Laptop Stand with Double Fan Black",
+  "model": "YL-906",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 799,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/yl-906-black-laptop-stand-fan-top-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/yl-906-black-laptop-stand-fan-top-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/yl-906-black-laptop-stand-fan-top-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/yl-906-black-laptop-stand-fan-top-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "YL-906",
+    "Laptop Stand",
+    "Aluminium Stand",
+    "Cooling Stand",
+    "Double Fan",
+    "Dual Cooling Fans",
+    "360 Degree Rotation",
+    "Tabletop Stand",
+    "Ergonomic Stand",
+    "Foldable Stand",
+    "Portable Holder",
+    "Black Edition",
+    "Turbo Computer"
+  ],
+  "shortDescription": "YL-906 Aluminium Tabletop Laptop Stand with Double Fan Black Edition (360-Degree Rotating Base / Integrated Dual USB Cooling Fans / Fully Adjustable Height &amp; Angle / Premium Durable Aluminium Alloy / Ergonomic Heat-D",
+  "descriptionHtml": "<p><span>YL-906 Aluminium Tabletop Laptop Stand with Double Fan Black Edition (360-Degree Rotating Base / Integrated Dual USB Cooling Fans / Fully Adjustable Height &amp; Angle / Premium Durable Aluminium Alloy / Ergonomic Heat-Dissipating Design / Foldable &amp; Portable)</span></p><p>Improve your working comfort and active device cooling with the YL-906 Aluminium Tabletop Laptop Stand with Double Fan in Black Edition, available at Turbo Computer Egypt. Crafted from premium sturdy aluminium alloy with a smooth 360-degree rotating base, dual quiet USB cooling fans, and non-slip silicone protective pads, this ergonomic stand provides optimal posture alignment while preventing laptop overheating during demanding tasks.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Model / Series</td><td>YL-906</td></tr><tr><td>Product Type</td><td>Aluminium Tabletop Ergonomic Cooling Laptop Stand</td></tr><tr><td>Color Edition</td><td>Black Edition</td></tr><tr><td>Warranty Period</td><td>1 month</td></tr><tr><td>Cooling System</td><td>Built-in Dual Silent USB Cooling Fans with Hollow Heat Dissipation Vents</td></tr><tr><td>Rotational Feature</td><td>360-Degree Swivel Base for Easy Viewing Angle Adjustment</td></tr><tr><td>Adjustability</td><td>Multi-Angle &amp; Height Adjustable Dual-Shaft Mechanism</td></tr><tr><td>Build Material</td><td>High-Grade Aluminium Alloy Structure with Anti-Slip Silicone Pads</td></tr><tr><td>Structure Design</td><td>Foldable Flat Design for Easy Storage and Transport</td></tr><tr><td>Device Compatibility</td><td>Universal Compatibility for Laptops, MacBooks, &amp; Tablets (10 to 17.3 Inches)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Model / Series",
+      "value": "YL-906"
+    },
+    {
+      "group": "specs",
+      "label": "Product Type",
+      "value": "Aluminium Tabletop Ergonomic Cooling Laptop Stand"
+    },
+    {
+      "group": "specs",
+      "label": "Color Edition",
+      "value": "Black Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1 month"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System",
+      "value": "Built-in Dual Silent USB Cooling Fans with Hollow Heat Dissipation Vents"
+    },
+    {
+      "group": "specs",
+      "label": "Rotational Feature",
+      "value": "360-Degree Swivel Base for Easy Viewing Angle Adjustment"
+    },
+    {
+      "group": "specs",
+      "label": "Adjustability",
+      "value": "Multi-Angle & Height Adjustable Dual-Shaft Mechanism"
+    },
+    {
+      "group": "specs",
+      "label": "Build Material",
+      "value": "High-Grade Aluminium Alloy Structure with Anti-Slip Silicone Pads"
+    },
+    {
+      "group": "specs",
+      "label": "Structure Design",
+      "value": "Foldable Flat Design for Easy Storage and Transport"
+    },
+    {
+      "group": "specs",
+      "label": "Device Compatibility",
+      "value": "Universal Compatibility for Laptops, MacBooks, & Tablets (10 to 17.3 Inches)"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    }
+  ]
+}

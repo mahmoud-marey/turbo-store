@@ -1,0 +1,73 @@
+{
+  "id": 638,
+  "slug": "smile-f003-cooling-pad",
+  "name": "Smile F003 Cooling Pad Stand",
+  "model": "F003",
+  "brand": "Smile",
+  "brandSlug": "smile",
+  "categorySlugs": [
+    "laptop-cooling-pads-stands"
+  ],
+  "price": 599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 9,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/Gfddhgcc-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/Gfddhgcc-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/Gfddhgcc-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/Gfddhgcc-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Smile",
+    "F003",
+    "Cooling",
+    "Pad"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/Gfddh4x.jpg\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.4,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-16",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-21",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-13",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": 1099,
+  "slug": "asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7",
+  "name": "ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 Graphics Card (PRIME-RTX5070-O12G)",
+  "model": "Prime GeForce OC Edition",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 44499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-oc-edition-12gb-2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Prime",
+    "GeForce RTX",
+    "RTX 5070",
+    "OC Edition",
+    "12GB GDDR7",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 Graphics CardUnleash next-generation gaming performance and AI-accelerated workflows with the ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 graphics card, distributed",
+  "descriptionHtml": "<p><span>ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 Graphics Card</span></p><p>Unleash next-generation gaming performance and AI-accelerated workflows with the ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 graphics card, distributed via Turbo Computer Egypt. Built on NVIDIA's high-efficiency next-gen architecture, this advanced GPU features 12GB of ultra-fast dedicated GDDR7 memory to deliver exceptionally smooth high-frame-rate gaming at demanding resolutions. The sophisticated 2.5-slot compact profile is engineered to ensure seamless compatibility with small form factor (SFF) desktop setups while keeping thermal management at its peak. Equipped with a premium triple-fan array operating on dual ball bearings, it guarantees exceptional, quiet cooling under extended heavy loads. Factory overclocked for enhanced performance out of the box, this cutting-edge graphics infrastructure is backed by a 3-year official warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Product Series</td><td>ASUS Prime Series</td></tr><tr><td>Model Name / P/N</td><td>Prime GeForce RTX 5070 OC Edition (PRIME-RTX5070-O12G)</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5070</td></tr><tr><td>Video Memory (VRAM)</td><td>12GB GDDR7 Dedicated Next-Gen Video Memory</td></tr><tr><td>Engine Clock Boost</td><td>OC Mode: Factory Overclocked Performance Profile</td></tr><tr><td>Cooling System</td><td>Triple Fan Thermal Array (Dual Ball Fan Bearings, 0dB Quiet Technology)</td></tr><tr><td>Form Factor / Slots</td><td>2.5-Slot Design (Excellent SFF Case Compatibility)</td></tr><tr><td>Display Outputs</td><td>Native HDMI, Native DisplayPort Outputs (HDCP Support Matrix)</td></tr><tr><td>Power Connectors</td><td>Standard High-Reliability 12V-2x6 / PCIe Power Setup</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "ASUS Prime Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / P/N",
+      "value": "Prime GeForce RTX 5070 OC Edition (PRIME-RTX5070-O12G)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5070"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "12GB GDDR7 Dedicated Next-Gen Video Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock Boost",
+      "value": "OC Mode: Factory Overclocked Performance Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System",
+      "value": "Triple Fan Thermal Array (Dual Ball Fan Bearings, 0dB Quiet Technology)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor / Slots",
+      "value": "2.5-Slot Design (Excellent SFF Case Compatibility)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "Native HDMI, Native DisplayPort Outputs (HDCP Support Matrix)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Connectors",
+      "value": "Standard High-Reliability 12V-2x6 / PCIe Power Setup"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-24",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-11",
+      "demo": true
+    }
+  ]
+}

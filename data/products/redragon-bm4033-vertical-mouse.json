@@ -1,0 +1,154 @@
+{
+  "id": 927,
+  "slug": "redragon-bm4033-vertical-mouse",
+  "name": "Redragon BM-4033 Vertical Mouse",
+  "model": "BM4033",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 650,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260607145858-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260607145858-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260607145858-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260607145858-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Redragon",
+    "BM4033",
+    "Vertical",
+    "Mouse"
+  ],
+  "shortDescription": "https://redragonzone.ph/product/rd-office-mouse-bm-4033-2-4g-wireless-vertical-black/Redragon BM-4033 — Wireless Vertical Ergonomic Mouse\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nBrand\r\nRedragon\r\n\r\n\r\nModel\r\nBM-4033\r\n\r\n\r\nType\r\n2.4G W",
+  "descriptionHtml": "<p><strong><br></strong></p><p><strong>https://redragonzone.ph/product/rd-office-mouse-bm-4033-2-4g-wireless-vertical-black/</strong></p><p><strong><br></strong></p><p><strong><br></strong></p><p><strong>Redragon BM-4033 — Wireless Vertical Ergonomic Mouse</strong></p><p></p><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Redragon</td></tr><tr><td><strong>Model</strong></td><td>BM-4033</td></tr><tr><td><strong>Type</strong></td><td>2.4G Wireless Vertical Ergonomic Mouse</td></tr><tr><td><strong>Connectivity</strong></td><td>2.4GHz Wireless, up to 10m range</td></tr><tr><td><strong>USB Receiver</strong></td><td>Plug-and-play (no drivers required)</td></tr><tr><td><strong>DPI Levels</strong></td><td>5 levels: 800 / 1200 / 1600 / 2400 / 4000</td></tr><tr><td><strong>Tracking</strong></td><td>Advanced optical tracking</td></tr><tr><td><strong>Ergonomic Angle</strong></td><td>39° ergonomic angle with 90° rotation</td></tr><tr><td><strong>Hand Orientation</strong></td><td>Right-hand only</td></tr><tr><td><strong>Power</strong></td><td>1× AA battery (installed in storage slot, not included)</td></tr><tr><td><strong>Power Saving</strong></td><td>Auto sleep after 8 minutes of inactivity; reactivates on movement or click</td></tr><tr><td><strong>Dimensions</strong></td><td>Length 87mm × Width 63mm × Height 119mm</td></tr><tr><td><strong>Weight</strong></td><td>95 ± 5g</td></tr><tr><td><strong>Color</strong></td><td>Black</td></tr><tr><td><strong>Compatibility</strong></td><td>PC Desktop, Laptop, MacBook</td></tr><tr><td><strong>OS Support</strong></td><td>Windows, macOS, and other systems</td></tr><tr><td><strong>Package Contents</strong></td><td>Mouse × 1, USB Receiver × 1, Operating Instructions × 1</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Redragon"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "BM-4033"
+    },
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "2.4G Wireless Vertical Ergonomic Mouse"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity",
+      "value": "2.4GHz Wireless, up to 10m range"
+    },
+    {
+      "group": "specs",
+      "label": "USB Receiver",
+      "value": "Plug-and-play (no drivers required)"
+    },
+    {
+      "group": "specs",
+      "label": "DPI Levels",
+      "value": "5 levels: 800 / 1200 / 1600 / 2400 / 4000"
+    },
+    {
+      "group": "specs",
+      "label": "Tracking",
+      "value": "Advanced optical tracking"
+    },
+    {
+      "group": "specs",
+      "label": "Ergonomic Angle",
+      "value": "39° ergonomic angle with 90° rotation"
+    },
+    {
+      "group": "specs",
+      "label": "Hand Orientation",
+      "value": "Right-hand only"
+    },
+    {
+      "group": "specs",
+      "label": "Power",
+      "value": "1× AA battery (installed in storage slot, not included)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Saving",
+      "value": "Auto sleep after 8 minutes of inactivity; reactivates on movement or click"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions",
+      "value": "Length 87mm × Width 63mm × Height 119mm"
+    },
+    {
+      "group": "specs",
+      "label": "Weight",
+      "value": "95 ± 5g"
+    },
+    {
+      "group": "specs",
+      "label": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "PC Desktop, Laptop, MacBook"
+    },
+    {
+      "group": "specs",
+      "label": "OS Support",
+      "value": "Windows, macOS, and other systems"
+    },
+    {
+      "group": "specs",
+      "label": "Package Contents",
+      "value": "Mouse × 1, USB Receiver × 1, Operating Instructions × 1"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    }
+  ]
+}

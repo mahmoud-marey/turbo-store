@@ -1,0 +1,151 @@
+{
+  "id": 1287,
+  "slug": "raidmax-am1204-digital-display-argb-cpu-air-cooler",
+  "name": "Raidmax AM1204 Digital Display ARGB CPU Air Cooler",
+  "model": "am1204",
+  "brand": "Raidmax",
+  "brandSlug": "raidmax",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 1499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-top-display-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-top-display-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-top-display-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-angle-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-angle-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-angle-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/raidmax-am1204-digital-cpu-cooler-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Raidmax",
+    "AM1204",
+    "CPU Cooler",
+    "Air Cooler",
+    "ARGB",
+    "Digital Display",
+    "Real-Time Temperature",
+    "120mm Fan",
+    "PWM ARGB",
+    "4 Heat Pipes",
+    "200W TDP",
+    "Intel LGA 1700",
+    "AMD AM5",
+    "Hydraulic Bearing",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Raidmax AM1204 Digital Display ARGB CPU Air Cooler (Real-Time Temperature Top Screen / 120mm PWM ARGB Silent Fan / 4 Direct-Touch Copper Heat Pipes / 200W TDP Cooling Capacity / Hydraulic Bearing / Broad Intel &amp; AMD ",
+  "descriptionHtml": "<p><span>Raidmax AM1204 Digital Display ARGB CPU Air Cooler (Real-Time Temperature Top Screen / 120mm PWM ARGB Silent Fan / 4 Direct-Touch Copper Heat Pipes / 200W TDP Cooling Capacity / Hydraulic Bearing / Broad Intel &amp; AMD Socket Support / 1 Year Warranty)</span></p><p>Keep your processor cool while monitoring performance in real-time with the Raidmax AM1204 Digital Display ARGB CPU Air Cooler, available at Turbo Computer Egypt with a 1-Year Warranty. Featuring a sleek top cover with an integrated digital temperature display and vivid ARGB lighting, this thermal solution gives you instant visibility over your system's heat levels. Equipped with four direct-contact copper heat pipes, dense aluminum cooling fins, and a high-performance 120mm PWM ARGB fan delivering up to 200W TDP dissipation capacity, it balances whisper-quiet operation with exceptional cooling efficiency for modern gaming and workstation builds.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>Raidmax AM1204 Digital Display ARGB</td></tr><tr><td>Cooling Type &amp; TDP Capacity</td><td>Single-Tower Air Cooler / 200W TDP Thermal Rating</td></tr><tr><td>Digital Screen &amp; Features</td><td>Top Cover Digital Display for Real-Time CPU Temperature Monitoring</td></tr><tr><td>Heat Pipes &amp; Base Design</td><td>4x 6mm Direct-Touch Copper Heat Pipes + Aluminum Fins</td></tr><tr><td>Fan Dimensions &amp; Speed</td><td>120 x 120 x 25 mm Fan / 900 - 1800 RPM (+/-10%) PWM Controlled</td></tr><tr><td>Airflow &amp; Noise Level</td><td>38 CFM Airflow / 1.74 mm-H2O Air Pressure / Quiet Operation (Under 27 dBA)</td></tr><tr><td>Fan Bearing &amp; Lighting</td><td>Hydraulic Bearing / 3-Pin 5V Addressable RGB (ARGB) Lighting</td></tr><tr><td>Intel Socket Compatibility</td><td>LGA 17xx / 1851 / 1200 / 115x / 1366 / 2011</td></tr><tr><td>AMD Socket Compatibility</td><td>AM5 / AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1</td></tr><tr><td>Product Dimensions</td><td>120 x 75 x 151 mm</td></tr><tr><td>Warranty Coverage</td><td>1 Year Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "Raidmax AM1204 Digital Display ARGB"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Type & TDP Capacity",
+      "value": "Single-Tower Air Cooler / 200W TDP Thermal Rating"
+    },
+    {
+      "group": "specs",
+      "label": "Digital Screen & Features",
+      "value": "Top Cover Digital Display for Real-Time CPU Temperature Monitoring"
+    },
+    {
+      "group": "specs",
+      "label": "Heat Pipes & Base Design",
+      "value": "4x 6mm Direct-Touch Copper Heat Pipes + Aluminum Fins"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Dimensions & Speed",
+      "value": "120 x 120 x 25 mm Fan / 900 - 1800 RPM (+/-10%) PWM Controlled"
+    },
+    {
+      "group": "specs",
+      "label": "Airflow & Noise Level",
+      "value": "38 CFM Airflow / 1.74 mm-H2O Air Pressure / Quiet Operation (Under 27 dBA)"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Bearing & Lighting",
+      "value": "Hydraulic Bearing / 3-Pin 5V Addressable RGB (ARGB) Lighting"
+    },
+    {
+      "group": "specs",
+      "label": "Intel Socket Compatibility",
+      "value": "LGA 17xx / 1851 / 1200 / 115x / 1366 / 2011"
+    },
+    {
+      "group": "specs",
+      "label": "AMD Socket Compatibility",
+      "value": "AM5 / AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1"
+    },
+    {
+      "group": "specs",
+      "label": "Product Dimensions",
+      "value": "120 x 75 x 151 mm"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "1 Year Warranty"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-24",
+      "demo": true
+    }
+  ]
+}

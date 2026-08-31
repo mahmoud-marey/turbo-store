@@ -1,0 +1,73 @@
+{
+  "id": 560,
+  "slug": "redragon-m616",
+  "name": "Redragon M616 Gaming Mouse",
+  "model": "M616",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211222742-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211222742-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211222742-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211222742-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/M616%2005-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/M616%2005-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/M616%2005-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "Redragon",
+    "m616",
+    "Gaming"
+  ],
+  "shortDescription": "ضمان عام من الوكيل...",
+  "descriptionHtml": "<p>ضمان عام من الوكيل</p><p><br></p><p><br></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/M616 02.jpg\"></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/M616 01.jpeg\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    }
+  ]
+}

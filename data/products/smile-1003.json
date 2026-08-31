@@ -1,0 +1,69 @@
+{
+  "id": 672,
+  "slug": "smile-1003",
+  "name": "Smile 1003 Laptop Bag",
+  "model": "1003",
+  "brand": "Smile",
+  "brandSlug": "smile",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318000546-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318000546-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318000546-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318000546-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "smile",
+    "1003",
+    "Laptop",
+    "Bag"
+  ],
+  "shortDescription": "مواصفات Smile 1003 Laptop Bagالماركة Smileالموديل 1003اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر متينالوزن خفيفالسعة مناسبة للاستخدام اليومي...",
+  "descriptionHtml": "<p>مواصفات</p><p> Smile 1003 Laptop Bag</p><p><br></p><p>الماركة Smile</p><p>الموديل 1003</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر متين</p><p>الوزن خفيف</p><p>السعة مناسبة للاستخدام اليومي</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-27",
+      "demo": true
+    }
+  ]
+}

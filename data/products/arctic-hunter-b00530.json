@@ -1,0 +1,91 @@
+{
+  "id": 668,
+  "slug": "arctic-hunter-b00530",
+  "name": "Arctic Hunter B00530 Black Laptop Backpack",
+  "model": "B00530",
+  "brand": "Arctic Hunter",
+  "brandSlug": "arctic-hunter",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221543-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221543-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221543-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221543-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221832-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221832-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221832-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221614-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221614-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221614-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221801-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221801-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221801-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221659-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221659-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260317221659-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Arctic",
+    "Hunter",
+    "B00530",
+    "Black",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "ضمان عام من الوكيل&nbsp;مواصفات Arctic Hunter B00530 Black Laptop Backpackالماركة Arctic Hunterالموديل B00530اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر متين ومقاوم للماءالوزن حوالي 08 كجمالابعاد 44 × 30 × 14 س",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل&nbsp;</p><p><br></p><p><br></p><p><br></p><p>مواصفات</p><p> Arctic Hunter B00530 Black Laptop Backpack</p><p><br></p><p>الماركة Arctic Hunter</p><p>الموديل B00530</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر متين ومقاوم للماء</p><p>الوزن حوالي 08 كجم</p><p>الابعاد 44 × 30 × 14 سم</p><p>السعة حوالي 18 لتر</p><p><br></p><p>المميزات</p><p>مقاومة للماء لحماية المحتويات</p><p>جيوب متعددة لتنظيم اللابتوب والتابلت والاكسسوارات</p><p>تصميم مريح بظهر مبطن وحمالات كتف قابلة للتعديل</p><p>مناسب للاستخدام اليومي والعمل والسفر</p><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-10",
+      "demo": true
+    }
+  ]
+}

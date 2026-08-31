@@ -1,0 +1,69 @@
+{
+  "id": 743,
+  "slug": "arctic-mx-6-4g-thermal-paste",
+  "name": "Arctic MX-6 4g THERMAL PASTE original",
+  "model": "MX-6",
+  "brand": "Arctic",
+  "brandSlug": "arctic",
+  "categorySlugs": [
+    "pc-cooling-thermal-solutions"
+  ],
+  "price": 599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412211448-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412211448-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412211448-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260412211448-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Arctic",
+    "MX-6",
+    "4g",
+    "THERMAL",
+    "PASTE"
+  ],
+  "shortDescription": "**Arctic MX-6 4g Thermal Paste (Original)****Brand:** Arctic**Model:** MX-6**Size:** 4 grams**Type:** Non-electrically conductive thermal compound---**Technical Specifications:**- **Thermal Conductivity:** 10.5 W/mK- **V",
+  "descriptionHtml": "**Arctic MX-6 4g Thermal Paste (Original)**<div><br></div><div>**Brand:** Arctic</div><div>**Model:** MX-6</div><div>**Size:** 4 grams</div><div>**Type:** Non-electrically conductive thermal compound</div><div><br></div><div>---</div><div><br></div><div>**Technical Specifications:**</div><div>- **Thermal Conductivity:** 10.5 W/mK</div><div>- **Viscosity:** 50,000 Poise</div><div>- **Density:** 2.60 g/cm³</div><div>- **Operating Temperature:** -50°C to +150°C</div><div><br></div><div>---</div><div><br></div><div>**Electrical Properties:**</div><div>- **Electrical Conductivity:** No (non-conductive)</div><div>- **Capacitance:** Non-capacitive</div><div><br></div><div>---</div><div><br></div><div>**Application:**</div><div>- **Cure Time:** 0 hours (no curing required)</div><div>- **Application Method:** Dot method or thin line</div><div>- **Color:** Dark grey</div><div><br></div><div>---</div><div><br></div><div>**Composition:**</div><div>- Carbon microparticles</div><div>- Metal-free</div><div><br></div><div>---</div><div><br></div><div>**Features:**</div><div>- 100% safe for electronic components (no short circuit risk)</div><div>- No curing or drying time needed</div><div>- Easy to apply and remove</div><div>- Excellent long-term stability</div><div>- Superior thermal performance compared to MX-4</div><div>- High pump-out resistance</div><div><br></div><div>---</div><div><br></div><div>**Compatible with:**</div><div>- CPUs (Intel / AMD)</div><div>- GPUs (NVIDIA / AMD)</div><div>- Gaming consoles (PlayStation, Xbox)</div><div>- Laptops</div><div>- Cooling systems (air and liquid)</div><div><br></div><div>---</div><div><br></div><div>**Package includes:**</div><div>- Arctic MX-6 thermal paste (4g)</div><div><br></div><div>---</div><div><br></div><div><br></div><div>---</div><div><br></div><div>**Performance Notes:**</div><div>- Consistent performance across full temperature range</div><div>- Suitable for daily use and overclocking</div><div>- Noticeable thermal improvement over MX-4</div><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-10",
+      "demo": true
+    }
+  ]
+}

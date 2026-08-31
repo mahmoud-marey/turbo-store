@@ -1,0 +1,70 @@
+{
+  "id": 833,
+  "slug": "kingston-fury-16gb-ddr5-6000mhz-cl36",
+  "name": "KINGSTON FURY 16gb DDR5 6000mhz CL36",
+  "model": "FURY",
+  "brand": "KINGSTON",
+  "brandSlug": "kingston",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 11499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 6,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260503192100-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260503192100-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260503192100-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012_260503192100-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "KINGSTON",
+    "FURY",
+    "16gb",
+    "DDR5",
+    "6000mhz",
+    "CL36"
+  ],
+  "shortDescription": "Kingston FURY Beast DDR5 16GB 6000MT/s CL36 Specifications​The Kingston FURY Beast DDR5 is a high-performance memory module designed for the latest gaming platforms (Intel Z690/Z790 and AMD 600 series). It brings the ext",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>Kingston FURY Beast DDR5 16GB 6000MT/s CL36 Specifications</b></h3><p dir=\"ltr\">​The <b>Kingston FURY Beast DDR5</b> is a high-performance memory module designed for the latest gaming platforms (Intel Z690/Z790 and AMD 600 series). It brings the extreme speed of DDR5 technology with enhanced stability for overclocking, featuring a low-profile heat spreader design.</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\">​<b>Capacity:</b> 16GB (Single Module)</li><li dir=\"ltr\">​<b>Memory Type:</b> DDR5</li><li dir=\"ltr\">​<b>Speed:</b> 6000MT/s (PC5-48000)</li><li dir=\"ltr\">​<b>Latency:</b> CL36 (36-38-38)</li><li dir=\"ltr\">​<b>Voltage:</b> 1.35V</li><li dir=\"ltr\">​<b>Operating Temperature:</b> 0°C to 85°C</li></ul><h3 dir=\"ltr\">​<b>Technical Features</b></h3><ul><li dir=\"ltr\">​<b>On-Die ECC (ODECC):</b> Improved stability at extreme speeds by correcting data errors directly within the RAM chip.</li><li dir=\"ltr\">​<b>Dual 32-bit Subchannels:</b> Increased efficiency and data handling compared to DDR4.</li><li dir=\"ltr\">​<b>Power Management IC (PMIC):</b> Built-in circuit to regulate power more effectively and reduce heat.</li><li dir=\"ltr\">​<b>Profiles:</b> * <b>Intel® XMP 3.0 Certified:</b> Pre-optimized timings, speeds, and voltages for easy overclocking.<ul><li dir=\"ltr\">​<b>AMD EXPO™ Support:</b> Optimized for AMD Ryzen 7000/8000/9000 series platforms.</li></ul></li></ul><h3 dir=\"ltr\">​<b>Physical Design</b></h3><ul><li dir=\"ltr\">​<b>Heat Spreader:</b> Low-profile black aluminum heat spreader.</li><li dir=\"ltr\">​<b>Height:</b> 34.9 mm (Excellent clearance for large CPU air coolers).</li><li dir=\"ltr\">​<b>Pins:</b> 288-pin DIMM.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>High-Speed Performance:</b> At 6000MT/s, this RAM provides a massive bandwidth jump over standard DDR4, ideal for gaming, video editing, and heavy multitasking.</li><li dir=\"ltr\">​<b>Plug N Play:</b> Features automatic overclocking to the highest listed speed allowed by the system BIOS.</li><li dir=\"ltr\">​<b>Stability:</b> The combination of On-Die ECC and PMIC ensures that even during intense gaming sessions, the system remains stable and reliable.</li><li dir=\"ltr\">​<b>Broad Compatibility:</b> Tested and approved to work with the world's leading motherboard manufacturers (ASUS, MSI, Gigabyte, ASRock).</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    }
+  ]
+}

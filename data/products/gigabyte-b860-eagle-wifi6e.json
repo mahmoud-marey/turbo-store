@@ -1,0 +1,69 @@
+{
+  "id": 836,
+  "slug": "gigabyte-b860-eagle-wifi6e",
+  "name": "Gigabyte B860 EAGLE wifi6e Motherboard",
+  "model": "B860 EAGLE wifi6e",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 10400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b860-eagle-wifi6e-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b860-eagle-wifi6e-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b860-eagle-wifi6e-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b860-eagle-wifi6e-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "B860",
+    "EAGLE",
+    "wifi6e",
+    "Motherboard"
+  ],
+  "shortDescription": "Gigabyte B860 EAGLE WiFi 6E Motherboard Specifications​The Gigabyte B860 EAGLE WiFi 6E is a feature-rich, mainstream motherboard designed for the latest generation of Intel Core processors. It strikes a balance between h",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>Gigabyte B860 EAGLE WiFi 6E Motherboard Specifications</b></h3><p dir=\"ltr\">​The <b>Gigabyte B860 EAGLE WiFi 6E</b> is a feature-rich, mainstream motherboard designed for the latest generation of Intel Core processors. It strikes a balance between high-end connectivity, including the ultra-fast WiFi 6E standard, and robust power delivery for stable performance in gaming and professional workloads.</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\">​<b>Socket:</b> Intel® Socket LGA 1851 / 1700 (Depending on specific CPU generation support)</li><li dir=\"ltr\">​<b>Chipset:</b> Intel® B860</li><li dir=\"ltr\">​<b>Form Factor:</b> ATX</li><li dir=\"ltr\">​<b>CPU Support:</b> Supports Intel® Core™ Ultra processors and 14th/13th/12th Gen Intel® Core™ processors (depending on the specific socket revision).</li></ul><h3 dir=\"ltr\">​<b>Memory Support</b></h3><ul><li dir=\"ltr\">​<b>Slots:</b> 4 x DDR5 DIMM</li><li dir=\"ltr\">​<b>Max Capacity:</b> Up to 192GB (48GB per slot)</li><li dir=\"ltr\">​<b>Architecture:</b> Dual Channel</li><li dir=\"ltr\">​<b>Speeds:</b> Supports up to <b>8000+(OC) MHz</b> with XMP 3.0 profiles.</li></ul><h3 dir=\"ltr\">​<b>Expansion &amp; Storage</b></h3><ul><li dir=\"ltr\"> ​<b>PCIe Slots:</b><ul><li dir=\"ltr\">​1 x PCIe 5.0 x16 (Primary reinforced slot for GPUs)</li><li dir=\"ltr\">​2 x PCIe 3.0/4.0 x1 slots</li></ul></li><li dir=\"ltr\">​<b>M.2 Slots:</b> * 3 x M.2 slots (Key M) supporting PCIe 4.0 x4 performance.</li><li dir=\"ltr\">​<b>SATA Ports:</b> 4 x SATA 6Gb/s ports.</li></ul><h3 dir=\"ltr\">​<b>Connectivity &amp; Networking</b></h3><ul><li dir=\"ltr\">​<b>Wireless:</b> Wi-Fi 6E (802.11ax) with 6GHz band support and Bluetooth 5.3.</li><li dir=\"ltr\">​<b>Ethernet:</b> 1 x Realtek® 2.5GbE LAN port.</li><li dir=\"ltr\"> ​<b>Rear I/O Ports:</b><ul><li dir=\"ltr\">​1 x USB 3.2 Gen 2 (Type-C)</li><li dir=\"ltr\">​1 x USB 3.2 Gen 2 (Type-A)</li><li dir=\"ltr\">​4 x USB 2.0/1.1</li><li dir=\"ltr\">​1 x HDMI 2.1 / 1 x DisplayPort 1.4</li><li dir=\"ltr\">​3 x Audio Jacks</li></ul></li></ul><h3 dir=\"ltr\">​<b>Internal Features &amp; Cooling</b></h3><ul><li dir=\"ltr\">​<b>Digital VRM Design:</b> 12+1+1 phases for stable power delivery under heavy loads.</li><li dir=\"ltr\">​<b>M.2 Thermal Guard:</b> Heatsinks included for M.2 slots to prevent throttling of high-speed NVMe SSDs.</li><li dir=\"ltr\">​<b>Smart Fan 6:</b> Multiple temperature sensors and hybrid fan headers with FAN STOP technology.</li><li dir=\"ltr\">​<b>Q-Flash Plus:</b> Update the BIOS without installing the CPU, memory, or graphics card.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>WiFi 6E Technology:</b> Access to the 6GHz frequency band ensures lower latency and less interference in crowded wireless environments.</li><li dir=\"ltr\">​<b>DDR5 Optimized:</b> Enhanced circuitry to unlock the full potential of high-frequency DDR5 memory modules.</li><li dir=\"ltr\">​<b>PCIe 5.0 Ready:</b> Future-proofed for the next generation of high-end graphics cards with double the bandwidth of PCIe 4.0.</li><li dir=\"ltr\">​<b>Advanced Thermal Design:</b> Large VRM heatsinks and optimized airflow paths ensure the motherboard stays cool during intense gaming or rendering sessions.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 30,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    }
+  ]
+}

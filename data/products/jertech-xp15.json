@@ -1,0 +1,69 @@
+{
+  "id": 907,
+  "slug": "jertech-xp15",
+  "name": "Jertech XP15 Night Gaming mouse",
+  "model": "Xp15",
+  "brand": "Jertech",
+  "brandSlug": "jertech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 12,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526161359-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526161359-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526161359-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(5)_260526161359-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "Jertech",
+    "XP15",
+    "Night",
+    "Gaming"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    }
+  ]
+}

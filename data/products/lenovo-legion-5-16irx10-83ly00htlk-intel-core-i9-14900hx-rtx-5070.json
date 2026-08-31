@@ -1,0 +1,133 @@
+{
+  "id": 1085,
+  "slug": "lenovo-legion-5-16irx10-83ly00htlk-intel-core-i9-14900hx-rtx-5070",
+  "name": "Lenovo Legion 5 16IRX10 83LY00HTLK Gaming Laptop (Intel Core i9-14900HX / RTX 5070 8GB / 32GB DDR5 / 1TB SSD / 15.1&quot; WQXGA OLED 165Hz / Win 11)",
+  "model": "Legion 5 16IRX10",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-legion-intel-core-i9-14900h-5070-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-legion-intel-core-i9-14900h-5070-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-legion-intel-core-i9-14900h-5070-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-legion-intel-core-i9-14900h-5070-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-legion-intel-core-i9-14900h-5070-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-legion-intel-core-i9-14900h-5070-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/LENOVO/lenovo-legion-intel-core-i9-14900h-5070-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "Legion",
+    "Legion 5",
+    "16IRX10",
+    "83LY00HTLK",
+    "Gaming Laptop",
+    "Intel Core i9",
+    "RTX 5070",
+    "OLED",
+    "32GB RAM",
+    "Windows 11",
+    "Laptops"
+  ],
+  "shortDescription": "Lenovo Legion 5 16IRX10 Gaming LaptopExperience apex tier portable gaming performance with the Lenovo Legion 5 16IRX10 (83LY00HTLK) workstation laptop, brought to you by Turbo Computer Egypt. Driven by the flagship Intel",
+  "descriptionHtml": "<p><span>Lenovo Legion 5 16IRX10 Gaming Laptop</span></p><p>Experience apex tier portable gaming performance with the Lenovo Legion 5 16IRX10 (83LY00HTLK) workstation laptop, brought to you by Turbo Computer Egypt. Driven by the flagship Intel Core i9-14900HX hybrid architecture processor and packed with the next-generation NVIDIA GeForce RTX 5070 8GB dedicated graphics framework, this machine destroys rendering queues and AAA game boundaries seamlessly. Equipped with 32GB of high-frequency DDR5 memory array and a lightning-fast 1TB NVMe PCIe Gen4 SSD buffer, multi-tasking and level loads happen instantly. Enjoy unparalleled visual depth on the brilliant 15.1-inch WQXGA OLED display layout running at a fluid 165Hz refresh frequency rate with deep contrast profiles. Optimized effectively by the Legion Coldfront thermal matrix, built with a premium gaming chassis, and pre-installed with Windows 11, this top-tier gaming rig comes backed by a 1-year warranty setup.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Lenovo</td></tr><tr><td>Product Line</td><td>Legion 5 Series (16IRX10)</td></tr><tr><td>Model Number / P/N</td><td>83LY00HTLK</td></tr><tr><td>Processor (CPU)</td><td>Intel® Core™ i9-14900HX (24 Cores, up to 5.80 GHz)</td></tr><tr><td>Graphics Layout (GPU)</td><td>NVIDIA® GeForce RTX™ 5070 8GB GDDR7 Laptop GPU</td></tr><tr><td>System Memory (RAM)</td><td>32GB DDR5 High-Performance Array</td></tr><tr><td>Storage Capacity</td><td>1TB NVMe M.2 PCIe Gen4 SSD</td></tr><tr><td>Display Panel</td><td>15.1-inch WQXGA OLED, 165Hz Refresh Rate</td></tr><tr><td>Operating System</td><td>Windows 11 Home Official License</td></tr><tr><td>Warranty Matrix</td><td>1-Year Warranty (ضمان لمدة سنة واحدة)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Lenovo"
+    },
+    {
+      "group": "specs",
+      "label": "Product Line",
+      "value": "Legion 5 Series (16IRX10)"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / P/N",
+      "value": "83LY00HTLK"
+    },
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel® Core™ i9-14900HX (24 Cores, up to 5.80 GHz)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Layout (GPU)",
+      "value": "NVIDIA® GeForce RTX™ 5070 8GB GDDR7 Laptop GPU"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory (RAM)",
+      "value": "32GB DDR5 High-Performance Array"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "1TB NVMe M.2 PCIe Gen4 SSD"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "15.1-inch WQXGA OLED, 165Hz Refresh Rate"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home Official License"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Warranty (ضمان لمدة سنة واحدة)"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-11",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    }
+  ]
+}

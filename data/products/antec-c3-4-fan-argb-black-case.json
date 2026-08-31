@@ -1,0 +1,80 @@
+{
+  "id": 843,
+  "slug": "antec-c3-4-fan-argb-black-case",
+  "name": "Antec c3 4 Fan ARGB Black Case",
+  "model": "C3",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 4199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203539-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203539-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203539-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203539-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203559-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203559-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203559-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203703-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203703-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504203703-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Antec",
+    "C3",
+    "4 Fan",
+    "ARGB",
+    "Black",
+    "Case"
+  ],
+  "shortDescription": "Technical Specifications  The Antec C3 ARGB is a mid-tower chassis from the Constellation series, featuring a 270° full-view panoramic design with seamless tempered glass.  FeatureSpecificationModelAntec C3 ARGB BLACKCas",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_dabb81469c9291f4\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><br></h3><div _ngcontent-ng-c1796533223=\"\"></div><p></p><h3><b><span>Technical Specifications</span></b></h3> <div _ngcontent-ng-c1796533223=\"\"></div><p id=\"p-rc_400aaa0e54ddc2ff-28\"><span>The </span><b>Antec C3 ARGB</b><span> is a mid-tower chassis from the Constellation series, featuring a 270° full-view panoramic design with seamless tempered glass.</span> </p><div _ngcontent-ng-c1796533223=\"\"></div><p></p><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b><span>Model</span></b></span></td><td><span><span>Antec C3 ARGB BLACK</span></span></td></tr><tr><td><span><b>Case Type</b></span></td><td><span>Mid-Tower</span></td></tr><tr><td><span",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    }
+  ]
+}

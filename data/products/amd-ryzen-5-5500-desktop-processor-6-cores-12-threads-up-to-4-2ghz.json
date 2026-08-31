@@ -1,0 +1,137 @@
+{
+  "id": 1007,
+  "slug": "amd-ryzen-5-5500-desktop-processor-6-cores-12-threads-up-to-4-2ghz",
+  "name": "AMD Ryzen 5 5500 Desktop Processor (6 Cores, 12 Threads, Up to 4.2GHz, Socket AM4) box",
+  "model": "5500",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 4899,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500-desktop-processor-6-cores-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500-desktop-processor-6-cores-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500-desktop-processor-6-cores-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-5500-desktop-processor-6-cores-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5",
+    "5500",
+    "Desktop Processor",
+    "AM4 CPU",
+    "Zen 3",
+    "6 Cores",
+    "12 Threads",
+    "PC Gaming",
+    "Hardware Component",
+    "معالج رايزن 5500",
+    "بروسيسور اي ام دي سيكس كور"
+  ],
+  "shortDescription": "AMD Ryzen 5 5500 Desktop Processor (6 Cores, 12 Threads, Up to 4.2GHz)Boost your gaming builds and daily multitasking productivity with the AMD Ryzen 5 5500 Desktop Processor. Available at Turbo Computer, this highly eff",
+  "descriptionHtml": "<p><span>AMD Ryzen 5 5500 Desktop Processor (6 Cores, 12 Threads, Up to 4.2GHz)</span></p><p>Boost your gaming builds and daily multitasking productivity with the AMD Ryzen 5 5500 Desktop Processor. Available at Turbo Computer, this highly efficient AM4 socket hardware component is meticulously crafted for budget gamers and mainstream PC builders across Egypt who want unmatched price-to-performance value. Operating on the high-tier Zen 3 structural layout, it delivers incredible processing speeds for a complete system hardware modification or standard desktop configuration.</p><p>The AMD Ryzen 5 5500 features a robust core setup with 6 processing cores and 12 threads, clocking at a solid base speed of 3.6GHz and pushing up to a maximum boost frequency of 4.2GHz. Outfitted with 19MB of total combined cache (L2+L3), it minimizes data execution tracking latency for fluid frame rates. <strong>Please Note: This processor does not include integrated graphics and requires a discrete/dedicated graphics card layout setup to display video output.</strong></p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>AMD</td></tr><tr><td><strong>Processor Family</strong></td><td>AMD Ryzen 5 Processors</td></tr><tr><td><strong>Model Name</strong></td><td>Ryzen 5 5500</td></tr><tr><td><strong>Core / Thread Layout</strong></td><td>6 Cores / 12 Threads (Optimized for heavy multitasking)</td></tr><tr><td><strong>Clock Frequencies</strong></td><td>Base Clock: 3.6GHz / Max Boost Clock: Up to 4.2GHz tracking speeds</td></tr><tr><td><strong>Total Cache Memory</strong></td><td>19MB Total Cache (3MB L2 Cache + 16MB L3 Cache environment specs)</td></tr><tr><td><strong>Integrated Graphics</strong></td><td><strong>None / Discrete Graphics Card Required</strong> (لا يحتوي على كارت شاشة داخلي)</td></tr><tr><td><strong>CPU Socket Interface</strong></td><td>Socket AM4 (Compatible with AMD B450, B550, A520, and X570 motherboard layouts)</td></tr><tr><td><strong>Memory Support Type</strong></td><td>DDR4 System Memory up to 3200MHz (Dual-channel environment configuration)</td></tr><tr><td><strong>Thermal Design Power (TDP)</strong></td><td>65W Default TDP (Highly optimized power efficiency layout)</td></tr><tr><td><strong>Architecture Base</strong></td><td>TSMC 7nm FinFET / Zen 3 Architecture layout system specs</td></tr><tr><td><strong>Application</strong></td><td>Budget/Mainstream PC Gaming configurations (Pair with GTX/RTX or RX graphics cards), Esports Stations, and Efficient Productivity Workstation Layouts</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "AMD"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Family",
+      "value": "AMD Ryzen 5 Processors"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "Ryzen 5 5500"
+    },
+    {
+      "group": "specs",
+      "label": "Core / Thread Layout",
+      "value": "6 Cores / 12 Threads (Optimized for heavy multitasking)"
+    },
+    {
+      "group": "specs",
+      "label": "Clock Frequencies",
+      "value": "Base Clock: 3.6GHz / Max Boost Clock: Up to 4.2GHz tracking speeds"
+    },
+    {
+      "group": "specs",
+      "label": "Total Cache Memory",
+      "value": "19MB Total Cache (3MB L2 Cache + 16MB L3 Cache environment specs)"
+    },
+    {
+      "group": "specs",
+      "label": "Integrated Graphics",
+      "value": "None / Discrete Graphics Card Required (لا يحتوي على كارت شاشة داخلي)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket Interface",
+      "value": "Socket AM4 (Compatible with AMD B450, B550, A520, and X570 motherboard layouts)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support Type",
+      "value": "DDR4 System Memory up to 3200MHz (Dual-channel environment configuration)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Design Power (TDP)",
+      "value": "65W Default TDP (Highly optimized power efficiency layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Architecture Base",
+      "value": "TSMC 7nm FinFET / Zen 3 Architecture layout system specs"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "Budget/Mainstream PC Gaming configurations (Pair with GTX/RTX or RX graphics cards), Esports Stations, and Efficient Productivity Workstation Layouts"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    }
+  ]
+}

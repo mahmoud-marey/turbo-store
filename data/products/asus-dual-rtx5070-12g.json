@@ -1,0 +1,93 @@
+{
+  "id": 471,
+  "slug": "asus-dual-rtx5070-12g",
+  "name": "ASUS Dual GeForce RTX™ 5070 12GB GDDR7 OC Edition",
+  "model": "DUAL-RTX5070-O12G",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 41499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260407164301-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260407164301-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260407164301-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260407164301-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5070%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5070%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5070%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%205-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%205-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%205-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%204-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%204-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus/rtx5060%204-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Dual",
+    "GeForce",
+    "RTX™",
+    "5070",
+    "12GB",
+    "GDDR7",
+    "OC",
+    "Edition"
+  ],
+  "shortDescription": "Model : DUAL-RTX5070-O12GGraphic Engine : NVIDIA® GeForce RTX™ 5070AI Performance : 1000 TOPsBus Standard : PCI Express 5.0OpenGL : OpenGL®4.6Video Memory : 12GB GDDR7Engine Clock : OC mode: 2572MHzDefault mode: 2542MHz ",
+  "descriptionHtml": "<div>Model : DUAL-RTX5070-O12G</div><div>Graphic Engine : NVIDIA® GeForce RTX™ 5070</div><div>AI Performance : 1000 TOPs</div><div>Bus Standard : PCI Express 5.0</div><div>OpenGL : OpenGL®4.6</div><div>Video Memory : 12GB GDDR7</div><div>Engine Clock : OC mode: 2572MHz</div><div>Default mode: 2542MHz (Boost Clock)</div><div>CUDA Core : 6144</div><div>Memory Speed : 28 Gbps</div><div>Memory Interface : 192-bit</div><div>Resolution : Digital Max Resolution 7680 x 4320</div><div>Interface :&nbsp;</div><div>Yes x 1 (Native HDMI 2.1b)</div><div>Yes x 3 (Native DisplayPort 2.1b)</div><div>HDCP Support Yes (2.3)</div><div>Maximum Display Support : 4</div><div>NVlink/ Crossfire Support : No</div><div>Accessories :&nbsp;</div><div>1 x Speedsetup Manual</div><div>1 x Thank You Card</div><div>1 x Adapter Cable (1 to 2)</div><div>Software :&nbsp;</div><div>ASUS GPU Tweak III &amp; MuseTree &amp; GeForce Game Ready Driver &amp; Studio Driver: please download all software from the support site.</div><div>Dimensions :&nbsp;</div><div>249 x 126 x 50.6 mm</div><div>Recommended PSU : 750W</div><div>Power Connectors : 1 x 16-pin</div><div>Slot : 2.53 Slot</div><div>SFF Ready : Compatible</div><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 5,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    }
+  ]
+}

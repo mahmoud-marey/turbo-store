@@ -1,0 +1,151 @@
+{
+  "id": 1089,
+  "slug": "asus-tuf-gaming-f16-fx608jmr-intel-core-i7-14650hx-rtx-5060",
+  "name": "ASUS TUF Gaming F16 FX608JMR-F16.I75060 Laptop (Intel Core i7-14650HX / RTX 5060 8GB / 32GB DDR5 / 1TB SSD / 16.0 Inch WUXGA / Win 11)",
+  "model": "FX608JMR-F16.I75060",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 82499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-fx608jmr-core-i7-14650hx-5070-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-fx608jmr-core-i7-14650hx-5070-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-fx608jmr-core-i7-14650hx-5070-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-fx608jmr-core-i7-14650hx-5070-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-fx608jmr-core-i7-14650hx-5070-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-fx608jmr-core-i7-14650hx-5070-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-fx608jmr-core-i7-14650hx-5070-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "TUF Gaming",
+    "F16",
+    "FX608J",
+    "FX608JMR",
+    "Gaming Laptop",
+    "Intel Core i7",
+    "RTX 5060",
+    "32GB RAM",
+    "Windows 11",
+    "Laptops"
+  ],
+  "shortDescription": "ASUS TUF Gaming F16 FX608JMR Laptop - Intel Core i7-14650HX - NVIDIA RTX 5060 8GB - 32GB RAM - Windows 11Experience military-grade durability and elite next-generation processing speed with the ASUS TUF Gaming F16 FX608J",
+  "descriptionHtml": "<p>ASUS TUF Gaming F16 FX608JMR Laptop - Intel Core i7-14650HX - NVIDIA RTX 5060 8GB - 32GB RAM - Windows 11</p><p>Experience military-grade durability and elite next-generation processing speed with the ASUS TUF Gaming F16 FX608JMR high-performance workstation, distributed via Turbo Computer Egypt. Driven by the formidable 14th Gen Intel Core i7-14650HX processor architecture and paired with a massive 32GB DDR5 dual-channel memory array, this powerhouse handles extreme gaming and heavy content creation simultaneously. Graphics are accelerated by the cutting-edge NVIDIA GeForce RTX 5060 8GB dedicated engine, bringing groundbreaking ray tracing and DLSS advancements to life. It features a spacious 16.0-inch WUXGA display matrix for immersive visual fields and comes natively pre-installed with licensed Windows 11 Home software. Equipped with a massive 90Wh 4-cell battery cell for extended operation, this elite gaming setup is officially backed by a 1-year Perfect Warranty against manufacturing defects.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Model / P/N</td><td>TUF Gaming F16 (FX608JMR-F16.I75060 / 90NR0NB1-M003N0)</td></tr><tr><td>Processor</td><td>Intel® Core™ i7-14650HX (16 Cores / 24 Threads, Max Turbo Frequency up to 5.20 GHz, 30MB Cache)</td></tr><tr><td>Graphics Card</td><td>NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6 Dedicated VRAM</td></tr><tr><td>Memory (RAM)</td><td>32GB DDR5 High-Frequency Memory Array (16GB * 2 Dual-Channel Optimized)</td></tr><tr><td>Storage Capacity</td><td>1TB M.2 NVMe PCIe® Gen4 Super-Speed Solid State Drive (SSD)</td></tr><tr><td>Display Panel</td><td>16.0\" WUXGA Bend WV Premium Gaming Display Matrix</td></tr><tr><td>Color Aesthetic</td><td>1A-Jaeger Gray Tactical Chassis Durability</td></tr><tr><td>Keyboard Language</td><td>Premium Precision Gaming Keyboard (US Layout Keyboard Layout)</td></tr><tr><td>Connectivity Matrix</td><td>Wi-Fi 6E (11AX2*2_WW) Wireless Card Array + Bluetooth Module</td></tr><tr><td>I/O Ports Array</td><td>3x USB 3.2A, 2x USB-C (Supporting USB 3.2 &amp; Thunderbolt™ TBT matrix), HDMI, RJ45 LAN, Audio Combo Jack</td></tr><tr><td>Battery Power</td><td>Integrated 4-Cell 90WH High-Capacity Battery Layout (Supports Type-C 45-100W USB PD)</td></tr><tr><td>Operating System</td><td>Windows® 11 Home Edition (Original Factory Pre-installed License)</td></tr><tr><td>Warranty Matrix</td><td> 1-Year Perfect Warranty (ضمان بيرفكت وارنتي لمدة عام كامل ضد عيوب الصناعة) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Model / P/N",
+      "value": "TUF Gaming F16 (FX608JMR-F16.I75060 / 90NR0NB1-M003N0)"
+    },
+    {
+      "group": "specs",
+      "label": "Processor",
+      "value": "Intel® Core™ i7-14650HX (16 Cores / 24 Threads, Max Turbo Frequency up to 5.20 GHz, 30MB Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Card",
+      "value": "NVIDIA® GeForce RTX™ 5060 Laptop GPU 8GB GDDR6 Dedicated VRAM"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "32GB DDR5 High-Frequency Memory Array (16GB * 2 Dual-Channel Optimized)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "1TB M.2 NVMe PCIe® Gen4 Super-Speed Solid State Drive (SSD)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "16.0\" WUXGA Bend WV Premium Gaming Display Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Color Aesthetic",
+      "value": "1A-Jaeger Gray Tactical Chassis Durability"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard Language",
+      "value": "Premium Precision Gaming Keyboard (US Layout Keyboard Layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Matrix",
+      "value": "Wi-Fi 6E (11AX2*2_WW) Wireless Card Array + Bluetooth Module"
+    },
+    {
+      "group": "specs",
+      "label": "I/O Ports Array",
+      "value": "3x USB 3.2A, 2x USB-C (Supporting USB 3.2 & Thunderbolt™ TBT matrix), HDMI, RJ45 LAN, Audio Combo Jack"
+    },
+    {
+      "group": "specs",
+      "label": "Battery Power",
+      "value": "Integrated 4-Cell 90WH High-Capacity Battery Layout (Supports Type-C 45-100W USB PD)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows® 11 Home Edition (Original Factory Pre-installed License)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Perfect Warranty (ضمان بيرفكت وارنتي لمدة عام كامل ضد عيوب الصناعة)"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    }
+  ]
+}

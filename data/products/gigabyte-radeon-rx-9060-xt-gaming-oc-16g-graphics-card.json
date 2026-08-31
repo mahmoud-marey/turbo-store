@@ -1,0 +1,135 @@
+{
+  "id": 1286,
+  "slug": "gigabyte-radeon-rx-9060-xt-gaming-oc-16g-graphics-card",
+  "name": "GIGABYTE Radeon RX 9060 XT GAMING OC 16G Graphics Card",
+  "model": "Gaming OC",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 27999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-front-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-angle-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-angle-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-angle-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-backplate-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-backplate-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-rx-9060-xt-gaming-oc-16g-backplate-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "Radeon RX",
+    "RX 9060 XT",
+    "GAMING OC",
+    "16GB GDDR6",
+    "AMD RDNA",
+    "WINDFORCE Cooling",
+    "Triple Fan",
+    "RGB Fusion",
+    "Dual BIOS",
+    "Ray Tracing",
+    "4K Gaming",
+    "3 Years Warranty",
+    "Local Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "GIGABYTE Radeon RX 9060 XT GAMING OC 16G Graphics Card (16GB GDDR6 128-bit / AMD RDNA Architecture / Factory Overclocked / WINDFORCE 3X Triple Fan Cooling / RGB Fusion / Dual BIOS / Metal Backplate / DisplayPort 2.1 &amp",
+  "descriptionHtml": "<p><span>GIGABYTE Radeon RX 9060 XT GAMING OC 16G Graphics Card (16GB GDDR6 128-bit / AMD RDNA Architecture / Factory Overclocked / WINDFORCE 3X Triple Fan Cooling / RGB Fusion / Dual BIOS / Metal Backplate / DisplayPort 2.1 &amp; HDMI 2.1 / 3 Years Official Local Agent Warranty)</span></p><p>Elevate your gaming rig with the GIGABYTE Radeon RX 9060 XT GAMING OC 16G graphics card, available at Turbo Computer Egypt with an Official 3-Year Local Agent Warranty. Featuring 16GB of high-speed GDDR6 memory and advanced AMD RDNA architecture, this factory-overclocked card delivers exceptional 1440p and 4K gaming performance alongside fluid frame rates. Equipped with the iconic WINDFORCE cooling system featuring three alternate spinning blade fans, composite copper heat pipes, 3D active fan technology, and screen cooling, it maintains optimal thermal performance under heavy gaming loads. Enhanced with customizable RGB Fusion lighting and a protective metal backplate, it is built for durability and premium aesthetics.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>GIGABYTE Radeon RX 9060 XT GAMING OC 16G (GV-R9060XTGAMING OC-16GD)</td></tr><tr><td>Graphics Processing &amp; VRAM</td><td>Radeon RX 9060 XT / 16GB GDDR6 Memory / 128-bit Memory Bus</td></tr><tr><td>Bus Interface</td><td>PCI Express 4.0 x16</td></tr><tr><td>Cooling Solution</td><td>WINDFORCE Cooling System (3x Unique Blade Fans, Alternate Spinning, Direct Touch Heatpipes)</td></tr><tr><td>Display Outputs</td><td>2x DisplayPort 2.1, 2x HDMI 2.1a (Supports up to 4 Displays / Max Resolution 7680x4320)</td></tr><tr><td>Power Specs &amp; Connectors</td><td>1x 8-Pin Power Connector (Recommended PSU: 650W)</td></tr><tr><td>RGB &amp; Customization</td><td>RGB Fusion / Dual BIOS (OC Mode &amp; Silent Mode)</td></tr><tr><td>Build &amp; Protection</td><td>Protection Metal Backplate / Ultra Durable Certified Components</td></tr><tr><td>Warranty Coverage</td><td>3 Years Official Local Agent Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "GIGABYTE Radeon RX 9060 XT GAMING OC 16G (GV-R9060XTGAMING OC-16GD)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Processing & VRAM",
+      "value": "Radeon RX 9060 XT / 16GB GDDR6 Memory / 128-bit Memory Bus"
+    },
+    {
+      "group": "specs",
+      "label": "Bus Interface",
+      "value": "PCI Express 4.0 x16"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Solution",
+      "value": "WINDFORCE Cooling System (3x Unique Blade Fans, Alternate Spinning, Direct Touch Heatpipes)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "2x DisplayPort 2.1, 2x HDMI 2.1a (Supports up to 4 Displays / Max Resolution 7680x4320)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Specs & Connectors",
+      "value": "1x 8-Pin Power Connector (Recommended PSU: 650W)"
+    },
+    {
+      "group": "specs",
+      "label": "RGB & Customization",
+      "value": "RGB Fusion / Dual BIOS (OC Mode & Silent Mode)"
+    },
+    {
+      "group": "specs",
+      "label": "Build & Protection",
+      "value": "Protection Metal Backplate / Ultra Durable Certified Components"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "3 Years Official Local Agent Warranty"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    }
+  ]
+}

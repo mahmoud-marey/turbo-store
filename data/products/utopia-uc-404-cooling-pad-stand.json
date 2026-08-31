@@ -1,0 +1,68 @@
+{
+  "id": 926,
+  "slug": "utopia-uc-404-cooling-pad-stand",
+  "name": "UTOPIA UC 404 Cooling Pad Stand",
+  "model": "UC404",
+  "brand": "UTOPIA",
+  "brandSlug": "utopia",
+  "categorySlugs": [
+    "laptop-cooling-pads-stands"
+  ],
+  "price": 600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606231713-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606231713-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606231713-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012%20(6)_260606231713-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "UTOPIA",
+    "uc404",
+    "Cooling",
+    "Pad"
+  ],
+  "shortDescription": "4 fanLow noise5v3w...",
+  "descriptionHtml": "<p>4 fan</p><p>Low noise</p><p>5v</p><p>3w</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

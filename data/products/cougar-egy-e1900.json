@@ -1,0 +1,72 @@
+{
+  "id": 869,
+  "slug": "cougar-egy-e1900",
+  "name": "Cougar Egy E1900 Vertical bluetooth and Wireles Rechargeable Mouse",
+  "model": "E1900",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 450,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510192748-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510192748-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510192748-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0012_260510192748-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Cougar",
+    "Egy",
+    "E1900",
+    "Vertical",
+    "Mouse",
+    "Bluetooth",
+    "Wireless",
+    "Rechargeable"
+  ],
+  "shortDescription": "Cougar-Egy E1900 Vertical Rechargeable Mouse SpecificationsTechnical SpecificationsModel Name: E1900Type: Vertical Ergonomic MouseConnectivity: Dual Mode (Bluetooth + 2.4GHz Wireless)Sensor Type: Optical (Photoelectric)D",
+  "descriptionHtml": "<div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_5a10f8f8847011cb\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><ol start=\"1\"><li><p><br></p></li><li><p><b>Cougar-Egy E1900 Vertical Rechargeable Mouse Specifications</b></p></li></ol><h3><b>Technical Specifications</b></h3><ul><li><p><b>Model Name:</b> E1900</p></li><li><p><b>Type:</b> Vertical Ergonomic Mouse</p></li><li><p><b>Connectivity:</b> Dual Mode (Bluetooth + 2.4GHz Wireless)</p></li><li><p><b>Sensor Type:</b> Optical (Photoelectric)</p></li><li><p id=\"p-rc_64e139e6a6d5a176-30\"><span></span><b>DPI Resolution:</b><span> Adjustable (1000 / 1200 / 1600 DPI)</span> </p><div _ngcontent-ng-c1493689318=\"\"></div><p></p></li><li><p id=\"p-rc_64e139e6a6d5a176-31\"><b>Operating Range:</b><span> Up to 10 Meters</span> </p><div _ngcontent-ng-c1493689318=\"\"></div><p></p></li></ul><h3><b>Design &amp; Build</b></h3><ul><li><p><b>Ergonomics:</b> 57° vertical angle design to reduce wrist strain and muscle fatigue</p></li><li><p id=\"p-rc_64e139e6a6d5a176-32\"><span></span><b>Buttons:</b><span> 4 Buttons (Some variants may list 6 including side buttons)<source-footnote ng-version=\"0.0.0-PLACEHOLDER\" _nghost-ng-c3939426167=\"\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": 1255,
+  "slug": "gigabyte-b850-gaming-wifi6-am5-motherboard",
+  "name": "GIGABYTE B850 GAMING WIFI6 AM5 Motherboard",
+  "model": "B850 GAMING WIFI6",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 9199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-wifi6-board-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-wifi6-board-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-wifi6-board-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-wifi6-board-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-vrm-heatsink-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-vrm-heatsink-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850-gaming-vrm-heatsink-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "B850",
+    "GAMING WIFI6",
+    "AM5 Motherboard",
+    "DDR5 Memory",
+    "PCIe 5.0 x16",
+    "PCIe 5.0 M2",
+    "8 2 2 VRM",
+    "2.5GbE LAN",
+    "Wi-Fi 6",
+    "Bluetooth 5.3",
+    "AMD Ryzen 9000",
+    "Turbo Computer"
+  ],
+  "shortDescription": "GIGABYTE B850 GAMING WIFI6 AM5 Motherboard (Socket AM5 / AMD B850 Chipset / 8+2+2 Phase Digital VRM / Dual Channel DDR5 up to 8000+ MT/s OC / PCIe 5.0 x16 UD Slot / 1x PCIe 5.0 M.2 + 2x PCIe 4.0 M.2 / Realtek 2.5GbE LAN ",
+  "descriptionHtml": "<p><span>GIGABYTE B850 GAMING WIFI6 AM5 Motherboard (Socket AM5 / AMD B850 Chipset / 8+2+2 Phase Digital VRM / Dual Channel DDR5 up to 8000+ MT/s OC / PCIe 5.0 x16 UD Slot / 1x PCIe 5.0 M.2 + 2x PCIe 4.0 M.2 / Realtek 2.5GbE LAN / Wi-Fi 6 + Bluetooth 5.3 / USB 3.2 Gen 2 Type-C / EZ-Latch / ATX Form Factor)</span></p><p>Build a reliable high-performance gaming rig with the GIGABYTE B850 GAMING WIFI6 AM5 Motherboard, available at Turbo Computer Egypt. Designed specifically for AMD Ryzen 9000, 8000, and 7000 Series processors, this ATX motherboard features an 8+2+2 Phase Digital VRM power delivery solution, dual-channel DDR5 memory support with EXPO and XMP profiles, a reinforced PCIe 5.0 x16 UD graphics slot, PCIe 5.0 M.2 storage capabilities, Realtek 2.5GbE LAN, integrated Wi-Fi 6 wireless connectivity, USB 3.2 Gen 2 Type-C ports, and DIY-friendly EZ-Latch mechanisms for convenient system upgrades.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>GIGABYTE B850 GAMING WIFI6 (rev. 1.x)</td></tr><tr><td>CPU Socket &amp; Chipset</td><td>AMD Socket AM5 / AMD B850 Chipset (Supports Ryzen 9000 / 8000 / 7000 Series Processors)</td></tr><tr><td>Power Delivery (VRM)</td><td>8+2+2 Phase Digital VRM Solution with Extended VRM Thermal Heatsinks</td></tr><tr><td>Memory Support</td><td>4 x DDR5 DIMM Slots (Up to 256GB Dual Channel / AMD EXPO &amp; Intel XMP Support / OC up to 8000+ MT/s)</td></tr><tr><td>PCIe Expansion Slots</td><td>1 x PCIe 5.0 x16 UD Slot (PCIe 4.0 mode on Ryzen 8000 Phoenix CPUs) + 2 x PCIe 3.0 x1 Slots</td></tr><tr><td>M.2 &amp; SATA Storage</td><td>1 x M.2 PCIe 5.0 x4 Slot (M2A_CPU) + 2 x M.2 PCIe 4.0 x4 Slots (M2B_CPU &amp; M2C_SB) + 4 x SATA 6Gb/s Ports (RAID 0/1/10)</td></tr><tr><td>Networking &amp; Connectivity</td><td>Realtek 2.5GbE LAN (2.5 Gbps / 1 Gbps / 100 Mbps) + Realtek Wi-Fi 6 RTL8852BE (802.11ax 2.4/5 GHz) + Bluetooth 5.3</td></tr><tr><td>Rear I/O USB Ports</td><td>1 x USB 3.2 Gen 2 Type-C + 1 x USB 3.2 Gen 2 Type-A (Red) + 2 x USB 3.2 Gen 1 Ports + 4 x USB 2.0 Ports</td></tr><tr><td>Internal USB Headers</td><td>1 x Front Panel USB 3.2 Gen 2x2 Type-C Header + 1 x USB 3.2 Gen 1 Header + 2 x USB 2.0 Headers</td></tr><tr><td>Display Outputs</td><td>1 x HDMI 2.1 Port (4096x2160@60Hz) + 1 x DisplayPort 1.4 (3840x2160@144Hz)</td></tr><tr><td>Audio Hardware</td><td>Realtek Audio CODEC High Definition Audio (2/4/5.1/7.1-Channel Support) + High-End Audio Capacitors</td></tr><tr><td>DIY &amp; Thermal Features</td><td>EZ-Latch Quick Release for PCIe Slot, M.2 Thermal Guard Heatsink, WIFI EZ-Plug Antenna, Q-Flash Plus Button &amp; Smart Fan 6</td></tr><tr><td>Form Factor &amp; Dimensions</td><td>ATX Form Factor (30.5cm x 24.4cm)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "GIGABYTE B850 GAMING WIFI6 (rev. 1.x)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket & Chipset",
+      "value": "AMD Socket AM5 / AMD B850 Chipset (Supports Ryzen 9000 / 8000 / 7000 Series Processors)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Delivery (VRM)",
+      "value": "8+2+2 Phase Digital VRM Solution with Extended VRM Thermal Heatsinks"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support",
+      "value": "4 x DDR5 DIMM Slots (Up to 256GB Dual Channel / AMD EXPO & Intel XMP Support / OC up to 8000+ MT/s)"
+    },
+    {
+      "group": "specs",
+      "label": "PCIe Expansion Slots",
+      "value": "1 x PCIe 5.0 x16 UD Slot (PCIe 4.0 mode on Ryzen 8000 Phoenix CPUs) + 2 x PCIe 3.0 x1 Slots"
+    },
+    {
+      "group": "specs",
+      "label": "M.2 & SATA Storage",
+      "value": "1 x M.2 PCIe 5.0 x4 Slot (M2A_CPU) + 2 x M.2 PCIe 4.0 x4 Slots (M2B_CPU & M2C_SB) + 4 x SATA 6Gb/s Ports (RAID 0/1/10)"
+    },
+    {
+      "group": "specs",
+      "label": "Networking & Connectivity",
+      "value": "Realtek 2.5GbE LAN (2.5 Gbps / 1 Gbps / 100 Mbps) + Realtek Wi-Fi 6 RTL8852BE (802.11ax 2.4/5 GHz) + Bluetooth 5.3"
+    },
+    {
+      "group": "specs",
+      "label": "Rear I/O USB Ports",
+      "value": "1 x USB 3.2 Gen 2 Type-C + 1 x USB 3.2 Gen 2 Type-A (Red) + 2 x USB 3.2 Gen 1 Ports + 4 x USB 2.0 Ports"
+    },
+    {
+      "group": "specs",
+      "label": "Internal USB Headers",
+      "value": "1 x Front Panel USB 3.2 Gen 2x2 Type-C Header + 1 x USB 3.2 Gen 1 Header + 2 x USB 2.0 Headers"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "1 x HDMI 2.1 Port (4096x2160@60Hz) + 1 x DisplayPort 1.4 (3840x2160@144Hz)"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Hardware",
+      "value": "Realtek Audio CODEC High Definition Audio (2/4/5.1/7.1-Channel Support) + High-End Audio Capacitors"
+    },
+    {
+      "group": "specs",
+      "label": "DIY & Thermal Features",
+      "value": "EZ-Latch Quick Release for PCIe Slot, M.2 Thermal Guard Heatsink, WIFI EZ-Plug Antenna, Q-Flash Plus Button & Smart Fan 6"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor & Dimensions",
+      "value": "ATX Form Factor (30.5cm x 24.4cm)"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-13",
+      "demo": true
+    }
+  ]
+}

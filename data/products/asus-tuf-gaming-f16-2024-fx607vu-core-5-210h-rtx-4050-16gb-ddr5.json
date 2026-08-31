@@ -1,0 +1,120 @@
+{
+  "id": 1074,
+  "slug": "asus-tuf-gaming-f16-2024-fx607vu-core-5-210h-rtx-4050-16gb-ddr5",
+  "name": "ASUS TUF Gaming F16 FX607VU-RL165W Gaming Laptop (Intel Core 5 210H, RTX 4050 6GB, 16GB DDR5, 512GB NVMe SSD, 16 Inch FHD+ 144Hz) - Mecha Gray",
+  "model": "F16 FX607VU-RL165W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-2024-fx607vu-core-5-210h-rtx-4050-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-2024-fx607vu-core-5-210h-rtx-4050-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-2024-fx607vu-core-5-210h-rtx-4050-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-2024-fx607vu-core-5-210h-rtx-4050-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-2024-fx607vu-core-5-210h-rtx-4050-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-2024-fx607vu-core-5-210h-rtx-4050-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-f16-2024-fx607vu-core-5-210h-rtx-4050-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "TUF Gaming",
+    "F16 2024",
+    "FX607VU",
+    "Core 5 210H",
+    "RTX 4050",
+    "16GB DDR5",
+    "512GB NVMe SSD",
+    "144Hz",
+    "Gaming Laptop",
+    "Mecha Gray",
+    "لابتوب اسوس",
+    "لاب توب جيمنج",
+    "سعر اسوس تاف مصر"
+  ],
+  "shortDescription": "ASUS TUF Gaming F16&nbsp; FX607VU-RL165W Next-Gen Gaming LaptopTake your competitive esports experience and high-end rendering workloads to the next level with the heavy-duty ASUS TUF Gaming F16 edition, model FX607VU. P",
+  "descriptionHtml": "<p>ASUS TUF Gaming F16&nbsp; FX607VU-RL165W Next-Gen Gaming Laptop</p><p>Take your competitive esports experience and high-end rendering workloads to the next level with the heavy-duty ASUS TUF Gaming F16 edition, model FX607VU. Proudly offered by Turbo Computer Egypt, this military-grade gaming laptop balances raw computational efficiency with absolute graphics supremacy, giving competitive players and content creators the ultimate portable hardware weapon. Engineered to deliver cool, quiet, and uncompromised performance under intense multi-tasking stresses, it features official local warranty backing across Egypt.</p><h3>Technical Specifications Matrix</h3><table><thead><tr><th>Component Type</th><th>Official Hardware Specification Details</th></tr></thead><tbody><tr><td>Processor (CPU)</td><td>Intel® Core™ 5 Processor 210H (12MB Cache, up to 4.8 GHz, 8 Cores, 12 Threads)</td></tr><tr><td>Graphics (GPU)</td><td>NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 (Up to 140W TGP with MUX Switch)</td></tr><tr><td>Memory (RAM)</td><td>16GB DDR5-5600MHz SO-DIMM High-Speed System Memory</td></tr><tr><td>Storage (SSD)</td><td>512GB PCIe® 4.0 NVMe™ M.2 Performance SSD</td></tr><tr><td>Display Panel</td><td>16-inch FHD+ 16:10 (1920 x 1200, WUXGA), 144Hz Refresh Rate, IPS-level</td></tr><tr><td>Chassis Color &amp; PN</td><td>Mecha Gray Design | Part Number: 90NR0N06-M001Y0</td></tr><tr><td>Warranty Matrix</td><td> 1-Year Official Local Agent Warranty in Egypt (ضمان محلي معتمد لمدة عام كامل) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel® Core™ 5 Processor 210H (12MB Cache, up to 4.8 GHz, 8 Cores, 12 Threads)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 (Up to 140W TGP with MUX Switch)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "16GB DDR5-5600MHz SO-DIMM High-Speed System Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Storage (SSD)",
+      "value": "512GB PCIe® 4.0 NVMe™ M.2 Performance SSD"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "16-inch FHD+ 16:10 (1920 x 1200, WUXGA), 144Hz Refresh Rate, IPS-level"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Color & PN",
+      "value": "Mecha Gray Design | Part Number: 90NR0N06-M001Y0"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Official Local Agent Warranty in Egypt (ضمان محلي معتمد لمدة عام كامل)"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-21",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    }
+  ]
+}

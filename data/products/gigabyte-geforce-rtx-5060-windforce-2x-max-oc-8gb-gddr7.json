@@ -1,0 +1,151 @@
+{
+  "id": 1101,
+  "slug": "gigabyte-geforce-rtx-5060-windforce-2x-max-oc-8gb-gddr7",
+  "name": "Gigabyte GeForce RTX 5060 Windforce 2X MAX OC 8GB GDDR7 Graphics Card (GV-N5060WF2MAX-OC-8GD)",
+  "model": "Windforce 2X MAX",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 23499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-1-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "gigabyte rtx 5060 windforce max oc",
+    "gv-n5060wf2max-oc-8gd",
+    "rtx 5060 max gddr7 gigabyte",
+    "سعر rtx 5060 windforce max في مصر",
+    "كرت شاشة جيجابايت ويندفورس ماكس 5060",
+    "turbo computer egypt"
+  ],
+  "shortDescription": "Gigabyte GeForce RTX 5060 Windforce 2X MAX OC 8GB GDDR7 Graphics CardElevate your mainstream system performance and high-speed multi-display productivity with the Gigabyte GeForce RTX 5060 Windforce 2X MAX OC 8GB GDDR7 g",
+  "descriptionHtml": "<p><span>Gigabyte GeForce RTX 5060 Windforce 2X MAX OC 8GB GDDR7 Graphics Card</span></p><p>Elevate your mainstream system performance and high-speed multi-display productivity with the Gigabyte GeForce RTX 5060 Windforce 2X MAX OC 8GB GDDR7 graphics card, brought to you by Turbo Computer Egypt. Engineered on NVIDIA's next-generation architecture, this specialized MAX performance edition introduces a full 8GB profile of next-gen GDDR7 memory layout clocked at an incredible 28 Gbps on a solid 128-bit memory bus structure. Featuring a compact dual-fan layout measuring just 199mm in length, it delivers magnificent case compatibility while optimizing thermal dissipation through Gigabyte's refined Windforce cooling configuration. Outfitted with premium high-definition DisplayPort 2.1b and HDMI 2.1b output configurations, this factory overclocked card supports up to 4 simultaneous displays at crisp digital resolutions. Requiring a single 8-pin power connector, this reliable GPU architecture is officially backed by a 3-year factory warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Gigabyte</td></tr><tr><td>Product Series</td><td>Gigabyte Windforce 2X MAX Series (OC Edition)</td></tr><tr><td>Model Number / P/N</td><td>GV-N5060WF2MAX-OC-8GD</td></tr><tr><td>Graphics Processing</td><td>NVIDIA® GeForce RTX™ 5060</td></tr><tr><td>Core Clock Profile</td><td>2512 MHz (Reference Card: 2497 MHz)</td></tr><tr><td>CUDA® Cores</td><td>3840 Cores</td></tr><tr><td>Memory Clock Speed</td><td>28 Gbps</td></tr><tr><td>Video Memory (VRAM)</td><td>8GB Next-Gen GDDR7 High-Speed Interface</td></tr><tr><td>Memory Bus Width</td><td>128 bit</td></tr><tr><td>Card Bus Interface</td><td>PCI-E 5.0 Support Matrix</td></tr><tr><td>Multi-View Capability</td><td>Up to 4 Displays Max (Digital Resolution: 7680x4320)</td></tr><tr><td>Card Dimensions</td><td>L=199mm, W=116mm, H=40mm (Compact ATX Form Factor Layout)</td></tr><tr><td>Display Outputs Group</td><td>3x Native DisplayPort 2.1b + 1x Native HDMI 2.1b</td></tr><tr><td>Power Requirements</td><td>1x 8-Pin Power Connector (Recommended PSU: 550W)</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Gigabyte"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "Gigabyte Windforce 2X MAX Series (OC Edition)"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / P/N",
+      "value": "GV-N5060WF2MAX-OC-8GD"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Processing",
+      "value": "NVIDIA® GeForce RTX™ 5060"
+    },
+    {
+      "group": "specs",
+      "label": "Core Clock Profile",
+      "value": "2512 MHz (Reference Card: 2497 MHz)"
+    },
+    {
+      "group": "specs",
+      "label": "CUDA® Cores",
+      "value": "3840 Cores"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Clock Speed",
+      "value": "28 Gbps"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "8GB Next-Gen GDDR7 High-Speed Interface"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Bus Width",
+      "value": "128 bit"
+    },
+    {
+      "group": "specs",
+      "label": "Card Bus Interface",
+      "value": "PCI-E 5.0 Support Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Multi-View Capability",
+      "value": "Up to 4 Displays Max (Digital Resolution: 7680x4320)"
+    },
+    {
+      "group": "specs",
+      "label": "Card Dimensions",
+      "value": "L=199mm, W=116mm, H=40mm (Compact ATX Form Factor Layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs Group",
+      "value": "3x Native DisplayPort 2.1b + 1x Native HDMI 2.1b"
+    },
+    {
+      "group": "specs",
+      "label": "Power Requirements",
+      "value": "1x 8-Pin Power Connector (Recommended PSU: 550W)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    }
+  ]
+}

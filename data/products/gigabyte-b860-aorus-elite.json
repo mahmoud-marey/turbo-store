@@ -1,0 +1,70 @@
+{
+  "id": 837,
+  "slug": "gigabyte-b860-aorus-elite",
+  "name": "Gigabyte B860 AORUS ELITE Motherboard",
+  "model": "B860 AORUS ELITE",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 9900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0012_260503205829-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0012_260503205829-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0012_260503205829-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0012_260503205829-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "B860",
+    "AORUS",
+    "ELITE",
+    "Motherboard"
+  ],
+  "shortDescription": "Gigabyte B860 AORUS ELITE Motherboard Specifications​The Gigabyte B860 AORUS ELITE is a premium mainstream motherboard designed for enthusiasts who require high-end power delivery, advanced cooling, and next-gen connecti",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>Gigabyte B860 AORUS ELITE Motherboard Specifications</b></h3><p dir=\"ltr\">​The <b>Gigabyte B860 AORUS ELITE</b> is a premium mainstream motherboard designed for enthusiasts who require high-end power delivery, advanced cooling, and next-gen connectivity. Positioned above the Eagle series, the AORUS ELITE focuses on superior aesthetics and enhanced durability for stable gaming and overclocking performance.</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\">​<b>Socket:</b> Intel® Socket LGA 1851 / 1700 (Depending on CPU generation)</li><li dir=\"ltr\">​<b>Chipset:</b> Intel® B860</li><li dir=\"ltr\">​<b>Form Factor:</b> ATX</li><li dir=\"ltr\">​<b>CPU Support:</b> Supports Intel® Core™ Ultra processors and 14th/13th/12th Gen Intel® Core™ processors.</li></ul><h3 dir=\"ltr\">​<b>Memory Support</b></h3><ul><li dir=\"ltr\">​<b>Slots:</b> 4 x DDR5 DIMM</li><li dir=\"ltr\">​<b>Max Capacity:</b> 192GB</li><li dir=\"ltr\">​<b>Speeds:</b> Supports <b>8000+(OC) MHz</b></li><li dir=\"ltr\">​<b>Features:</b> XMP 3.0 Support and Dual Channel architecture with shielded memory routing.</li></ul><h3 dir=\"ltr\">​<b>Expansion &amp; Storage</b></h3><ul><li dir=\"ltr\"> ​<b>PCIe Slots:</b><ul><li dir=\"ltr\">​1 x PCIe 5.0 x16 (UD Slot - Reinforced for heavy GPUs)</li><li dir=\"ltr\">​2 x PCIe 4.0 x16 (running at x4 or x1 mode)</li></ul></li><li dir=\"ltr\">​<b>M.2 Slots:</b> * 3 x M.2 PCIe 4.0 x4 slots<ul><li dir=\"ltr\">​All slots equipped with <b>M.2 Thermal Guards</b></li></ul></li><li dir=\"ltr\">​<b>SATA Ports:</b> 4 x SATA 6Gb/s</li></ul><h3 dir=\"ltr\">​<b>Connectivity &amp; Audio</b></h3><ul><li dir=\"ltr\">​<b>Ethernet:</b> 1 x 2.5GbE LAN port (High-speed gaming networking)</li><li dir=\"ltr\"> ​<b>Rear I/O Ports:</b><ul><li dir=\"ltr\">​1 x USB 3.2 Gen 2x2 (Type-C) - 20Gbps</li><li dir=\"ltr\">​2 x USB 3.2 Gen 2 (Type-A)</li><li dir=\"ltr\">​4 x USB 3.2 Gen 1</li><li dir=\"ltr\">​1 x HDMI 2.1 / 1 x DisplayPort 1.4</li><li dir=\"ltr\">​Optical S/PDIF Out + Audio Jacks</li></ul></li><li dir=\"ltr\">​<b>Audio:</b> Realtek® ALC1220 or High-Definition Audio with Audiophile-grade capacitors.</li></ul><h3 dir=\"ltr\">​<b>Power &amp; Thermal Design</b></h3><ul><li dir=\"ltr\">​<b>VRM:</b> 12+1+1 Twin Digital VRM Design with 60A DrMOS for stable CPU power.</li><li dir=\"ltr\">​<b>Heatsinks:</b> Fully Covered MOSFET Heatsinks with high-conductivity thermal pads.</li><li dir=\"ltr\">​<b>Smart Fan 6:</b> Multiple PWM/DC fan headers and internal temperature sensors.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>Ultra Durable™ Design:</b> Features PCIe UD Slot for 10x load-bearing capacity and a 2oz Copper PCB for better heat dissipation.</li><li dir=\"ltr\">​<b>EZ-Latch:</b> Quick-release mechanism for M.2 SSDs and PCIe slots, making hardware upgrades tool-less and easy.</li><li dir=\"ltr\">​<b>Hi-Fi Audio:</b> Features a dedicated audio noise guard to prevent interference from other components.</li><li dir=\"ltr\">​<b>RGB Fusion:</b> Onboard addressable LED headers for full system lighting synchronization via Gigabyte Control Center.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-20",
+      "demo": true
+    }
+  ]
+}

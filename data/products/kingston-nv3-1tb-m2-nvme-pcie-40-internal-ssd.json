@@ -1,0 +1,75 @@
+{
+  "id": 981,
+  "slug": "kingston-nv3-1tb-m2-nvme-pcie-40-internal-ssd",
+  "name": "Kingston NV3 1TB M.2 2280 NVMe PCIe 4.0 Internal SSD",
+  "model": "NV3",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 6699,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/kingston-nv3-1tb-m2-nvme-pcie-40-internal-ssd-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/kingston-nv3-1tb-m2-nvme-pcie-40-internal-ssd-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/kingston-nv3-1tb-m2-nvme-pcie-40-internal-ssd-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/kingston-nv3-1tb-m2-nvme-pcie-40-internal-ssd-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Kingston",
+    "NV3",
+    "1TB",
+    "M.2",
+    "NVMe",
+    "PCIe 4.0",
+    "Internal SSD",
+    "Solid State Drive",
+    "Gaming PC Upgrade",
+    "هارد كينجستون مسمار",
+    "هارد nv3 1 تيرا"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-12",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-17",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-22",
+      "demo": true
+    }
+  ]
+}

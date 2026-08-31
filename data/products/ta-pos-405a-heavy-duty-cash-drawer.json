@@ -1,0 +1,140 @@
+{
+  "id": 971,
+  "slug": "ta-pos-405a-heavy-duty-cash-drawer",
+  "name": "TA POS 405-A Heavy Duty Cash Drawer (6.5KG)",
+  "model": "405-A",
+  "brand": "Seething",
+  "brandSlug": "seething",
+  "categorySlugs": [
+    "point-of-sale"
+  ],
+  "price": 1900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/printer/ta-pos-405a-heavy-duty-cash-drawer-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/printer/ta-pos-405a-heavy-duty-cash-drawer-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/printer/ta-pos-405a-heavy-duty-cash-drawer-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/printer/ta-pos-405a-heavy-duty-cash-drawer-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "TA POS",
+    "405-A",
+    "Cash Drawer",
+    "Cashier Box",
+    "Heavy Duty",
+    "POS Hardware",
+    "Retail Automation",
+    "درج كاشير",
+    "درج كاشير معدني",
+    "اجهزة كاشير"
+  ],
+  "shortDescription": "TA POS 405-A Heavy Duty Electronic Cash Drawer (6.5KG)Secure and optimize your retail or hospitality point-of-sale ecosystem with the ultra-robust TA POS 405-A Heavy Duty Electronic Cash Drawer. Available at Turbo Comput",
+  "descriptionHtml": "<p><span>TA POS 405-A Heavy Duty Electronic Cash Drawer (6.5KG)</span></p><p>Secure and optimize your retail or hospitality point-of-sale ecosystem with the ultra-robust TA POS 405-A Heavy Duty Electronic Cash Drawer. Available at Turbo Computer, this premium hardware component weighs a massive 6.5KG, signaling its exceptionally thick, reinforced steel outer shell. It stands as the definitive choice for superstores, busy restaurants, and high-volume retail shops across Egypt looking for a secure hardware modification to withstand demanding daily cycles and speed up checkout tracking performance.</p><p>The TA POS 405-A features a smooth-glide roller bearing suspension system equipped with a reliable 3-position key lock, allowing for manual open, electronic online control, and secure locking configurations. It houses an adjustable interior layout with 5 spacious bill compartments featuring heavy-duty metal wire grips alongside a removable 5-compartment coin tray. Outfitted with a standard RJ11 printer-driven interface, it ensures seamless integration with standard POS receipt printers to automate your daily desktop checkout ecosystem.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>TA POS</td></tr><tr><td><strong>Model</strong></td><td>405-A (Heavy Duty)</td></tr><tr><td><strong>Net Weight</strong></td><td>6.5 KG (Extra Durability)</td></tr><tr><td><strong>Construction Material</strong></td><td>Thick Gauge Cold Rolled Steel &amp; SECC (All Metal Structure)</td></tr><tr><td><strong>Bill Compartments</strong></td><td>5 Slots with Heavy-Duty Metal Wire Clips (Adjustable)</td></tr><tr><td><strong>Coin Compartments</strong></td><td>5 Slots (Removable Inner Coin Tray)</td></tr><tr><td><strong>Media Slot</strong></td><td>Front Dual Media Slots (For checks, credit card slips, and large bills without opening)</td></tr><tr><td><strong>Lock Mechanism</strong></td><td>3-Position Key Lock (Locked, Manual Open, Electronic Online Control)</td></tr><tr><td><strong>Connectivity Interface</strong></td><td>RJ11 Standard Interface (Printer-Driven 12V / 24V)</td></tr><tr><td><strong>Solenoid Lifespan</strong></td><td>Tested up to 1,000,000+ open/close operation cycles</td></tr><tr><td><strong>Color</strong></td><td>Industrial Black (Powder coated finish)</td></tr><tr><td><strong>Compatibility</strong></td><td>Works with all major POS Receipt Printers (Epson, Star, Bixolon, Xprinter, etc.)</td></tr><tr><td><strong>Application</strong></td><td>Supermarkets, Retail Shops, Restaurants, Cafes, and High-Traffic Cashier Stations</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "TA POS"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "405-A (Heavy Duty)"
+    },
+    {
+      "group": "specs",
+      "label": "Net Weight",
+      "value": "6.5 KG (Extra Durability)"
+    },
+    {
+      "group": "specs",
+      "label": "Construction Material",
+      "value": "Thick Gauge Cold Rolled Steel & SECC (All Metal Structure)"
+    },
+    {
+      "group": "specs",
+      "label": "Bill Compartments",
+      "value": "5 Slots with Heavy-Duty Metal Wire Clips (Adjustable)"
+    },
+    {
+      "group": "specs",
+      "label": "Coin Compartments",
+      "value": "5 Slots (Removable Inner Coin Tray)"
+    },
+    {
+      "group": "specs",
+      "label": "Media Slot",
+      "value": "Front Dual Media Slots (For checks, credit card slips, and large bills without opening)"
+    },
+    {
+      "group": "specs",
+      "label": "Lock Mechanism",
+      "value": "3-Position Key Lock (Locked, Manual Open, Electronic Online Control)"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Interface",
+      "value": "RJ11 Standard Interface (Printer-Driven 12V / 24V)"
+    },
+    {
+      "group": "specs",
+      "label": "Solenoid Lifespan",
+      "value": "Tested up to 1,000,000+ open/close operation cycles"
+    },
+    {
+      "group": "specs",
+      "label": "Color",
+      "value": "Industrial Black (Powder coated finish)"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "Works with all major POS Receipt Printers (Epson, Star, Bixolon, Xprinter, etc.)"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "Supermarkets, Retail Shops, Restaurants, Cafes, and High-Traffic Cashier Stations"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 12,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-15",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-20",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-25",
+      "demo": true
+    }
+  ]
+}

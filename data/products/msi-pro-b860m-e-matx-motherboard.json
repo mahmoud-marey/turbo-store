@@ -1,0 +1,145 @@
+{
+  "id": 1281,
+  "slug": "msi-pro-b860m-e-matx-motherboard",
+  "name": "MSI PRO B860M-E mATX Motherboard",
+  "model": "B860M-E",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 6599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-motherboard-front-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-motherboard-front-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-motherboard-front-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-motherboard-front-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-matx-layout-details-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-matx-layout-details-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-matx-layout-details-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-rear-io-ports-panel-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-rear-io-ports-panel-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-rear-io-ports-panel-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-box-packaging-retail-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-box-packaging-retail-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/msi-pro-b860m-e-box-packaging-retail-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "MSI",
+    "PRO Series",
+    "B860M-E",
+    "Motherboard",
+    "LGA 1851",
+    "Intel Core Ultra",
+    "DDR5",
+    "mATX",
+    "PCIe 5.0",
+    "M.2 NVMe",
+    "2.5G LAN",
+    "EZ M.2 Clip",
+    "3 Years Warranty",
+    "Local Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "MSI PRO B860M-E mATX Motherboard (LGA 1851 Socket / Intel Core Ultra Processors Support / DDR5 Memory Slots / PCIe 5.0 x16 Slot / M.2 PCIe 4.0 NVMe Slot / 2.5G Ethernet LAN / HDMI &amp; VGA Outputs / 3 Years Official Loc",
+  "descriptionHtml": "<p><span>MSI PRO B860M-E mATX Motherboard (LGA 1851 Socket / Intel Core Ultra Processors Support / DDR5 Memory Slots / PCIe 5.0 x16 Slot / M.2 PCIe 4.0 NVMe Slot / 2.5G Ethernet LAN / HDMI &amp; VGA Outputs / 3 Years Official Local Agent Warranty)</span></p><p>Build a stable and efficient business or gaming system with the MSI PRO B860M-E mATX motherboard, available at Turbo Computer Egypt with an Official 3-Year Local Agent Warranty. Engineered specifically for the latest Intel Core Ultra processors (Series 2) on the LGA 1851 socket, this motherboard combines high-speed DDR5 memory performance with ultimate hardware reliability. Featuring a PCIe 5.0 x16 expansion slot, high-speed M.2 Gen4 NVMe storage support, 2.5G Ethernet connectivity, and EZ M.2 Clip design for effortless installation, the MSI PRO B860M-E delivers exceptional productivity and seamless operation.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>MSI PRO B860M-E</td></tr><tr><td>CPU Socket &amp; Chipset</td><td>LGA 1851 Socket / Intel B860 Chipset (Supports Intel Core Ultra Processors)</td></tr><tr><td>Memory Support</td><td>2x DDR5 DIMM Slots (Dual Channel / Up to 128GB Capacity)</td></tr><tr><td>PCIe Expansion Slots</td><td>1x PCIe 5.0 x16 Slot (Steel Armor) / 1x PCIe 3.0 x1 Slot</td></tr><tr><td>Storage Interfaces</td><td>1x M.2 Slot (PCIe 4.0 x4) / 4x SATA 6Gbps Ports</td></tr><tr><td>Network Connectivity</td><td>Realtek 2.5Gbps Ethernet LAN</td></tr><tr><td>Rear I/O Connectivity</td><td>1x HDMI 2.1, 1x VGA, 4x USB 3.2 Gen 1 (5Gbps), 2x USB 2.0, 1x 2.5G LAN, HD Audio Jacks</td></tr><tr><td>Audio &amp; PCB Layout</td><td>8-Channel (7.1) HD Audio / High Quality Audio Capacitors / mATX Form Factor</td></tr><tr><td>DIY Friendly Features</td><td>EZ M.2 Clip, Steel Armor PCIe Slot, Frozr AI Cooling Support</td></tr><tr><td>Warranty Coverage</td><td>3 Years Official Local Agent Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "MSI PRO B860M-E"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket & Chipset",
+      "value": "LGA 1851 Socket / Intel B860 Chipset (Supports Intel Core Ultra Processors)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support",
+      "value": "2x DDR5 DIMM Slots (Dual Channel / Up to 128GB Capacity)"
+    },
+    {
+      "group": "specs",
+      "label": "PCIe Expansion Slots",
+      "value": "1x PCIe 5.0 x16 Slot (Steel Armor) / 1x PCIe 3.0 x1 Slot"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interfaces",
+      "value": "1x M.2 Slot (PCIe 4.0 x4) / 4x SATA 6Gbps Ports"
+    },
+    {
+      "group": "specs",
+      "label": "Network Connectivity",
+      "value": "Realtek 2.5Gbps Ethernet LAN"
+    },
+    {
+      "group": "specs",
+      "label": "Rear I/O Connectivity",
+      "value": "1x HDMI 2.1, 1x VGA, 4x USB 3.2 Gen 1 (5Gbps), 2x USB 2.0, 1x 2.5G LAN, HD Audio Jacks"
+    },
+    {
+      "group": "specs",
+      "label": "Audio & PCB Layout",
+      "value": "8-Channel (7.1) HD Audio / High Quality Audio Capacitors / mATX Form Factor"
+    },
+    {
+      "group": "specs",
+      "label": "DIY Friendly Features",
+      "value": "EZ M.2 Clip, Steel Armor PCIe Slot, Frozr AI Cooling Support"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "3 Years Official Local Agent Warranty"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-15",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    }
+  ]
+}

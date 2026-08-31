@@ -1,0 +1,71 @@
+{
+  "id": 814,
+  "slug": "ocypus-gamma-f12-uni-wh-argb-3in1",
+  "name": "Ocypus Gamma F12 UNI WH ARGB 3in1",
+  "model": "Gamma F12 UNI WH",
+  "brand": "Ocypus",
+  "brandSlug": "ocypus",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 1250,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502150758-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502150758-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502150758-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502150758-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Ocypus",
+    "Gamma",
+    "F12",
+    "UNI",
+    "WH",
+    "ARGB",
+    "3in1"
+  ],
+  "shortDescription": "Ocypus Gamma F12 UNI WH ARGB (3-in-1 Pack)\r\n​The Ocypus Gamma F12 UNI in White (WH) is a premium 120mm cooling solution designed for high airflow and clean aesthetics, featuring a modular \"daisy-chain\" connection system ",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>Ocypus Gamma F12 UNI WH ARGB (3-in-1 Pack)</b></h3><p dir=\"ltr\">​The <b>Ocypus Gamma F12 UNI</b> in White (WH) is a premium 120mm cooling solution designed for high airflow and clean aesthetics, featuring a modular \"daisy-chain\" connection system to minimize cable clutter.</p><h3 dir=\"ltr\">​<b>General Specifications</b></h3><ul><li dir=\"ltr\">​<b>Model:</b> Gamma F12 UNI WH</li><li dir=\"ltr\">​<b>Color:</b> White (Frame and Blades)</li><li dir=\"ltr\">​<b>Quantity:</b> 3 Fans per pack</li><li dir=\"ltr\">​<b>Dimensions:</b> 120 x 120 x 25 mm</li></ul><h3 dir=\"ltr\">​<b>Performance Details</b></h3><ul><li dir=\"ltr\">​<b>Fan Speed:</b> 500 ~ 2000 RPM (±10%)</li><li dir=\"ltr\">​<b>Airflow:</b> Max <b>72.1 CFM</b></li><li dir=\"ltr\">​<b>Static Pressure:</b> Max <b>2.43 mmAq</b></li><li dir=\"ltr\">​<b>Noise Level:</b> ≤ 29.5 dB(A)</li><li dir=\"ltr\">​<b>Bearing Type:</b> FDB (Fluid Dynamic Bearing)</li><li dir=\"ltr\">​<b>Expected Lifespan:</b> 50,000 hours</li></ul><h3 dir=\"ltr\">​<b>Lighting &amp; Connection</b></h3><ul><li dir=\"ltr\">​<b>LED Type:</b> Addressable RGB (ARGB)</li><li dir=\"ltr\">​<b>Sync Compatibility:</b> Works with ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, and ASRock Polychrome.</li><li dir=\"ltr\">​<b>Daisy-Chain Design:</b> Features a \"UNI\" modular interlocking system where fans slide together and connect via a single cable, significantly reducing \"cable spaghetti\" in the case.</li><li dir=\"ltr\">​<b>Connector:</b> 4-Pin PWM (Power) + 3-Pin 5V ARGB (Lighting).</li></ul><h3 dir=\"ltr\">​<b>Key Features</b></h3><ul><li dir=\"ltr\">​<b>Integrated Lighting:</b> Brilliant ARGB LEDs embedded in the fan hub and frame for a vibrant glow.</li><li dir=\"ltr\">​<b>Anti-Vibration Pads:</b> Pre-installed rubber dampeners at all corners to reduce resonance and operating noise.</li><li dir=\"ltr\">​<b>Aesthetic Design:</b> The all-white finish is ideal for \"snow\" or white-themed PC builds.</li><li dir=\"ltr\">​<b>PWM Control:</b> Precise speed adjustment via BIOS or motherboard software to balance cooling and silence.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-26",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-23",
+      "demo": true
+    }
+  ]
+}

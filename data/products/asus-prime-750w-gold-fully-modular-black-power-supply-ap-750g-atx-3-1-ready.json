@@ -1,0 +1,139 @@
+{
+  "id": 1257,
+  "slug": "asus-prime-750w-gold-fully-modular-black-power-supply-ap-750g-atx-3-1-ready",
+  "name": "ASUS Prime 750W Gold Fully Modular Black Power Supply AP-750G ATX 3.1 Ready",
+  "model": "AP-750G",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 4999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/psu/asus-prime-750w-gold-black-psu-front-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/asus-prime-750w-gold-black-psu-front-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/asus-prime-750w-gold-black-psu-front-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/asus-prime-750w-gold-black-psu-front-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/psu/asus-ap-750g-black-modular-ports-detail-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/psu/asus-ap-750g-black-modular-ports-detail-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/psu/asus-ap-750g-black-modular-ports-detail-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Prime",
+    "AP-750G",
+    "750W Power Supply",
+    "Black Finish",
+    "80 PLUS Gold",
+    "ATX 3.1 Ready",
+    "PCIe 5.0",
+    "12VHPWR",
+    "Fully Modular",
+    "PC Power Supply",
+    "Gaming PSU",
+    "Dual Ball Bearing Fan",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS Prime 750W Gold Fully Modular Power Supply AP-750G - Black Edition (750 Watt / 80 PLUS Gold Certified / ATX 3.1 Ready &amp; ATX 3.0 Compatible / Native PCIe 5.0 16-Pin 12VHPWR / 100% Fully Modular Cables / Dual Ball",
+  "descriptionHtml": "<p><span>ASUS Prime 750W Gold Fully Modular Power Supply AP-750G - Black Edition (750 Watt / 80 PLUS Gold Certified / ATX 3.1 Ready &amp; ATX 3.0 Compatible / Native PCIe 5.0 16-Pin 12VHPWR / 100% Fully Modular Cables / Dual Ball Bearing Cooling Fan)</span></p><p>Deliver reliable and high-efficiency energy to your high-end gaming PC with the ASUS Prime 750W Gold Fully Modular Power Supply (AP-750G) in Black, available at Turbo Computer Egypt. Built with 80 PLUS Gold efficiency and complete ATX 3.1 Ready standard support, this fully modular black PSU includes a native PCIe 5.0 12VHPWR 16-pin cable to safely power modern and next-generation graphics cards. The fully modular design ensures optimal cable management and airflow, while the 135mm dual ball bearing fan delivers durable and quiet cooling performance.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>ASUS Prime 750W Gold (AP-750G)</td></tr><tr><td>Color &amp; Design</td><td>Black Finish / Sleek Monochromatic Casing Design</td></tr><tr><td>Total Power Output</td><td>750 Watts Continuous Power</td></tr><tr><td>Efficiency Rating</td><td>80 PLUS Gold Certified (Up to 92% Efficiency at Typical Loads)</td></tr><tr><td>ATX Standard &amp; Power Handling</td><td>ATX 3.1 Ready &amp; ATX 3.0 Compatible (Handles High Power Excursion Surges)</td></tr><tr><td>Cable System &amp; Modular Design</td><td>100% Fully Modular Black Flexible Cables (Connect Only Required Cables)</td></tr><tr><td>PCIe 5.0 12VHPWR Interface</td><td>Native 16-Pin 12VHPWR Cable Included (Delivers Up to 450W Directly to GPU)</td></tr><tr><td>Thermal &amp; Fan Mechanism</td><td>135mm Dual Ball Bearing Cooling Fan (Extended Lifespan &amp; Quiet Operation)</td></tr><tr><td>Circuit Protections</td><td>OPP / OVP / UVP / SCP / OCP / OTP Complete Electrical Protections</td></tr><tr><td>Connector Array</td><td>1x 24-Pin MB, 2x 8-Pin CPU (4+4), 1x 16-Pin 12VHPWR, 3x 8-Pin PCIe (6+2), 5x SATA, 3x Peripheral Ports</td></tr><tr><td>Dimensions</td><td>Compact ATX Form Factor (150mm x 150mm x 86mm)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "ASUS Prime 750W Gold (AP-750G)"
+    },
+    {
+      "group": "specs",
+      "label": "Color & Design",
+      "value": "Black Finish / Sleek Monochromatic Casing Design"
+    },
+    {
+      "group": "specs",
+      "label": "Total Power Output",
+      "value": "750 Watts Continuous Power"
+    },
+    {
+      "group": "specs",
+      "label": "Efficiency Rating",
+      "value": "80 PLUS Gold Certified (Up to 92% Efficiency at Typical Loads)"
+    },
+    {
+      "group": "specs",
+      "label": "ATX Standard & Power Handling",
+      "value": "ATX 3.1 Ready & ATX 3.0 Compatible (Handles High Power Excursion Surges)"
+    },
+    {
+      "group": "specs",
+      "label": "Cable System & Modular Design",
+      "value": "100% Fully Modular Black Flexible Cables (Connect Only Required Cables)"
+    },
+    {
+      "group": "specs",
+      "label": "PCIe 5.0 12VHPWR Interface",
+      "value": "Native 16-Pin 12VHPWR Cable Included (Delivers Up to 450W Directly to GPU)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal & Fan Mechanism",
+      "value": "135mm Dual Ball Bearing Cooling Fan (Extended Lifespan & Quiet Operation)"
+    },
+    {
+      "group": "specs",
+      "label": "Circuit Protections",
+      "value": "OPP / OVP / UVP / SCP / OCP / OTP Complete Electrical Protections"
+    },
+    {
+      "group": "specs",
+      "label": "Connector Array",
+      "value": "1x 24-Pin MB, 2x 8-Pin CPU (4+4), 1x 16-Pin 12VHPWR, 3x 8-Pin PCIe (6+2), 5x SATA, 3x Peripheral Ports"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions",
+      "value": "Compact ATX Form Factor (150mm x 150mm x 86mm)"
+    }
+  ],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    }
+  ]
+}

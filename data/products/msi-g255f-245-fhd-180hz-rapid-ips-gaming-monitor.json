@@ -1,0 +1,138 @@
+{
+  "id": 1289,
+  "slug": "msi-g255f-245-fhd-180hz-rapid-ips-gaming-monitor",
+  "name": "MSI G255F 24.5 FHD 180Hz Rapid IPS Gaming Monitor",
+  "model": "G255F",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 6299,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/msi-g255f-245-180hz-rapid-ips-front-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/msi-g255f-245-180hz-rapid-ips-front-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/msi-g255f-245-180hz-rapid-ips-front-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/msi-g255f-245-180hz-rapid-ips-front-view-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/msi-g255f-245-180hz-rapid-ips-angle-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/msi-g255f-245-180hz-rapid-ips-angle-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/msi-g255f-245-180hz-rapid-ips-angle-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "MSI",
+    "G255F",
+    "24.5 Inch",
+    "Full HD",
+    "FHD",
+    "1920x1080",
+    "Rapid IPS",
+    "180Hz",
+    "1ms GTG",
+    "99 sRGB",
+    "Adaptive-Sync",
+    "Night Vision",
+    "Anti-Flicker",
+    "Less Blue Light",
+    "DisplayPort",
+    "HDMI",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "MSI G255F 24.5 FHD 180Hz Rapid IPS Gaming Monitor (24.5 Inch Full HD 1920x1080 / 180Hz Refresh Rate / Rapid IPS Panel / 1ms GTG Response Time / 99% sRGB Wide Color Gamut / Adaptive-Sync Technology / Night Vision Smart Tu",
+  "descriptionHtml": "<p><span>MSI G255F 24.5 FHD 180Hz Rapid IPS Gaming Monitor (24.5 Inch Full HD 1920x1080 / 180Hz Refresh Rate / Rapid IPS Panel / 1ms GTG Response Time / 99% sRGB Wide Color Gamut / Adaptive-Sync Technology / Night Vision Smart Tuner / Frameless Design / DisplayPort 1.2a &amp; Dual HDMI 2.0b / 1 Year Warranty)</span></p><p>Gain the competitive edge in esports with the MSI G255F 24.5-inch FHD gaming monitor, available at Turbo Computer Egypt with a 1-Year Warranty. Equipped with an ultra-fast Rapid IPS panel, it delivers a smooth 180Hz refresh rate and a rapid 1ms GTG response time to eliminate screen blurring and motion ghosting. Featuring Adaptive-Sync technology for tear-free gameplay, Night Vision smart tuner for enhancing shadow details, and 99% sRGB color accuracy, this monitor combines rich visuals with eye-care protections like Anti-Flicker and Less Blue Light for long gaming sessions.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Model</td><td>MSI G255F</td></tr><tr><td>Screen Size &amp; Resolution</td><td>24.5 Inch / Full HD (1920 x 1080) 16:9 Aspect Ratio / Flat Panel</td></tr><tr><td>Panel Type &amp; Viewing Angle</td><td>Rapid IPS / 178 Degree Horizontal &amp; Vertical</td></tr><tr><td>Refresh Rate &amp; Response Time</td><td>180Hz Refresh Rate | 1ms GTG Response Time</td></tr><tr><td>Color Gamut &amp; Display Colors</td><td>99% sRGB / 82% Adobe RGB / 78% DCI-P3 / 16.7 Million Colors (8-bit)</td></tr><tr><td>Brightness &amp; Contrast Ratio</td><td>300 cd/m2 Brightness / 1000:1 Static Contrast Ratio</td></tr><tr><td>Sync Technology &amp; Enhancement</td><td>Adaptive-Sync (AMD FreeSync Support) / Night Vision Smart Black Tuner</td></tr><tr><td>Video &amp; Audio Ports</td><td>1x DisplayPort 1.2a, 2x HDMI 2.0b, 1x Headphone Out (3.5mm)</td></tr><tr><td>Ergonomics &amp; VESA Mount</td><td>Tilt Angle Adjustment (-5 to +20 Degrees) / VESA Mount Compatible (100 x 100 mm)</td></tr><tr><td>Warranty Coverage</td><td>1 Year Warranty</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Model",
+      "value": "MSI G255F"
+    },
+    {
+      "group": "specs",
+      "label": "Screen Size & Resolution",
+      "value": "24.5 Inch / Full HD (1920 x 1080) 16:9 Aspect Ratio / Flat Panel"
+    },
+    {
+      "group": "specs",
+      "label": "Panel Type & Viewing Angle",
+      "value": "Rapid IPS / 178 Degree Horizontal & Vertical"
+    },
+    {
+      "group": "specs",
+      "label": "Refresh Rate & Response Time",
+      "value": "180Hz Refresh Rate | 1ms GTG Response Time"
+    },
+    {
+      "group": "specs",
+      "label": "Color Gamut & Display Colors",
+      "value": "99% sRGB / 82% Adobe RGB / 78% DCI-P3 / 16.7 Million Colors (8-bit)"
+    },
+    {
+      "group": "specs",
+      "label": "Brightness & Contrast Ratio",
+      "value": "300 cd/m2 Brightness / 1000:1 Static Contrast Ratio"
+    },
+    {
+      "group": "specs",
+      "label": "Sync Technology & Enhancement",
+      "value": "Adaptive-Sync (AMD FreeSync Support) / Night Vision Smart Black Tuner"
+    },
+    {
+      "group": "specs",
+      "label": "Video & Audio Ports",
+      "value": "1x DisplayPort 1.2a, 2x HDMI 2.0b, 1x Headphone Out (3.5mm)"
+    },
+    {
+      "group": "specs",
+      "label": "Ergonomics & VESA Mount",
+      "value": "Tilt Angle Adjustment (-5 to +20 Degrees) / VESA Mount Compatible (100 x 100 mm)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Coverage",
+      "value": "1 Year Warranty"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    }
+  ]
+}

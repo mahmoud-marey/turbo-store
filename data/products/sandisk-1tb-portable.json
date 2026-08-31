@@ -1,0 +1,93 @@
+{
+  "id": 781,
+  "slug": "sandisk-1tb-portable",
+  "name": "SanDisk 1TB Portable SSD UP TO 800mb/s",
+  "model": "SDSSDE30-1T00-G26",
+  "brand": "Sandisk",
+  "brandSlug": "sandisk",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 7349,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260422152033-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260422152033-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260422152033-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260422152033-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "SanDisk",
+    "1TB",
+    "Portable",
+    "SSD",
+    "UP",
+    "TO",
+    "800mb/s"
+  ],
+  "shortDescription": "SanDisk Portable SSD 1TB (SDSSDE30-1T00-G26):&nbsp;Performance\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nRead Speed\r\nUp to 800 MB/s\r\n\r\n\r\nWrite Speed&nbsp;\r\nLower than read (not officially specified)\r\n\r\n\r\nInterface\r\nUSB 3.2 Gen 2 (10 Gb",
+  "descriptionHtml": "<p><strong>SanDisk Portable SSD 1TB (SDSSDE30-1T00-G26)</strong>:</p><h3>&nbsp;Performance</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Read Speed</td><td>Up to <strong>800 MB/s</strong></td></tr><tr><td>Write Speed&nbsp;</td><td>Lower than read (not officially specified)</td></tr><tr><td>Interface</td><td>USB 3.2 Gen 2 (10 Gb/s)</td></tr><tr><td>Connector</td><td>USB-C</td></tr></tbody></table><h3>Storage</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Capacity</td><td>1TB</td></tr><tr><td>Drive Type</td><td>SSD (Solid State)</td></tr><tr><td>Actual Usable</td><td>Slightly less than 1TB</td></tr></tbody></table><h3>&nbsp;Physical</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Drop Protection</td><td>Up to <strong>2 meters</strong></td></tr><tr><td><br></td><td><br></td></tr><tr><td>Built-in Hook</td><td>✅ Rubber hook (for belt loop/backpack)</td></tr><tr><td><br></td><td><br></td></tr></tbody></table><h3>&nbsp;Connectivity &amp; Compatibility</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Cable Included</td><td>USB-C to USB-A</td></tr><tr><td>Plug &amp; Play</td><td>✅ Yes</td></tr><tr><td>Compatible With</td><td>PC, Mac, laptops, Android tablets &amp; phones</td></tr><tr><td>Driver Required</td><td>No</td></tr></tbody></table><h3>Other</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Model Number</td><td>SDSSDE30-1T00-G26</td></tr><tr><td>Warranty</td><td>3 years limited</td></tr><tr><td>Color</td><td>Black (also available in Lavender, Dragon Edition, etc.)</td></tr></tbody></table><h3><br></h3><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Read Speed",
+      "value": "Up to 800 MB/s"
+    },
+    {
+      "group": "specs",
+      "label": "Write Speed",
+      "value": "Lower than read (not officially specified)"
+    },
+    {
+      "group": "specs",
+      "label": "Interface",
+      "value": "USB 3.2 Gen 2 (10 Gb/s)"
+    },
+    {
+      "group": "specs",
+      "label": "Connector",
+      "value": "USB-C"
+    }
+  ],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    }
+  ]
+}

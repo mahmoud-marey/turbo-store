@@ -1,0 +1,70 @@
+{
+  "id": 853,
+  "slug": "aerocool-p500c-4-fan-argb",
+  "name": "Aerocool P500C 4 Fan ARGB White Case",
+  "model": "P500C",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 3900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509180442-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509180442-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509180442-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509180442-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "P500C",
+    "4",
+    "Fan",
+    "ARGB"
+  ],
+  "shortDescription": "Case SpecificationsModel: Aerocool P500C ARGBCase Type: Mid-TowerColor:&nbsp;whiteBody Material: SPCCFront Panel Material: Mesh for superior airflowSide Panel: Tempered GlassMotherboard Support: ATX, Micro-ATX, Mini-ITXC",
+  "descriptionHtml": "<div _ngcontent-ng-c1503186420=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_989adba5a5dc359a\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><div><b><br></b></div><h3><b>Case Specifications</b></h3><ul><li><p><b>Model:</b> Aerocool P500C ARGB</p></li><li><p><b>Case Type:</b> Mid-Tower</p></li><li><p><b>Color:</b>&nbsp;white</p></li><li><p><b>Body Material:</b> SPCC</p></li><li><p><b>Front Panel Material:</b> Mesh for superior airflow</p></li><li><p><b>Side Panel:</b> Tempered Glass</p></li><li><p><b>Motherboard Support:</b> ATX, Micro-ATX, Mini-ITX</p></li><li><p><b>Case Dimensions (Overall):</b> 210 x 465 x 405mm (W x H x D)</p></li></ul><h3><b>Cooling System</b></h3><ul><li><p><b>Pre-installed Fans:</b> 4 x 120mm ARGB fans (3 x Front, 1 x Rear)</p></li><li><p><b>Front Fan Support:</b> 3 x 120mm or 2 x 140mm</p></li><li><p><b>Top Fan Support:</b> 2 x 120mm or 2 x 140mm</p></li><li><p><b>Rear Fan Support:</b> 1 x 120mm</p></li><li><p><b>Radiator Support:</b></p><ul><li><p>Front: 120/240/280/360mm</p></li><li><p>Top: 120/240mm</p></li><li><p>Rear: 120mm</p></li></ul></li></ul><h3><b>Drive Bays &amp; Expansion</b></h3><ul><li><p><b>Expansion Slots:</b> 7</p></li><li><p><b",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-14",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": 1097,
+  "slug": "asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6",
+  "name": "ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 Graphics Card (DUAL-RTX3050-O6G)",
+  "model": "3050 OC Edition",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 13999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 8,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-1-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Dual",
+    "GeForce RTX",
+    "RTX 3050",
+    "OC Edition",
+    "6GB GDDR6",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 Graphics CardExperience immersion and ray-traced gaming visuals within an efficient footprint with the ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 graphics card, brough",
+  "descriptionHtml": "<p><span>ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 Graphics Card</span></p><p>Experience immersion and ray-traced gaming visuals within an efficient footprint with the ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 graphics card, brought to you by Turbo Computer Egypt. Powered by NVIDIA's Ampere architecture featuring 2nd Gen RT Cores and 3rd Gen Tensor Cores for AI-accelerated performance like DLSS, this graphics solution runs with 6GB of GDDR6 memory layout on a 96-bit interface. Engineered perfectly for standard or compact system integration, it operates effectively entirely through slot power without requiring external PCIe power connectors. The thermal shroud houses dual Axial-tech fans with IP5X dust resistance and a quiet 0dB fan stop profile to balance high airflow with silent operation. Factory overclocked out of the box, this highly reliable and energy-efficient GPU layout is backed by a 3-year factory agent warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Product Series</td><td>ASUS Dual Series</td></tr><tr><td>Model Name / P/N</td><td>Dual GeForce RTX 3050 OC Edition 6GB (DUAL-RTX3050-O6G)</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 3050</td></tr><tr><td>Video Memory (VRAM)</td><td>6GB GDDR6 Dedicated Video Memory</td></tr><tr><td>Engine Clock Boost</td><td>OC Mode: 1537 MHz | Default Mode: 1507 MHz (Boost Clock)</td></tr><tr><td>CUDA Cores</td><td>2304 Cores</td></tr><tr><td>Memory Interface</td><td>96-bit</td></tr><tr><td>Cooling System</td><td>Dual Axial-tech Cooling Fans (IP5X Dust Resistance, 0dB Technology)</td></tr><tr><td>Form Factor Layout</td><td>2-Slot Design (Length: 20.1 cm for High Compatibility)</td></tr><tr><td>Display Outputs</td><td>1x Native HDMI 2.1, 1x Native DisplayPort 1.4a, 1x Native DVI-D (HDCP 2.3)</td></tr><tr><td>Power Connectors</td><td>None Required (Runs Completely via Motherboard PCIe Slot Power)</td></tr><tr><td>Recommended PSU</td><td>450W or Higher Quality Power Supply Unit</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Agent Warranty (ضمان رسمي من الوكيل لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "ASUS Dual Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / P/N",
+      "value": "Dual GeForce RTX 3050 OC Edition 6GB (DUAL-RTX3050-O6G)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 3050"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "6GB GDDR6 Dedicated Video Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock Boost",
+      "value": "OC Mode: 1537 MHz | Default Mode: 1507 MHz (Boost Clock)"
+    },
+    {
+      "group": "specs",
+      "label": "CUDA Cores",
+      "value": "2304 Cores"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Interface",
+      "value": "96-bit"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System",
+      "value": "Dual Axial-tech Cooling Fans (IP5X Dust Resistance, 0dB Technology)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor Layout",
+      "value": "2-Slot Design (Length: 20.1 cm for High Compatibility)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "1x Native HDMI 2.1, 1x Native DisplayPort 1.4a, 1x Native DVI-D (HDCP 2.3)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Connectors",
+      "value": "None Required (Runs Completely via Motherboard PCIe Slot Power)"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "450W or Higher Quality Power Supply Unit"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Agent Warranty (ضمان رسمي من الوكيل لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-10",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-15",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 291,
+  "slug": "cougaregy-gp890",
+  "name": "Single COUGAR-EGY (890) Turbo Controller with Vibration ",
+  "model": "890",
+  "brand": "Cougar",
+  "brandSlug": "cougar",
+  "categorySlugs": [
+    "gamepads-controllers"
+  ],
+  "price": 349,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2007-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2007-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2007-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2007-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2009-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2009-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2009-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2008-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2008-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cougar/gp%2008-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cougar/gp%206-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cougar/gp%206-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cougar/gp%206-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New",
+    "🔥 Bestseller"
+  ],
+  "tags": [
+    "Gamepad",
+    "Wired",
+    "COUGAR-EGY",
+    "(890)",
+    "Single",
+    "Turbo",
+    "Controller",
+    "with",
+    "Vibration"
+  ],
+  "shortDescription": "Ergonomics DesignImproved designType Gamepad1.5 Meter CORDVibration Function...",
+  "descriptionHtml": "<ul><li><h2><span>Ergonomics Design</span><br><span>Improved design</span><br><span>Type Gamepad</span><br><span>1.5 Meter CORD</span><br><span>Vibration Function</span><br></h2></li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-10",
+      "demo": true
+    }
+  ]
+}

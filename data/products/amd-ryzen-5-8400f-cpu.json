@@ -1,0 +1,69 @@
+{
+  "id": 807,
+  "slug": "amd-ryzen-5-8400f-cpu",
+  "name": "AMD RYZEN 5 8400F CPU",
+  "model": "8400F",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 6800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501171633-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501171633-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501171633-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501171633-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "RYZEN",
+    "5",
+    "8400F",
+    "CPU"
+  ],
+  "shortDescription": "AMD Ryzen 5 8400F processor:​Core Specifications\r\n​Total Cores: 6\r\n​Total Threads: 12\r\n​Base Clock: 4.2 GHz\r\n​Max Boost Clock: Up to 4.7 GHz\r\n​Architecture: Zen 4 (Phoenix)\r\n​Process Technology: TSMC 4nm FinFET\r\n​Default",
+  "descriptionHtml": "<p dir=\"ltr\"><b>AMD Ryzen 5 8400F</b> processor:</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\">​<b>Total Cores:</b> 6</li><li dir=\"ltr\">​<b>Total Threads:</b> 12</li><li dir=\"ltr\">​<b>Base Clock:</b> 4.2 GHz</li><li dir=\"ltr\">​<b>Max Boost Clock:</b> Up to 4.7 GHz</li><li dir=\"ltr\">​<b>Architecture:</b> Zen 4 (Phoenix)</li><li dir=\"ltr\">​<b>Process Technology:</b> TSMC 4nm FinFET</li><li dir=\"ltr\">​<b>Default TDP:</b> 65W</li><li dir=\"ltr\">​<b>Unlocked for Overclocking:</b> Yes</li></ul><h3 dir=\"ltr\">​<b>Cache</b></h3><ul><li dir=\"ltr\">​<b>L1 Cache:</b> 384 KB</li><li dir=\"ltr\">​<b>L2 Cache:</b> 6 MB</li><li dir=\"ltr\">​<b>L3 Cache:</b> 16 MB</li></ul><h3 dir=\"ltr\">​<b>Memory Specifications</b></h3><ul><li dir=\"ltr\">​<b>System Memory Type:</b> DDR5</li><li dir=\"ltr\">​<b>Max Memory Speed:</b> Up to 5200 MT/s</li><li dir=\"ltr\">​<b>Memory Channels:</b> 2</li></ul><h3 dir=\"ltr\">​<b>Connectivity &amp; Graphics</b></h3><ul><li dir=\"ltr\">​<b>PCI Express Version:</b> PCIe 4.0</li><li dir=\"ltr\">​<b>Integrated Graphics:</b> None (Discrete Graphics Card Required)</li><li dir=\"ltr\">​<b>Socket:</b> AM5</li></ul><h3 dir=\"ltr\">​<b>Thermal Information</b></h3><p></p><ul><li dir=\"ltr\">​<b>Max Operating Temperature (Tjmax):</b> 95°C</li><li dir=\"ltr\">​<b>Thermal Solution (MPK/Box):</b> AMD Wraith Stealth</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 30,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    }
+  ]
+}

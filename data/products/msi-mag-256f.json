@@ -1,0 +1,73 @@
+{
+  "id": 830,
+  "slug": "msi-mag-256f",
+  "name": "MSI MAG 256F 24.5 inch 180Hz IPS FHD",
+  "model": "MAG 256F",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 6500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503182201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503182201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503182201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260503182201-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "MSI",
+    "MAG",
+    "256F",
+    "24.5",
+    "inch",
+    "180Hz",
+    "IPS",
+    "FHD"
+  ],
+  "shortDescription": "MSI MAG 256F Gaming Monitor Specifications​The MSI MAG 256F is a fast-paced gaming monitor designed for competitive clarity. It features a \"Rapid IPS\" panel, which significantly reduces motion blur while maintaining high",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>MSI MAG 256F Gaming Monitor Specifications</b></h3><p dir=\"ltr\">​The <b>MSI MAG 256F</b> is a fast-paced gaming monitor designed for competitive clarity. It features a \"Rapid IPS\" panel, which significantly reduces motion blur while maintaining high color fidelity, making it a top contender for FPS and eSports enthusiasts.</p><h3 dir=\"ltr\">​<b>Display Specifications</b></h3><ul><li dir=\"ltr\">​<b>Panel Size:</b> 24.5-inch</li><li dir=\"ltr\">​<b>Panel Type:</b> Rapid IPS</li><li dir=\"ltr\">​<b>Resolution:</b> 1920 x 1080 (Full HD)</li><li dir=\"ltr\">​<b>Refresh Rate:</b> 180Hz</li><li dir=\"ltr\">​<b>Response Time:</b> 1ms (GtG)</li><li dir=\"ltr\">​<b>Brightness:</b> 250 nits (Typical)</li><li dir=\"ltr\">​<b>Contrast Ratio:</b> 1000:1 (Static)</li><li dir=\"ltr\">​<b>Color Gamut:</b>&nbsp; &nbsp;127% sRGB ...91% DCI-P3</li><li dir=\"ltr\">​<b>Viewing Angles:</b> 178° Horizontal / 178° Vertical</li><li dir=\"ltr\">​<b>Surface Treatment:</b> Anti-glare</li></ul><h3 dir=\"ltr\">​<b>Gaming &amp; Visual Features</b></h3><ul><li dir=\"ltr\">​<b>Adaptive-Sync:</b> Synchronizes the display refresh rate with your GPU to eliminate screen tearing.</li><li dir=\"ltr\">​<b>Wide Color Gamut:</b> Fine-tuned to provide more realistic and refined colors for improved immersion.</li><li dir=\"ltr\">​<b>AI Vision:</b> New technology that reveals details in dark areas while optimizing overall brightness and saturation.</li><li dir=\"ltr\">​<b>Anti-Flicker &amp; Less Blue Light:</b> TUV Rheinland certified to reduce eye strain and fatigue during extended play.</li><li dir=\"ltr\">​<b>Console Mode:</b> Optimized to work seamlessly with modern consoles at high refresh rates.</li></ul><h3 dir=\"ltr\">​<b>Connectivity</b></h3><ul><li dir=\"ltr\">​<b>DisplayPort:</b> 1 x DisplayPort 1.2a (Supports 180Hz)</li><li dir=\"ltr\">​<b>HDMI:</b> 2 x HDMI 2.0b (Supports 180Hz)</li><li dir=\"ltr\">​<b>Audio:</b> 1 x Headphone Out</li></ul><h3 dir=\"ltr\">​<b>Physical Design</b></h3><ul><li dir=\"ltr\">​<b>Tilt Adjustment:</b> -5° ~ 20°</li><li dir=\"ltr\">​<b>VESA Mounting:</b> 75 x 75 mm</li><li dir=\"ltr\">​<b>Bezel:</b> Frameless design for a multi-monitor setup and modern look.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>Rapid IPS Technology:</b> Offers a 1ms GtG response time, which is significantly faster than standard IPS panels, virtually eliminating ghosting.</li><li dir=\"ltr\">​<b>180Hz High Refresh Rate:</b> Provides extremely fluid motion, giving you a competitive edge in fast-action games.</li><li dir=\"ltr\">​<b>Exceptional Color Volume:</b> With 127% sRGB coverage, the colors are more vibrant and \"pop\" more than typical budget gaming monitors.</li><li dir=\"ltr\">​<b>Sleek 24.5\" Form Factor:</b> The preferred size for many professional eSports players as it stays within the human eye's natural field of focus.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 20,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    }
+  ]
+}

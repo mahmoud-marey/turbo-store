@@ -1,0 +1,88 @@
+{
+  "id": 358,
+  "slug": "samsung-ls27cg552emxeg-27-165hz-1ms-wqhd-curved",
+  "name": "Samsung Odyssey G5 LS27CG552EMXEG 27&quot; - VA CURVED- 1MS - WQHD - 165Hz LED Monitor",
+  "model": "LS27CG552EMXEG",
+  "brand": "SAMSUNG",
+  "brandSlug": "samsung",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 9100,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/IMG-20260201-WA0011_260325205434-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/IMG-20260201-WA0011_260325205434-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/IMG-20260201-WA0011_260325205434-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/IMG-20260201-WA0011_260325205434-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/4-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/4-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/4-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/samsung/ODYSSEY%20G5/2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Samsung",
+    "Odyssey",
+    "G5 LS27CG552EMXEG",
+    "27&amp;quot;",
+    "VA CURVED",
+    "1MS",
+    "WQHD",
+    "165Hz LED Monitor"
+  ],
+  "shortDescription": "27″ WQHD Gaming Monitor with 1000R Curved ScreenSAMSUNG 27 Odyssey G5 LS27CG552EMXEGThe optimum curve true merger.WQHD is amazingRefresh rate 165HzWQHD Stunning WQHD (2560 x 1440)1ms response timeScreen Curvature 1000 R.",
+  "descriptionHtml": "<h1><ul><li>27″ WQHD Gaming Monitor with 1000R Curved Screen</li><li>SAMSUNG 27 Odyssey G5 LS27CG552EMXEG</li><li>The optimum curve true merger.</li><li>WQHD is amazing</li><li>Refresh rate 165Hz</li><li>WQHD Stunning WQHD (2560 x 1440)</li><li>1ms response time</li><li>Screen Curvature 1000 R</li></ul></h1><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    }
+  ]
+}

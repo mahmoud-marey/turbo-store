@@ -1,0 +1,148 @@
+{
+  "id": 1230,
+  "slug": "meetion-btm032-dual-mode-wireless-mouse-white",
+  "name": "Meetion BTM032 Dual Mode Wireless Mouse White",
+  "model": "BTM032",
+  "brand": "Meetion",
+  "brandSlug": "meetion",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 850,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-wireless-mouse-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-wireless-mouse-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-wireless-mouse-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-wireless-mouse-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-mouse-side-profile-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-mouse-side-profile-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-mouse-side-profile-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-bottom-sensor-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-bottom-sensor-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/meetion-btm032-white-bottom-sensor-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Meetion",
+    "BTM032",
+    "Dual Mode Mouse",
+    "Wireless Mouse",
+    "Bluetooth Mouse",
+    "2.4GHz Wireless",
+    "White Edition",
+    "Silent Clicks",
+    "Ergonomic Mouse",
+    "Portable Mouse",
+    "Office Mouse",
+    "1 Year Official Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Meetion BTM032 Dual Mode Wireless Mouse White Edition (Dual Wireless Connection Bluetooth &amp; 2.4GHz USB / Silent Mute Buttons / Adjustable Optical DPI Sensor / Compact Ergonomic Design / Power-Saving Auto Sleep Mode /",
+  "descriptionHtml": "<p><span>Meetion BTM032 Dual Mode Wireless Mouse White Edition (Dual Wireless Connection Bluetooth &amp; 2.4GHz USB / Silent Mute Buttons / Adjustable Optical DPI Sensor / Compact Ergonomic Design / Power-Saving Auto Sleep Mode / 1-Year Official Agent Warranty)</span></p><p>Streamline your workspace and transition seamlessly across multiple devices with the Meetion BTM032 Dual Mode Wireless Mouse in clean White Edition, available at Turbo Computer Egypt with a 1-Year Official Agent Warranty (ضمان سنة من الوكيل). Featuring dual-mode connectivity via Bluetooth and a shared 2.4GHz USB nano receiver, this compact wireless mouse offers ultra-quiet silent clicking switches, an adjustable optical sensor, optimized power saving, and an ergonomic lightweight shape ideal for office, home, and travel use.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Meetion</td></tr><tr><td>Model / Series</td><td>Meetion BTM032</td></tr><tr><td>Color Edition</td><td>White Edition</td></tr><tr><td>Warranty Period</td><td>1-Year Official Agent Warranty (ضمان سنة من الوكيل)</td></tr><tr><td>Connectivity Technology</td><td>Dual Mode (Bluetooth Wireless + 2.4GHz USB Receiver)</td></tr><tr><td>Wireless Range</td><td>Up to 10 Meters Operating Distance</td></tr><tr><td>Sensor Type &amp; DPI</td><td>High-Precision Optical Sensor / On-the-Fly Adjustable DPI</td></tr><tr><td>Switch Type</td><td>Silent Soft-Click Switches (Noise-Reduction Design)</td></tr><tr><td>Buttons Count</td><td>4 Responsive Buttons (Left, Right, Scroll Wheel, DPI Switch)</td></tr><tr><td>Power Efficiency</td><td>Battery Powered with Intelligent Automatic Sleep Function</td></tr><tr><td>Design &amp; Portability</td><td>Compact Ergonomic Profile (Lightweight &amp; Ambidextrous)</td></tr><tr><td>System Compatibility</td><td>Windows 11 / 10 / 8 / 7, macOS, iPadOS, Android, Smart TVs</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Meetion"
+    },
+    {
+      "group": "specs",
+      "label": "Model / Series",
+      "value": "Meetion BTM032"
+    },
+    {
+      "group": "specs",
+      "label": "Color Edition",
+      "value": "White Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Official Agent Warranty (ضمان سنة من الوكيل)"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Technology",
+      "value": "Dual Mode (Bluetooth Wireless + 2.4GHz USB Receiver)"
+    },
+    {
+      "group": "specs",
+      "label": "Wireless Range",
+      "value": "Up to 10 Meters Operating Distance"
+    },
+    {
+      "group": "specs",
+      "label": "Sensor Type & DPI",
+      "value": "High-Precision Optical Sensor / On-the-Fly Adjustable DPI"
+    },
+    {
+      "group": "specs",
+      "label": "Switch Type",
+      "value": "Silent Soft-Click Switches (Noise-Reduction Design)"
+    },
+    {
+      "group": "specs",
+      "label": "Buttons Count",
+      "value": "4 Responsive Buttons (Left, Right, Scroll Wheel, DPI Switch)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Efficiency",
+      "value": "Battery Powered with Intelligent Automatic Sleep Function"
+    },
+    {
+      "group": "specs",
+      "label": "Design & Portability",
+      "value": "Compact Ergonomic Profile (Lightweight & Ambidextrous)"
+    },
+    {
+      "group": "specs",
+      "label": "System Compatibility",
+      "value": "Windows 11 / 10 / 8 / 7, macOS, iPadOS, Android, Smart TVs"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    }
+  ]
+}

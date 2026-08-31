@@ -1,0 +1,123 @@
+{
+  "id": 964,
+  "slug": "adata-16gb-ddr5-5600mhz-cl46-1-1v-udimm-desktop-ram",
+  "name": "ADATA 16GB DDR5 5600MHz CL46 1.1V UDIMM Desktop RAM Module",
+  "model": "P5600",
+  "brand": "ADATA",
+  "brandSlug": "adata",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 10099,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/adata-16gb-ddr5-5600mhz-cl46-udimm-desktop-ram-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/adata-16gb-ddr5-5600mhz-cl46-udimm-desktop-ram-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/adata-16gb-ddr5-5600mhz-cl46-udimm-desktop-ram-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/adata-16gb-ddr5-5600mhz-cl46-udimm-desktop-ram-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "ADATA",
+    "16GB",
+    "DDR5",
+    "5600MHz",
+    "CL46",
+    "1.1V",
+    "UDIMM",
+    "Desktop RAM",
+    "PC Memory",
+    "High-Speed",
+    "Upgrade",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ADATA 16GB DDR5 5600MHz CL46 1.1V High-Efficiency Desktop PC RAMStep into the future of computing with the ADATA 16GB DDR5 5600MHz UDIMM Desktop RAM. Designed to unlock incredible speed, bandwidth, and efficiency for mod",
+  "descriptionHtml": "",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ADATA"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number",
+      "value": "AD5U560016G-S"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Type",
+      "value": "DDR5"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "UDIMM (Desktop)"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "16GB (1×16GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "5600MHz (PC5-44800)"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL46"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.1V"
+    },
+    {
+      "group": "specs",
+      "label": "Pin Count",
+      "value": "288-pin"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-17",
+      "demo": true
+    }
+  ]
+}

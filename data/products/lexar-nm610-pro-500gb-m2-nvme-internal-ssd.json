@@ -1,0 +1,141 @@
+{
+  "id": 980,
+  "slug": "lexar-nm610-pro-500gb-m2-nvme-internal-ssd",
+  "name": "Lexar NM610 PRO 500GB M.2 2280 NVMe PCIe Gen3x4 Internal SSD",
+  "model": "NM610 PRO",
+  "brand": "LEXAR",
+  "brandSlug": "lexar",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 3899,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nm610-pro-500gb-m2-nvme-internal-ssd-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nm610-pro-500gb-m2-nvme-internal-ssd-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nm610-pro-500gb-m2-nvme-internal-ssd-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/lexar-nm610-pro-500gb-m2-nvme-internal-ssd-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lexar",
+    "NM610 PRO",
+    "500GB",
+    "M.2",
+    "NVMe",
+    "PCIe Gen3x4",
+    "Internal SSD",
+    "Solid State Drive",
+    "Gaming PC Upgrade",
+    "هارد ليكسار مسمار",
+    "هارد nvme 500 جيجا"
+  ],
+  "shortDescription": "Lexar NM610 PRO 1TB M.2 2280 PCIe Gen3x4 NVMe Internal Solid State Drive (SSD)Upgrade your system performance and experience a smoother computing workflow with the reliable Lexar NM610 PRO M.2 PCIe Gen3x4 NVMe SSD. Avail",
+  "descriptionHtml": "<p>Lexar NM610 PRO 1TB M.2 2280 PCIe Gen3x4 NVMe Internal Solid State Drive (SSD)</p><p>Upgrade your system performance and experience a smoother computing workflow with the reliable Lexar NM610 PRO M.2 PCIe Gen3x4 NVMe SSD. Available at Turbo Computer, this efficient internal solid-state drive utilizes the widespread PCIe Gen3x4 interface to achieve high-speed sequential read performance up to 3300MB/s. It stands as the definitive budget-friendly hardware choice for users and laptop owners across Egypt looking to replace slow mechanical HDDs or older SATA SSDs with responsive NVMe tracking speed.</p><p>The Lexar NM610 PRO is thoughtfully designed with a slim M.2 2280 form factor, ensuring effortless hardware modification integration into thin notebooks, small-form-factor builds, and standard desktop motherboards. Boasting built-in shock and vibration resistance with no moving parts, it delivers advanced data safety alongside quiet, low-temperature operation. With its enhanced bandwidth efficiency and reliable capacity architecture, it provides an excellent day-to-day computing desktop ecosystem.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Lexar</td></tr><tr><td><strong>Model</strong></td><td>NM610 PRO</td></tr><tr><td><strong>Capacity</strong></td><td>1TB</td></tr><tr><td><strong>Form Factor</strong></td><td>M.2 2280</td></tr><tr><td><strong>Interface</strong></td><td>PCIe Gen3x4 / NVMe Standard</td></tr><tr><td><strong>Max Sequential Read Speed</strong></td><td>Up to 3300 MB/s</td></tr><tr><td><strong>Max Sequential Write Speed</strong></td><td>Up to 2600 MB/s</td></tr><tr><td><strong>NAND Flash Type</strong></td><td>3D NAND</td></tr><tr><td><strong>Shock &amp; Vibration Resistant</strong></td><td>Yes (1500G, duration 0.5ms, Half Sine Wave)</td></tr><tr><td><strong>MTBF</strong></td><td>1,500,000 Hours (Mean Time Between Failures)</td></tr><tr><td><strong>Dimensions (W x L x H)</strong></td><td>80 x 22 x 2.25 mm (Ultra-slim profile)</td></tr><tr><td><strong>Compatibility</strong></td><td>PCIe Gen 3 Motherboards, Standard Laptops, Office Desktops &amp; External M.2 Enclosures</td></tr><tr><td><strong>Application</strong></td><td>Everyday Computing, Fast OS Boot Drive, Office Productivity &amp; Budget System Upgrades</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Lexar"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "NM610 PRO"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "1TB"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "M.2 2280"
+    },
+    {
+      "group": "specs",
+      "label": "Interface",
+      "value": "PCIe Gen3x4 / NVMe Standard"
+    },
+    {
+      "group": "specs",
+      "label": "Max Sequential Read Speed",
+      "value": "Up to 3300 MB/s"
+    },
+    {
+      "group": "specs",
+      "label": "Max Sequential Write Speed",
+      "value": "Up to 2600 MB/s"
+    },
+    {
+      "group": "specs",
+      "label": "NAND Flash Type",
+      "value": "3D NAND"
+    },
+    {
+      "group": "specs",
+      "label": "Shock & Vibration Resistant",
+      "value": "Yes (1500G, duration 0.5ms, Half Sine Wave)"
+    },
+    {
+      "group": "specs",
+      "label": "MTBF",
+      "value": "1,500,000 Hours (Mean Time Between Failures)"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions (W x L x H)",
+      "value": "80 x 22 x 2.25 mm (Ultra-slim profile)"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "PCIe Gen 3 Motherboards, Standard Laptops, Office Desktops & External M.2 Enclosures"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "Everyday Computing, Fast OS Boot Drive, Office Productivity & Budget System Upgrades"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    }
+  ]
+}

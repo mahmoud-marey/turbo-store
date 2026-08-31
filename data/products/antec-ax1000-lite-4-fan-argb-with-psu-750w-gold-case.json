@@ -1,0 +1,82 @@
+{
+  "id": 845,
+  "slug": "antec-ax1000-lite-4-fan-argb-with-psu-750w-gold-case",
+  "name": "Antec AX1000 Lite 4 Fan ARGB with PSU antec 750W 80plus Gold Case",
+  "model": "AX1000 Lite",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 6200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205128-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205143-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205143-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205143-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205153-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205153-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504205153-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Antec",
+    "AX1000 Lite",
+    "4 Fan",
+    "ARGB",
+    "PSU",
+    "750W",
+    "80plus Gold",
+    "Case"
+  ],
+  "shortDescription": "Technical SpecificationsThis bundle pairs the high-airflow AX1000 Lite chassis with a premium 750W 80 Plus Gold power supply, offering higher energy efficiency and better internal components compared to the Bronze versio",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_b82a5883d9e0036b\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><br></h3><h3><b>Technical Specifications</b></h3><p>This bundle pairs the high-airflow <b>AX1000 Lite</b> chassis with a premium <b>750W 80 Plus Gold</b> power supply, offering higher energy efficiency and better internal components compared to the Bronze version.</p><h4><b>1. Case Specifications (AX1000 Lite)</b></h4><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Case Type</b></span></td><td><span>Mid-Tower</span></td></tr><tr><td><span><b>Dimensions (DWH)</b></span></td><td><span>440 x 212 x 489 mm</span></td></tr><tr><td><span><b>Motherboard Support</b></span></td><td><span>E-ATX (up to 280mm), ATX, Micro-ATX, ITX</span></td></tr><tr><td><span><b>Front Panel</b></span></td><td><span>High-density Mesh for maximum air intake</span></td></tr><tr><td><span><b>Side Panel</b></span></td><td><span>4mm Tempered Glass</span></td></tr><tr><td><span><b>Included Fans</b></span></td><td><span>4 x 120mm ARGB fans (3 front, 1 rear)</span></td></tr><tr><td><span><b>Max Fan Capacity</b></span></td><td><span>Up to 8 x 120mm fans</span></td></tr><tr",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    }
+  ]
+}

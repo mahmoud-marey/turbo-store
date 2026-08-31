@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "laptops",
+    "name": "Laptops & Notebooks",
+    "nameAr": "لابتوب",
+    "parentSlug": null,
+    "productCount": 194,
+    "image": "https://turbo-computer.com/image/cache/catalog/H13-915x510w.jpeg.webp"
+  },
+  {
+    "slug": "accessories",
+    "name": "Accessories",
+    "nameAr": "إكسسوارات",
+    "parentSlug": null,
+    "productCount": 116,
+    "image": "https://turbo-computer.com/image/cache/catalog/ACER/acer-nitro-v15-gaming-laptop-front-view-50x50.png.webp"
+  },
+  {
+    "slug": "cables-adapters",
+    "name": "Cables & Adapters",
+    "nameAr": "كابلات ومحولات",
+    "parentSlug": "accessories",
+    "productCount": 11,
+    "image": ""
+  },
+  {
+    "slug": "keyboard-mouse-combos",
+    "name": "Keyboard & Mouse Combos",
+    "nameAr": "كيبورد وماوس",
+    "parentSlug": "accessories",
+    "productCount": 14,
+    "image": ""
+  },
+  {
+    "slug": "converters-docking-stations",
+    "name": "Converters & Docking Stations",
+    "nameAr": "محولات ودوك",
+    "parentSlug": "accessories",
+    "productCount": 3,
+    "image": ""
+  },
+  {
+    "slug": "gamepads-controllers",
+    "name": "Gamepads & Controllers",
+    "nameAr": "جوستيك وكنترولر",
+    "parentSlug": "accessories",
+    "productCount": 12,
+    "image": ""
+  },
+  {
+    "slug": "gaming-mouse-pads-desk-mats",
+    "name": "Gaming Mouse Pads & Desk Mats",
+    "nameAr": "ماوس باد",
+    "parentSlug": "accessories",
+    "productCount": 9,
+    "image": ""
+  },
+  {
+    "slug": "headphones-headsets",
+    "name": "Headphones & Headsets",
+    "nameAr": "سماعات",
+    "parentSlug": "accessories",
+    "productCount": 35,
+    "image": "https://turbo-computer.com/image/cache/catalog/accessories/redragon-h540-luna-wired-headset-top-350x350.png.webp"
+  },
+  {
+    "slug": "keyboards-input-devices",
+    "name": "Keyboards & Input Devices",
+    "nameAr": "كيبوردات",
+    "parentSlug": "accessories",
+    "productCount": 37,
+    "image": ""
+  },
+  {
+    "slug": "laptop-bags-sleeves",
+    "name": "Laptop Bags & Sleeves",
+    "nameAr": "شنط لابتوب",
+    "parentSlug": null,
+    "productCount": 5,
+    "image": ""
+  },
+  {
+    "slug": "laptop-cooling-pads-stands",
+    "name": "Laptop Cooling Pads & Stands",
+    "nameAr": "قواعد تبريد",
+    "parentSlug": "accessories",
+    "productCount": 6,
+    "image": ""
+  },
+  {
+    "slug": "microphones-audio-gear",
+    "name": "Microphones & Audio Gear",
+    "nameAr": "مايكروفونات",
+    "parentSlug": "accessories",
+    "productCount": 0,
+    "image": ""
+  },
+  {
+    "slug": "mice",
+    "name": "Mice",
+    "nameAr": "ماوس",
+    "parentSlug": "accessories",
+    "productCount": 61,
+    "image": ""
+  },
+  {
+    "slug": "pc-cooling-thermal-solutions",
+    "name": "PC Cooling & Thermal Solutions",
+    "nameAr": "تبريد المعالج",
+    "parentSlug": null,
+    "productCount": 9,
+    "image": ""
+  },
+  {
+    "slug": "presenters-laser-pointers",
+    "name": "Presenters & Laser Pointers",
+    "nameAr": "مؤشرات ليزر",
+    "parentSlug": "accessories",
+    "productCount": 1,
+    "image": ""
+  },
+  {
+    "slug": "projectors",
+    "name": "Projectors",
+    "nameAr": "بروجيكتور",
+    "parentSlug": "accessories",
+    "productCount": 1,
+    "image": ""
+  },
+  {
+    "slug": "surveillance-cameras",
+    "name": "Surveillance Cameras",
+    "nameAr": "كاميرات مراقبة",
+    "parentSlug": "accessories",
+    "productCount": 0,
+    "image": ""
+  },
+  {
+    "slug": "usb-flash-drives",
+    "name": "USB Flash Drives",
+    "nameAr": "فلاش ميموري",
+    "parentSlug": null,
+    "productCount": 2,
+    "image": ""
+  },
+  {
+    "slug": "webcams",
+    "name": "Webcams",
+    "nameAr": "ويب كام",
+    "parentSlug": "accessories",
+    "productCount": 1,
+    "image": ""
+  },
+  {
+    "slug": "monitors-displays",
+    "name": "Monitors & Displays",
+    "nameAr": "شاشات",
+    "parentSlug": null,
+    "productCount": 26,
+    "image": "https://turbo-computer.com/image/cache/catalog/b4-370x220w.jpeg.webp"
+  },
+  {
+    "slug": "processors-cpus",
+    "name": "Processors (CPUs)",
+    "nameAr": "معالجات",
+    "parentSlug": null,
+    "productCount": 24,
+    "image": ""
+  },
+  {
+    "slug": "motherboards",
+    "name": "Motherboards",
+    "nameAr": "لوحات أم",
+    "parentSlug": null,
+    "productCount": 51,
+    "image": ""
+  },
+  {
+    "slug": "graphics-cards",
+    "name": "Graphics Cards",
+    "nameAr": "كروت شاشة",
+    "parentSlug": null,
+    "productCount": 24,
+    "image": ""
+  },
+  {
+    "slug": "computer-memory-ram",
+    "name": "Computer Memory (RAM)",
+    "nameAr": "رامات",
+    "parentSlug": null,
+    "productCount": 14,
+    "image": ""
+  },
+  {
+    "slug": "ssd-external-storage",
+    "name": "SSD & External Storage",
+    "nameAr": "وحدات تخزين SSD",
+    "parentSlug": null,
+    "productCount": 26,
+    "image": ""
+  },
+  {
+    "slug": "hard-drives",
+    "name": "Hard Drives",
+    "nameAr": "هارد ديسك",
+    "parentSlug": null,
+    "productCount": 7,
+    "image": "https://turbo-computer.com/image/cache/catalog/b2-370x220w.jpeg.webp"
+  },
+  {
+    "slug": "pc-cases-chasses",
+    "name": "PC Cases",
+    "nameAr": "كيسات",
+    "parentSlug": null,
+    "productCount": 9,
+    "image": ""
+  },
+  {
+    "slug": "pc-bundle",
+    "name": "PC Bundles",
+    "nameAr": "تجميعات",
+    "parentSlug": null,
+    "productCount": 36,
+    "image": "https://turbo-computer.com/image/cache/catalog/H12-915x510w.jpeg.webp"
+  },
+  {
+    "slug": "networking",
+    "name": "Networking Equipment",
+    "nameAr": "شبكات",
+    "parentSlug": null,
+    "productCount": 0,
+    "image": ""
+  },
+  {
+    "slug": "power-supplies",
+    "name": "Power Supplies (PSU)",
+    "nameAr": "باور سبلاي",
+    "parentSlug": null,
+    "productCount": 16,
+    "image": ""
+  },
+  {
+    "slug": "point-of-sale",
+    "name": "Point of Sale (POS)",
+    "nameAr": "نقاط بيع",
+    "parentSlug": null,
+    "productCount": 3,
+    "image": ""
+  }
+]

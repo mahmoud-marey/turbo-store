@@ -1,0 +1,68 @@
+{
+  "id": 155,
+  "slug": "sunmi-ns021",
+  "name": "Barcode Scanner Sunmi NS021",
+  "model": "NS021",
+  "brand": "SUNMI",
+  "brandSlug": "sunmi",
+  "categorySlugs": [
+    "point-of-sale"
+  ],
+  "price": 1699,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/casher/ns021-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/casher/ns021-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/casher/ns021-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/casher/ns021-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Barcode",
+    "Scanner",
+    "Sunmi",
+    "NS021"
+  ],
+  "shortDescription": "NS021 SCANNER2D - 1D قارئ باركود&nbsp;&nbsp;خط ضوئي عريض وممتديعمل اتوماتيك او يدويمقاومة السقوط حتى 1.2 متر&nbsp;التوصيل عن طريق USB...",
+  "descriptionHtml": "<p><span><b>NS021 SCANNER</b></span></p><p><span><b>2D - 1D قارئ باركود&nbsp;</b></span></p><p><span><b>&nbsp;خط ضوئي عريض وممتد</b></span></p><p><span><b>يعمل اتوماتيك او يدوي</b></span></p><p><span><b>مقاومة السقوط حتى 1.2 متر&nbsp;</b></span></p><p><span><b>التوصيل عن طريق USB</b></span></p><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    }
+  ]
+}

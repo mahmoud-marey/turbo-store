@@ -1,0 +1,133 @@
+{
+  "id": 1182,
+  "slug": "cooler-master-masterliquid-core-nex-360-digital-aio",
+  "name": "Cooler Master MasterLiquid Core NEX 360 Digital AIO",
+  "model": "Core NEX 360 Digital",
+  "brand": "Cooler Master",
+  "brandSlug": "cooler-master",
+  "categorySlugs": [
+    "pc-cooling-thermal-solutions"
+  ],
+  "price": 4899,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-aio-cooler-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-aio-cooler-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-aio-cooler-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-aio-cooler-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-pump-display-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-pump-display-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cooler-master-nex-360-digital-pump-display-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Cooler Master",
+    "MasterLiquid",
+    "Core NEX Digital",
+    "360mm Radiator",
+    "AIO Liquid Cooler",
+    "ARGB Fans",
+    "Digital Display",
+    "Intel LGA1851",
+    "Intel LGA1700",
+    "AMD AM5",
+    "AMD AM4",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Cooler Master MasterLiquid Core NEX 360 Digital AIO CPU Liquid Cooler (Real-Time Digital Temperature Display / 360mm Radiator / Triple ARGB PWM Fans / 400mm Sleeved Tubing / Intel LGA 1851 1700 &amp; AMD AM5 AM4 Ready / ",
+  "descriptionHtml": "<p><span>Cooler Master MasterLiquid Core NEX 360 Digital AIO CPU Liquid Cooler (Real-Time Digital Temperature Display / 360mm Radiator / Triple ARGB PWM Fans / 400mm Sleeved Tubing / Intel LGA 1851 1700 &amp; AMD AM5 AM4 Ready / 1-Year Local Warranty)</span></p><p>Take full control of your CPU thermals with cutting-edge real-time monitoring through the Cooler Master MasterLiquid Core NEX 360 Digital AIO Liquid Cooler, available at Turbo Computer Egypt backed by a full 1-Year official local agent warranty layout. Featuring an integrated Digital Screen on the pump cap, this high-performance liquid cooler delivers live system statistics while utilizing a redesigned dual-chamber pump for rapid coolant flow. Backed by a large 360mm aluminum radiator, durable 400mm sleeved tubing, and three high-static pressure ARGB PWM cooling fans, it easily tames high-wattage modern processors on latest Intel LGA 1851 / 1700 and AMD AM5 / AM4 platforms.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Cooler Series</td><td>Cooler Master MasterLiquid Core NEX Series</td></tr><tr><td>Cooler Model &amp; Type</td><td>Core NEX 360 Digital / All-In-One (AIO) Liquid Cooler</td></tr><tr><td>Radiator Size &amp; Material</td><td>360 mm Form Factor / Premium Aluminum Radiator</td></tr><tr><td>Pump Top Feature</td><td>Real-Time NEX Digital Temperature Display Cap</td></tr><tr><td>Tubing Length &amp; Type</td><td>400 mm Reinforced Sleeved Rubber Tubing</td></tr><tr><td>Fan Electrical Specifications</td><td>0.26A Rated Current / 0.37A Safety Current / 3.12W Power Consumption</td></tr><tr><td>Fan Quantity &amp; Lighting</td><td>3x 120mm Addressable RGB (ARGB) PWM Fans</td></tr><tr><td>Intel Socket Compatibility</td><td>LGA 1851 / 1700 / 1200 / 1151 / 1150 / 1155 / 1156</td></tr><tr><td>AMD Socket Compatibility</td><td>AM5 / AM4</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Cooler Series",
+      "value": "Cooler Master MasterLiquid Core NEX Series"
+    },
+    {
+      "group": "specs",
+      "label": "Cooler Model & Type",
+      "value": "Core NEX 360 Digital / All-In-One (AIO) Liquid Cooler"
+    },
+    {
+      "group": "specs",
+      "label": "Radiator Size & Material",
+      "value": "360 mm Form Factor / Premium Aluminum Radiator"
+    },
+    {
+      "group": "specs",
+      "label": "Pump Top Feature",
+      "value": "Real-Time NEX Digital Temperature Display Cap"
+    },
+    {
+      "group": "specs",
+      "label": "Tubing Length & Type",
+      "value": "400 mm Reinforced Sleeved Rubber Tubing"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Electrical Specifications",
+      "value": "0.26A Rated Current / 0.37A Safety Current / 3.12W Power Consumption"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Quantity & Lighting",
+      "value": "3x 120mm Addressable RGB (ARGB) PWM Fans"
+    },
+    {
+      "group": "specs",
+      "label": "Intel Socket Compatibility",
+      "value": "LGA 1851 / 1700 / 1200 / 1151 / 1150 / 1155 / 1156"
+    },
+    {
+      "group": "specs",
+      "label": "AMD Socket Compatibility",
+      "value": "AM5 / AM4"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    }
+  ]
+}

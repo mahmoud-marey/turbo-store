@@ -1,0 +1,66 @@
+{
+  "id": 812,
+  "slug": "ocypus-lota-a40-black-air-cooler",
+  "name": "Ocypus Lota A40 Black Air Cooler",
+  "model": "Lota A40",
+  "brand": "Ocypus",
+  "brandSlug": "ocypus",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 1650,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502143913-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502143913-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502143913-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260502143913-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "ocypus-lota-a40-black-air-cooler"
+  ],
+  "shortDescription": "Ocypus Lota A40 Black Air Cooler\r\n​The Ocypus Lota A40 is a compact, single-tower air cooler designed for efficiency and aesthetics, featuring a sleek black finish and integrated status monitoring.\r\n​General Specificatio",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>Ocypus Lota A40 Black Air Cooler</b></h3><p dir=\"ltr\">​The <b>Ocypus Lota A40</b> is a compact, single-tower air cooler designed for efficiency and aesthetics, featuring a sleek black finish and integrated status monitoring.</p><h3 dir=\"ltr\">​<b>General Specifications</b></h3><ul><li dir=\"ltr\">​<b>Cooler Type:</b> Single Tower Air Cooler</li><li dir=\"ltr\">​<b>Color:</b> Matte Black</li><li dir=\"ltr\">​<b>TDP (Thermal Design Power):</b> Up to <b>180W</b></li><li dir=\"ltr\"> ​<b>Socket Compatibility:</b><ul><li dir=\"ltr\">​<b>Intel:</b> LGA 1851 / 1700 / 1200 / 115x</li><li dir=\"ltr\">​<b>AMD:</b> AM5 / AM4</li></ul></li></ul><h3 dir=\"ltr\">​<b>Heatsink &amp; Fan Details</b></h3><ul><li dir=\"ltr\">​<b>Heat Pipes:</b> 4x 6mm high-performance copper heat pipes with \"Direct Touch\" technology.</li><li dir=\"ltr\">​<b>Fin Material:</b> Aluminum high-density fins with a stealth black coating.</li><li dir=\"ltr\">​<b>Fan Model:</b> 1x 120mm PWM High-Static Pressure Fan.</li><li dir=\"ltr\">​<b>Fan Speed:</b> 500 ~ 2000 RPM (±10%).</li><li dir=\"ltr\">​<b>Airflow:</b> Max <b>75.81 CFM</b>.</li><li dir=\"ltr\">​<b>Static Pressure:</b> Max <b>2.53 mmAq</b>.</li><li dir=\"ltr\">​<b>Noise Level:</b> ≤ 31.6 dB(A) at maximum speed.</li><li dir=\"ltr\">​<b>Bearing Type:</b> FDB (Fluid Dynamic Bearing) for increased longevity and quiet operation.</li></ul><h3 dir=\"ltr\">​<b>Smart Features</b></h3><ul><li dir=\"ltr\"> ​<b>Digital Display:</b> Features a top-mounted digital screen that provides real-time monitoring of:<ul><li dir=\"ltr\">​<b>CPU Temperature</b></li><li dir=\"ltr\">​<b>CPU Utilization</b></li></ul></li><li dir=\"ltr\">​<b>Warning System:</b> Visual alerts when CPU temperatures reach critical levels.</li><li dir=\"ltr\">​<b>Software Control:</b> Requires the proprietary Ocypus software to sync data from the motherboard.</li></ul><h3 dir=\"ltr\">​<b>Physical Dimensions</b></h3><ul><li dir=\"ltr\">​<b>Height:</b> ~155 mm (Compatible with most mid-tower cases).</li><li dir=\"ltr\">​<b>Width:</b> ~125 mm.</li><li dir=\"ltr\">​<b>Depth:</b> ~75 mm (including fan).</li><li dir=\"ltr\">​<b>RAM Clearance:</b> Optimized design to provide high clearance for RAM modules in most configurations.</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><ul><li dir=\"ltr\">​<b>Stealth Aesthetics:</b> Fully blackened components including pipes, fins, and mounting hardware.</li><li dir=\"ltr\">​<b>High-End Finish:</b> The top cover hides the heat pipe ends for a clean, premium look.</li><li dir=\"ltr\">​<b>Easy Installation:</b> Comes with a simplified mounting kit for both modern Intel and AMD platforms.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-19",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-24",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-11",
+      "demo": true
+    }
+  ]
+}

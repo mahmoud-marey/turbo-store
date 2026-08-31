@@ -1,0 +1,103 @@
+{
+  "id": 497,
+  "slug": "hp-envy-15-fe0013dx-i5-1335u-touchscreen",
+  "name": "Laptop HP ENVY 15-FE0013DX , INTEL CORE I5-1335U , 8GB RAM , 256G SSD M.2 NVMe ,INTEL INTEGRATED , 15.6 Inch FHD multitouch , WINDOWS 11",
+  "model": "15-FE0013DX",
+  "brand": "HP",
+  "brandSlug": "hp",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 38000,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/HPL/e4-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/e4-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/e4-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/e4-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/e6-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/e6-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/e6-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/e7-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/e7-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/e7-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/e5-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/e5-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/e5-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/HPL/e8-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/HPL/e8-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/HPL/e8-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "HP",
+    "ENVY",
+    "15-FE0013DX",
+    "INTEL",
+    "CORE",
+    "I5-1335U",
+    "8GB",
+    "RAM",
+    "256G",
+    "SSD",
+    "M.2",
+    "NVME",
+    "INTEL",
+    "INTEGRATED",
+    "15.6&amp;quot;",
+    "FHD",
+    "MULTITOUCH",
+    "WINDOWS 11"
+  ],
+  "shortDescription": "laptop HP ENVY is a Hypird laptop that has the following features:Processor: INTEL® CORE I5-1335U ( 10 Core, 3.40 GHz to 4.60 GHz)Display: 15.6-inch, FHD(1920x 1080) refresh rate multitouch&nbsp;Memory: 8GB DDR4 RAMStora",
+  "descriptionHtml": "<p>laptop HP ENVY is a Hypird laptop that has the following features:</p><ul><li>Processor: INTEL® CORE I5-1335U ( 10 Core, 3.40 GHz to 4.60 GHz)</li><li>Display: 15.6-inch, FHD(1920x 1080) refresh rate multitouch&nbsp;</li><li>Memory: 8GB DDR4 RAM</li><li>Storage: 256 M.2 PCIe NVMe SSD&nbsp;</li><li>Graphics: INTEL INTEGRATED</li><li>Keyboard: Backlite Keyboard</li><li>OS: WINDOWS 11</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-12",
+      "demo": true
+    }
+  ]
+}

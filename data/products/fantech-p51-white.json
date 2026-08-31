@@ -1,0 +1,72 @@
+{
+  "id": 588,
+  "slug": "fantech-p51-white",
+  "name": "Fantech P51 Gaming 5 in 1 Combo white",
+  "model": "P51 white",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "keyboard-mouse-combos"
+  ],
+  "price": 1599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/P51w%201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/P51w%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/P51w%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/P51w%201-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "P51",
+    "Gaming",
+    "5",
+    "in",
+    "1",
+    "Combo",
+    "white"
+  ],
+  "shortDescription": "ضمان عامان من الوكيل&nbsp;...",
+  "descriptionHtml": "<p>ضمان عامان من الوكيل&nbsp;</p><p><br></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/P51w 2.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51w 4 (1).jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51w 3.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/P51w 5.jpg\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-10",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-15",
+      "demo": true
+    }
+  ]
+}

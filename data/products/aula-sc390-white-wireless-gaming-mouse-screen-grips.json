@@ -1,0 +1,91 @@
+{
+  "id": 1153,
+  "slug": "aula-sc390-white-wireless-gaming-mouse-screen-grips",
+  "name": "AULA SC390 Wireless Gaming Mouse with Screen &amp; Grips - White",
+  "model": "SC390",
+  "brand": "Aula",
+  "brandSlug": "aula",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 1149,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-mouse-main-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-mouse-main-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-mouse-main-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-mouse-main-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-anti-slip-grips-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-anti-slip-grips-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-anti-slip-grips-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-sensor-perf-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-sensor-perf-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-sensor-perf-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-smart-screen-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-smart-screen-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/aula-sc390-white-smart-screen-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AULA",
+    "SC390",
+    "Wireless Mouse",
+    "Gaming Mouse",
+    "Smart Screen",
+    "Anti-Slip Grips",
+    "White",
+    "High Performance",
+    "Lightweight",
+    "RGB Backlight",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 15,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    }
+  ]
+}

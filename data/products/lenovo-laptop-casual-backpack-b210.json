@@ -1,0 +1,84 @@
+{
+  "id": 684,
+  "slug": "lenovo-laptop-casual-backpack-b210",
+  "name": "Lenovo Laptop Casual Backpack B210",
+  "model": "B210",
+  "brand": "LENOVO",
+  "brandSlug": "lenovo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 15,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165723-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165723-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165723-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165723-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165754-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165754-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165754-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165811-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165811-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165811-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165827-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165827-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318165827-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Lenovo",
+    "Laptop",
+    "Casual",
+    "Backpack",
+    "B210"
+  ],
+  "shortDescription": "Tech SpecsGeneralBrand LenovoColorBlackDimensionPacked Dimensions (L x D x H)480x315x50 mmWeight0.44 kgPacked Weight0.535 kgOthersOutside Fabric MaterialPolyesterPadded Notebook CompartmentYes...",
+  "descriptionHtml": "<p>Tech Specs</p><p>General</p><p>Brand Lenovo</p><p><br></p><p>Color</p><p>Black</p><p><br></p><p>Dimension</p><p>Packed Dimensions (L x D x H)</p><p>480x315x50 mm</p><p><br></p><p>Weight</p><p>0.44 kg</p><p><br></p><p>Packed Weight</p><p>0.535 kg</p><p><br></p><p>Others</p><p><br></p><p>Outside Fabric Material</p><p>Polyester</p><p><br></p><p>Padded Notebook Compartment</p><p>Yes</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-10",
+      "demo": true
+    }
+  ]
+}

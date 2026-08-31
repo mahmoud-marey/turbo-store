@@ -1,0 +1,92 @@
+{
+  "id": 525,
+  "slug": "asus-vivobook15-x515ma",
+  "name": "Laptop ASUS VIVOBOOK -X515MA-BR001W ,INTEL CELERON  N4020 ,RAM-4G ,SSD-256G , INTEL GRAPHICS,15.6 Inch FHD",
+  "model": "X515MA-BR001W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 12999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/15-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/15-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/15-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/15-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/7-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/7-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/7-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/9-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/9-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/9-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/8-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/8-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/VIVOBOOK/8-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "ASUS",
+    "VIVOBOOK",
+    "-X515MA-BR001W",
+    "INTEL",
+    "CELERON",
+    "N4020",
+    "RAM-4G",
+    "SSD-256G",
+    "INTEL",
+    "GRAPHICS",
+    "15.6&amp;quot;",
+    "FHD"
+  ],
+  "shortDescription": "laptop ASUS X515MA-BR001W&nbsp; is a Bussiness laptop that has the following features:Processor: INTEL® CELERON™ N4020(4 Core, 2.40 GHz to 4.10 GHz)Display: 15.6-inch FHD (1980 x 1080)&nbsp;Memory: 4GB DDR4 RAMStorage: 2",
+  "descriptionHtml": "<p>laptop ASUS X515MA-BR001W&nbsp; is a Bussiness laptop that has the following features:</p><ul><li>Processor: INTEL® CELERON™ N4020(4 Core, 2.40 GHz to 4.10 GHz)</li><li>Display: 15.6-inch FHD (1980 x 1080)&nbsp;</li><li>Memory: 4GB DDR4 RAM</li><li>Storage: 256G NVME SSD</li><li>Graphics: INTEL UHD GRAPHICS</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-10",
+      "demo": true
+    }
+  ]
+}

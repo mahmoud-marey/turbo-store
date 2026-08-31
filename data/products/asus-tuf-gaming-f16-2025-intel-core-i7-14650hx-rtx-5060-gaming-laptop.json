@@ -1,0 +1,145 @@
+{
+  "id": 1116,
+  "slug": "asus-tuf-gaming-f16-2025-intel-core-i7-14650hx-rtx-5060-gaming-laptop",
+  "name": "ASUS TUF Gaming F16 2025 FX608 Intel Core i7-14650HX 16GB 512GB SSD RTX 5060 16 Inch FHD 165Hz",
+  "model": "FX608JMR-RV057W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 73999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/asus-tuf-gaming-f16-2025-gaming-laptop-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/asus-tuf-gaming-f16-2025-gaming-laptop-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/asus-tuf-gaming-f16-2025-gaming-laptop-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/asus-tuf-gaming-f16-2025-gaming-laptop-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/asus-tuf-f16-2025-rtx-5060-graphics-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/asus-tuf-f16-2025-rtx-5060-graphics-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/asus-tuf-f16-2025-rtx-5060-graphics-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "TUF Gaming",
+    "Gaming Laptop",
+    "Intel Core i7",
+    "14th Gen",
+    "RTX 5060",
+    "16GB DDR5",
+    "165Hz",
+    "16 Inch",
+    "Windows 11"
+  ],
+  "shortDescription": "ASUS TUF Gaming F16 (2025) FX608 Intel Core i7-14650HX RTX 5060 Gaming LaptopDominance meets next-generation performance with the ASUS TUF Gaming F16 2025 edition gaming laptop, brought to you by Turbo Computer Egypt. Dr",
+  "descriptionHtml": "<p><span>ASUS TUF Gaming F16 (2025) FX608 Intel Core i7-14650HX RTX 5060 Gaming Laptop</span></p><p>Dominance meets next-generation performance with the ASUS TUF Gaming F16 2025 edition gaming laptop, brought to you by Turbo Computer Egypt. Driven by the high-tier Intel Core i7-14650HX processor featuring 16 cores and 24 threads, this machine effortlessly crushes demanding modern gaming and heavy content creation workloads. Paired with the cutting-edge NVIDIA GeForce RTX 5060 laptop GPU backed by 8GB of ultra-fast GDDR7 vram, it handles complex high-frame rendering with absolute fluid precision. The immersive 16-inch FHD+ 16:10 display boasts a smooth 165Hz refresh rate, standard 100% sRGB color depth, G-Sync, and a MUX Switch utilizing Advanced Optimus for optimal graphics routing. Furnished with 16GB of DDR5-5600 memory alongside a rapid 512GB PCIe 4.0 NVMe SSD for fast operations. Enclosed within a rugged TUF chassis engineered for heavy endurance, this powerhouse comes with a 1-year Perfect Warranty plan.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Processor (CPU)</td><td>Intel Core i7 Processor 14650HX 2.2 GHz (16 Cores, 24 Threads, 30MB Cache, up to 5.2 GHz)</td></tr><tr><td>Graphics (GPU)</td><td>NVIDIA GeForce RTX 5060 Laptop GPU (8GB GDDR7, Up to 115W TGP)</td></tr><tr><td>Display Screen</td><td>16-inch FHD+ 16:10 (1920 x 1200, WUXGA) IPS-level Anti-glare, 165Hz, sRGB:100.00%, G-Sync</td></tr><tr><td>Graphics Routing</td><td>MUX Switch + NVIDIA Advanced Optimus</td></tr><tr><td>System Memory (RAM)</td><td>16GB DDR5-5600 SO-DIMM (Max Capacity: 64GB, 2x Slots)</td></tr><tr><td>Storage Drive</td><td>512GB PCIe 4.0 NVMe M.2 SSD (2x Total M.2 Slots Available)</td></tr><tr><td>Operating System</td><td>Windows 11 Home</td></tr><tr><td>I/O Ports Interface</td><td>1x Thunderbolt 4 (DP / G-Sync), 1x USB 3.2 Gen 2 Type-C (DP / Power Delivery), 3x USB 3.2 Gen 2 Type-A, 1x HDMI 2.1 FRL, 1x RJ45 LAN, 1x Audio Jack</td></tr><tr><td>Keyboard &amp; Touch</td><td>Backlit Chiclet Keyboard RGB, Touchpad, With Dedicated Copilot Key</td></tr><tr><td>Camera &amp; Sound</td><td>1080P FHD IR Camera (Windows Hello), Dolby Atmos 2x 2W Speakers, AI Noise-Canceling</td></tr><tr><td>Network Connectivity</td><td>Wi-Fi 6E (802.11ax) Triple Band 2*2 + Bluetooth 5.4 Layout</td></tr><tr><td>Battery &amp; Weight</td><td>90WHrs 4-cell Li-ion Battery / 2.20 Kg Weight Layout</td></tr><tr><td>Warranty Structure</td><td>1-Year Perfect Warranty (ضمان سنة كاملة ضد عيوب الاستخدام والعيوب المصنعية من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel Core i7 Processor 14650HX 2.2 GHz (16 Cores, 24 Threads, 30MB Cache, up to 5.2 GHz)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA GeForce RTX 5060 Laptop GPU (8GB GDDR7, Up to 115W TGP)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Screen",
+      "value": "16-inch FHD+ 16:10 (1920 x 1200, WUXGA) IPS-level Anti-glare, 165Hz, sRGB:100.00%, G-Sync"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Routing",
+      "value": "MUX Switch + NVIDIA Advanced Optimus"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory (RAM)",
+      "value": "16GB DDR5-5600 SO-DIMM (Max Capacity: 64GB, 2x Slots)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Drive",
+      "value": "512GB PCIe 4.0 NVMe M.2 SSD (2x Total M.2 Slots Available)"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows 11 Home"
+    },
+    {
+      "group": "specs",
+      "label": "I/O Ports Interface",
+      "value": "1x Thunderbolt 4 (DP / G-Sync), 1x USB 3.2 Gen 2 Type-C (DP / Power Delivery), 3x USB 3.2 Gen 2 Type-A, 1x HDMI 2.1 FRL, 1x RJ45 LAN, 1x Audio Jack"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard & Touch",
+      "value": "Backlit Chiclet Keyboard RGB, Touchpad, With Dedicated Copilot Key"
+    },
+    {
+      "group": "specs",
+      "label": "Camera & Sound",
+      "value": "1080P FHD IR Camera (Windows Hello), Dolby Atmos 2x 2W Speakers, AI Noise-Canceling"
+    },
+    {
+      "group": "specs",
+      "label": "Network Connectivity",
+      "value": "Wi-Fi 6E (802.11ax) Triple Band 2*2 + Bluetooth 5.4 Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Battery & Weight",
+      "value": "90WHrs 4-cell Li-ion Battery / 2.20 Kg Weight Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Structure",
+      "value": "1-Year Perfect Warranty (ضمان سنة كاملة ضد عيوب الاستخدام والعيوب المصنعية من الوكيل)"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    }
+  ]
+}

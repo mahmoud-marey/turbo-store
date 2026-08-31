@@ -1,0 +1,83 @@
+{
+  "id": 674,
+  "slug": "elite-jeans",
+  "name": "ELITE Jeans 015 Laptop Bag",
+  "model": "Jeans 015",
+  "brand": "ELITE",
+  "brandSlug": "elite-bags",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044918-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044918-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044918-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044918-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044822-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044822-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044822-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044859-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044859-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044859-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044841-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044841-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318044841-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ELITE",
+    "Jeans",
+    "Laptop",
+    "Bag"
+  ],
+  "shortDescription": "مواصفات ELITE Jeans Laptop Bagالماركة Eliteالموديل Jeans 015اللون ازرق جينزمناسب للابتوبات حتى 15.6 بوصةالخامة قماش جينز مع بطانة داخليةالوزن خفيفالسعة مناسبة للاستخدام اليوميالمميزاتتصميم عصري بشكل الجينز...",
+  "descriptionHtml": "<p>مواصفات ELITE Jeans Laptop Bag</p><p><br></p><p>الماركة Elite</p><p>الموديل Jeans 015</p><p>اللون ازرق جينز</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة قماش جينز مع بطانة داخلية</p><p>الوزن خفيف</p><p>السعة مناسبة للاستخدام اليومي</p><p><br></p><p>المميزات</p><p>تصميم عصري بشكل الجينز</p><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-10",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-15",
+      "demo": true
+    }
+  ]
+}

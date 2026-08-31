@@ -1,0 +1,77 @@
+{
+  "id": 527,
+  "slug": "fantech-chief-ii-hg20",
+  "name": "Fantech Chief II HG20 RGB Gaming Headset",
+  "model": "Chief II HG20",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 650,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(1)_260202135057-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(1)_260202135057-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(1)_260202135057-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011%20(1)_260202135057-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260201222011-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260201222011-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260201222011-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "Chief",
+    "II",
+    "HG20",
+    "RGB",
+    "Gaming",
+    "Headset"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<ul><li></li><li></li><li></li><li></li></ul><div><span><br></span></div><ul><li><br></li><li><img src=\"https://turbo-computer.com/image/catalog/accessories/FANTECH-HG20-RGB-Gaming-Headset-1-1.jpg\"></li><li><img src=\"https://turbo-computer.com/image/catalog/accessories/Fantech_Chief_II_HG20_RGB_Gaming_Headset_5.jpg\"></li><li><img src=\"https://turbo-computer.com/image/catalog/accessories/Fantech_Chief_II_HG20_RGB_Gaming_Headset_2.jpg\"></li></ul><p><br></p><ol><li><img src=\"https://turbo-computer.com/image/catalog/accessories/Fantech_Chief_II_HG20_RGB_Gaming_Headset_3.jpg\"></li></ol><p><br></p><ol><li><img src=\"https://turbo-computer.com/image/catalog/accessories/Fantech_Chief_II_HG20_RGB_Gaming_Headset_6.jpg\"><br></li></ol><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-11",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-26",
+      "demo": true
+    }
+  ]
+}

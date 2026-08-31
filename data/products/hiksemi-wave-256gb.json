@@ -1,0 +1,76 @@
+{
+  "id": 624,
+  "slug": "hiksemi-wave-256gb",
+  "name": "Hiksemi Wave M.2 256GB NVMe PCIe SSD ",
+  "model": "Wave",
+  "brand": "Hiksemi",
+  "brandSlug": "hiksemi",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 2449,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163821-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163821-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163821-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163821-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163832-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163832-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302163832-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Hiksemi",
+    "Wave",
+    "256GB",
+    "M.2",
+    "NVMe",
+    "PCIe",
+    "SSD"
+  ],
+  "shortDescription": "Specifications:\r\n\r\nCapacity: 256GB\r\n\r\n\r\nForm Factor: M.2 2280\r\n\r\n\r\nInterface: PCIe Gen 3.0 x4\r\n\r\n\r\nProtocol: NVMe 1.3\r\n\r\n\r\nSequential Read Speed: Up to 3,000 MB/s\r\n\r\n\r\nSequential Write Speed: Up to 1,200 MB/s\r\n\r\n\r\nNAND T",
+  "descriptionHtml": "<p><strong>Specifications:</strong></p><ul><li><p>Capacity: 256GB</p></li><li><p>Form Factor: M.2 2280</p></li><li><p>Interface: PCIe Gen 3.0 x4</p></li><li><p>Protocol: NVMe 1.3</p></li><li><p>Sequential Read Speed: Up to 3,000 MB/s</p></li><li><p>Sequential Write Speed: Up to 1,200 MB/s</p></li><li><p>NAND Type: 3D NAND Flash</p></li><li><p>Operating Temperature: 0°C to 70°C</p></li><li><p>Shock Resistance: 1500G</p></li><li><p>MTBF: 1.5 Million Hours</p></li></ul><p><strong>Features:</strong></p><p></p><ul><li><p>High-speed data transfer</p></li><li><p>Faster boot and load times</p></li><li><p>Low power consumption</p></li><li><p>Reliable and durable design</p></li><li><p>Ideal for laptops and desktop PCs</p></li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    }
+  ]
+}

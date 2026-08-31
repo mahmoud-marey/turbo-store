@@ -1,0 +1,74 @@
+{
+  "id": 699,
+  "slug": "cougar-egy-8080",
+  "name": "Cougar Egy 8080 Laptop Backpack",
+  "model": "8080",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 950,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319160835-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319160835-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319160835-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319160835-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319160818-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319160818-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260319160818-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Cougar",
+    "Egy",
+    "8080",
+    "Laptop",
+    "Backpack"
+  ],
+  "shortDescription": "مواصفات Cougar Egy 8080 Laptop Backpackالماركة Cougar Egyالموديل 8080اللون اسودمناسب للابتوبات حتى 15.6 بوصةالخامة بوليستر عالي الجودة مقاوم للماءالابعاد حوالي 45 × 30 × 15 سمالسعة حوالي 20 لترالوزن حوالي 09 كجمالمميزاتت",
+  "descriptionHtml": "<p>مواصفات</p><p> Cougar Egy 8080 Laptop Backpack</p><p><br></p><p>الماركة Cougar Egy</p><p>الموديل 8080</p><p>اللون اسود</p><p>مناسب للابتوبات حتى 15.6 بوصة</p><p>الخامة بوليستر عالي الجودة مقاوم للماء</p><p>الابعاد حوالي 45 × 30 × 15 سم</p><p>السعة حوالي 20 لتر</p><p>الوزن حوالي 09 كجم</p><p><br></p><p>المميزات</p><p>تصميم عملي مناسب للاستخدام اليومي والعمل والدراسة</p><p>جيب مخصص للابتوب مع بطانة حماية</p><p>مساحة داخلية منظمة مع عدة جيوب</p><p>ظهر مبطن مريح مع تهوية جيدة</p><p>حمالات كتف مبطنة وقابلة للتعديل</p><p>سوست قوية تتحمل الاستخدام اليومي</p><p>مقاومة للماء لحماية المحتويات</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-15",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    }
+  ]
+}

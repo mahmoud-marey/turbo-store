@@ -1,0 +1,106 @@
+{
+  "id": 892,
+  "slug": "team-elite-ddr4-8gb-3200mhz-cl22",
+  "name": "TEAM Elite DDR4 8GB 3200mhz CL22",
+  "model": "Elite",
+  "brand": "Team",
+  "brandSlug": "team",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 2700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523143910-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523143910-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523143910-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523143910-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "team",
+    "elite",
+    "ddr4",
+    "8gb",
+    "3200mhz",
+    "cl22"
+  ],
+  "shortDescription": "TEAMGROUP Elite DDR4 8GB 3200MHz CL22:&nbsp;TEAMGROUP Elite DDR4 8GB 3200MHz CL22 — Full Specifications&nbsp;Performance\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nType\r\nDDR4\r\n\r\n\r\nCapacity\r\n8GB (1× 8GB)\r\n\r\n\r\nSpeed\r\n3200 MHz (PC4-25600)\r",
+  "descriptionHtml": "<p><strong>TEAMGROUP Elite DDR4 8GB 3200MHz CL22</strong>:</p><h3>&nbsp;TEAMGROUP Elite DDR4 8GB 3200MHz CL22 — Full Specifications</h3><h4>&nbsp;Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR4</td></tr><tr><td>Capacity</td><td>8GB (1× 8GB)</td></tr><tr><td>Speed</td><td>3200 MHz (PC4-25600)</td></tr><tr><td>CAS Latency</td><td>CL22</td></tr><tr><td>Timings</td><td>22-22-22-52</td></tr><tr><td>Voltage</td><td>1.2V</td></tr><tr><td>JEDEC Default</td><td>DDR4-2133 / 2400 MHz at default</td></tr></tbody></table><h4>&nbsp;Technical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>288-pin UDIMM (Desktop)</td></tr><tr><td>ECC</td><td>❌ Non-ECC</td></tr><tr><td>Buffered</td><td>❌ Unbuffered</td></tr><tr><td>XMP</td><td>✅ XMP 2.0</td></tr><tr><td>AMD EXPO</td><td>❌</td></tr><tr><td>JEDEC Compliant</td><td>✅ Fully compliant with JEDEC standards</td></tr><tr><td>IC Quality</td><td>High-quality ICs, passing stringent tests for stability and long-term efficiency</td></tr><tr><td>RGB</td><td>❌ None</td></tr><tr><td>Heat Spreader</td><td>❌ None (bare PCB)</td></tr><tr><td>Colors</td><td>Green PCB</td></tr></tbody></table><h4>&nbsp;Thermal &amp; Power</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Operating Voltage</td><td>1.2V — low power consumption</td></tr><tr><td>Thermal Design</td><td>Reduces heat and maintains low ambient temperature around the system</td></tr></tbody></table><h4>????️ Platform Compatibility</h4><table><thead><tr><th>Platform</th><th>Compatible</th></tr></thead><tbody><tr><td>Intel 10th / 11th Gen</td><td>✅</td></tr><tr><td>Intel 12th Gen LGA1700</td><td>✅</td></tr><tr><td>Intel 13th Gen LGA1700</td><td>✅</td></tr><tr><td>Intel 14th Gen LGA1700</td><td>✅</td></tr><tr><td>AMD AM4 (Ryzen 3000/5000)</td><td>✅</td></tr><tr><td></td><td><br></td></tr></tbody></table><h4><br></h4><h4>Warrant 1 yeat</h4><table><thead></thead><tbody></tbody></table><table><thead></thead><tbody></tbody></table><table><thead></thead><tbody></tbody></table><table><thead></thead><tbody></tbody></table><table><thead></thead><tbody></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "DDR4"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "8GB (1× 8GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "3200 MHz (PC4-25600)"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL22"
+    },
+    {
+      "group": "specs",
+      "label": "Timings",
+      "value": "22-22-22-52"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.2V"
+    },
+    {
+      "group": "specs",
+      "label": "JEDEC Default",
+      "value": "DDR4-2133 / 2400 MHz at default"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-10",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-15",
+      "demo": true
+    }
+  ]
+}

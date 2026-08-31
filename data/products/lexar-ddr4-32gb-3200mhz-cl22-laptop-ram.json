@@ -1,0 +1,107 @@
+{
+  "id": 896,
+  "slug": "lexar-ddr4-32gb-3200mhz-cl22-laptop-ram",
+  "name": "Lexar DDR4 32GB 3200MHz CL22 Laptop Ram",
+  "model": "So dimm",
+  "brand": "LEXAR",
+  "brandSlug": "lexar",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 10999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 11,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523175129-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523175129-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523175129-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523175129-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "lexar",
+    "ddr4",
+    "32gb",
+    "3200mhz",
+    "cl22",
+    "laptop",
+    "ram"
+  ],
+  "shortDescription": "Lexar DDR4 SO-DIMM 32GB 3200MHz CL22 — Full Specifications\r\n&nbsp;Performance\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nType\r\nDDR4 SO-DIMM (Laptop)\r\n\r\n\r\nCapacity\r\n32GB (1× 32GB)\r\n\r\n\r\nSpeed\r\n3200 MHz (PC4-25600)\r\n\r\n\r\nCAS Latency\r\nCL22",
+  "descriptionHtml": "<p><span>Lexar DDR4 SO-DIMM 32GB 3200MHz CL22 — Full Specifications</span></p><h4><br></h4><h4>&nbsp;Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR4 SO-DIMM (Laptop)</td></tr><tr><td>Capacity</td><td>32GB (1× 32GB)</td></tr><tr><td>Speed</td><td>3200 MHz (PC4-25600)</td></tr><tr><td>CAS Latency</td><td>CL22</td></tr><tr><td>Timings</td><td>22-22-22-52</td></tr><tr><td>Voltage</td><td>1.2V</td></tr><tr><td>Standard</td><td>JEDEC</td></tr></tbody></table><h4>&nbsp;Technical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>260-pin SO-DIMM</td></tr><tr><td>ECC</td><td>❌ Non-ECC</td></tr><tr><td>Buffered</td><td>❌ Unbuffered</td></tr><tr><td>XMP</td><td>❌ No XMP profile</td></tr><tr><td>AMD EXPO</td><td>❌ No</td></tr><tr><td>JEDEC Compliant</td><td>✅ Fully compliant</td></tr><tr><td>RGB</td><td>❌ None</td></tr><tr><td>Heat Spreader</td><td>❌ None (bare module)</td></tr><tr><td>PCB Color</td><td>Black</td></tr><tr><td>Single/Dual Sided</td><td>Single-sided (chips on one side only)</td></tr></tbody></table><h4>&nbsp;Physical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Module Size</td><td>69.6 mm × 30 mm</td></tr><tr><td>Application</td><td>Laptops and small-form-factor devices with DDR4 SO-DIMM slots only — not compatible with desktop UDIMM slots</td></tr></tbody></table><h4>????️ Temperature</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Operating Temp</td><td>-20°C to 85°C (Surface)</td></tr><tr><td>Storage Temp</td><td>-55°C to 100°C</td></tr></tbody></table><h4><br></h4><h4>????️ Platform Compatibility</h4><table><thead><tr><th>Platform</th><th>Compatible</th></tr></thead><tbody><tr><td>Intel 10th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 11th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 12th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 13th Gen Laptop</td><td>✅</td></tr><tr><td>Intel 14th Gen Laptop</td><td>✅</td></tr><tr><td>AMD Ryzen 5000 (AM4)</td><td>✅</td></tr><tr><td><br></td><td><br></td></tr></tbody></table><h4>Warranty 1 year</h4><p><br></p><p><br></p><p><br></p><table><thead></thead><tbody></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "DDR4 SO-DIMM (Laptop)"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "32GB (1× 32GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "3200 MHz (PC4-25600)"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL22"
+    },
+    {
+      "group": "specs",
+      "label": "Timings",
+      "value": "22-22-22-52"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage",
+      "value": "1.2V"
+    },
+    {
+      "group": "specs",
+      "label": "Standard",
+      "value": "JEDEC"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    }
+  ]
+}

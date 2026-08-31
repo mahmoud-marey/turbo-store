@@ -1,0 +1,68 @@
+{
+  "id": 804,
+  "slug": "msi-a520m-a-pro-motherboard",
+  "name": "MSI A520M-A PRO Motherboard",
+  "model": "A520M-A PRO",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 3800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501165240-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501165240-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501165240-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011_260501165240-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "MSI",
+    "A520M-A",
+    "PRO",
+    "Motherboard"
+  ],
+  "shortDescription": "MSI A520M-A PRO motherboard:​Core Specifications\r\n​Socket: AM4\r\n​Chipset: AMD A520\r\n​Form Factor: Micro-ATX (mATX)\r\n​CPU Support: Supports AMD Ryzen™ 5000 Series, 5000 G-Series, 4000 G-Series, 3000 Series, and 3000 G-Ser",
+  "descriptionHtml": "<p dir=\"ltr\"><b>MSI A520M-A PRO</b> motherboard:</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\">​<b>Socket:</b> AM4</li><li dir=\"ltr\">​<b>Chipset:</b> AMD A520</li><li dir=\"ltr\">​<b>Form Factor:</b> Micro-ATX (mATX)</li><li dir=\"ltr\">​<b>CPU Support:</b> Supports AMD Ryzen™ 5000 Series, 5000 G-Series, 4000 G-Series, 3000 Series, and 3000 G-Series desktop processors.</li></ul><h3 dir=\"ltr\">​<b>Memory (RAM)</b></h3><ul><li dir=\"ltr\">​<b>Slots:</b> 2x DDR4 DIMM slots</li><li dir=\"ltr\">​<b>Max Capacity:</b> 64 GB</li><li dir=\"ltr\">​<b>Speed:</b> Supports up to 4600(OC) MHz.</li><li dir=\"ltr\">​<b>Architecture:</b> Dual Channel</li></ul><h3 dir=\"ltr\">​<b>Expansion Slots</b></h3><ul><li dir=\"ltr\">​<b>Primary Slot:</b> 1x PCIe 3.0 x16 slot</li><li dir=\"ltr\">​<b>Secondary Slot:</b> 1x PCIe 3.0 x1 slot</li></ul><h3 dir=\"ltr\">​<b>Storage</b></h3><ul><li dir=\"ltr\">​<b>M.2 Slot:</b> 1x Turbo M.2 slot (Key M), supports PCIe 3.0 x4 &amp; SATA 6Gb/s.</li><li dir=\"ltr\">​<b>SATA Ports:</b> 4x SATA 6Gb/s ports.</li><li dir=\"ltr\">​<b>RAID:</b> Supports RAID 0, RAID 1, and RAID 10.</li></ul><h3 dir=\"ltr\">​<b>Rear I/O Ports</b></h3><ul><li dir=\"ltr\">​<b>Video:</b> 1x HDMI 2.1, 1x DVI-D.</li><li dir=\"ltr\">​<b>USB:</b> 4x USB 3.2 Gen 1 (5Gbps) Type-A, 2x USB 2.0 Type-A.</li><li dir=\"ltr\">​<b>Networking:</b> 1x Realtek® RTL8111H Gigabit LAN.</li><li dir=\"ltr\">​<b>Audio:</b> 3x Audio jacks.</li><li dir=\"ltr\">​<b>Legacy:</b> 1x PS/2 Keyboard/Mouse combo port.</li></ul><h3 dir=\"ltr\">​<b>Internal Connectors</b></h3><p></p><ul><li dir=\"ltr\">​1x 24-pin ATX power / 1x 4-pin ATX 12V power.</li><li dir=\"ltr\">​1x USB 3.2 Gen 1 connector.</li><li dir=\"ltr\">​2x USB 2.0 connectors.</li><li dir=\"ltr\">​1x 4-pin CPU fan / 1x 4-pin System fan.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.3,
+  "reviewCount": 11,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    }
+  ]
+}

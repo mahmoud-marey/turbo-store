@@ -1,0 +1,69 @@
+{
+  "id": 810,
+  "slug": "intel-core-ultra-225f",
+  "name": "Intel Core Ultra 225F",
+  "model": "225F",
+  "brand": "INTEL",
+  "brandSlug": "intel",
+  "categorySlugs": [
+    "processors-cpus"
+  ],
+  "price": 8499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501173138-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501173138-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501173138-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/IMG-20260201-WA0011_260501173138-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New",
+    "🔥 Bestseller"
+  ],
+  "tags": [
+    "Intel",
+    "Core",
+    "Ultra",
+    "225F"
+  ],
+  "shortDescription": "Intel® Core™ Ultra 5 225F processor:​Core Specifications\r\n\r\n​Total Cores: 10\r\n\r\n​Performance-cores (P-cores): 6\r\n​Efficient-cores (E-cores): 4\r\n\r\n\r\n​Total Threads: 10 (Note: Arrow Lake S does not feature Hyper-Threading)",
+  "descriptionHtml": "<p dir=\"ltr\"><b>Intel® Core™ Ultra 5 225F</b> processor:</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\"> ​<b>Total Cores:</b> 10<ul><li dir=\"ltr\">​<b>Performance-cores (P-cores):</b> 6</li><li dir=\"ltr\">​<b>Efficient-cores (E-cores):</b> 4</li></ul></li><li dir=\"ltr\">​<b>Total Threads:</b> 10 (Note: Arrow Lake S does not feature Hyper-Threading)</li><li dir=\"ltr\">​<b>Max Turbo Frequency:</b> Up to 4.9 GHz</li><li dir=\"ltr\">​<b>P-core Base Frequency:</b> 3.3 GHz</li><li dir=\"ltr\">​<b>E-core Base Frequency:</b> 2.7 GHz</li><li dir=\"ltr\">​<b>Cache:</b> 20 MB Intel® Smart Cache</li><li dir=\"ltr\">​<b>Processor Base Power:</b> 65 W</li><li dir=\"ltr\">​<b>Maximum Turbo Power:</b> 125 W</li></ul><h3 dir=\"ltr\">​<b>AI Features (NPU)</b></h3><ul><li dir=\"ltr\">​<b>NPU Name:</b> Intel® AI Boost</li><li dir=\"ltr\">​<b>NPU Performance:</b> ~13 TOPS</li></ul><h3 dir=\"ltr\">​<b>Memory Specifications</b></h3><ul><li dir=\"ltr\">​<b>Max Memory Size:</b> 192 GB</li><li dir=\"ltr\">​<b>Memory Types:</b> Up to DDR5 6400 MT/s</li><li dir=\"ltr\">​<b>Max Number of Memory Channels:</b> 2</li></ul><h3 dir=\"ltr\">​<b>Connectivity &amp; Graphics</b></h3><ul><li dir=\"ltr\">​<b>Integrated Graphics:</b> None (Discrete Graphics Card Required)</li><li dir=\"ltr\">​<b>PCI Express Revision:</b> 5.0 and 4.0</li><li dir=\"ltr\">​<b>Socket:</b> LGA 1851</li></ul><h3 dir=\"ltr\">​<b>Thermal Information</b></h3><p></p><ul><li dir=\"ltr\">​<b>Max Operating Temperature (Tjmax):</b> 105°C</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-22",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    }
+  ]
+}

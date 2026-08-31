@@ -1,0 +1,151 @@
+{
+  "id": 769,
+  "slug": "msi-geforce-gt-730",
+  "name": "MSI GEFORCE GT 730 4GB DDR3",
+  "model": "N730-4GD3V2",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 3999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260418161727-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260418161727-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260418161727-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/IMG-20260201-WA0011_260418161727-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "MSI",
+    "GEFORCE",
+    "GT",
+    "730",
+    "4GB",
+    "DDR3"
+  ],
+  "shortDescription": "MSI GeForce GT 730 4GB DDR3 (Model: N730-4GD3V2):???? MSI GeForce GT 730 4GB DDR3 — Specs\r\n\r\n\r\nSpec\r\nDetails\r\n\r\n\r\n\r\n\r\nGPU\r\nNVIDIA GeForce® GT 730\r\n\r\n\r\nInterface\r\nPCI Express 2.0 x16\r\n\r\n\r\nCore Clock\r\n700 MHz\r\n\r\n\r\nMemory S",
+  "descriptionHtml": "<p><strong>MSI GeForce GT 730 4GB DDR3</strong> (Model: N730-4GD3V2):</p><h3>???? MSI GeForce GT 730 4GB DDR3 — Specs</h3><table><thead><tr><th>Spec</th><th>Details</th></tr></thead><tbody><tr><td><strong>GPU</strong></td><td>NVIDIA GeForce® GT 730</td></tr><tr><td><strong>Interface</strong></td><td>PCI Express 2.0 x16</td></tr><tr><td><strong>Core Clock</strong></td><td>700 MHz</td></tr><tr><td><strong>Memory Size</strong></td><td>4096 MB (4 GB)</td></tr><tr><td><strong>Memory Type</strong></td><td>DDR3</td></tr><tr><td><strong>Memory Clock</strong></td><td>1000 MHz (Effective)</td></tr><tr><td><strong>Memory Bus</strong></td><td>128-bit</td></tr><tr><td><strong>RAMDAC Speed</strong></td><td>400 MHz</td></tr><tr><td><strong>DirectX</strong></td><td>12 API</td></tr><tr><td><strong>OpenGL</strong></td><td>4.4</td></tr><tr><td><strong>HDCP Support</strong></td><td>Yes</td></tr><tr><td><strong>Power Consumption</strong></td><td>49 W</td></tr><tr><td><strong>Recommended PSU</strong></td><td>300 W</td></tr><tr><td><strong>Max Displays</strong></td><td>2</td></tr><tr><td><strong>Card Dimensions</strong></td><td>145 × 106 × 30 mm</td></tr><tr><td><strong>Card Weight</strong></td><td>250 g</td></tr></tbody></table><h3>????️ Display Outputs</h3><table><thead><tr><th>Port</th><th>Details</th></tr></thead><tbody><tr><td><strong>DVI</strong></td><td>1× Dual-Link DVI-I — Max 2560×1600 @ 60Hz</td></tr><tr><td><strong>HDMI</strong></td><td>1× HDMI 1.4a — Max 4096×2160 @ 24Hz</td></tr><tr><td><strong>VGA</strong></td><td>1× D-Sub</td></tr></tbody></table><h3>✅ Key Features</h3><p></p><ul><li>Supports DirectX 12 API for efficient workload distribution across all available cores</li><li>Solid capacitors for maximum stability and an extra-long lifespan</li><li>HDMI 1.4a supports 1080p HD movie playback and TrueHD or DTS-HD audio transmission</li><li>No external power connector required — powered entirely through the PCIe slot</li></ul><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "GPU",
+      "value": "NVIDIA GeForce® GT 730"
+    },
+    {
+      "group": "specs",
+      "label": "Interface",
+      "value": "PCI Express 2.0 x16"
+    },
+    {
+      "group": "specs",
+      "label": "Core Clock",
+      "value": "700 MHz"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Size",
+      "value": "4096 MB (4 GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Type",
+      "value": "DDR3"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Clock",
+      "value": "1000 MHz (Effective)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Bus",
+      "value": "128-bit"
+    },
+    {
+      "group": "specs",
+      "label": "RAMDAC Speed",
+      "value": "400 MHz"
+    },
+    {
+      "group": "specs",
+      "label": "DirectX",
+      "value": "12 API"
+    },
+    {
+      "group": "specs",
+      "label": "OpenGL",
+      "value": "4.4"
+    },
+    {
+      "group": "specs",
+      "label": "HDCP Support",
+      "value": "Yes"
+    },
+    {
+      "group": "specs",
+      "label": "Power Consumption",
+      "value": "49 W"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "300 W"
+    },
+    {
+      "group": "specs",
+      "label": "Max Displays",
+      "value": "2"
+    },
+    {
+      "group": "specs",
+      "label": "Card Dimensions",
+      "value": "145 × 106 × 30 mm"
+    },
+    {
+      "group": "specs",
+      "label": "Card Weight",
+      "value": "250 g"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-24",
+      "demo": true
+    }
+  ]
+}

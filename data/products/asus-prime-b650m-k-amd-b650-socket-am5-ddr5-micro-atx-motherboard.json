@@ -1,0 +1,192 @@
+{
+  "id": 1200,
+  "slug": "asus-prime-b650m-k-amd-b650-socket-am5-ddr5-micro-atx-motherboard",
+  "name": "ASUS PRIME B650M-K AMD B650 Socket AM5 DDR5 Micro-ATX Motherboard",
+  "model": "B650M-K",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 5399,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b650m-k-motherboard-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b650m-k-motherboard-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b650m-k-motherboard-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b650m-k-motherboard-front-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "PRIME B650M-K",
+    "AMD B650 Chipset",
+    "Socket AM5",
+    "Ryzen 9000",
+    "Ryzen 8000",
+    "Ryzen 7000",
+    "DDR5 Memory",
+    "PCIe 5.0 M.2",
+    "PCIe 4.0 x16",
+    "HDMI",
+    "VGA",
+    "Realtek 2.5Gb Ethernet",
+    "BIOS FlashBack",
+    "Micro ATX",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS PRIME B650M-K AMD B650 Socket AM5 Micro-ATX Motherboard (Supports AMD Ryzen 9000 / 8000 / 7000 Series Processors Up to 170W CPU / 2 x DDR5 DIMM Max 96GB Up to 8000+ MT/s OC / PCIe 4.0 x16 Slot / PCIe 5.0 M.2 NVMe Sl",
+  "descriptionHtml": "<p><span>ASUS PRIME B650M-K AMD B650 Socket AM5 Micro-ATX Motherboard (Supports AMD Ryzen 9000 / 8000 / 7000 Series Processors Up to 170W CPU / 2 x DDR5 DIMM Max 96GB Up to 8000+ MT/s OC / PCIe 4.0 x16 Slot / PCIe 5.0 M.2 NVMe Slot / HDMI 2.1 &amp; VGA Outputs / Realtek 2.5Gb Ethernet / Front Panel USB Type-C Connector / BIOS FlashBack / 5X Protection III / Official 1-Year Local Agent Warranty)</span></p><p>Build a next-generation AMD AM5 system with the ASUS PRIME B650M-K Micro-ATX Motherboard, available at Turbo Computer Egypt backed by an official 1-Year agent warranty. Designed on the powerful AMD B650 chipset, this motherboard supports AMD Ryzen 9000, 8000, and 7000 Series desktop processors with power demands up to 170W TDP. Features dual DDR5 DIMM slots supporting memory overclocking up to 8000+ MT/s with AMD EXPO, a high-speed PCIe 5.0 M.2 slot for extreme SSD speeds, a PCIe 4.0 x16 expansion slot, Realtek 2.5Gb Ethernet network connectivity, dedicated VRM and M.2 heatsinks, front-panel USB Type-C support, and effortless BIOS updates via BIOS FlashBack.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Model Name / Code</td><td>PRIME B650M-K</td></tr><tr><td>Chipset Architecture</td><td>AMD B650 Chipset</td></tr><tr><td>Warranty Period</td><td>1-Year Official Agent Warranty (ضمان سنة كاملة من الوكيل الرسمي ضد عيوب الصناعة)</td></tr><tr><td>CPU Socket &amp; Processor Support</td><td>AMD Socket AM5 for AMD Ryzen 9000, 8000 &amp; 7000 Series Desktop Processors (Supports Up to 170W CPU)</td></tr><tr><td>Memory Slots &amp; Type</td><td>2 x DIMM Slots, Max. 96GB Capacity, DDR5 ECC and Non-ECC Un-buffered Memory (Dual Channel Architecture)</td></tr><tr><td>Memory Speed Profiles</td><td>Supports Up to DDR5 8000+(OC)/7800(OC)/7600(OC)/7200(OC)/7000(OC)/6800(OC)/6600(OC)/6400(OC)/6200(OC)/6000(OC)/5800(OC)/5600(OC)/5400(OC)/5200/5000/4800 MT/s | AMD EXPO &amp; ASUS OptiMem II Support</td></tr><tr><td>Graphics Outputs</td><td>1 x HDMI 2.1 Port (Supports Max. 4K@60Hz) | 1 x VGA Port</td></tr><tr><td>Expansion Slots</td><td>1 x PCIe 4.0 x16 Slot (x16 Mode with Ryzen 9000/7000 / x8 or x4 Mode with Ryzen 8000)<br>2 x PCIe 4.0 x1 Slots (AMD B650 Chipset)</td></tr><tr><td>Storage Interface Matrix</td><td>2 x M.2 Slots (Key M, Type 2242/2260/2280):<br>- M.2_1 Slot (Supports PCIe 5.0 x4 Mode with Ryzen 9000/7000 / PCIe 4.0 x4 Mode with Ryzen 8000)<br>- M.2_2 Slot (Supports PCIe 4.0 x4 Mode with Ryzen 9000/7000 / PCIe 4.0 x4/x2 Mode with Ryzen 8000)<br>4 x SATA 6Gb/s Ports</td></tr><tr><td>RAID Technology Support</td><td>AMD RAIDXpert2 Technology Supports PCIe RAID 0/1/10 and SATA RAID 0/1/10 Configurations</td></tr><tr><td>Ethernet Network LAN</td><td>1 x Realtek 2.5Gb High-Speed Ethernet Controller</td></tr><tr><td>Rear USB Ports</td><td>2 x USB 3.2 Gen 2 Ports (Type-A)<br>2 x USB 3.2 Gen 1 Ports (Type-A)<br>4 x USB 2.0 Ports (Type-A)</td></tr><tr><td>Front USB Connectors &amp; Headers</td><td>1 x USB 3.2 Gen 1 Connector (Supports USB Type-C)<br>1 x USB 3.2 Gen 1 Header (Supports 2 Additional USB 3.2 Gen 1 Ports)<br>2 x USB 2.0 Headers (Support 4 Additional USB 2.0 Ports)</td></tr><tr><td>Audio Hardware</td><td>Realtek 7.1 Surround Sound High Definition Audio CODEC (24-Bit/192 kHz Playback, Audio Shielding, Premium Audio Capacitors, Dedicated Audio PCB Layers)</td></tr><tr><td>Back Panel I/O Connectivity</td><td>2 x USB 3.2 Gen 2 Type-A, 2 x USB 3.2 Gen 1 Type-A, 4 x USB 2.0 Type-A, 1 x HDMI Port, 1 x VGA Port, 1 x Realtek 2.5Gb Ethernet Port, 3 x Audio Jacks, 1 x BIOS FlashBack Button, 1 x PS/2 Keyboard/Mouse Combo Port</td></tr><tr><td>Internal Headers &amp; Cooling Connectors</td><td>1 x 4-pin CPU Fan, 2 x 4-pin Chassis Fan, 1 x 24-pin Main Power, 1 x 8-pin +12V CPU Power, 2 x Addressable Gen 2 Headers, 1 x Aura RGB Header, 1 x Clear CMOS Header, 1 x COM Port Header, 1 x Front Panel Audio Header (AAFP), 1 x S/PDIF Out Header, 1 x Speaker Header, 1 x SPI TPM Header</td></tr><tr><td>Special ASUS Safeguards &amp; EZ DIY</td><td>ASUS 5X PROTECTION III (DIGI+ VRM, LANGuard, Overvoltage Protection, SafeSlot Core+, Stainless-Steel Back I/O), Q-Design (Q-DIMM, Q-LED Core, Q-Slot), Thermal Solution (VRM &amp; M.2 Heatsinks), BIOS FlashBack Button &amp; LED</td></tr><tr><td>Software Features</td><td>Armoury Crate (Aura Creator, Aura Sync, Fan Xpert 2+, Two-Way AI Noise Cancellation), AI Suite 3 (TurboV EVO, DIGI+ VRM, PC Cleaner), ASUS CPU-Z, 256 Mb Flash ROM UEFI AMI BIOS</td></tr><tr><td>Package Box Accessories</td><td>2 x SATA 6Gb/s Cables, 1 x I/O Shield, 1 x M.2 Rubber Package, 1 x Screw Package for M.2 SSD, User Guide Documentation</td></tr><tr><td>Operating System Compatibility</td><td>Windows 11, Windows 10 64-bit</td></tr><tr><td>Form Factor Dimensions</td><td>micro-ATX Form Factor (9.6 inch x 8.7 inch / 24.4 cm x 22.1 cm)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / Code",
+      "value": "PRIME B650M-K"
+    },
+    {
+      "group": "specs",
+      "label": "Chipset Architecture",
+      "value": "AMD B650 Chipset"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Official Agent Warranty (ضمان سنة كاملة من الوكيل الرسمي ضد عيوب الصناعة)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket & Processor Support",
+      "value": "AMD Socket AM5 for AMD Ryzen 9000, 8000 & 7000 Series Desktop Processors (Supports Up to 170W CPU)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Slots & Type",
+      "value": "2 x DIMM Slots, Max. 96GB Capacity, DDR5 ECC and Non-ECC Un-buffered Memory (Dual Channel Architecture)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Speed Profiles",
+      "value": "Supports Up to DDR5 8000+(OC)/7800(OC)/7600(OC)/7200(OC)/7000(OC)/6800(OC)/6600(OC)/6400(OC)/6200(OC)/6000(OC)/5800(OC)/5600(OC)/5400(OC)/5200/5000/4800 MT/s | AMD EXPO & ASUS OptiMem II Support"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Outputs",
+      "value": "1 x HDMI 2.1 Port (Supports Max. 4K@60Hz) | 1 x VGA Port"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Slots",
+      "value": "1 x PCIe 4.0 x16 Slot (x16 Mode with Ryzen 9000/7000 / x8 or x4 Mode with Ryzen 8000) 2 x PCIe 4.0 x1 Slots (AMD B650 Chipset)"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interface Matrix",
+      "value": "2 x M.2 Slots (Key M, Type 2242/2260/2280): - M.2_1 Slot (Supports PCIe 5.0 x4 Mode with Ryzen 9000/7000 / PCIe 4.0 x4 Mode with Ryzen 8000) - M.2_2 Slot (Supports PCIe 4.0 x4 Mode with Ryzen 9000/7000 / PCIe 4.0 x4/x2 Mode with Ryzen 8000) 4 x SATA 6Gb/s Ports"
+    },
+    {
+      "group": "specs",
+      "label": "RAID Technology Support",
+      "value": "AMD RAIDXpert2 Technology Supports PCIe RAID 0/1/10 and SATA RAID 0/1/10 Configurations"
+    },
+    {
+      "group": "specs",
+      "label": "Ethernet Network LAN",
+      "value": "1 x Realtek 2.5Gb High-Speed Ethernet Controller"
+    },
+    {
+      "group": "specs",
+      "label": "Rear USB Ports",
+      "value": "2 x USB 3.2 Gen 2 Ports (Type-A) 2 x USB 3.2 Gen 1 Ports (Type-A) 4 x USB 2.0 Ports (Type-A)"
+    },
+    {
+      "group": "specs",
+      "label": "Front USB Connectors & Headers",
+      "value": "1 x USB 3.2 Gen 1 Connector (Supports USB Type-C) 1 x USB 3.2 Gen 1 Header (Supports 2 Additional USB 3.2 Gen 1 Ports) 2 x USB 2.0 Headers (Support 4 Additional USB 2.0 Ports)"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Hardware",
+      "value": "Realtek 7.1 Surround Sound High Definition Audio CODEC (24-Bit/192 kHz Playback, Audio Shielding, Premium Audio Capacitors, Dedicated Audio PCB Layers)"
+    },
+    {
+      "group": "specs",
+      "label": "Back Panel I/O Connectivity",
+      "value": "2 x USB 3.2 Gen 2 Type-A, 2 x USB 3.2 Gen 1 Type-A, 4 x USB 2.0 Type-A, 1 x HDMI Port, 1 x VGA Port, 1 x Realtek 2.5Gb Ethernet Port, 3 x Audio Jacks, 1 x BIOS FlashBack Button, 1 x PS/2 Keyboard/Mouse Combo Port"
+    },
+    {
+      "group": "specs",
+      "label": "Internal Headers & Cooling Connectors",
+      "value": "1 x 4-pin CPU Fan, 2 x 4-pin Chassis Fan, 1 x 24-pin Main Power, 1 x 8-pin +12V CPU Power, 2 x Addressable Gen 2 Headers, 1 x Aura RGB Header, 1 x Clear CMOS Header, 1 x COM Port Header, 1 x Front Panel Audio Header (AAFP), 1 x S/PDIF Out Header, 1 x Speaker Header, 1 x SPI TPM Header"
+    },
+    {
+      "group": "specs",
+      "label": "Special ASUS Safeguards & EZ DIY",
+      "value": "ASUS 5X PROTECTION III (DIGI+ VRM, LANGuard, Overvoltage Protection, SafeSlot Core+, Stainless-Steel Back I/O), Q-Design (Q-DIMM, Q-LED Core, Q-Slot), Thermal Solution (VRM & M.2 Heatsinks), BIOS FlashBack Button & LED"
+    },
+    {
+      "group": "specs",
+      "label": "Software Features",
+      "value": "Armoury Crate (Aura Creator, Aura Sync, Fan Xpert 2+, Two-Way AI Noise Cancellation), AI Suite 3 (TurboV EVO, DIGI+ VRM, PC Cleaner), ASUS CPU-Z, 256 Mb Flash ROM UEFI AMI BIOS"
+    },
+    {
+      "group": "specs",
+      "label": "Package Box Accessories",
+      "value": "2 x SATA 6Gb/s Cables, 1 x I/O Shield, 1 x M.2 Rubber Package, 1 x Screw Package for M.2 SSD, User Guide Documentation"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System Compatibility",
+      "value": "Windows 11, Windows 10 64-bit"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor Dimensions",
+      "value": "micro-ATX Form Factor (9.6 inch x 8.7 inch / 24.4 cm x 22.1 cm)"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-25",
+      "demo": true
+    }
+  ]
+}

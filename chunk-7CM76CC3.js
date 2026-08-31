@@ -1,0 +1,1 @@
+import{Ha as e}from"./chunk-MBWXN3P6.js";var n=class r{transform(i){return i==null||Number.isNaN(i)?"EGP \u2014":`EGP${i.toLocaleString("en-EG",{minimumFractionDigits:0,maximumFractionDigits:0})}`}static \u0275fac=function(t){return new(t||r)};static \u0275pipe=e({name:"egp",type:r,pure:!0})};export{n as a};

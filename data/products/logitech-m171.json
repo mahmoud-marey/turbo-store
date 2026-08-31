@@ -1,0 +1,78 @@
+{
+  "id": 459,
+  "slug": "logitech-m171",
+  "name": "LOGITECH M171 Wireless Mouse",
+  "model": "M171",
+  "brand": "logitech",
+  "brandSlug": "logitech",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/M171%20%20011-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/M171%20%20011-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/M171%20%20011-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/M171%20%20011-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/1logitech/M171%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/1logitech/M171%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/1logitech/M171%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/1logitech/M171%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/1logitech/M171%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/1logitech/M171%203-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "LOGITECH",
+    "M171",
+    "Wireless"
+  ],
+  "shortDescription": "DimensionsMouseHeight: 97.7 mmWidth: 61.5 mmDepth: 35.2 mmWeight (with batteries): 69.3 gUSB ReceiverHeight: 18.7 mmWidth: 14.4 mmDepth: 6.1 mmWeight: 1.8 gTechnical SpecificationsSensor technologySmooth optical tracking",
+  "descriptionHtml": "<div>Dimensions</div><div><br></div><div>Mouse</div><div>Height: 97.7 mm</div><div>Width: 61.5 mm</div><div>Depth: 35.2 mm</div><div>Weight (with batteries): 69.3 g</div><div>USB Receiver</div><div>Height: 18.7 mm</div><div>Width: 14.4 mm</div><div>Depth: 6.1 mm</div><div>Weight: 1.8 g</div><div>Technical Specifications</div><div><br></div><div>Sensor technology</div><div>Smooth optical tracking</div><div>DPI (Min/Max): 1000±</div><div>Buttons</div><div>Number of Buttons : 3 (Left/Right-click, Middle click)</div><div>Customization app ?</div><div>Supported by Logi Options+ on Windows and macOS ?</div><div>Scrolling</div><div>Line-by-line scrolling</div><div>Scroll Wheel: Yes, 2D, optical</div><div>Battery</div><div>Battery: 12 months ?</div><div>Battery Details: 1 x AA (included)</div><div>Connectivity</div><div>Connection Type: 2.4 GHz wireless connection</div><div>Wireless range: 10 meters ?</div><div>Connect / Power: Yes, on/off switch</div><div>System Requirements</div><div><br></div><div>USB Receiver</div><div>Required: Available USB Port Windows® 10, 11 or later macOS 10.8 or later ChromeOS Linux® kernel 2.6+ or later Internet access required to download optional customization app Logi Options+ ?</div><div>Warranty Information</div><div><br></div><div>2-Year Limited Hardware Warranty</div><div>Part Number</div><div><br></div><div>Off-White M171 : 910-006867</div><div>Rose M171 : 910-006865</div><div>Blue/Black M171 : 910-004640</div><div>Red/Black M171 : 910-004641</div><div>Black/Grey M171 : 910-004424</div><div>Blue Gray M171 : 910-006866</div><div class=\"",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-12",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-17",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-22",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 568,
+  "slug": "onikuma-k19",
+  "name": "Onikuma K19 Gaming Headset",
+  "model": "K19",
+  "brand": "Onikuma",
+  "brandSlug": "onikuma",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 650,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/K19%205-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/K19%205-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/K19%205-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/K19%205-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Onikuma",
+    "K19",
+    "Gaming",
+    "Headset"
+  ],
+  "shortDescription": "40 mm Directional DriverNoise cancellation micPc.ps.xbox...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/K19.jpeg\"></p><p>40 mm Directional Driver</p><p>Noise cancellation mic</p><p>Pc.ps.xbox</p><div class=\"",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-16",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-13",
+      "demo": true
+    }
+  ]
+}

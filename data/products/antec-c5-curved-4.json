@@ -1,0 +1,81 @@
+{
+  "id": 842,
+  "slug": "antec-c5-curved-4",
+  "name": "Antec c5 Curved 4 Fan ARGB Black Case",
+  "model": "c5 Curved",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "accessories"
+  ],
+  "price": 5100,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175829-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175829-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175829-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175829-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175904-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175904-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175904-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175843-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175843-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504175843-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Antec",
+    "C5",
+    "Curved",
+    "4 Fan",
+    "ARGB",
+    "Black",
+    "Case"
+  ],
+  "shortDescription": "Technical Specifications  The Antec C5 Curve ARGB is a dual-chamber mid-tower chassis from the Constellation series, featuring a seamless panoramic design with curved tempered glass.  FeatureSpecificationModelAntec C5 Cu",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_d6f51cbf4324fe2f\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><b><span>Technical Specifications</span></b></h3><h3><b><span></span></b></h3> <div _ngcontent-ng-c1796533223=\"\"></div><p id=\"p-rc_bea8c61fd3d3ea08-22\"><span>The </span><b>Antec C5 Curve ARGB</b><span> is a dual-chamber mid-tower chassis from the Constellation series, featuring a seamless panoramic design with curved tempered glass.</span> </p><div _ngcontent-ng-c1796533223=\"\"></div><p></p><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b><span>Model</span></b></span></td><td><span><span>Antec C5 Curve ARGB (Black)</span></span></td></tr><tr><td><span><b>Case Type</b></span></td><td><span>Mid-Tower</span></td></tr><tr><td><span><b>Materials</b></span></td><td",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-24",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-11",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-16",
+      "demo": true
+    }
+  ]
+}

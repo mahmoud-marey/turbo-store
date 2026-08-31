@@ -1,0 +1,118 @@
+{
+  "id": 889,
+  "slug": "patriot-viper-ddr5-16gb-rgb",
+  "name": "Patriot Viper DDR5 16GB 6000mhz CL30 RGB",
+  "model": "Viper Gaming",
+  "brand": "Patriot",
+  "brandSlug": "patriot",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 12699,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 16,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523134510-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523134510-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523134510-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/IMG-20260201-WA0012%20(5)_260523134510-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Patriot",
+    "Viper",
+    "Gaming",
+    "DDR5",
+    "16GB",
+    "6000mhz",
+    "CL30",
+    "RGB"
+  ],
+  "shortDescription": "Patriot Viper Venom RGB DDR5 16GB 6000MHz CL30:\r\n\r\n&nbsp;Patriot Viper Venom RGB DDR5 16GB 6000MHz CL30\r\nModel #: PVVR516G60C30\r\n\r\n&nbsp;Performance\r\n\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nType\r\nDDR5\r\n\r\n\r\nCapacity\r\n16GB (1× 16GB)\r\n",
+  "descriptionHtml": "<p><strong>Patriot Viper Venom RGB DDR5 16GB 6000MHz CL30</strong>:</p><h3>&nbsp;Patriot Viper Venom RGB DDR5 16GB 6000MHz CL30</h3><p><strong>Model #:</strong> PVVR516G60C30</p><h4>&nbsp;Performance</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>DDR5</td></tr><tr><td>Capacity</td><td>16GB (1× 16GB)</td></tr><tr><td>Speed</td><td>6000 MT/s</td></tr><tr><td>PC Rating</td><td>PC5-48000</td></tr><tr><td>CAS Latency</td><td>CL30</td></tr><tr><td>Timings</td><td>30-40-40-76 2T</td></tr><tr><td>Voltage (XMP)</td><td>1.35V</td></tr><tr><td>Voltage (JEDEC)</td><td>1.1V</td></tr><tr><td>JEDEC Default Speed</td><td>4800 MHz</td></tr></tbody></table><h4>&nbsp;Technical</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>Form Factor</td><td>288-pin UDIMM</td></tr><tr><td>PCB Color</td><td>Matte Black</td></tr><tr><td>IC Manufacturer</td><td>Hynix (selected &amp; screened)</td></tr><tr><td>On-Die ECC</td><td>✅ Corrects single-bit errors, detects multi-bit errors</td></tr><tr><td>PMIC</td><td>✅ Unlocked PMIC for full XMP performance and beyond</td></tr><tr><td>Power Management</td><td>Onboard PMIC for lower power consumption and less heat</td></tr><tr><td>Thermal Management</td><td>✅ Onboard thermal management for longer module lifespan</td></tr><tr><td>Heat Spreader</td><td>Matte black aluminum with red Viper logo and silver nameplate</td></tr><tr><td>Module Height</td><td>43mm</td></tr><tr><td>Quality Control</td><td>100% hand-tested with fully tuned profiles for maximum performance</td></tr></tbody></table><h4>OC Profiles</h4><table><thead><tr><th>Profile</th><th>Supported</th></tr></thead><tbody><tr><td>Intel XMP 3.0</td><td>✅</td></tr><tr><td>AMD EXPO</td><td>✅</td></tr><tr><td>JEDEC Plug &amp; Play</td><td>✅ (4800MHz default)</td></tr></tbody></table><h4>RGB</h4><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td>RGB Lightbar</td><td>✅ Unique RGB lightbar</td></tr><tr><td>Native App</td><td>Viper Sync RGB App</td></tr><tr><td>ASUS Aura Sync</td><td>✅</td></tr><tr><td>ASRock Polychrome</td><td>✅</td></tr><tr><td>MSI Mystic Light</td><td>✅</td></tr><tr><td>Gigabyte RGB Fusion</td><td>✅</td></tr><tr><td>SignalRGB</td><td>✅ Officially licensed &amp; compatible</td></tr><tr><td>&nbsp;Note</td><td>Do not run Viper RGB software alongside SignalRGB or other third-party apps simultaneously — may cause&nbsp;</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Type",
+      "value": "DDR5"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "16GB (1× 16GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Speed",
+      "value": "6000 MT/s"
+    },
+    {
+      "group": "specs",
+      "label": "PC Rating",
+      "value": "PC5-48000"
+    },
+    {
+      "group": "specs",
+      "label": "CAS Latency",
+      "value": "CL30"
+    },
+    {
+      "group": "specs",
+      "label": "Timings",
+      "value": "30-40-40-76 2T"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage (XMP)",
+      "value": "1.35V"
+    },
+    {
+      "group": "specs",
+      "label": "Voltage (JEDEC)",
+      "value": "1.1V"
+    },
+    {
+      "group": "specs",
+      "label": "JEDEC Default Speed",
+      "value": "4800 MHz"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    }
+  ]
+}

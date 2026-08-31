@@ -1,0 +1,138 @@
+{
+  "id": 764,
+  "slug": "fantech-go-w193d-nlack",
+  "name": "Fantech GO W193D Dual Mode Bluetooth 5.1 and 2.4Ghz Wireleas Black Mouse ",
+  "model": "W193D",
+  "brand": "Fantech",
+  "brandSlug": "fantech",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-go-w193d-dual-mode-wireless-mouse-black-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-go-w193d-dual-mode-wireless-mouse-black-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-go-w193d-dual-mode-wireless-mouse-black-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/fantech-go-w193d-dual-mode-wireless-mouse-black-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Fantech",
+    "GO W193D",
+    "W193D",
+    "Wireless Mouse",
+    "Black Mouse",
+    "Dual-Mode Mouse",
+    "Bluetooth Mouse",
+    "Silent Mouse",
+    "1600 DPI",
+    "Laptop Mouse",
+    "Hardware Component",
+    "ماوس لاسلكي اسود",
+    "ماوس صامت فانتيك"
+  ],
+  "shortDescription": "Fantech GO W193D Dual-Mode Wireless Silent Mouse - Black (1600 DPI)Experience the ultimate freedom of wireless productivity and silent execution with the Fantech GO W193D Dual-Mode Wireless Silent Mouse in its sleek Blac",
+  "descriptionHtml": "<p>Fantech GO W193D Dual-Mode Wireless Silent Mouse - Black (1600 DPI)</p><p>Experience the ultimate freedom of wireless productivity and silent execution with the Fantech GO W193D Dual-Mode Wireless Silent Mouse in its sleek Black Edition. Available at Turbo Computer, this professional and highly versatile hardware peripheral is masterfully engineered for laptop users, office workers, and remote creators across Egypt who demand flexible cross-device control and distraction-free setups. It stands as the definitive choice for a clean, stealthy, and clutter-free desktop layout configuration upgrade.</p><p>The Fantech GO W193D Black features advanced Dual-Mode wireless connectivity, allowing you to switch seamlessly between a high-speed stable 2.4GHz USB nano receiver channel and a robust Bluetooth connection layout to link with multiple devices simultaneously. Outfitted with premium silent-click switches inside a premium black body, it eliminates loud distractions while preserving a tactile, responsive feel. Supporting an adjustable optical tracking resolution up to 1600 DPI, it secures smooth and stable daily hardware performance.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Fantech</td></tr><tr><td><strong>Product Series</strong></td><td>GO Series Productivity Wireless</td></tr><tr><td><strong>Model Name</strong></td><td>W193D (GO W193D Dual-Mode)</td></tr><tr><td><strong>Color</strong></td><td>Black (اللون الأسود)</td></tr><tr><td><strong>Connectivity Layout</strong></td><td>Dual-Mode Wireless (Stable 2.4GHz Wireless USB Nano Receiver + Bluetooth Smart Connection)</td></tr><tr><td><strong>Switch Technology</strong></td><td>Premium Silent Clicks (Engineered for quiet environments and zero button audio leakage)</td></tr><tr><td><strong>Resolution Speed</strong></td><td>Adjustable Optical DPI tracking layout (Optimized for fluid document management and daily browsing tasks)</td></tr><tr><td><strong>Maximum Sensitivity</strong></td><td>Up to 1600 DPI tracking system specs</td></tr><tr><td><strong>Ergonomic Build</strong></td><td>Comfortable, symmetrical contoured natural black grip structure tailored to prevent wrist fatigue</td></tr><tr><td><strong>Power Source System</strong></td><td>Battery-powered smart energy configuration with built-in auto sleep mode layouts</td></tr><tr><td><strong>OS/Device Compatibility</strong></td><td>Windows 11 / 10 / 8, macOS, ChromeOS, Linux, Android tablets, and iPadOS devices</td></tr><tr><td><strong>Application</strong></td><td>On-the-go Laptop Workstations, Silent Office Environments, Library Study Setups, and Multi-Device Seamless Desktop Layer Configurations</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Fantech"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "GO Series Productivity Wireless"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "W193D (GO W193D Dual-Mode)"
+    },
+    {
+      "group": "specs",
+      "label": "Color",
+      "value": "Black (اللون الأسود)"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Layout",
+      "value": "Dual-Mode Wireless (Stable 2.4GHz Wireless USB Nano Receiver + Bluetooth Smart Connection)"
+    },
+    {
+      "group": "specs",
+      "label": "Switch Technology",
+      "value": "Premium Silent Clicks (Engineered for quiet environments and zero button audio leakage)"
+    },
+    {
+      "group": "specs",
+      "label": "Resolution Speed",
+      "value": "Adjustable Optical DPI tracking layout (Optimized for fluid document management and daily browsing tasks)"
+    },
+    {
+      "group": "specs",
+      "label": "Maximum Sensitivity",
+      "value": "Up to 1600 DPI tracking system specs"
+    },
+    {
+      "group": "specs",
+      "label": "Ergonomic Build",
+      "value": "Comfortable, symmetrical contoured natural black grip structure tailored to prevent wrist fatigue"
+    },
+    {
+      "group": "specs",
+      "label": "Power Source System",
+      "value": "Battery-powered smart energy configuration with built-in auto sleep mode layouts"
+    },
+    {
+      "group": "specs",
+      "label": "OS/Device Compatibility",
+      "value": "Windows 11 / 10 / 8, macOS, ChromeOS, Linux, Android tablets, and iPadOS devices"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "On-the-go Laptop Workstations, Silent Office Environments, Library Study Setups, and Multi-Device Seamless Desktop Layer Configurations"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-22",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-19",
+      "demo": true
+    }
+  ]
+}

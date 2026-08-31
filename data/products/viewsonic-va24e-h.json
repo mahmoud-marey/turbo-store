@@ -1,0 +1,78 @@
+{
+  "id": 826,
+  "slug": "viewsonic-va24e-h",
+  "name": "Viewsonic VA24E-H 24 inch IPS 120Hz FHD",
+  "model": "VA24E-H",
+  "brand": "ViewSonic",
+  "brandSlug": "viewsonic",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 4500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260502193605-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260502193605-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260502193605-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011%20(1)_260502193112_260502193605-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/journal3/placeholder-1000x1000.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Viewsonic",
+    "VA24E",
+    "H",
+    "24",
+    "inch",
+    "IPS",
+    "120Hz",
+    "FHD"
+  ],
+  "shortDescription": "ViewSonic VA24E-H 24\" IPS Monitor​The ViewSonic VA24E-H is a 24-inch monitor that balances performance and efficiency. It features an IPS panel for vibrant color reproduction and a 120Hz refresh rate, making it a strong ",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>ViewSonic VA24E-H 24\" IPS Monitor</b></h3><p dir=\"ltr\">​The <b>ViewSonic VA24E-H</b> is a 24-inch monitor that balances performance and efficiency. It features an IPS panel for vibrant color reproduction and a 120Hz refresh rate, making it a strong choice for both office work and casual gaming.</p><h3 dir=\"ltr\">​<b>Display Specifications</b></h3><ul><li dir=\"ltr\">​<b>Panel Size:</b> 23.8-inch</li><li dir=\"ltr\">​<b>Panel Type:</b> IPS (SuperClear® Technology)</li><li dir=\"ltr\">​<b>Resolution:</b> 1920 x 1080 (Full HD)</li><li dir=\"ltr\">​<b>Refresh Rate:</b> 120Hz</li><li dir=\"ltr\">​<b>Response Time:</b> 1ms (MPRT)</li><li dir=\"ltr\">​<b>Brightness:</b> 250 cd/m²</li><li dir=\"ltr\">​<b>Contrast Ratio:</b> 1,500:1</li><li dir=\"ltr\">​<b>Color Gamut:</b> 109% sRGB</li><li dir=\"ltr\">​<b>Viewing Angles:</b> 178° Horizontal / 178° Vertical</li></ul><h3 dir=\"ltr\">​<b>Visual &amp; Eye Care Features</b></h3><ul><li dir=\"ltr\">​<b>Variable Refresh Rate:</b> Supports smooth visuals and helps prevent screen tearing.</li><li dir=\"ltr\">​<b>ViewMode:</b> Pre-set modes for Game, Movie, Web, Text, and more to adjust color temperature and contrast.</li><li dir=\"ltr\">​<b>Flicker-Free Technology:</b> Eliminates backlight flickering to reduce eye fatigue.</li><li dir=\"ltr\">​<b>Blue Light Filter:</b> Minimizes harmful blue light for more comfortable long-term viewing.</li></ul><h3 dir=\"ltr\">​<b>Connectivity</b></h3><ul><li dir=\"ltr\">​<b>HDMI:</b> 1 x HDMI 1.4</li><li dir=\"ltr\">​<b>VGA:</b> 1 x VGA</li><li dir=\"ltr\">​<b>Power:</b> External adapter</li></ul><h3 dir=\"ltr\">​<b>Physical Design</b></h3><ul><li dir=\"ltr\">​<b>Tilt:</b> -5° to +15°</li><li dir=\"ltr\">​<b>VESA Mount:</b> 75 x 75 mm</li><li dir=\"ltr\">​<b>Bezel:</b> 3-sided frameless design for an expansive view.</li><li dir=\"ltr\">​<b>Finish:</b> Anti-glare coating (3H).</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>Enhanced Refresh Rate:</b> The 120Hz rate offers a smoother experience compared to traditional 60Hz or 75Hz screens.</li><li dir=\"ltr\">​<b>Wide Viewing Angles:</b> IPS technology ensures colors remain accurate even when viewed from the side.</li><li dir=\"ltr\">​<b>Modern Aesthetic:</b> The thin-bezel design is ideal for multi-monitor configurations and modern desks.</li><li dir=\"ltr\">​<b>Eco-Friendly:</b> Includes an Eco-mode setting to save energy while in use.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    }
+  ]
+}

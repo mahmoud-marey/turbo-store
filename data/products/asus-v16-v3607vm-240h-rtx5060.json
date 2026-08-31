@@ -1,0 +1,95 @@
+{
+  "id": 1026,
+  "slug": "asus-v16-v3607vm-240h-rtx5060",
+  "name": "Laptop ASUS V16 V3607VM-PL027W ,Intel Core 7-240H ,RAM-32G ,SSD-1TB ,VGA Nvidia RTX5060-8G,16.0 Inch 2.5K 144Hz",
+  "model": "90NB16K1-M005X0",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%201-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%202-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%202-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%202-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%203-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%204-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%204-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/V16%204-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Laptop",
+    "ASUS",
+    "V16",
+    "V3607VM-PL027W",
+    "Intel",
+    "Core",
+    "7-240H",
+    "RAM-32G",
+    "SSD-1TB",
+    "VGA",
+    "Nvidia",
+    "RTX5060-8G",
+    "16&amp;quot;",
+    "WQXGA",
+    "144Hz"
+  ],
+  "shortDescription": "laptop &nbsp;V16 V3607VM is a gaming laptop that has the following features:Processor: Intel® Core™ 7-240H (24 MB Cache, 10 Core, 3.40 GHz to 5.20 GHz)Display: 16-inch WQXGA(2560 x 1600) 144Hz Narrow Border DisplayMemory",
+  "descriptionHtml": "<p>laptop &nbsp;V16 V3607VM is a gaming laptop that has the following features:</p><ul><li>Processor: Intel® Core™ 7-240H (24 MB Cache, 10 Core, 3.40 GHz to 5.20 GHz)</li><li>Display: 16-inch WQXGA(2560 x 1600) 144Hz Narrow Border Display</li><li>Memory: 32GB DDR5 RAM</li><li>Storage: 1TB M.2 PCIe NVMe SSD</li><li>Graphics: NVIDIA GeForce RTX 5060 8GB</li><li>Keyboard: Backlite Keyboard</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-17",
+      "demo": true
+    }
+  ]
+}

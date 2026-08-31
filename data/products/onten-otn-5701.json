@@ -1,0 +1,70 @@
+{
+  "id": 748,
+  "slug": "onten-otn-5701",
+  "name": "Onten OTN-5701 USB 3.0/2.0 HUB",
+  "model": "OTN-5701",
+  "brand": "Onten",
+  "brandSlug": "onten",
+  "categorySlugs": [
+    "converters-docking-stations"
+  ],
+  "price": 250,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413061445-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413061445-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413061445-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260413061445-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Onten",
+    "OTN-5701",
+    "USB",
+    "3.0/2.0",
+    "HUB"
+  ],
+  "shortDescription": "ضمان عام من الوكيلOnten OTN-5701 USB HUB - Specs\r\n\r\nModel: OTN-5701\r\nType: 4-Port USB HUB\r\nPorts: 1x USB 3.0 + 3x USB 2.0\r\nUSB 3.0 Speed: 5 Gbps\r\nUSB 2.0 Speed: 480 Mbps\r\nCable Length: 11-15 cm\r\nDimensions: 80 × 15 × 7 m",
+  "descriptionHtml": "<p>ضمان عام من الوكيل</p><p><br></p><p><span>Onten OTN-5701 USB HUB - Specs</span></p><p></p><ul><li>Model: OTN-5701</li><li>Type: 4-Port USB HUB</li><li>Ports: 1x USB 3.0 + 3x USB 2.0</li><li>USB 3.0 Speed: 5 Gbps</li><li>USB 2.0 Speed: 480 Mbps</li><li>Cable Length: 11-15 cm</li><li>Dimensions: 80 × 15 × 7 mm</li><li>Material: Aluminum Alloy</li><li>Weight: 39g</li><li>Driver: Plug &amp; Play (No driver needed)</li><li>Switch: Individual On/Off per port</li><li>Compatible with: USB 2.0 / 1.1 / 1.0 (Backward compatible)</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    }
+  ]
+}

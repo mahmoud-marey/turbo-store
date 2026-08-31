@@ -1,0 +1,143 @@
+{
+  "id": 988,
+  "slug": "gigabyte-a520m-k-v2-rev-11-amd-am4-micro-atx-motherboard",
+  "name": "Gigabyte A520M K V2 (rev. 1.1) AMD AM4 Micro-ATX Motherboard",
+  "model": "A520M K V2 (rev. 1.1)",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 3300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-a520m-k-v2-rev-11-amd-am4-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-a520m-k-v2-rev-11-amd-am4-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-a520m-k-v2-rev-11-amd-am4-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-a520m-k-v2-rev-11-amd-am4-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "A520M K V2",
+    "rev 1.1",
+    "AM4",
+    "Ultra Durable",
+    "Micro-ATX",
+    "Motherboard",
+    "PCIe 3.0",
+    "NVMe M.2",
+    "Smart Fan 5",
+    "ماذربورد جيجابايت",
+    "بوردة a520m"
+  ],
+  "shortDescription": "Gigabyte A520M K V2 (rev. 1.1) AMD AM4 Micro-ATX MotherboardSecure a reliable and ultra-budget-friendly foundation for your next PC build with the Gigabyte A520M K V2 (rev. 1.1) Micro-ATX Motherboard. Available at Turbo ",
+  "descriptionHtml": "<p><span>Gigabyte A520M K V2 (rev. 1.1) AMD AM4 Micro-ATX Motherboard</span></p><p>Secure a reliable and ultra-budget-friendly foundation for your next PC build with the Gigabyte A520M K V2 (rev. 1.1) Micro-ATX Motherboard. Available at Turbo Computer, this efficient AMD AM4 socket motherboard delivers optimized support for AMD Ryzen 5000 Series, 4000 G-Series, and 3000 Series processors. It stands as the definitive hardware choice for budget-conscious gamers, internet cafés, and office workstations across Egypt requiring dependable everyday stability and excellent performance tracking.</p><p>The Gigabyte A520M K V2 (rev. 1.1) is smartly engineered with a durable digital VRM solution to ensure consistent power distribution to your Ryzen CPU. It comes equipped with a high-speed NVMe PCIe 3.0 x4 M.2 slot for rapid SSD boot times, alongside a Realtek Gigabit LAN chip featuring automated bandwidth management for smooth online gaming and browsing. Complete with Anti-Sulfur design for long-term component hardware modification protection, High-Quality Audio Capacitors for immersive sound, and Smart Fan 5 cooling controls, it offers unbeatable value.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Gigabyte</td></tr><tr><td><strong>Model</strong></td><td>A520M K V2 (rev. 1.1)</td></tr><tr><td><strong>CPU Socket</strong></td><td>AMD Socket AM4</td></tr><tr><td><strong>Chipset</strong></td><td>AMD A520</td></tr><tr><td><strong>Form Factor</strong></td><td>Micro-ATX (24.4cm x 19.5cm)</td></tr><tr><td><strong>Memory Slots</strong></td><td>2x DDR4 DIMM (Dual Channel, Supports up to 64GB)</td></tr><tr><td><strong>Expansion Slots</strong></td><td>1x PCIe 3.0 x16 slot, 1x PCIe 3.0 x1 slot</td></tr><tr><td><strong>Storage Interface</strong></td><td>1x M.2 connector (PCIe 3.0 x4/x2 &amp; SATA SSD support), 4x SATA 6Gb/s</td></tr><tr><td><strong>Wired LAN</strong></td><td>Realtek GbE LAN chip (10/100/1000 Mbit)</td></tr><tr><td><strong>Back Panel I/O Ports</strong></td><td>1x PS/2 Keyboard/Mouse port, 1x HDMI, 4x USB 3.2 Gen 1, 2x USB 2.0/1.1, 1x RJ-45 LAN, 3x Audio Jacks</td></tr><tr><td><strong>Audio</strong></td><td>Realtek Audio CODEC High Definition Audio (2/4/5.1/7.1-channel)</td></tr><tr><td><strong>Special Features</strong></td><td>Digital VRM Solution, Smart Fan 5, Anti-Sulfur Design, High-Quality Audio Capacitors</td></tr><tr><td><strong>Application</strong></td><td>Budget Gaming Builds, Home/Office PCs &amp; Internet Café Setups</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Gigabyte"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "A520M K V2 (rev. 1.1)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket",
+      "value": "AMD Socket AM4"
+    },
+    {
+      "group": "specs",
+      "label": "Chipset",
+      "value": "AMD A520"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "Micro-ATX (24.4cm x 19.5cm)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Slots",
+      "value": "2x DDR4 DIMM (Dual Channel, Supports up to 64GB)"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Slots",
+      "value": "1x PCIe 3.0 x16 slot, 1x PCIe 3.0 x1 slot"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interface",
+      "value": "1x M.2 connector (PCIe 3.0 x4/x2 & SATA SSD support), 4x SATA 6Gb/s"
+    },
+    {
+      "group": "specs",
+      "label": "Wired LAN",
+      "value": "Realtek GbE LAN chip (10/100/1000 Mbit)"
+    },
+    {
+      "group": "specs",
+      "label": "Back Panel I/O Ports",
+      "value": "1x PS/2 Keyboard/Mouse port, 1x HDMI, 4x USB 3.2 Gen 1, 2x USB 2.0/1.1, 1x RJ-45 LAN, 3x Audio Jacks"
+    },
+    {
+      "group": "specs",
+      "label": "Audio",
+      "value": "Realtek Audio CODEC High Definition Audio (2/4/5.1/7.1-channel)"
+    },
+    {
+      "group": "specs",
+      "label": "Special Features",
+      "value": "Digital VRM Solution, Smart Fan 5, Anti-Sulfur Design, High-Quality Audio Capacitors"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "Budget Gaming Builds, Home/Office PCs & Internet Café Setups"
+    }
+  ],
+  "rating": 3.8,
+  "reviewCount": 20,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    }
+  ]
+}

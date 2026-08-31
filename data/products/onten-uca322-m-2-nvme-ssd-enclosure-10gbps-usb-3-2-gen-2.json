@@ -1,0 +1,132 @@
+{
+  "id": 1009,
+  "slug": "onten-uca322-m-2-nvme-ssd-enclosure-10gbps-usb-3-2-gen-2",
+  "name": "Onten UCA322 M.2 NVMe SSD Enclosure (10Gbps USB 3.2 Gen 2 External Case)",
+  "model": "UCA322",
+  "brand": "Onten",
+  "brandSlug": "onten",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/onten-uca322-m-2-nvme-ssd-enclosure-10gbps-usb-3-2-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/onten-uca322-m-2-nvme-ssd-enclosure-10gbps-usb-3-2-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/onten-uca322-m-2-nvme-ssd-enclosure-10gbps-usb-3-2-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/onten-uca322-m-2-nvme-ssd-enclosure-10gbps-usb-3-2-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Onten",
+    "UCA322",
+    "SSD Enclosure",
+    "M.2 NVMe",
+    "External SSD Case",
+    "USB 3.2 Gen 2",
+    "10Gbps",
+    "Premium Aluminum",
+    "Hardware Component",
+    "اكسسوارات هاردات",
+    "علبة هارد خارجية"
+  ],
+  "shortDescription": "Onten UCA322 M.2 NVMe SSD Enclosure (10Gbps USB 3.2 Gen 2)Transform your internal solid-state drive into a high-speed portable storage powerhouse with the Onten UCA322 M.2 NVMe SSD Enclosure. Available at Turbo Computer,",
+  "descriptionHtml": "<p><span>Onten UCA322 M.2 NVMe SSD Enclosure (10Gbps USB 3.2 Gen 2)</span></p><p>Transform your internal solid-state drive into a high-speed portable storage powerhouse with the Onten UCA322 M.2 NVMe SSD Enclosure. Available at Turbo Computer, this premium external storage hardware component is masterfully engineered for tech enthusiasts, content creators, and PC builders across Egypt who demand swift data portability and immediate system backup capabilities. Built with a heavy-duty thermal protective chassis, it stands as the definitive choice for an advanced storage hardware modification or mobile file layout deployment.</p><p>The Onten UCA322 features a state-of-the-art USB 3.2 Gen 2 connection interface layout, supporting blazing-fast data transfer tracking speeds up to 10Gbps for fluid file migration. Crafted from high-grade aluminum alloy, it ensures exceptional heat dissipation tracking to keep your drive cool under heavy operations. Highly versatile, this tool-free plug-and-play storage layout environment accommodates multiple drive lengths (including 2230, 2242, 2260, and 2280 sizes), securing stable daily hardware performance.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Onten</td></tr><tr><td><strong>Model Name</strong></td><td>UCA322 (M.2 Enclosure Series)</td></tr><tr><td><strong>Supported Drive Interface</strong></td><td>M.2 NVMe M-Key / B+M Key SSD layouts</td></tr><tr><td><strong>Drive Size Compatibility</strong></td><td>Supports 2230 / 2242 / 2260 / 2280 form factor sizes</td></tr><tr><td><strong>External Interface Layout</strong></td><td>USB 3.2 Gen 2 Type-C interface connection system specs</td></tr><tr><td><strong>Data Transfer Speed</strong></td><td>Up to 10Gbps SuperSpeed+ tracking rates (For near-instantaneous file transfers)</td></tr><tr><td><strong>Chassis Material</strong></td><td>Premium Rigid Aluminum Alloy (Engineered for optimal natural heat dissipation tracking)</td></tr><tr><td><strong>Installation Feature</strong></td><td>100% Plug and Play with easy tool-free driver setup configuration layout</td></tr><tr><td><strong>LED Indicator</strong></td><td>Integrated status LED layout (Displays power status and data execution tracking activity)</td></tr><tr><td><strong>OS Compatibility</strong></td><td>Windows 11 / 10 / 8 / 7, macOS, Linux, ChromeOS, and Android mobile environments</td></tr><tr><td><strong>Application</strong></td><td>High-Speed Portable Storage Configurations, Ultra-Fast Data Backups, 4K Video Editing Drive Layouts, and Cross-Platform Large File Synchronization Environments</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Onten"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "UCA322 (M.2 Enclosure Series)"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Drive Interface",
+      "value": "M.2 NVMe M-Key / B+M Key SSD layouts"
+    },
+    {
+      "group": "specs",
+      "label": "Drive Size Compatibility",
+      "value": "Supports 2230 / 2242 / 2260 / 2280 form factor sizes"
+    },
+    {
+      "group": "specs",
+      "label": "External Interface Layout",
+      "value": "USB 3.2 Gen 2 Type-C interface connection system specs"
+    },
+    {
+      "group": "specs",
+      "label": "Data Transfer Speed",
+      "value": "Up to 10Gbps SuperSpeed+ tracking rates (For near-instantaneous file transfers)"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis Material",
+      "value": "Premium Rigid Aluminum Alloy (Engineered for optimal natural heat dissipation tracking)"
+    },
+    {
+      "group": "specs",
+      "label": "Installation Feature",
+      "value": "100% Plug and Play with easy tool-free driver setup configuration layout"
+    },
+    {
+      "group": "specs",
+      "label": "LED Indicator",
+      "value": "Integrated status LED layout (Displays power status and data execution tracking activity)"
+    },
+    {
+      "group": "specs",
+      "label": "OS Compatibility",
+      "value": "Windows 11 / 10 / 8 / 7, macOS, Linux, ChromeOS, and Android mobile environments"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "High-Speed Portable Storage Configurations, Ultra-Fast Data Backups, 4K Video Editing Drive Layouts, and Cross-Platform Large File Synchronization Environments"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    }
+  ]
+}

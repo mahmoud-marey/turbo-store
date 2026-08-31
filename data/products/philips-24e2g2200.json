@@ -1,0 +1,75 @@
+{
+  "id": 715,
+  "slug": "philips-24e2g2200",
+  "name": "Philips 24E2G2200 23.8 IPS inch 144Hz FHD",
+  "model": "24E2G2200",
+  "brand": "Philips",
+  "brandSlug": "philips",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 5200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161659-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161659-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161659-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161659-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161619-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161619-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161619-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "philips",
+    "24e2g2200",
+    "23.8inch",
+    "ips",
+    "144hz",
+    "fhd"
+  ],
+  "shortDescription": "مواصفات شاشة Philips 24E2G2200&nbsp;الشاشةالحجم 23.8 بوصةالنوع IPSالإضاءة الخلفية W LEDالدقة 1920 في 1080 فل اتش دينسبة العرض 16 إلى 9زوايا الرؤية 178 درجة افقي و178 درجة رأسيالسطوع 300 شمعةكثافة البكسل 93 بكسل لكل بوصةط",
+  "descriptionHtml": "<p>مواصفات شاشة</p><p>Philips 24E2G2200&nbsp;</p><p><br></p><p>الشاشة</p><p>الحجم 23.8 بوصة</p><p>النوع IPS</p><p>الإضاءة الخلفية W LED</p><p>الدقة 1920 في 1080 فل اتش دي</p><p>نسبة العرض 16 إلى 9</p><p>زوايا الرؤية 178 درجة افقي و178 درجة رأسي</p><p>السطوع 300 شمعة</p><p>كثافة البكسل 93 بكسل لكل بوصة</p><p>طبقة الشاشة مضادة للانعكاس</p><p><br></p><p>الألوان</p><p>عدد الألوان 16.7 مليون لون</p><p>دعم sRGB</p><p>تغطية ألوان تصل الى حوالي 104 بالمية sRGB</p><p>دعم HDR10</p><p><br></p><p>الأداء</p><p>معدل التحديث 144 هرتز</p><p>زمن الاستجابة 4 مللي ثانية جراي تو جراي و0.5 مللي ثانية ام بي ار تي</p><p>نسبة التباين 1500 إلى 1</p><p>تقنية المزامنة Adaptive Sync</p><p>نطاق التردد من 48 الى 144 هرتز</p><p><br></p><p>المميزات</p><p>تقنية تقليل الاهتزاز Flicker Free</p><p>وضع تقليل الضوء الأزرق</p><p>وضع القراءة EasyRead</p><p>تحسين الصورة SmartImage</p><p>تصميم بحواف رفيعة</p><p><br></p><p>المنافذ</p><p>مدخل HDMI واحد</p><p>مدخل DisplayPort واحد</p><p>مخرج سماعة 3.5 مم</p><p><br></p><p>التصميم</p><p>إمكانية الإمالة فقط</p><p>دعم تعليق جداري VESA 100 في 100</p><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-12",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-17",
+      "demo": true
+    }
+  ]
+}

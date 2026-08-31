@@ -1,0 +1,74 @@
+{
+  "id": 628,
+  "slug": "acer-sa100",
+  "name": "acer SA100 240GB SATAIII SSD",
+  "model": "SA100",
+  "brand": "ACER",
+  "brandSlug": "acer",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 2300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221634-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221634-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221634-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221634-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221908-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221908-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302221908-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "acer",
+    "SA100",
+    "240GB",
+    "SATAIII",
+    "SSD"
+  ],
+  "shortDescription": "Product Name:Acer SA100 240GB SATA III SSDSpecifications:Capacity: 240GBForm Factor: 2.5\"Interface: SATA III (6 Gb/s)NAND Flash: 3D NANDSequential Read Speed: Up to 550 MB/sSequential Write Speed: Up to 500 MB/sOperating",
+  "descriptionHtml": "<p>Product Name:</p><p>Acer SA100 240GB SATA III SSD</p><p><br></p><p>Specifications:</p><p>Capacity: 240GB</p><p>Form Factor: 2.5\"</p><p>Interface: SATA III (6 Gb/s)</p><p>NAND Flash: 3D NAND</p><p>Sequential Read Speed: Up to 550 MB/s</p><p>Sequential Write Speed: Up to 500 MB/s</p><p>Operating Voltage: 5 V</p><p>Shock Resistance: 1500 G</p><p>MTBF: 1.5 Million Hours</p><p>Operating Temperature: 0°C – 70°C</p><p><br></p><p>Features:</p><p>Faster boot and application load times compared to HDD</p><p>Low power consumption</p><p>Durable and reliable solid-state design</p><p>Ideal for laptop and desktop upgrades</p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-10",
+      "demo": true
+    }
+  ]
+}

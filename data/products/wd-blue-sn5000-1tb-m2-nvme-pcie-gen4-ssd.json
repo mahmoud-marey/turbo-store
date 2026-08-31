@@ -1,0 +1,81 @@
+{
+  "id": 631,
+  "slug": "wd-blue-sn5000-1tb-m2-nvme-pcie-gen4-ssd",
+  "name": "Western Digital WD Blue SN5000 1TB M.2 NVMe PCIe Gen4 x4 SSD",
+  "model": "SN5000",
+  "brand": "WD",
+  "brandSlug": "wd",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 7199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-1tb-m2-nvme-pcie-gen4-ssd-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-1tb-m2-nvme-pcie-gen4-ssd-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-1tb-m2-nvme-pcie-gen4-ssd-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/wd-blue-sn5000-1tb-m2-nvme-pcie-gen4-ssd-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302231435-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302231435-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260302231435-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "WD",
+    "Western Digital",
+    "Blue",
+    "SN5000",
+    "1TB",
+    "M.2",
+    "NVMe",
+    "PCIe Gen4",
+    "SSD",
+    "Storage",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Product Name:Western Digital WD Blue SN5000 1TB M.2 NVMe PCIe SSDSpecifications:Capacity: 1TBForm Factor: M.2 2280Interface: PCIe Gen4 x4Protocol: NVMe 1.4NAND Flash: 3D NANDController: WD In-House ControllerSequential R",
+  "descriptionHtml": "<p>Product Name:</p><p>Western Digital WD Blue SN5000 1TB M.2 NVMe PCIe SSD</p><p><br></p><p>Specifications:</p><p>Capacity: 1TB</p><p>Form Factor: M.2 2280</p><p>Interface: PCIe Gen4 x4</p><p>Protocol: NVMe 1.4</p><p>NAND Flash: 3D NAND</p><p>Controller: WD In-House Controller</p><p>Sequential Read Speed: Up to ~5,000 MB/s</p><p>Sequential Write Speed: Up to ~4,200 MB/s</p><p>Random Read (4KB): High IOPS performance</p><p>Random Write (4KB): High IOPS performance</p><p>Operating Temperature: 0°C – 70°C</p><p>Shock Resistance: Yes (typical SSD durability)</p><p>MTBF: ~1.75 Million Hours</p><p><br></p><p>Key Features:</p><p>PCIe Gen4 high-speed performance</p><p>Fast boot and application loading</p><p>Excellent for gaming, content creation, and productivity</p><p>Efficient power use and thermal performance</p><p>Reliable WD build quality</p><div class=\"",
+  "specs": [],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 839,
+  "slug": "antec-flux-pro-6-fan-full-tower-case",
+  "name": "Antec Flux Pro 6 Fan Full Tower Case",
+  "model": "Flux Pro",
+  "brand": "ANTEC",
+  "brandSlug": "antec",
+  "categorySlugs": [
+    "pc-cases-chasses"
+  ],
+  "price": 9900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215626-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215626-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215626-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215626-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215658-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215658-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215658-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215643-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215643-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260503215643-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "ANTEC",
+    "FLUX",
+    "PRO",
+    "6",
+    "FAN",
+    "FULL",
+    "TOWER",
+    "CASE"
+  ],
+  "shortDescription": "Antec Flux Pro Full Tower Case SpecificationsThe Antec Flux Pro is a premium, high-airflow full tower chassis designed for extreme cooling and high-end hardware. Featuring the patented F-LUX Platform, it provides a massi",
+  "descriptionHtml": "<div _ngcontent-ng-c2777830090=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_876394dc9d59a3c1\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><div><b><br></b></div><h3><b>Antec Flux Pro Full Tower Case Specifications</b></h3><p>The <b>Antec Flux Pro</b> is a premium, high-airflow full tower chassis designed for extreme cooling and high-end hardware. Featuring the patented <b>F-LUX Platform</b>, it provides a massive amount of airflow directly to the GPU and CPU. It is distinguished by its refined aesthetics, including genuine wood accents (walnut) and a built-in digital display.</p><h3><b>Core Specifications</b></h3><ul><li><p><b>Case Type:</b> Full Tower</p></li><li><p><b>Dimensions:</b> 530 x 239 x 529 mm (DWH)</p></li><li><p><b>Materials:</b> Steel, Plastic, Tempered Glass, Walnut Wood</p></li><li><p><b>Motherboard Support:</b> E-ATX (up to 285mm), ATX, Micro-ATX, ITX</p></li><li><p><b>Weight:</b> ~13.5 kg</p></li></ul><h3><b>Cooling &amp; Fans (6 Pre-installed)</b></h3><ul><li><p><b>Front:</b> 3 x 140mm PWM Fans (Pre-installed)</p></li><li><p><b>PSU Shroud:</b> 2 x 120mm Reverse PWM Fans (Pre-installed for GPU cooling)</p></li><li><p><b>Rear:</b> 1 x 140mm PWM Fan (Pre-installed)</p></li><li><p><b>Total Fan Support:</b> Up to 12 fans (Front, Top, Rear, PSU Shroud, and Side)</p></li></ul><h3><b>Radiator Support</b></h3><ul><li><p><b>Top:</b> 360mm / 420mm</p></li><li><p><b>Front:</b> 360mm / 420mm</p></li><li><p><b>Rear:</b> 120mm / 140mm</p></li></ul><h3><b>Storage &amp; Expansion</b></h3><ul><li><p><b>Drive Bays:</b></p><ul><li",
+  "specs": [],
+  "rating": 4.5,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-14",
+      "demo": true
+    }
+  ]
+}

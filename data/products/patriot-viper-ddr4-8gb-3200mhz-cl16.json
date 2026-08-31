@@ -1,0 +1,146 @@
+{
+  "id": 902,
+  "slug": "patriot-viper-ddr4-8gb-3200mhz-cl16",
+  "name": "Patriot Viper Steel DDR4 8GB 3200MHz CL16 Desktop Gaming RAM - Gunmetal Grey",
+  "model": "Viper ddr4",
+  "brand": "Patriot",
+  "brandSlug": "patriot",
+  "categorySlugs": [
+    "computer-memory-ram"
+  ],
+  "price": 3249,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 16,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ram/patriot-viper-ddr4-8gb-3200mhz-cl16-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ram/patriot-viper-ddr4-8gb-3200mhz-cl16-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ram/patriot-viper-ddr4-8gb-3200mhz-cl16-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ram/patriot-viper-ddr4-8gb-3200mhz-cl16-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "Patriot",
+    "Viper Steel",
+    "DDR4",
+    "8GB RAM",
+    "3200MHz",
+    "CL16",
+    "Desktop Memory",
+    "Gaming RAM",
+    "Aluminum Heat Shield",
+    "XMP 2.0",
+    "PC Hardware",
+    "Computer Component",
+    "رامات باتريوت",
+    "رامة 8 جيجا",
+    "رامة جيمنج ديسكتوب"
+  ],
+  "shortDescription": "Patriot Viper Steel DDR4 8GB 3200MHz CL16 Desktop Gaming RAMBoost your desktop computer's multi-application tracking and responsiveness with the highly reliable Patriot Viper Steel DDR4 8GB 3200MHz CL16 gaming memory mod",
+  "descriptionHtml": "<p><span>Patriot Viper Steel DDR4 8GB 3200MHz CL16 Desktop Gaming RAM</span></p><p>Boost your desktop computer's multi-application tracking and responsiveness with the highly reliable Patriot Viper Steel DDR4 8GB 3200MHz CL16 gaming memory module. Available at Turbo Computer, this high-performance PC hardware component peripheral is masterfully engineered for mainstream PC gamers, budget build enthusiasts, and office multitasking users across Egypt who require ultimate system stability, optimized memory bandwidth translation, and seamless everyday operation. Manufactured with a custom-designed heavy-duty aluminum shield framework, this RAM module keeps your layout operating at peak thermal efficiency.</p><p>The Patriot Viper Steel DDR4 module delivers a high speed frequency profile of 3200MHz with a tight low-latency timing configuration of CL16-20-20-40, maximizing internal processing output layout channels. It offers complete plug-and-play compatibility with the latest Intel and AMD motherboard chipsets, making hardware setup quick and effortless. Equipped with full Intel XMP 2.0 overclocking support, users can easily unlock maximum frequency profiles directly from the system BIOS interface safely. Finished in a premium sleek Gunmetal Grey aesthetic styling treatment, it seamlessly matches any modern gaming or workspace interior build structure.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification Details</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Patriot Memory</td></tr><tr><td><strong>Product Series Layout</strong></td><td>Viper Steel DDR4 Series Matrix</td></tr><tr><td><strong>Memory Type</strong></td><td>DDR4 Unbuffered DIMM 288-Pin Desktop Hardware Layout</td></tr><tr><td><strong>Capacity</strong></td><td>8GB (1x 8GB Single Module Configuration)</td></tr><tr><td><strong>Tested Frequency Speed</strong></td><td>3200MHz (PC4-25600 tracking channels)</td></tr><tr><td><strong>Tested Latency Timings</strong></td><td>CL16 (Tested Timings: 16-20-20-40 profile layout)</td></tr><tr><td><strong>Tested Voltage Profile</strong></td><td>1.35V High-Efficiency Power Management</td></tr><tr><td><strong>Overclock Profile Support</strong></td><td>Intel XMP 2.0 (Extreme Memory Profile setup environment)</td></tr><tr><td><strong>Base Specifications</strong></td><td>2133MHz Frequency at 1.2V operational framework out of the box</td></tr><tr><td><strong>Thermal Heat Spreader</strong></td><td>Custom Aluminum Heat Shield (High-durability thermal dissipation mechanics)</td></tr><tr><td><strong>Aesthetic Styling Color</strong></td><td>Gunmetal Grey with stylish Viper logo accents</td></tr><tr><td><strong>Platform Compatibility Matrix</strong></td><td>Fully certified on high-tier Intel and AMD DDR4 desktop platforms</td></tr><tr><td><strong>Best Applications</strong></td><td>Budget/Mainstream Gaming Rigs, Everyday Office Workstation Task Management, Web Development Platforms, Product Entry Database Processing, and Smooth Media Playback Layouts</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Patriot Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series Layout",
+      "value": "Viper Steel DDR4 Series Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Type",
+      "value": "DDR4 Unbuffered DIMM 288-Pin Desktop Hardware Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Capacity",
+      "value": "8GB (1x 8GB Single Module Configuration)"
+    },
+    {
+      "group": "specs",
+      "label": "Tested Frequency Speed",
+      "value": "3200MHz (PC4-25600 tracking channels)"
+    },
+    {
+      "group": "specs",
+      "label": "Tested Latency Timings",
+      "value": "CL16 (Tested Timings: 16-20-20-40 profile layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Tested Voltage Profile",
+      "value": "1.35V High-Efficiency Power Management"
+    },
+    {
+      "group": "specs",
+      "label": "Overclock Profile Support",
+      "value": "Intel XMP 2.0 (Extreme Memory Profile setup environment)"
+    },
+    {
+      "group": "specs",
+      "label": "Base Specifications",
+      "value": "2133MHz Frequency at 1.2V operational framework out of the box"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Heat Spreader",
+      "value": "Custom Aluminum Heat Shield (High-durability thermal dissipation mechanics)"
+    },
+    {
+      "group": "specs",
+      "label": "Aesthetic Styling Color",
+      "value": "Gunmetal Grey with stylish Viper logo accents"
+    },
+    {
+      "group": "specs",
+      "label": "Platform Compatibility Matrix",
+      "value": "Fully certified on high-tier Intel and AMD DDR4 desktop platforms"
+    },
+    {
+      "group": "specs",
+      "label": "Best Applications",
+      "value": "Budget/Mainstream Gaming Rigs, Everyday Office Workstation Task Management, Web Development Platforms, Product Entry Database Processing, and Smooth Media Playback Layouts"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    }
+  ]
+}

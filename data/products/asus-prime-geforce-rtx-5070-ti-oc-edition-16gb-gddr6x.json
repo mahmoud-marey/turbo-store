@@ -1,0 +1,144 @@
+{
+  "id": 1092,
+  "slug": "asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-gddr6x",
+  "name": "ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR6X Graphics Card (PRIME-RTX5070TI-O16G)",
+  "model": "5070 Ti OC Edition",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 67499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-1-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-1-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Prime",
+    "GeForce RTX",
+    "RTX 5070 Ti",
+    "OC Edition",
+    "16GB GDDR6X",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR6X Graphics CardUnleash high-end next-generation gaming and AI computing power with the ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR6X graphics card, distributed ",
+  "descriptionHtml": "<p><span>ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR6X Graphics Card</span></p><p>Unleash high-end next-generation gaming and AI computing power with the ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR6X graphics card, distributed via Turbo Computer Egypt. Built on NVIDIA's latest architecture, this premium GPU features a massive 16GB of ultra-fast GDDR6X memory matrix to dominate 4K resolution gaming and complex creative workflows. The sleek 2.5-slot compact design is specifically engineered for excellent compatibility with small form factor (SFF) builds without compromising thermal capacity. Equipped with a triple-fan setup utilizing dual ball fan bearings and an optimized heatsink array, it delivers quiet yet extreme cooling performance under full loads. Officially factory overclocked for out-of-the-box performance boosts, this high-tier GPU infrastructure is backed by a 3-year official warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Product Series</td><td>ASUS Prime Series</td></tr><tr><td>Model Name / P/N</td><td>Prime GeForce RTX 5070 Ti OC Edition (PRIME-RTX5070TI-O16G)</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5070 Ti</td></tr><tr><td>Video Memory (VRAM)</td><td>16GB GDDR6X Dedicated Memory Matrix</td></tr><tr><td>Memory Interface</td><td>256-bit High-Bandwidth Interface</td></tr><tr><td>Engine Clock Boost</td><td>OC Mode: Factory Tuned Overclocked Frequency Profile</td></tr><tr><td>Cooling System</td><td>Triple Fan Thermal Array (Dual Ball Fan Bearings, 0dB Technology)</td></tr><tr><td>Form Factor / Slots</td><td>2.5-Slot Design (SFF-Ready Compatibility Matrix)</td></tr><tr><td>Display Outputs</td><td>1x HDMI (Native), 3x DisplayPort (Native) - HDCP 2.3 Support Matrix</td></tr><tr><td>Power Connectors</td><td>1x 16-pin Power Connector (PCIe Gen 5 Ready)</td></tr><tr><td>Recommended PSU</td><td>750W or Higher High-Quality Power Supply</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "ASUS Prime Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / P/N",
+      "value": "Prime GeForce RTX 5070 Ti OC Edition (PRIME-RTX5070TI-O16G)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5070 Ti"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "16GB GDDR6X Dedicated Memory Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Interface",
+      "value": "256-bit High-Bandwidth Interface"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock Boost",
+      "value": "OC Mode: Factory Tuned Overclocked Frequency Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System",
+      "value": "Triple Fan Thermal Array (Dual Ball Fan Bearings, 0dB Technology)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor / Slots",
+      "value": "2.5-Slot Design (SFF-Ready Compatibility Matrix)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "1x HDMI (Native), 3x DisplayPort (Native) - HDCP 2.3 Support Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Power Connectors",
+      "value": "1x 16-pin Power Connector (PCIe Gen 5 Ready)"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "750W or Higher High-Quality Power Supply"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 17,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-10",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-15",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-20",
+      "demo": true
+    }
+  ]
+}

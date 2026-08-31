@@ -1,0 +1,70 @@
+{
+  "id": 608,
+  "slug": "hp-gk400y",
+  "name": "HP GK400Y Mechanical Gaming Keyboard",
+  "model": "GK400Y",
+  "brand": "HP",
+  "brandSlug": "hp",
+  "categorySlugs": [
+    "keyboards-input-devices"
+  ],
+  "price": 850,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/Gk400-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/Gk400-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/Gk400-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/Gk400-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "HP",
+    "GK400Y",
+    "Mechanical",
+    "Gaming",
+    "Keyboard"
+  ],
+  "shortDescription": "...",
+  "descriptionHtml": "<p><img src=\"https://turbo-computer.com/image/catalog/accessories/Gk400 (1) (1).png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/Gk400 (2) (1).png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/Gk400.jpeg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/Gk400 (3).png\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.7,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-10",
+      "demo": true
+    }
+  ]
+}

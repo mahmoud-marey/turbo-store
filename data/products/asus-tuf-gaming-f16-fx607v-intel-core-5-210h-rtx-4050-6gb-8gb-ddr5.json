@@ -1,0 +1,122 @@
+{
+  "id": 1078,
+  "slug": "asus-tuf-gaming-f16-fx607v-intel-core-5-210h-rtx-4050-6gb-8gb-ddr5",
+  "name": "ASUS TUF Gaming F16 FX607V (Intel Core 5 210H / RTX 4050 6GB / 8GB DDR5 / 512GB SSD / 16 Inch WUXGA 165Hz / Windows 11)",
+  "model": "F16 FX607V",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 49999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-f16-fx607v-intel-core-5-120h-rtx-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-f16-fx607v-intel-core-5-120h-rtx-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-f16-fx607v-intel-core-5-120h-rtx-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-f16-fx607v-intel-core-5-120h-rtx-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-f16-fx607v-intel-core-5-120h-rtx-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-f16-fx607v-intel-core-5-120h-rtx-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-tuf-gaming-f16-fx607v-intel-core-5-120h-rtx-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "ASUS TUF",
+    "TUF Gaming",
+    "FX607V",
+    "F16",
+    "Gaming Laptop",
+    "Intel Core 5",
+    "210H",
+    "RTX 4050",
+    "8GB RAM",
+    "Laptops",
+    "Windows 11"
+  ],
+  "shortDescription": "ASUS TUF Gaming F16 FX607V - Intel Core 5 210H - RTX 4050 6GB - 8GB DDR5Dominates the virtual battlefield with the newly designed ASUS TUF Gaming F16 (FX607V series), proudly offered by Turbo Computer Egypt. Featuring an",
+  "descriptionHtml": "<p><span>ASUS TUF Gaming F16 FX607V - Intel Core 5 210H - RTX 4050 6GB - 8GB DDR5</span></p><p>Dominates the virtual battlefield with the newly designed ASUS TUF Gaming F16 (FX607V series), proudly offered by Turbo Computer Egypt. Featuring an expansive 16-inch WUXGA display geared for competitive visual clarity, this powerhouse is driven by the next-generation Intel Core 5 120H processor architecture, high-bandwidth DDR5 memory, and the revolutionary NVIDIA GeForce RTX 4050 6GB graphics card. Engineered to fulfill military-grade durability standards with dual structural fans for prolonged heavy load endurance. Includes a 1-Year Perfect Warranty coverage policy across Egypt.</p><h3>Technical Specifications Matrix</h3><table><thead><tr><th>Component Type</th><th>Official Hardware Specification Details</th></tr></thead><tbody><tr><td>Processor (CPU)</td><td>Intel® Core™ 5 Processor 210H (12M Cache, up to 4.80 GHz, 8 Cores, 12 Threads)</td></tr><tr><td>Graphics (GPU)</td><td>NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 Dedicated Video Memory</td></tr><tr><td>Memory (RAM)</td><td>8GB DDR5 High-Speed Next-Gen System Memory</td></tr><tr><td>Storage (SSD)</td><td>512GB PCIe® NVMe™ M.2 Performance Solid State Drive (Gen4)</td></tr><tr><td>Display Panel</td><td>16.0-inch WUXGA (1920 x 1200) 16:10 Aspect Ratio, Anti-glare Display Panel</td></tr><tr><td>Chassis &amp; Layout</td><td>Mecha Gray Chassis (3A) | Backlit Keyboard Layout with Arabic Keys</td></tr><tr><td>Operating System</td><td>Genuine Windows 11 Home Edition Architecture Factory Pre-installed</td></tr><tr><td>Warranty Matrix</td><td> 1-Year Perfect Warranty in Egypt (ضمان محلي معتمد ضد عيوب الاستخدام - بيرفكت وارنتي لمدة عام) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Processor (CPU)",
+      "value": "Intel® Core™ 5 Processor 210H (12M Cache, up to 4.80 GHz, 8 Cores, 12 Threads)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics (GPU)",
+      "value": "NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 Dedicated Video Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "8GB DDR5 High-Speed Next-Gen System Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Storage (SSD)",
+      "value": "512GB PCIe® NVMe™ M.2 Performance Solid State Drive (Gen4)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "16.0-inch WUXGA (1920 x 1200) 16:10 Aspect Ratio, Anti-glare Display Panel"
+    },
+    {
+      "group": "specs",
+      "label": "Chassis & Layout",
+      "value": "Mecha Gray Chassis (3A) | Backlit Keyboard Layout with Arabic Keys"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Genuine Windows 11 Home Edition Architecture Factory Pre-installed"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Perfect Warranty in Egypt (ضمان محلي معتمد ضد عيوب الاستخدام - بيرفكت وارنتي لمدة عام)"
+    }
+  ],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-10",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-15",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    }
+  ]
+}

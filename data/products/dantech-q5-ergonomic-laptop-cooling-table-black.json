@@ -1,0 +1,118 @@
+{
+  "id": 1127,
+  "slug": "dantech-q5-ergonomic-laptop-cooling-table-black",
+  "name": "Dantech Q5 Ergonomic Laptop Cooling Table with Built-in Fan - Black",
+  "model": "Q5",
+  "brand": "Turbo",
+  "brandSlug": "turbo",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1149,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/dantech-q5-black-laptop-cooling-table-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/dantech-q5-black-laptop-cooling-table-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/dantech-q5-black-laptop-cooling-table-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/dantech-q5-black-laptop-cooling-table-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Dantech",
+    "Q5",
+    "Laptop Table",
+    "Cooling Pad",
+    "Black",
+    "Adjustable Stand",
+    "Ergonomic Desktop",
+    "Built-in Fan"
+  ],
+  "shortDescription": "Dantech Q5 Ergonomic Laptop Cooling Table (Adjustable Height &amp; Angle / Built-in Fan / Black Edition)Upgrade your workspace comfort and protect your device from overheating with the Dantech Q5 Laptop Cooling Table, br",
+  "descriptionHtml": "<p><span>Dantech Q5 Ergonomic Laptop Cooling Table (Adjustable Height &amp; Angle / Built-in Fan / Black Edition)</span></p><p>Upgrade your workspace comfort and protect your device from overheating with the Dantech Q5 Laptop Cooling Table, brought to you by Turbo Computer Egypt. Featuring a sleek black finish layout, this premium multi-functional desk serves as both an ergonomic laptop stand and a highly effective cooling platform. It is equipped with an integrated high-speed 80x80x10mm silent cooling fan that spins up to 1800 RPM, providing steady airflow configuration via USB DC 5.0V power to dissipate heavy processing heat. Engineered with fully adjustable capabilities, users can customize the desktop heights between 270mm to 370mm and tilt angles from 0 to 30 degrees to ensure perfect posture and minimize neck strain. Crafted with a spacious 530x300mm desktop profile, it fits a variety of notebook sizes comfortably, making it an excellent computing accessory structure layout.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand Name</td><td>Dantech Gear</td></tr><tr><td>Product Model</td><td>Q5 Table Architecture</td></tr><tr><td>Product Color</td><td>Black Edition Profile</td></tr><tr><td>Desktop Dimensions</td><td>530 x 300 mm Surface Area</td></tr><tr><td>Adjustable Height Range</td><td>270 mm ~ 370 mm Vertical Lift Layout</td></tr><tr><td>Adjustable Angle Range</td><td>0° ~ 30° Tilt Adjustment Setup</td></tr><tr><td>Cooling Fan Dimensions</td><td>80 x 80 x 10 mm Vent Size</td></tr><tr><td>Fan Rotation Speed</td><td>1800 ± 180 RPM High-Speed Matrix</td></tr><tr><td>Input Voltage / Power</td><td>USB DC 5.0V / 250mA Power Management</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand Name",
+      "value": "Dantech Gear"
+    },
+    {
+      "group": "specs",
+      "label": "Product Model",
+      "value": "Q5 Table Architecture"
+    },
+    {
+      "group": "specs",
+      "label": "Product Color",
+      "value": "Black Edition Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Desktop Dimensions",
+      "value": "530 x 300 mm Surface Area"
+    },
+    {
+      "group": "specs",
+      "label": "Adjustable Height Range",
+      "value": "270 mm ~ 370 mm Vertical Lift Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Adjustable Angle Range",
+      "value": "0° ~ 30° Tilt Adjustment Setup"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Fan Dimensions",
+      "value": "80 x 80 x 10 mm Vent Size"
+    },
+    {
+      "group": "specs",
+      "label": "Fan Rotation Speed",
+      "value": "1800 ± 180 RPM High-Speed Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Input Voltage / Power",
+      "value": "USB DC 5.0V / 250mA Power Management"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-23",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-10",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-15",
+      "demo": true
+    }
+  ]
+}

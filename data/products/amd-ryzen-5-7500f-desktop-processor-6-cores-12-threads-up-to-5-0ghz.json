@@ -1,0 +1,178 @@
+{
+  "id": 1008,
+  "slug": "amd-ryzen-5-7500f-desktop-processor-6-cores-12-threads-up-to-5-0ghz",
+  "name": "AMD Ryzen 5 7500F Desktop Processor (6 Cores, 12 Threads, Up to 5.0GHz, Socket AM5, DDR5 Support)",
+  "model": "7500f",
+  "brand": "AMD",
+  "brandSlug": "amd",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 7199,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7500f-desktop-processor-6-cores-12-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7500f-desktop-processor-6-cores-12-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7500f-desktop-processor-6-cores-12-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/amd-ryzen-5-7500f-desktop-processor-6-cores-12-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "AMD",
+    "Ryzen 5",
+    "7500F",
+    "Desktop Processor",
+    "AM5 CPU",
+    "Zen 4",
+    "6 Cores",
+    "12 Threads",
+    "DDR5 CPU",
+    "PC Gaming",
+    "Hardware Component",
+    "معالج رايزن 7500f",
+    "بروسيسور اي ام دي جيمنج"
+  ],
+  "shortDescription": "AMD Ryzen 5 7500F 6-Core 12-Thread Desktop Processor (Socket AM5 / 3.7GHz Base Clock / Up to 5.0GHz Max Boost / 32MB L3 Cache / 65W TDP / Zen 4 Architecture / TSMC 5nm FinFET / PCIe 5.0 Support / DDR5 Memory / 1-Year Sto",
+  "descriptionHtml": "<p><span>AMD Ryzen 5 7500F 6-Core 12-Thread Desktop Processor (Socket AM5 / 3.7GHz Base Clock / Up to 5.0GHz Max Boost / 32MB L3 Cache / 65W TDP / Zen 4 Architecture / TSMC 5nm FinFET / PCIe 5.0 Support / DDR5 Memory / 1-Year Store Warranty)</span></p><p>Upgrade to the next generation of PC gaming with the AMD Ryzen 5 7500F desktop processor, available at Turbo Computer Egypt backed by a 1-Year store warranty. Powered by the groundbreaking Zen 4 architecture on TSMC 5nm process technology, this AM5 processor features 6 cores and 12 threads with a boost frequency up to 5.0GHz. Designed for maximum efficiency with a 65W TDP, it offers full support for high-speed DDR5 memory, PCIe 5.0 expansion lanes, and a generous 32MB L3 cache for unmatched competitive gaming and multi-tasking performance.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>AMD</td></tr><tr><td>Processor Family / Series</td><td>AMD Ryzen 5 / Ryzen 7000 Series</td></tr><tr><td>Model Name</td><td>Ryzen 5 7500F</td></tr><tr><td>Warranty Period</td><td>1-Year Warranty (ضمان لمدة سنة)</td></tr><tr><td>CPU Cores / Threads</td><td>6 Cores / 12 Threads (Multithreading Supported)</td></tr><tr><td>Core Architecture</td><td>Zen 4 Architecture (Raphael)</td></tr><tr><td>Manufacturing Process</td><td>TSMC 5nm FinFET Technology (I/O Die: TSMC 6nm)</td></tr><tr><td>CPU Socket Platform</td><td>Socket AM5</td></tr><tr><td>Base Clock Speed</td><td>3.7 GHz</td></tr><tr><td>Max Boost Clock Speed</td><td>Up to 5.0 GHz</td></tr><tr><td>Cache Sizes</td><td>L1 Cache: 384 KB | L2 Cache: 6 MB | L3 Cache: 32 MB Unified Shared</td></tr><tr><td>Unlocked for Overclocking</td><td>Yes (Precision Boost 2 &amp; Overclocking Supported)</td></tr><tr><td>Default Thermal Design Power (TDP)</td><td>65W High Efficiency Power Draw</td></tr><tr><td>Max Operating Temperature (Tjmax)</td><td>95°C</td></tr><tr><td>PCI Express Version</td><td>PCIe 5.0 Support (28 Total / 24 Usable PCIe Lanes)</td></tr><tr><td>System Memory Support</td><td>DDR5 Memory Only | Dual-Channel Support (Supports AMD EXPO)</td></tr><tr><td>Integrated Graphics Capabilities</td><td>None (F-Series: Discrete Graphics Card Required for Display Output)</td></tr><tr><td>Thermal Solution (Cooler)</td><td>AMD Wraith Stealth Cooler Included (Varies by Region/Pack)</td></tr><tr><td>Supported Motherboard Chipsets</td><td>AMD X670E, X670, B650E, B650, A620</td></tr><tr><td>Supported Operating Systems</td><td>Windows 11 64-Bit, Windows 10 64-Bit, RHEL x86 64-Bit, Ubuntu x86 64-Bit</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "AMD"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Family / Series",
+      "value": "AMD Ryzen 5 / Ryzen 7000 Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "Ryzen 5 7500F"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Warranty (ضمان لمدة سنة)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Cores / Threads",
+      "value": "6 Cores / 12 Threads (Multithreading Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "Core Architecture",
+      "value": "Zen 4 Architecture (Raphael)"
+    },
+    {
+      "group": "specs",
+      "label": "Manufacturing Process",
+      "value": "TSMC 5nm FinFET Technology (I/O Die: TSMC 6nm)"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket Platform",
+      "value": "Socket AM5"
+    },
+    {
+      "group": "specs",
+      "label": "Base Clock Speed",
+      "value": "3.7 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Max Boost Clock Speed",
+      "value": "Up to 5.0 GHz"
+    },
+    {
+      "group": "specs",
+      "label": "Cache Sizes",
+      "value": "L1 Cache: 384 KB | L2 Cache: 6 MB | L3 Cache: 32 MB Unified Shared"
+    },
+    {
+      "group": "specs",
+      "label": "Unlocked for Overclocking",
+      "value": "Yes (Precision Boost 2 & Overclocking Supported)"
+    },
+    {
+      "group": "specs",
+      "label": "Default Thermal Design Power (TDP)",
+      "value": "65W High Efficiency Power Draw"
+    },
+    {
+      "group": "specs",
+      "label": "Max Operating Temperature (Tjmax)",
+      "value": "95°C"
+    },
+    {
+      "group": "specs",
+      "label": "PCI Express Version",
+      "value": "PCIe 5.0 Support (28 Total / 24 Usable PCIe Lanes)"
+    },
+    {
+      "group": "specs",
+      "label": "System Memory Support",
+      "value": "DDR5 Memory Only | Dual-Channel Support (Supports AMD EXPO)"
+    },
+    {
+      "group": "specs",
+      "label": "Integrated Graphics Capabilities",
+      "value": "None (F-Series: Discrete Graphics Card Required for Display Output)"
+    },
+    {
+      "group": "specs",
+      "label": "Thermal Solution (Cooler)",
+      "value": "AMD Wraith Stealth Cooler Included (Varies by Region/Pack)"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Motherboard Chipsets",
+      "value": "AMD X670E, X670, B650E, B650, A620"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Operating Systems",
+      "value": "Windows 11 64-Bit, Windows 10 64-Bit, RHEL x86 64-Bit, Ubuntu x86 64-Bit"
+    }
+  ],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    }
+  ]
+}

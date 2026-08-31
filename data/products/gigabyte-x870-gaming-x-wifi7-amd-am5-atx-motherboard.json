@@ -1,0 +1,124 @@
+{
+  "id": 1081,
+  "slug": "gigabyte-x870-gaming-x-wifi7-amd-am5-atx-motherboard",
+  "name": "GIGABYTE X870 GAMING X WIFI7 AMD AM5 ATX Motherboard (rev. 1.x)",
+  "model": "X870 Gaming X",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 12999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-x870-gaming-x-wifi7-amd-am5-motherboard-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-x870-gaming-x-wifi7-amd-am5-motherboard-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-x870-gaming-x-wifi7-amd-am5-motherboard-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-x870-gaming-x-wifi7-amd-am5-motherboard-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "GIGABYTE",
+    "Motherboard",
+    "X870",
+    "AMD AM5",
+    "GAMING X",
+    "WIFI7",
+    "USB4",
+    "PCIe 5.0",
+    "Components"
+  ],
+  "shortDescription": "GIGABYTE X870 GAMING X WIFI7 AMD AM5 ATX MotherboardUnleash the maximum potential of next-generation AMD Ryzen™ processors with the GIGABYTE X870 GAMING X WIFI7 (rev. 1.x), proudly offered by Turbo Computer Egypt. Engine",
+  "descriptionHtml": "<p>GIGABYTE X870 GAMING X WIFI7 AMD AM5 ATX Motherboard</p><p>Unleash the maximum potential of next-generation AMD Ryzen™ processors with the GIGABYTE X870 GAMING X WIFI7 (rev. 1.x), proudly offered by Turbo Computer Egypt. Engineered on the cutting-edge AMD X870 chipset architecture, this powerhouse motherboard features a robust digital twin VRM design for extreme power stability. Packed with premium future-proof connectivity including ultra-fast Wi-Fi 7, PCIe 5.0 graphics slot interface, multiple M.2 thermal guards, and dual lightning-fast USB4 ports delivering up to 40Gbps bandwidth. Built with DIY-friendly innovations for seamless system assembly.</p><h3>Advanced Technical Specifications Matrix</h3><table><thead><tr><th>Component Type</th><th>Official Hardware Specification Details</th></tr></thead><tbody><tr><td>CPU Socket &amp; Chipset</td><td>AMD Socket AM5 Supporting Next-Gen AMD Ryzen™ Processors | AMD X870 Chipset</td></tr><tr><td>Memory Support (RAM)</td><td>4 x DDR5 DIMM Slots Supporting Dual-Channel High-Frequency Overclocked Memory Modules</td></tr><tr><td>Expansion Slots</td><td>1 x PCIe 5.0 x16 Slot with PCIe UD Slot Mechanical Reinforcement for Heavy GPUs</td></tr><tr><td>Storage Interfaces</td><td>Multiple M.2 Slots (Including PCIe 5.0 x4 M.2) Equipped with Advanced M.2 Thermal Guards | SATA 6Gb/s Connectors</td></tr><tr><td>Next-Gen USB Ports</td><td>2 x USB4® Type-C Ports Supporting Up to 40Gbps Ultra-High Transfer Speeds &amp; DisplayPort Video Output</td></tr><tr><td>Wireless Connectivity</td><td>MediaTek Wi-Fi 7 Wireless Module Featuring Ultra-High-Gain Directional Antenna &amp; Bluetooth 5.4 Support</td></tr><tr><td>Wired Ethernet LAN</td><td>High-Speed 2.5GbE LAN Controller for Lag-Free Competitive Gaming Networks</td></tr><tr><td>Form Factor Size</td><td>ATX Form Factor Design Architecture (30.5 cm x 24.4 cm)</td></tr><tr><td>Model Revision</td><td>X870 GAMING X WIFI7 (rev. 1.x) Official Retail Edition</td></tr><tr><td>Warranty Matrix</td><td> Official Local Warranty Coverage in Egypt (ضمان محلي معتمد ضد عيوب الصناعة) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "CPU Socket & Chipset",
+      "value": "AMD Socket AM5 Supporting Next-Gen AMD Ryzen™ Processors | AMD X870 Chipset"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support (RAM)",
+      "value": "4 x DDR5 DIMM Slots Supporting Dual-Channel High-Frequency Overclocked Memory Modules"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Slots",
+      "value": "1 x PCIe 5.0 x16 Slot with PCIe UD Slot Mechanical Reinforcement for Heavy GPUs"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interfaces",
+      "value": "Multiple M.2 Slots (Including PCIe 5.0 x4 M.2) Equipped with Advanced M.2 Thermal Guards | SATA 6Gb/s Connectors"
+    },
+    {
+      "group": "specs",
+      "label": "Next-Gen USB Ports",
+      "value": "2 x USB4® Type-C Ports Supporting Up to 40Gbps Ultra-High Transfer Speeds & DisplayPort Video Output"
+    },
+    {
+      "group": "specs",
+      "label": "Wireless Connectivity",
+      "value": "MediaTek Wi-Fi 7 Wireless Module Featuring Ultra-High-Gain Directional Antenna & Bluetooth 5.4 Support"
+    },
+    {
+      "group": "specs",
+      "label": "Wired Ethernet LAN",
+      "value": "High-Speed 2.5GbE LAN Controller for Lag-Free Competitive Gaming Networks"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor Size",
+      "value": "ATX Form Factor Design Architecture (30.5 cm x 24.4 cm)"
+    },
+    {
+      "group": "specs",
+      "label": "Model Revision",
+      "value": "X870 GAMING X WIFI7 (rev. 1.x) Official Retail Edition"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "Official Local Warranty Coverage in Egypt (ضمان محلي معتمد ضد عيوب الصناعة)"
+    }
+  ],
+  "rating": 4.7,
+  "reviewCount": 15,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-17",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    }
+  ]
+}

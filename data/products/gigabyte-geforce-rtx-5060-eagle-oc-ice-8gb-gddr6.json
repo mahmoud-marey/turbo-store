@@ -1,0 +1,135 @@
+{
+  "id": 1096,
+  "slug": "gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6",
+  "name": "Gigabyte GeForce RTX 5060 Eagle OC ICE 8GB GDDR6 Graphics Card (GV-N5060EAGLEOC-ICE-8GD)",
+  "model": "Eagle OC ICE",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 23999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/gigabyte-geforce-rtx-5060-eagle-oc-ice-8gb-gddr6-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "GeForce RTX",
+    "RTX 5060",
+    "Eagle OC",
+    "ICE Edition",
+    "White GPU",
+    "8GB GDDR6",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "Gigabyte GeForce RTX 5060 Eagle OC ICE 8GB GDDR6 Graphics CardElevate your desktop setup aesthetics and rendering speed with the stunning next-generation Gigabyte GeForce RTX 5060 Eagle OC ICE 8GB GDDR6 graphics card, br",
+  "descriptionHtml": "<p><span>Gigabyte GeForce RTX 5060 Eagle OC ICE 8GB GDDR6 Graphics Card</span></p><p>Elevate your desktop setup aesthetics and rendering speed with the stunning next-generation Gigabyte GeForce RTX 5060 Eagle OC ICE 8GB GDDR6 graphics card, brought to you by Turbo Computer Egypt. Beautifully finished in a full-white ICE edition shroud and matching protection backplate, this elite GPU features 8GB of high-speed dedicated memory layout to maximize frame rates effortlessly at mainstream gaming resolutions. Driven by Gigabyte's signature Windforce cooling thermal system, it utilizes three unique blade fans spinning in alternate directions combined with composite copper heat pipes to deliver extreme, whisper-quiet thermal dissipation. With factory overclocking fine-tuned for stable performance upgrades right out of the box, this highly capable white graphics setup is officially backed by a 3-year official agent warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Gigabyte</td></tr><tr><td>Product Series</td><td>Eagle OC ICE Edition (White Series)</td></tr><tr><td>Model Number / P/N</td><td>GV-N5060EAGLEOC-ICE-8GD</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5060</td></tr><tr><td>Video Memory (VRAM)</td><td>8GB GDDR6 Dedicated Next-Gen Memory Layout</td></tr><tr><td>Core Clock</td><td>Factory Overclocked (OC Edition Performance Profile)</td></tr><tr><td>Cooling Solution</td><td>Windforce Thermal System (3x Unique Blade Fans, Alternate Spinning, 3D Active Fan)</td></tr><tr><td>Structural Build</td><td>Protection Backplate (ICE White Aesthetic Color Matched)</td></tr><tr><td>Display Outputs</td><td>Native DisplayPort Array + Native HDMI Interface Layout (HDCP 2.3 Compliant)</td></tr><tr><td>Recommended PSU</td><td>550W or Higher Quality Certified Power Supply Unit</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Agent Warranty (ضمان رسمي من الوكيل لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Gigabyte"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "Eagle OC ICE Edition (White Series)"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / P/N",
+      "value": "GV-N5060EAGLEOC-ICE-8GD"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5060"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "8GB GDDR6 Dedicated Next-Gen Memory Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Core Clock",
+      "value": "Factory Overclocked (OC Edition Performance Profile)"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Solution",
+      "value": "Windforce Thermal System (3x Unique Blade Fans, Alternate Spinning, 3D Active Fan)"
+    },
+    {
+      "group": "specs",
+      "label": "Structural Build",
+      "value": "Protection Backplate (ICE White Aesthetic Color Matched)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "Native DisplayPort Array + Native HDMI Interface Layout (HDCP 2.3 Compliant)"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "550W or Higher Quality Certified Power Supply Unit"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Agent Warranty (ضمان رسمي من الوكيل لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.1,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-16",
+      "demo": true
+    }
+  ]
+}

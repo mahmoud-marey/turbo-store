@@ -1,0 +1,161 @@
+{
+  "id": 969,
+  "slug": "xprinter-xp-370b-thermal-barcode-printer",
+  "name": "Xprinter XP-370B Thermal Barcode &amp; Receipt Printer",
+  "model": "XP-370B",
+  "brand": "XPRINTER",
+  "brandSlug": "xprinter",
+  "categorySlugs": [
+    "pc-cooling-thermal-solutions"
+  ],
+  "price": 3300,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/printer/xprinter-xp-370b-thermal-barcode-printer-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/printer/xprinter-xp-370b-thermal-barcode-printer-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/printer/xprinter-xp-370b-thermal-barcode-printer-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/printer/xprinter-xp-370b-thermal-barcode-printer-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Xprinter",
+    "XP-370B",
+    "Barcode Printer",
+    "Thermal Printer",
+    "Label Printer",
+    "Receipt Printer",
+    "POS Hardware",
+    "Shipping Label Printer",
+    "طابعة باركود",
+    "برنتر فواتير",
+    "اكس برنتر 370"
+  ],
+  "shortDescription": "Xprinter XP-370B Direct Thermal Barcode Label PrinterAccelerate your logistics, retail, and inventory management workflow with the high-performance Xprinter XP-370B Direct Thermal Barcode Label Printer. Available at Turb",
+  "descriptionHtml": "<p><span>Xprinter XP-370B Direct Thermal Barcode Label Printer</span></p><p>Accelerate your logistics, retail, and inventory management workflow with the high-performance Xprinter XP-370B Direct Thermal Barcode Label Printer. Available at Turbo Computer, this premium hardware component delivers blistering printing speeds up to 152mm/s to handle demanding labeling tasks effortlessly. It stands as the definitive choice for e-commerce hubs, shipping offices, and supermarkets across Egypt looking for a robust hardware modification to upgrade high-volume barcode generation and shipping label tracking configuration.</p><p>The Xprinter XP-370B features an advanced 3-inch printing design that accommodates a wide array of thermal label rolls up to 80mm in width. Engineered for maximum workplace efficiency, it comes integrated with an automatic label peeling mechanism that automatically separates the sticker from its backing paper as it prints. With its superior thermal cooling safety, heavy-duty mechanism lifespan, and easy USB connectivity setup, it offers a reliable and highly productive daily business ecosystem.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Xprinter</td></tr><tr><td><strong>Model</strong></td><td>XP-370B</td></tr><tr><td><strong>Print Method</strong></td><td>Direct Thermal (No ribbon, ink, or toner required)</td></tr><tr><td><strong>Resolution</strong></td><td>203 DPI</td></tr><tr><td><strong>Max Print Speed</strong></td><td>Up to 152 mm/s (6 inches/s) High-Speed Performance</td></tr><tr><td><strong>Max Print Width</strong></td><td>76 mm (Supports up to 3-Inch print profiles)</td></tr><tr><td><strong>Media Type Compatibility</strong></td><td>Thermal Roll Paper / Thermal Self-Adhesive Sticker Labels</td></tr><tr><td><strong>Media Width Range</strong></td><td>20 mm to 82 mm</td></tr><tr><td><strong>Media Roll Diameter</strong></td><td>Max 100 mm</td></tr><tr><td><strong>Special Feature</strong></td><td>Integrated Automatic Label Peeler / Stripper Mechanism</td></tr><tr><td><strong>Communication Interface</strong></td><td>USB Interface</td></tr><tr><td><strong>Memory Capacity</strong></td><td>4MB Flash Memory / 4MB SDRAM</td></tr><tr><td><strong>Sensors</strong></td><td>Label gap sensor, Black mark sensor, Cover open sensor</td></tr><tr><td><strong>Barcode Symbologies</strong></td><td>CODE39, CODE93, CODE128, EAN128, EAN13, EAN8, UPC-A, QR CODE, PDF417, DataMatrix</td></tr><tr><td><strong>Dimensions &amp; Weight</strong></td><td>231 x 163 x 150.7 mm / Approx. 1.50 kg</td></tr><tr><td><strong>Compatibility</strong></td><td>Windows XP, Vista, 7, 8, 10, 11, and Linux</td></tr><tr><td><strong>Application</strong></td><td>E-commerce Shipping Labels (Aramex, Bosta, etc.), Product Barcodes, Warehouse Inventory Tags, Shelf Labeling, and Medical Labels</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Xprinter"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "XP-370B"
+    },
+    {
+      "group": "specs",
+      "label": "Print Method",
+      "value": "Direct Thermal (No ribbon, ink, or toner required)"
+    },
+    {
+      "group": "specs",
+      "label": "Resolution",
+      "value": "203 DPI"
+    },
+    {
+      "group": "specs",
+      "label": "Max Print Speed",
+      "value": "Up to 152 mm/s (6 inches/s) High-Speed Performance"
+    },
+    {
+      "group": "specs",
+      "label": "Max Print Width",
+      "value": "76 mm (Supports up to 3-Inch print profiles)"
+    },
+    {
+      "group": "specs",
+      "label": "Media Type Compatibility",
+      "value": "Thermal Roll Paper / Thermal Self-Adhesive Sticker Labels"
+    },
+    {
+      "group": "specs",
+      "label": "Media Width Range",
+      "value": "20 mm to 82 mm"
+    },
+    {
+      "group": "specs",
+      "label": "Media Roll Diameter",
+      "value": "Max 100 mm"
+    },
+    {
+      "group": "specs",
+      "label": "Special Feature",
+      "value": "Integrated Automatic Label Peeler / Stripper Mechanism"
+    },
+    {
+      "group": "specs",
+      "label": "Communication Interface",
+      "value": "USB Interface"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Capacity",
+      "value": "4MB Flash Memory / 4MB SDRAM"
+    },
+    {
+      "group": "specs",
+      "label": "Sensors",
+      "value": "Label gap sensor, Black mark sensor, Cover open sensor"
+    },
+    {
+      "group": "specs",
+      "label": "Barcode Symbologies",
+      "value": "CODE39, CODE93, CODE128, EAN128, EAN13, EAN8, UPC-A, QR CODE, PDF417, DataMatrix"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions & Weight",
+      "value": "231 x 163 x 150.7 mm / Approx. 1.50 kg"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "Windows XP, Vista, 7, 8, 10, 11, and Linux"
+    },
+    {
+      "group": "specs",
+      "label": "Application",
+      "value": "E-commerce Shipping Labels (Aramex, Bosta, etc.), Product Barcodes, Warehouse Inventory Tags, Shelf Labeling, and Medical Labels"
+    }
+  ],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-25",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-12",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-17",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-22",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 717,
+  "slug": "philips-27e2g2200",
+  "name": "Philips 27E2G2200 27 IPS inch 144Hz FHD",
+  "model": "27E2G2200",
+  "brand": "Philips",
+  "brandSlug": "philips",
+  "categorySlugs": [
+    "monitors-displays"
+  ],
+  "price": 6600,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326172127-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326172127-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326172127-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326172127-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161619-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161619-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/monitor/IMG-20260201-WA0011_260326161619-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "philips",
+    "27e2g2200",
+    "27inch",
+    "ips",
+    "144hz",
+    "fhd"
+  ],
+  "shortDescription": "مواصفات شاشة Philips 27E2G2200&nbsp;الشاشة27 inchالنوع IPSالإضاءة الخلفية W LEDالدقة 1920 في 1080 فل اتش دينسبة العرض 16 إلى 9زوايا الرؤية 178 درجة افقي و178 درجة رأسيالسطوع 300 شمعةكثافة البكسل 81 بكسل لكل بوصةطبقة الشا",
+  "descriptionHtml": "<p>مواصفات شاشة</p><p>Philips 27E2G2200&nbsp;</p><p><br></p><p>الشاشة</p><p>27 inch</p><p>النوع IPS</p><p>الإضاءة الخلفية W LED</p><p>الدقة 1920 في 1080 فل اتش دي</p><p>نسبة العرض 16 إلى 9</p><p>زوايا الرؤية 178 درجة افقي و178 درجة رأسي</p><p>السطوع 300 شمعة</p><p>كثافة البكسل 81 بكسل لكل بوصة</p><p>طبقة الشاشة مضادة للانعكاس</p><p><br></p><p>الألوان</p><p>عدد الألوان 16.7 مليون لون</p><p>دعم sRGB</p><p>تغطية ألوان تصل الى حوالي 104 بالمية sRGB</p><p>دعم HDR10</p><p><br></p><p>الأداء</p><p>معدل التحديث 144 هرتز</p><p>زمن الاستجابة 4 مللي ثانية جراي تو جراي و0.5 مللي ثانية ام بي ار تي</p><p>نسبة التباين 1500 إلى 1</p><p>تقنية المزامنة Adaptive Sync</p><p>نطاق التردد من 48 الى 144 هرتز</p><p><br></p><p>المميزات</p><p>تقنية تقليل الاهتزاز Flicker Free</p><p>وضع تقليل الضوء الأزرق</p><p>وضع القراءة EasyRead</p><p>تحسين الصورة SmartImage</p><p>تصميم بحواف رفيعة</p><p><br></p><p>المنافذ</p><p>مدخل HDMI واحد</p><p>مدخل DisplayPort واحد</p><p>مخرج سماعة 3.5 مم</p><p><br></p><p>التصميم</p><p>إمكانية الإمالة فقط</p><p>دعم تعليق جداري VESA 100 في 100</p><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-03-22",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-27",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-19",
+      "demo": true
+    }
+  ]
+}

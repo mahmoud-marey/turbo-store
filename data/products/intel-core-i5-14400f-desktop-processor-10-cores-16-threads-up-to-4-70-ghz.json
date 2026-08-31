@@ -1,0 +1,163 @@
+{
+  "id": 1039,
+  "slug": "intel-core-i5-14400f-desktop-processor-10-cores-16-threads-up-to-4-70-ghz",
+  "name": "Intel Core i5-14400F Processor (20M Cache, up to 4.70 GHz, 10 Cores, 16 Threads, LGA1700, Desktop CPU) - Box",
+  "model": "i5-14400F Box",
+  "brand": "INTEL",
+  "brandSlug": "intel",
+  "categorySlugs": [
+    "pc-bundle"
+  ],
+  "price": 8999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-14400f-desktop-processor-10-cores-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-14400f-desktop-processor-10-cores-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-14400f-desktop-processor-10-cores-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/cpu/intel-core-i5-14400f-desktop-processor-10-cores-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Intel",
+    "Core i5",
+    "14400F",
+    "LGA1700",
+    "Raptor Lake Refresh",
+    "10 Cores",
+    "16 Threads",
+    "20MB Cache",
+    "DDR4 RAM",
+    "DDR5 RAM",
+    "PCIe 5.0",
+    "Desktop Processor",
+    "CPU",
+    "PC Hardware",
+    "Computer Component",
+    "معالج انتل",
+    "بروسيسور i5 الجيل 14",
+    "تجميعة جيمنج متطورة"
+  ],
+  "shortDescription": "Intel Core i5-14400F Desktop Processor 10 Cores 16 Threads up to 4.70 GHzSupercharge your custom desktop gaming system with the incredible architectural advancement of the Intel Core i5-14400F processor. Available at Tur",
+  "descriptionHtml": "<p><span>Intel Core i5-14400F Desktop Processor 10 Cores 16 Threads up to 4.70 GHz</span></p><p>Supercharge your custom desktop gaming system with the incredible architectural advancement of the Intel Core i5-14400F processor. Available at Turbo Computer, this next-generation PC hardware core component layout is masterfully engineered for modern mid-tier competitive esports players, intensive content creators, and professional data workflow operators across Egypt who demand swift computational tracking, enhanced hybrid core management, and great value per computing clock cycle. Built on the refined Raptor Lake Refresh hybrid architecture framework, this CPU provides exceptional reliability for heavy daily application rendering setups.</p><p>The Intel Core i5-14400F delivers an impressive hybrid configuration featuring 10 total cores (6 Performance-cores and 4 Efficient-cores) alongside 16 processing threads, operating at a responsive 2.50 GHz base frequency that scales dynamically up to a maximum turbo frequency translation of 4.70 GHz. Empowered by a larger 20MB Intel Smart Cache block matrix, it deeply optimizes internal frame latency structures to accelerate gaming deployment loops. This versatile hardware platform fully supports dual-channel memory configuration channels for both standard DDR4 up to 3200MHz and ultra-fast DDR5 memory profiles up to 4800MHz speeds. Operating at a highly efficient 65W base power target, it draws direct data connectivity from motherboard expansion lanes with comprehensive native PCIe 5.0 and 4.0 standard compliance. Please note that this 'F' suffix variant architecture requires a discrete external graphics card installation to drive video displays successfully.</p><h3>Technical Specifications</h3><table><thead><tr><th><strong>Feature</strong></th><th><strong>Specification Details</strong></th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>Intel</td></tr><tr><td><strong>Processor Line Layout</strong></td><td>Intel Core i5 Desktop Series (14th Generation)</td></tr><tr><td><strong>Code Name Architecture</strong></td><td>Products formerly Raptor Lake Refresh</td></tr><tr><td><strong>Supported Sockets Matrix</strong></td><td>LGA1700 (Compatible with standard Intel H610, B660, B760, Z690, Z790 motherboard profiles)</td></tr><tr><td><strong>Total Cores Count</strong></td><td>10 Cores (6 Dedicated Performance-cores | 4 Dedicated Efficient-cores)</td></tr><tr><td><strong>Total Threads Count</strong></td><td>16 Processing Threads Matrix</td></tr><tr><td><strong>Max Turbo Frequency</strong></td><td>4.70 GHz (Intel Turbo Boost Technology 2.0 translation profile)</td></tr><tr><td><strong>Performance-core Base Frequency</strong></td><td>2.50 GHz base clock tracking framework</td></tr><tr><td><strong>Efficient-core Base Frequency</strong></td><td>1.80 GHz base clock power-saving layout</td></tr><tr><td><strong>Cache Configuration</strong></td><td>20 MB Intel Smart Cache layout | Total L2 Cache: 9.5 MB</td></tr><tr><td><strong>Processor Base Power</strong></td><td>65W (Maximum Turbo Power output peaks safely up to 148W layout)</td></tr><tr><td><strong>Memory Types Support</strong></td><td>Up to DDR5 4800 MT/s | Up to DDR4 3200 MT/s channel options</td></tr><tr><td><strong>Max Memory Channels</strong></td><td>2 Channels (Dual-channel data bandwidth tracking layout)</td></tr><tr><td><strong>Processor Graphics (Integrated)</strong></td><td>None (Discrete graphics card matrix tracking required for system execution)</td></tr><tr><td><strong>Expansion Options Matrix</strong></td><td>PCI Express Revision 5.0 and 4.0 layout (Up to 20 total CPU PCIe lanes configuration)</td></tr><tr><td><strong>Best Applications</strong></td><td>Modern 1080p/1440p AAA Gaming, Smooth Live Streaming Layouts, Mid-Tier Video Editing, Technical SEO Web Auditing Operations, High-Speed Product Data Entry Tasks, and Professional Multitasking Workstations</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Intel"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Line Layout",
+      "value": "Intel Core i5 Desktop Series (14th Generation)"
+    },
+    {
+      "group": "specs",
+      "label": "Code Name Architecture",
+      "value": "Products formerly Raptor Lake Refresh"
+    },
+    {
+      "group": "specs",
+      "label": "Supported Sockets Matrix",
+      "value": "LGA1700 (Compatible with standard Intel H610, B660, B760, Z690, Z790 motherboard profiles)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Cores Count",
+      "value": "10 Cores (6 Dedicated Performance-cores | 4 Dedicated Efficient-cores)"
+    },
+    {
+      "group": "specs",
+      "label": "Total Threads Count",
+      "value": "16 Processing Threads Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Max Turbo Frequency",
+      "value": "4.70 GHz (Intel Turbo Boost Technology 2.0 translation profile)"
+    },
+    {
+      "group": "specs",
+      "label": "Performance-core Base Frequency",
+      "value": "2.50 GHz base clock tracking framework"
+    },
+    {
+      "group": "specs",
+      "label": "Efficient-core Base Frequency",
+      "value": "1.80 GHz base clock power-saving layout"
+    },
+    {
+      "group": "specs",
+      "label": "Cache Configuration",
+      "value": "20 MB Intel Smart Cache layout | Total L2 Cache: 9.5 MB"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Base Power",
+      "value": "65W (Maximum Turbo Power output peaks safely up to 148W layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Types Support",
+      "value": "Up to DDR5 4800 MT/s | Up to DDR4 3200 MT/s channel options"
+    },
+    {
+      "group": "specs",
+      "label": "Max Memory Channels",
+      "value": "2 Channels (Dual-channel data bandwidth tracking layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Processor Graphics (Integrated)",
+      "value": "None (Discrete graphics card matrix tracking required for system execution)"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Options Matrix",
+      "value": "PCI Express Revision 5.0 and 4.0 layout (Up to 20 total CPU PCIe lanes configuration)"
+    },
+    {
+      "group": "specs",
+      "label": "Best Applications",
+      "value": "Modern 1080p/1440p AAA Gaming, Smooth Live Streaming Layouts, Mid-Tier Video Editing, Technical SEO Web Auditing Operations, High-Speed Product Data Entry Tasks, and Professional Multitasking Workstations"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-14",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-19",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-11",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 616,
+  "slug": "patriot-p300",
+  "name": "Patriot P300 256GB M.2 nvme ssd PCIe Gen 3",
+  "model": "P300",
+  "brand": "Patriot",
+  "brandSlug": "patriot",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 2700,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221536-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221536-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221536-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221536-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221351-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221351-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260301221351-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Patriot",
+    "P300",
+    "256GB",
+    "M.2",
+    "nvme",
+    "ssd",
+    "PCIe",
+    "Gen",
+    "3"
+  ],
+  "shortDescription": "FEATURESBuilt with the latest PCIe 3 x4 controllerPCIe Gen3 x4 NVMe M.2 2280 SSDNANDXtend ECC TechnologyHMB TechnologyOperating Temperature: 0~70°CTBW: Up to 960TBRead Speed:&nbsp;Up to 1,700 MB/sWrite Speed:&nbsp;Up to ",
+  "descriptionHtml": "<p>FEATURES</p><p><br></p><p>Built with the latest PCIe 3 x4 controller</p><p>PCIe Gen3 x4 NVMe M.2 2280 SSD</p><p>NANDXtend ECC Technology</p><p>HMB Technology</p><p>Operating Temperature: 0~70°C</p><p>TBW: Up to 960TB</p><p><br></p><ul jscontroller=\"mPWODf\" jsuid=\"BGJWAd_j\"><li jscontroller=\"vsuOFb\" jsuid=\"BGJWAd_t\"><span jscontroller=\"fly6D\" jsuid=\"BGJWAd_u\"><span jscontroller=\"zYmgkd\" jsuid=\"BGJWAd_v\">Read Speed:</span>&nbsp;Up to 1,700 MB/s</span></li><li jscontroller=\"vsuOFb\" jsuid=\"BGJWAd_t\">Write Speed:&nbsp;Up to 1,100 MB/s</li></ul><div class=\"",
+  "specs": [],
+  "rating": 3.6,
+  "reviewCount": 18,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-20",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-25",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-12",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-17",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 251,
+  "slug": "mouse-redragon-m711",
+  "name": "Redragon cobra M711 Gaming Mouse",
+  "model": "M711",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "mice"
+  ],
+  "price": 900,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 9,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211220538-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211220538-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211220538-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260211220538-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/m711%201-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/m711%201-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/m711%201-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/m711%203-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/m711%203-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/m711%203-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "🔥 Bestseller",
+    "New"
+  ],
+  "tags": [
+    "Mouse",
+    "Redragon",
+    "cobra",
+    "M711",
+    "Gaming"
+  ],
+  "shortDescription": "ضمان عام من الوكيلFEATURESWide rubberized backlit scroll wheel of 8 mm widthWidened scroll wheel with special ribbed protector make the mouse control easier. The shape and the place of the scroll wheel are optimal for si",
+  "descriptionHtml": "<div bis_skin_checked=\"1\"><p>ضمان عام من الوكيل</p><p><br></p></div><div bis_skin_checked=\"1\"><br></div><div bis_skin_checked=\"1\"><img src=\"https://turbo-computer.com/image/catalog/accessories/packaging (1).jpg\"><br></div><div bis_skin_checked=\"1\">FEATURES</div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Wide rubberized backlit scroll wheel of 8 mm width</div><div bis_skin_checked=\"1\">Widened scroll wheel with special ribbed protector make the mouse control easier. The shape and the place of the scroll wheel are optimal for simultaneous movements of index finer from the left button to the wheel back and forth</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">High durability cord</div><div bis_skin_checked=\"1\">Long braided cord of 1.8 m absolutely endures 10 000 flexes and the continuous load of 10 kg</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Elongated Teflon feet</div><div bis_skin_checked=\"1\">Specially invented Teflon formula ensures excellent gliding. Thanks to enlarged feet surface, balanced feet height and optimal place the mouse moves strictly horizontally</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Stable operation even on high speed</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Cursor speed control</div><div bis_skin_checked=\"1\">Cursor speed can be adjusted on any mouse keys. 4 DPI levels are supported and each level can be customized accurately to your needs</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Option to store settings</div><div bis_skin_checked=\"1\">All mouse settings are stored to its memory so they stay intact when the mouse is connected to another PC</div></div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">DPI level indication</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">MODE button for switching profiles (modes)</div><div bis_skin_checked=\"1\">The user can create the mode and store to the mouse memory its settings for convenient control in a favorite game. The modes are switched by the MODE button on the bottom of the mouse. The backlight color can be settled for each mode</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Profiles can be stored</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Customizable mouse backlight</div><div bis_skin_checked=\"1\">Software for this mouse provides numerous options for backlight customization</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Adjustable report rate</div><div bis_skin_checked=\"1\">Program control allows to adjust the mouse report rate (125, 250, 500 or 1000 Hz), so that to increase the report speed to the user’s movements</div></div><div bis_skin_checked=\"1\"><div bis_skin_checked=\"1\">Service life of buttons – 10m clicks</div></div></div></div><div class=\"",
+  "specs": [],
+  "rating": 4.9,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "author": "Yasmin M.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-04-13",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-10",
+      "demo": true
+    }
+  ]
+}

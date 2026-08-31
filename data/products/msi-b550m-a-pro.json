@@ -1,0 +1,70 @@
+{
+  "id": 829,
+  "slug": "msi-b550m-a-pro",
+  "name": "MSI B550M A PRO MOTHERBOARD",
+  "model": "B550M A PRO",
+  "brand": "MSI",
+  "brandSlug": "msi",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 0,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011%20(1)_260502193112_260503181055-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011%20(1)_260502193112_260503181055-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011%20(1)_260502193112_260503181055-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/IMG-20260201-WA0011%20(1)_260502193112_260503181055-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "MSI",
+    "B550M",
+    "A",
+    "PRO",
+    "MOTHERBOARD"
+  ],
+  "shortDescription": "MSI B550M-A PRO Motherboard Specifications​The MSI B550M-A PRO is a professional-grade Micro-ATX motherboard designed for reliability and essential performance. Built on the AMD B550 chipset, it supports modern Ryzen pro",
+  "descriptionHtml": "<h3 dir=\"ltr\"><b>MSI B550M-A PRO Motherboard Specifications</b></h3><p dir=\"ltr\">​The <b>MSI B550M-A PRO</b> is a professional-grade Micro-ATX motherboard designed for reliability and essential performance. Built on the AMD B550 chipset, it supports modern Ryzen processors and introduces high-speed PCIe 4.0 technology for both graphics and storage in a compact, budget-friendly form factor.</p><h3 dir=\"ltr\">​<b>Core Specifications</b></h3><ul><li dir=\"ltr\">​<b>Socket:</b> AMD Socket AM4</li><li dir=\"ltr\">​<b>Chipset:</b> AMD B550</li><li dir=\"ltr\">​<b>Form Factor:</b> Micro-ATX (23.6 cm x 20 cm)</li><li dir=\"ltr\">​<b>CPU Support:</b> Supports AMD Ryzen™ 5000 &amp; 3000 Series (not compatible with Ryzen™ 5 3400G &amp; Ryzen™ 3 3200G) and Ryzen™ 4000 G-Series.</li></ul><h3 dir=\"ltr\">​<b>Memory Support</b></h3><ul><li dir=\"ltr\">​<b>Slots:</b> 2 x DDR4 DIMM Slots</li><li dir=\"ltr\">​<b>Max Capacity:</b> Up to 64GB</li><li dir=\"ltr\">​<b>Speeds:</b> Supports up to <b>4600+ MHz (OC)</b> via A-XMP</li><li dir=\"ltr\">​<b>Architecture:</b> Dual Channel</li></ul><h3 dir=\"ltr\">​<b>Expansion &amp; Storage</b></h3><ul><li dir=\"ltr\"> ​<b>PCIe Slots:</b><ul><li dir=\"ltr\">​1 x PCIe 4.0/3.0 x16 slot (Primary)</li><li dir=\"ltr\">​1 x PCIe 3.0 x1 slot</li></ul></li><li dir=\"ltr\">​<b>M.2 Slots:</b> 1 x M.2 slot (Key M) supporting PCIe 4.0/3.0 x4 and SATA 6Gb/s.</li><li dir=\"ltr\">​<b>SATA Ports:</b> 4 x SATA 6Gb/s ports (supports RAID 0, 1, 10).</li></ul><h3 dir=\"ltr\">​<b>Rear I/O Ports</b></h3><ul><li dir=\"ltr\">​1 x HDMI 2.1 (Supports 4K @60Hz)</li><li dir=\"ltr\">​1 x DVI-D</li><li dir=\"ltr\">​4 x USB 3.2 Gen 1 5Gbps (Type-A)</li><li dir=\"ltr\">​2 x USB 2.0 (Type-A)</li><li dir=\"ltr\">​1 x Realtek® RTL8111H Gigabit LAN port</li><li dir=\"ltr\">​3 x Audio Jacks (Realtek® ALC892/ALC897 Codec)</li><li dir=\"ltr\">​1 x PS/2 Keyboard/Mouse combo port</li></ul><h3 dir=\"ltr\">​<b>Internal Connectors</b></h3><ul><li dir=\"ltr\">​1 x USB 3.2 Gen 1 5Gbps header (supports 2 additional ports)</li><li dir=\"ltr\">​2 x USB 2.0 headers (supports 4 additional ports)</li><li dir=\"ltr\">​1 x 4-pin CPU fan connector</li><li dir=\"ltr\">​1 x 4-pin System fan connector</li><li dir=\"ltr\">​1 x TPMS module header</li></ul><h3 dir=\"ltr\">​<b>Key Highlights</b></h3><p></p><ul><li dir=\"ltr\">​<b>Lightning Gen 4:</b> Harness the power of PCIe 4.0 for faster SSD speeds and optimized GPU performance.</li><li dir=\"ltr\">​<b>Core Boost:</b> Premium power layout and digital power design to support high-core CPUs with stable current delivery.</li><li dir=\"ltr\">​<b>DDR4 Boost:</b> Fully isolated memory circuitry to ensure pure data signals for the best gaming and overclocking stability.</li><li dir=\"ltr\">​<b>Audio Boost:</b> Dedicated audio processor and high-quality capacitors for studio-grade sound quality.</li><li dir=\"ltr\">​<b>2oz Thickened Copper PCB:</b> Improved heat dissipation and structural reliability for long-term use.</li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-22",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-27",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-14",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-02-19",
+      "demo": true
+    }
+  ]
+}

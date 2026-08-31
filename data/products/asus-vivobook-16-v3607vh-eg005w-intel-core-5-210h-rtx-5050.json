@@ -1,0 +1,146 @@
+{
+  "id": 1091,
+  "slug": "asus-vivobook-16-v3607vh-eg005w-intel-core-5-210h-rtx-5050",
+  "name": "ASUS Vivobook V16 V3607VH-EG005W Laptop (Intel Core 5 210H / RTX 5050 8GB / 16GB DDR5 / 1TB SSD / 16.0 Inch FHD+ 144Hz / Win 11 - Matte Black)",
+  "model": "V3607VH-EG005W",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 57999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-vivobook-16-v3607vh-eg005w-core-5-210h-5050-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-vivobook-16-v3607vh-eg005w-core-5-210h-5050-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-vivobook-16-v3607vh-eg005w-core-5-210h-5050-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-vivobook-16-v3607vh-eg005w-core-5-210h-5050-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-vivobook-16-v3607vh-eg005w-core-5-210h-5050-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-vivobook-16-v3607vh-eg005w-core-5-210h-5050-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ASUS/asus-vivobook-16-v3607vh-eg005w-core-5-210h-5050-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Vivobook",
+    "Vivobook 16",
+    "V3607VH",
+    "EG005W",
+    "Gaming Laptop",
+    "Intel Core 5",
+    "RTX 5050",
+    "16GB RAM",
+    "Windows 11",
+    "Laptops"
+  ],
+  "shortDescription": "ASUS Vivobook 16 V3607VH-EG005W Laptop - Intel Core 5 210H - RTX 5050 8GB - 16GB RAM - Windows 11 - Matte BlackExperience a perfect blend of sleek productivity and next-generation graphics acceleration with the ASUS Vivo",
+  "descriptionHtml": "<p><span>ASUS Vivobook 16 V3607VH-EG005W Laptop - Intel Core 5 210H - RTX 5050 8GB - 16GB RAM - Windows 11 - Matte Black</span></p><p>Experience a perfect blend of sleek productivity and next-generation graphics acceleration with the ASUS Vivobook 16 V3607VH-EG005W high-performance laptop, distributed via Turbo Computer Egypt. Powered by the efficient Intel Core 5 210H processor and equipped with 16GB of high-speed DDR5 memory, this system provides fluid multitasking capability for creators and professionals alike. Visuals are driven by the groundbreaking NVIDIA GeForce RTX 5050 dedicated graphics engine with a massive 8GB VRAM, delivering stunning realism and creative power to a brilliant 16.0-inch FHD+ display with a smooth 144Hz refresh rate. Finished in an elegant Matte Black aesthetic, this modern laptop comes factory-loaded with a licensed Windows 11 Home operating system and is officially backed by a 1-year Perfect Warranty against manufacturing defects.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Model / Part Number</td><td>Vivobook 16 (V3607VH-EG005W / 90NB1261-M000W0)</td></tr><tr><td>Processor</td><td>Intel® Core™ 5 210H Processor (High-efficiency Architecture, Max Turbo Frequency up to 4.60 GHz, 12MB Cache)</td></tr><tr><td>Graphics Card</td><td>NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR6 Dedicated VRAM</td></tr><tr><td>Memory (RAM)</td><td>16GB DDR5 High-Speed System Memory</td></tr><tr><td>Storage Capacity</td><td>1TB M.2 NVMe™ PCIe® Super-Speed Solid State Drive (SSD)</td></tr><tr><td>Display Panel</td><td>16.0-inch FHD+ (1920 x 1200) 16:10 Aspect Ratio, 144Hz Refresh Rate, Anti-glare Matrix</td></tr><tr><td>Color Aesthetic</td><td>Matte Black Premium Slim Profile</td></tr><tr><td>Keyboard Style</td><td>ErgoSense Keyboard with Backlight (English / Arabic Layout Layout)</td></tr><tr><td>Connectivity Matrix</td><td>Wi-Fi Wireless High-Speed Array + Bluetooth® Module</td></tr><tr><td>I/O Ports Array</td><td>USB-C® (supports data transfer / power delivery), High-speed USB Type-A ports, HDMI output, Audio Combo Jack</td></tr><tr><td>Operating System</td><td>Windows® 11 Home Edition (Original Factory Pre-installed License)</td></tr><tr><td>Warranty Matrix</td><td> 1-Year Perfect Warranty (ضمان بيرفكت وارنتي لمدة عام كامل&nbsp; ) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Model / Part Number",
+      "value": "Vivobook 16 (V3607VH-EG005W / 90NB1261-M000W0)"
+    },
+    {
+      "group": "specs",
+      "label": "Processor",
+      "value": "Intel® Core™ 5 210H Processor (High-efficiency Architecture, Max Turbo Frequency up to 4.60 GHz, 12MB Cache)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Card",
+      "value": "NVIDIA® GeForce RTX™ 5050 Laptop GPU 8GB GDDR6 Dedicated VRAM"
+    },
+    {
+      "group": "specs",
+      "label": "Memory (RAM)",
+      "value": "16GB DDR5 High-Speed System Memory"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "1TB M.2 NVMe™ PCIe® Super-Speed Solid State Drive (SSD)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Panel",
+      "value": "16.0-inch FHD+ (1920 x 1200) 16:10 Aspect Ratio, 144Hz Refresh Rate, Anti-glare Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Color Aesthetic",
+      "value": "Matte Black Premium Slim Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Keyboard Style",
+      "value": "ErgoSense Keyboard with Backlight (English / Arabic Layout Layout)"
+    },
+    {
+      "group": "specs",
+      "label": "Connectivity Matrix",
+      "value": "Wi-Fi Wireless High-Speed Array + Bluetooth® Module"
+    },
+    {
+      "group": "specs",
+      "label": "I/O Ports Array",
+      "value": "USB-C® (supports data transfer / power delivery), High-speed USB Type-A ports, HDMI output, Audio Combo Jack"
+    },
+    {
+      "group": "specs",
+      "label": "Operating System",
+      "value": "Windows® 11 Home Edition (Original Factory Pre-installed License)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Perfect Warranty (ضمان بيرفكت وارنتي لمدة عام كامل )"
+    }
+  ],
+  "rating": 4.4,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-24",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-11",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 3,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-16",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-21",
+      "demo": true
+    }
+  ]
+}

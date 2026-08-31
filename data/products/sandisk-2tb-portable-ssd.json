@@ -1,0 +1,71 @@
+{
+  "id": 728,
+  "slug": "sandisk-2tb-portable-ssd",
+  "name": "SanDisk 2TB Portable SSD UP TO 800mb/s",
+  "model": "SDSSDE30-2T00-G26",
+  "brand": "Sandisk",
+  "brandSlug": "sandisk",
+  "categorySlugs": [
+    "ssd-external-storage"
+  ],
+  "price": 10500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260407145239-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260407145239-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260407145239-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/ssd/IMG-20260201-WA0011_260407145239-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "SanDisk",
+    "2TB",
+    "Portable",
+    "SSD",
+    "UP",
+    "TO",
+    "800mb/s"
+  ],
+  "shortDescription": "**SanDisk 2TB Portable SSD – up to 800MB/s****العلامة التجارية:** SanDisk**الموديل:** Portable SSD (SanDisk E30)**رقم الموديل:** SDSSDE30-2T00-G26&nbsp;**السعة:** 2 تيرابايت&nbsp;**الأداء:**سرعة القراءة المتسلسلة: تصل إل",
+  "descriptionHtml": "<p>**SanDisk 2TB Portable SSD – up to 800MB/s**</p><p><br></p><p>**العلامة التجارية:** SanDisk</p><p>**الموديل:** Portable SSD (SanDisk E30)</p><p>**رقم الموديل:** SDSSDE30-2T00-G26&nbsp;</p><p>**السعة:** 2 تيرابايت&nbsp;</p><p><br></p><p>**الأداء:**</p><p>سرعة القراءة المتسلسلة: تصل إلى 800 ميجابايت/ثانية&nbsp;</p><p>سرعة الكتابة: أقل من سرعة القراءة (حسب ظروف الاستخدام)&nbsp;</p><p><br></p><p>**الاتصال والواجهة:**</p><p>الواجهة: USB 3.2 Gen 2&nbsp;</p><p>الموصل: USB Type-C&nbsp;</p><p>سرعة النقل: تصل إلى 10 جيجابت/ثانية&nbsp;</p><p><br></p><p>**المتانة والحماية:**</p><p>مقاوم للصدمات والاهتزازات&nbsp;</p><p>مقاوم للسقوط: حتى 2 متر&nbsp;</p><p>مقاومة الصدمات: حتى 1500G&nbsp;</p><p>مقاومة الاهتزاز: 5gRMS، 10-2000Hz&nbsp;</p><p><br></p><p>**الأبعاد والوزن:**</p><p>الأبعاد: 97 × 47 × 10 مم (ارتفاع × عرض × عمق)&nbsp;</p><p>الوزن: 41 جرام / 40 جرام&nbsp;</p><p><br></p><p>**بيئة التشغيل:**</p><p>درجة حرارة التشغيل: 0°C إلى 45°C&nbsp;</p><p>درجة حرارة التخزين: -20°C إلى 85°C&nbsp;</p><p><br></p><p>**التوافق:**</p><p>متوافق مع: Windows 8 أو أحدث&nbsp;</p><p>متوافق مع: MacOS 10.4 أو أحدث&nbsp;</p><p>متوافق مع: PlayStation 4 &amp; 5 و Xbox Series X|S&nbsp;</p><p><br></p><p>**محتويات العلبة:**</p><p>SanDisk Portable SSD&nbsp;</p><p>كابل USB-C إلى USB-A&nbsp;</p><p>دليل السلامة والضمان&nbsp;</p><p>دليل البدء السريع&nbsp;</p><p><br></p><p>**ميزات إضافية:**</p><p>خطاف مطاطي لتثبيت الجهاز&nbsp;</p><p>تصميم محمول وخفيف&nbsp;</p><p>موثوقية عالية من علامة SanDisk&nbsp;</p><div class=\"",
+  "specs": [],
+  "rating": 4.6,
+  "reviewCount": 28,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-16",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-21",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-13",
+      "demo": true
+    }
+  ]
+}

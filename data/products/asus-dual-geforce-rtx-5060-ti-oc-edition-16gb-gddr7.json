@@ -1,0 +1,128 @@
+{
+  "id": 1080,
+  "slug": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7",
+  "name": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card (DUAL-RTX5060TI-O16G)",
+  "model": "DUAL-RTX5060TI-O16G",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 38499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "ASUS Dual",
+    "GeForce",
+    "RTX 5060 Ti",
+    "16GB GDDR7",
+    "OC Edition",
+    "Graphics Card",
+    "Components"
+  ],
+  "shortDescription": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics CardEmpower your heavy creative workflows, AI processing, and ultra-settings gaming with the next-generation ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR",
+  "descriptionHtml": "<p><br><span>ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card</span></p><p>Empower your heavy creative workflows, AI processing, and ultra-settings gaming with the next-generation ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 graphics card, brought to you by Turbo Computer Egypt. Built on NVIDIA's high-efficiency next-gen architecture, this powerhouse layout is equipped with a massive 16GB frame buffer of ultra-fast dedicated GDDR7 memory to completely eliminate VRAM bottlenecks in texture-heavy AAA titles and complex rendering. The streamlined dual-fan shroud incorporates premium high-airflow Axial-tech fans with double ball bearings to focus downward air pressure onto the heatsink. Enhanced by a protective rigid backplate for structural durability and manufactured using Auto-Extreme automated assembly, this factory overclocked card delivers ultimate reliability within a highly compatible footprint. It comes officially backed by a 3-year factory warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Product Series</td><td>ASUS Dual Series</td></tr><tr><td>Model Name / P/N</td><td>Dual GeForce RTX 5060 Ti OC Edition 16GB (DUAL-RTX5060TI-O16G)</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5060 Ti</td></tr><tr><td>Video Memory (VRAM)</td><td>16GB GDDR7 Dedicated Next-Gen Ultra-Fast Memory Matrix</td></tr><tr><td>Engine Clock Boost</td><td>OC Mode: Factory Overclocked Performance Profile</td></tr><tr><td>Cooling Solution</td><td>Dual Axial-tech Cooling Fans (Double Ball Bearings, 0dB Quiet Tech)</td></tr><tr><td>Structural Build</td><td>Protective Rigid Structural Backplate Layout</td></tr><tr><td>Display Outputs Layout</td><td>Native HDMI + Native DisplayPort Arrays (HDCP Compliant)</td></tr><tr><td>Recommended PSU</td><td>550W or Higher Quality Certified Power Supply Unit</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "ASUS Dual Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / P/N",
+      "value": "Dual GeForce RTX 5060 Ti OC Edition 16GB (DUAL-RTX5060TI-O16G)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5060 Ti"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "16GB GDDR7 Dedicated Next-Gen Ultra-Fast Memory Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock Boost",
+      "value": "OC Mode: Factory Overclocked Performance Profile"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Solution",
+      "value": "Dual Axial-tech Cooling Fans (Double Ball Bearings, 0dB Quiet Tech)"
+    },
+    {
+      "group": "specs",
+      "label": "Structural Build",
+      "value": "Protective Rigid Structural Backplate Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs Layout",
+      "value": "Native HDMI + Native DisplayPort Arrays (HDCP Compliant)"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "550W or Higher Quality Certified Power Supply Unit"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.2,
+  "reviewCount": 24,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-05-26",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 3,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-23",
+      "demo": true
+    }
+  ]
+}

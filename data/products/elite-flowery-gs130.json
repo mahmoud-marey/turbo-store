@@ -1,0 +1,84 @@
+{
+  "id": 673,
+  "slug": "elite-flowery-gs130",
+  "name": "Elite Flowery GS130 Laptop Bag",
+  "model": "Flowery GS130",
+  "brand": "ELITE",
+  "brandSlug": "elite-bags",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 450,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318002014-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318002014-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318002014-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318002014-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318002005-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318002005-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318002005-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318001926-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318001926-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318001926-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318001936-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318001936-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260318001936-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "elite",
+    "flowery",
+    "gs130",
+    "laptop",
+    "bag"
+  ],
+  "shortDescription": "dimensions:-Height33 cm-Width43 cmThe width of the base of the bag is 8 cmbag** It comes with two slots to carry moredifferent purposes, including a pocket dedicated to protecting the laptop andanother pocket for small a",
+  "descriptionHtml": "<p><br></p><p>dimensions:</p><p>-Height</p><p>33 cm</p><p>-Width</p><p>43 cm</p><p>The width of the base of the bag is 8 cm</p><p><br></p><p>bag</p><p><br></p><p>** It comes with two slots to carry more</p><p>different purposes, including a pocket dedicated to protecting the laptop and</p><p>another pocket for small and medium belongings such as keys, mobile phones, etc.</p><p><br></p><p>&nbsp;</p><p><br></p><p>*There is also a small hand at the top of the bag with a flexible leather lining for</p><p>easy carrying from the top if you want to carry it from one place to another</p><p><br></p><p>The entire bag is not waterproof, except for the splash-proof zipper only.</p><p><br></p><p>The bag often comes in 5 colors to suit all</p><p>styles of clothing, whether classic or youthful, for men and women.</p><p><br></p><p>The bag is suitable for laptops up to 15.6 inches.</p><p><br></p><p>It also comes with a belt that is attached to the body of the bag, which is not</p><p>removable but is adjustable, and the materials are washable, according to the conditions</p><p>stated on the instruction label</p><p><br></p><p><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 21,
+  "reviews": [
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-13",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-18",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-23",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-01-10",
+      "demo": true
+    }
+  ]
+}

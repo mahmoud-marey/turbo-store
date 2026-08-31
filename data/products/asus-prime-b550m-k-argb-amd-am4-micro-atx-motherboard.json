@@ -1,0 +1,154 @@
+{
+  "id": 962,
+  "slug": "asus-prime-b550m-k-argb-amd-am4-micro-atx-motherboard",
+  "name": "ASUS PRIME B550M-K ARGB Motherboard",
+  "model": "B550M-K ARGB",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 4899,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 4,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b550m-k-argb-board-top-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b550m-k-argb-board-top-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b550m-k-argb-board-top-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/asus-prime-b550m-k-argb-board-top-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "PRIME",
+    "B550M-K ARGB",
+    "AMD B550",
+    "Socket AM4",
+    "Micro-ATX",
+    "DDR4",
+    "PCIe 4.0",
+    "Dual M.2",
+    "HDMI",
+    "DisplayPort",
+    "Aura Sync",
+    "1 Year Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ASUS PRIME B550M-K ARGB Micro-ATX Motherboard (AMD AM4 Socket / B550 Chipset / PCIe 4.0 x16 / Dual M.2 Slots / 4x SATA 6Gb/s / DDR4 5100MHz OC / Realtek 1Gb LAN / DisplayPort &amp; HDMI / Addressable Gen 2 ARGB Headers /",
+  "descriptionHtml": "<p>ASUS PRIME B550M-K ARGB Micro-ATX Motherboard (AMD AM4 Socket / B550 Chipset / PCIe 4.0 x16 / Dual M.2 Slots / 4x SATA 6Gb/s / DDR4 5100MHz OC / Realtek 1Gb LAN / DisplayPort &amp; HDMI / Addressable Gen 2 ARGB Headers / Aura Sync / 1-Year Store Warranty)</p><p>Unlock the full potential of your build with the ASUS PRIME B550M-K ARGB Micro-ATX Motherboard, available at Turbo Computer Egypt with a 1-Year Store Warranty (ضمان سنة متجر). Designed for AMD Ryzen 5000, 4000 G-Series, and 3000 Series desktop processors, this AM4 socket motherboard boasts PCIe 4.0 speed, dual M.2 slots, high-frequency DDR4 support up to 5100MHz (OC), front panel USB 3.2 Gen 1 Type-C support, and Addressable Gen 2 ARGB headers with Aura Sync lighting control for complete customization and reliable performance.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Series</td><td>ASUS PRIME Series</td></tr><tr><td>Model Name</td><td>PRIME B550M-K ARGB</td></tr><tr><td>CPU Socket &amp; Chipset</td><td>AMD Socket AM4 / AMD B550 Chipset</td></tr><tr><td>CPU Support</td><td>AMD Ryzen 5000 Series, 5000 G-Series, 4000 G-Series, and 3000 Series Processors</td></tr><tr><td>Warranty Period</td><td>1-Year Store Warranty (ضمان سنة)</td></tr><tr><td>Memory Support</td><td>2 x DIMM Slots, Max 64GB DDR4 (Up to 5100MHz OC), Dual Channel, ECC/Non-ECC Un-buffered</td></tr><tr><td>Graphics Outputs</td><td>1 x DisplayPort 1.4 (Up to 4K@60Hz), 1 x HDMI 2.1 (Up to 4K@60Hz)</td></tr><tr><td>Expansion Slots</td><td>1 x PCIe 4.0/3.0 x16 Slot + 1 x PCIe 3.0 x1 Slot</td></tr><tr><td>Storage Interface</td><td>2 x M.2 Slots (M.2_1 PCIe 4.0/3.0 x4 &amp; SATA / M.2_2 PCIe 3.0 x4 &amp; SATA) + 4 x SATA 6Gb/s Ports (RAID 0/1/10 Support)</td></tr><tr><td>Ethernet LAN</td><td>1 x Realtek 1Gb Ethernet</td></tr><tr><td>Rear USB Ports</td><td>4 x USB 3.2 Gen 1 (5G) Type-A, 2 x USB 2.0 Type-A</td></tr><tr><td>Front USB Headers</td><td>1 x USB 3.2 Gen 1 (5G) Type-C Connector, 1 x USB 3.2 Gen 1 Header (Supports 2 Ports), 2 x USB 2.0 Headers (Supports 4 Ports)</td></tr><tr><td>Audio Hardware</td><td>Realtek 7.1 Surround Sound High Definition Audio CODEC with Audio Shielding &amp; Premium Capacitors</td></tr><tr><td>Special RGB Headers</td><td>3 x Addressable Gen 2 ARGB Headers (Aura Sync Compatible)</td></tr><tr><td>Form Factor</td><td>Micro-ATX Form Factor (9.6 inch x 8.7 inch / 24.4 cm x 22.1 cm)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Series",
+      "value": "ASUS PRIME Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name",
+      "value": "PRIME B550M-K ARGB"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Socket & Chipset",
+      "value": "AMD Socket AM4 / AMD B550 Chipset"
+    },
+    {
+      "group": "specs",
+      "label": "CPU Support",
+      "value": "AMD Ryzen 5000 Series, 5000 G-Series, 4000 G-Series, and 3000 Series Processors"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Store Warranty (ضمان سنة)"
+    },
+    {
+      "group": "specs",
+      "label": "Memory Support",
+      "value": "2 x DIMM Slots, Max 64GB DDR4 (Up to 5100MHz OC), Dual Channel, ECC/Non-ECC Un-buffered"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Outputs",
+      "value": "1 x DisplayPort 1.4 (Up to 4K@60Hz), 1 x HDMI 2.1 (Up to 4K@60Hz)"
+    },
+    {
+      "group": "specs",
+      "label": "Expansion Slots",
+      "value": "1 x PCIe 4.0/3.0 x16 Slot + 1 x PCIe 3.0 x1 Slot"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Interface",
+      "value": "2 x M.2 Slots (M.2_1 PCIe 4.0/3.0 x4 & SATA / M.2_2 PCIe 3.0 x4 & SATA) + 4 x SATA 6Gb/s Ports (RAID 0/1/10 Support)"
+    },
+    {
+      "group": "specs",
+      "label": "Ethernet LAN",
+      "value": "1 x Realtek 1Gb Ethernet"
+    },
+    {
+      "group": "specs",
+      "label": "Rear USB Ports",
+      "value": "4 x USB 3.2 Gen 1 (5G) Type-A, 2 x USB 2.0 Type-A"
+    },
+    {
+      "group": "specs",
+      "label": "Front USB Headers",
+      "value": "1 x USB 3.2 Gen 1 (5G) Type-C Connector, 1 x USB 3.2 Gen 1 Header (Supports 2 Ports), 2 x USB 2.0 Headers (Supports 4 Ports)"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Hardware",
+      "value": "Realtek 7.1 Surround Sound High Definition Audio CODEC with Audio Shielding & Premium Capacitors"
+    },
+    {
+      "group": "specs",
+      "label": "Special RGB Headers",
+      "value": "3 x Addressable Gen 2 ARGB Headers (Aura Sync Compatible)"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "Micro-ATX Form Factor (9.6 inch x 8.7 inch / 24.4 cm x 22.1 cm)"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 4,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    }
+  ]
+}

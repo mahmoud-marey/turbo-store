@@ -1,0 +1,133 @@
+{
+  "id": 1094,
+  "slug": "asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6",
+  "name": "ASUS Prime GeForce RTX 5060 OC Edition 8GB GDDR6 Graphics Card (PRIME-RTX5060-O8G)",
+  "model": "RTX 5060 OC Edition",
+  "brand": "ASUS",
+  "brandSlug": "asus",
+  "categorySlugs": [
+    "graphics-cards"
+  ],
+  "price": 25599,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-1-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-1-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/VGA/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr6-1-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ASUS",
+    "Prime",
+    "GeForce RTX",
+    "RTX 5060",
+    "OC Edition",
+    "8GB GDDR6",
+    "Graphics Card",
+    "GPU"
+  ],
+  "shortDescription": "ASUS Prime GeForce RTX 5060 OC Edition 8GB GDDR6 Graphics CardStep into the next generation of gaming fluidity and AI-accelerated workflows with the ASUS Prime GeForce RTX 5060 OC Edition 8GB GDDR6 graphics card, brought",
+  "descriptionHtml": "<p><span>ASUS Prime GeForce RTX 5060 OC Edition 8GB GDDR6 Graphics Card</span></p><p>Step into the next generation of gaming fluidity and AI-accelerated workflows with the ASUS Prime GeForce RTX 5060 OC Edition 8GB GDDR6 graphics card, brought to you by Turbo Computer Egypt. Built on NVIDIA's high-efficiency next-gen architecture, this powerful GPU features 8GB of high-speed GDDR6 memory layout to comfortably maximize frame rates at 1080p and 1440p resolutions. Optimized specifically for compact desktop builds and seamless mainstream integration, the Prime series utilizes dual ball fan bearings for maximum longevity and whisper-quiet cooling capacity. With factory overclocking tuned out of the box, it delivers premium gaming and rendering performance while maintaining exceptional power efficiency. This highly capable graphics setup is officially backed by a 3-year factory warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>ASUS</td></tr><tr><td>Product Series</td><td>ASUS Prime Series</td></tr><tr><td>Model Name / P/N</td><td>Prime GeForce RTX 5060 OC Edition (PRIME-RTX5060-O8G)</td></tr><tr><td>Graphics Engine</td><td>NVIDIA® GeForce RTX™ 5060</td></tr><tr><td>Video Memory (VRAM)</td><td>8GB GDDR6 Dedicated Video Memory Matrix</td></tr><tr><td>Engine Clock Boost</td><td>OC Mode: Factory Tuned Overclocked Frequency Matrix</td></tr><tr><td>Cooling Solution</td><td>High-efficiency Cooling Thermal Array (Dual Ball Fan Bearings, 0dB Technology)</td></tr><tr><td>Display Outputs</td><td>Native HDMI, Native DisplayPort Array (HDCP 2.3 Compliant)</td></tr><tr><td>Power Requirements</td><td>Standard High-reliability PCIe Power Interface Layout</td></tr><tr><td>Recommended PSU</td><td>550W or Higher Quality Power Supply Unit (PSU)</td></tr><tr><td>Warranty Matrix</td><td> 3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات) </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "ASUS"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "ASUS Prime Series"
+    },
+    {
+      "group": "specs",
+      "label": "Model Name / P/N",
+      "value": "Prime GeForce RTX 5060 OC Edition (PRIME-RTX5060-O8G)"
+    },
+    {
+      "group": "specs",
+      "label": "Graphics Engine",
+      "value": "NVIDIA® GeForce RTX™ 5060"
+    },
+    {
+      "group": "specs",
+      "label": "Video Memory (VRAM)",
+      "value": "8GB GDDR6 Dedicated Video Memory Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Engine Clock Boost",
+      "value": "OC Mode: Factory Tuned Overclocked Frequency Matrix"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling Solution",
+      "value": "High-efficiency Cooling Thermal Array (Dual Ball Fan Bearings, 0dB Technology)"
+    },
+    {
+      "group": "specs",
+      "label": "Display Outputs",
+      "value": "Native HDMI, Native DisplayPort Array (HDCP 2.3 Compliant)"
+    },
+    {
+      "group": "specs",
+      "label": "Power Requirements",
+      "value": "Standard High-reliability PCIe Power Interface Layout"
+    },
+    {
+      "group": "specs",
+      "label": "Recommended PSU",
+      "value": "550W or Higher Quality Power Supply Unit (PSU)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "3-Year Official Warranty (ضمان رسمي لمدة 3 سنوات)"
+    }
+  ],
+  "rating": 4.5,
+  "reviewCount": 27,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    }
+  ]
+}

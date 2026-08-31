@@ -1,0 +1,135 @@
+{
+  "id": 956,
+  "slug": "wd-my-passport-5tb-portable-external-hard-drive-black",
+  "name": "Western Digital WD My Passport 5TB Portable External Hard Drive",
+  "model": "my passport 5tb",
+  "brand": "WD",
+  "brandSlug": "wd",
+  "categorySlugs": [
+    "hard-drives"
+  ],
+  "price": 9499,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 5,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-drive-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-drive-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-drive-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-drive-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/hdd/wd-my-passport-5tb-portable-external-hard-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "WD",
+    "Western Digital",
+    "My Passport",
+    "5TB",
+    "External Hard Drive",
+    "Portable HDD",
+    "USB 3.2",
+    "Backup",
+    "Storage",
+    "Turbo Computer"
+  ],
+  "shortDescription": "WD My Passport 5TB Portable External Hard Drive USB 3.0 - BlackSecurely carry your massive data, high-resolution media, and critical backups anywhere with the WD My Passport 5TB Portable External Hard Drive, distributed ",
+  "descriptionHtml": "<div><span>WD My Passport 5TB Portable External Hard Drive USB 3.0 - Black</span></div><p>Securely carry your massive data, high-resolution media, and critical backups anywhere with the WD My Passport 5TB Portable External Hard Drive, distributed via Turbo Computer Egypt. Designed with a sleek, compact black chassis, this slim portable storage unit offers an expansive 5TB capacity that fits right in the palm of your hand. It features ultra-fast plug-and-play connectivity via standard USB 3.0 interfaces, while remaining fully backward compatible with USB 2.0 systems. Equipped with advanced 256-bit AES hardware encryption and built-in password protection software, your confidential files stay completely safe from unauthorized access. This highly reliable portable HDD operates seamlessly out of the box and is backed by a 1-year store warranty.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Western Digital (WD)</td></tr><tr><td>Product Series</td><td>My Passport Portable Storage</td></tr><tr><td>Model Number / SKU</td><td>WDBPKJ0050BBK-WESN</td></tr><tr><td>Storage Capacity</td><td>5TB (5,000 GB) External Hard Disk Drive (HDD)</td></tr><tr><td>Interface Type</td><td>SuperSpeed USB 3.2 Gen 1 / USB 3.0 (Backward compatible with USB 2.0)</td></tr><tr><td>Color / Design</td><td>Classic Black Minimalist Slim Chassis</td></tr><tr><td>Security Architecture</td><td>256-bit AES Hardware Encryption with Password Protection Management</td></tr><tr><td>Software Bundled</td><td>WD Discovery™ software for WD Backup™ and Drive Management</td></tr><tr><td>System Compatibility</td><td>Windows® 10 / Windows® 11 (Requires reformatting for macOS operating systems)</td></tr><tr><td>Dimensions</td><td>107.2mm x 75.0mm x 19.15mm (Compact Pocket-Sized Profile)</td></tr><tr><td>Warranty Matrix</td><td> 1-Year Store Warranty </td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Western Digital (WD)"
+    },
+    {
+      "group": "specs",
+      "label": "Product Series",
+      "value": "My Passport Portable Storage"
+    },
+    {
+      "group": "specs",
+      "label": "Model Number / SKU",
+      "value": "WDBPKJ0050BBK-WESN"
+    },
+    {
+      "group": "specs",
+      "label": "Storage Capacity",
+      "value": "5TB (5,000 GB) External Hard Disk Drive (HDD)"
+    },
+    {
+      "group": "specs",
+      "label": "Interface Type",
+      "value": "SuperSpeed USB 3.2 Gen 1 / USB 3.0 (Backward compatible with USB 2.0)"
+    },
+    {
+      "group": "specs",
+      "label": "Color / Design",
+      "value": "Classic Black Minimalist Slim Chassis"
+    },
+    {
+      "group": "specs",
+      "label": "Security Architecture",
+      "value": "256-bit AES Hardware Encryption with Password Protection Management"
+    },
+    {
+      "group": "specs",
+      "label": "Software Bundled",
+      "value": "WD Discovery™ software for WD Backup™ and Drive Management"
+    },
+    {
+      "group": "specs",
+      "label": "System Compatibility",
+      "value": "Windows® 10 / Windows® 11 (Requires reformatting for macOS operating systems)"
+    },
+    {
+      "group": "specs",
+      "label": "Dimensions",
+      "value": "107.2mm x 75.0mm x 19.15mm (Compact Pocket-Sized Profile)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Matrix",
+      "value": "1-Year Store Warranty"
+    }
+  ],
+  "rating": 4.7,
+  "reviewCount": 15,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    }
+  ]
+}

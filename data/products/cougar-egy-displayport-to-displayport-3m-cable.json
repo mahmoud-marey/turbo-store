@@ -1,0 +1,128 @@
+{
+  "id": 1237,
+  "slug": "cougar-egy-displayport-to-displayport-3m-cable",
+  "name": "Cougar-EGY DisplayPort to DisplayPort 3M Cable",
+  "model": "1.2",
+  "brand": "Cougar-EGY",
+  "brandSlug": "couger-egy",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 10,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-dp-to-dp-3m-cable-full-view-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-dp-to-dp-3m-cable-full-view-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-dp-to-dp-3m-cable-full-view-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/cougar-egy-dp-to-dp-3m-cable-full-view-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Cougar-EGY",
+    "DisplayPort",
+    "DP Cable",
+    "DisplayPort to DisplayPort",
+    "3M Cable",
+    "Male to Male",
+    "Gold Plated",
+    "4K 60Hz",
+    "2K 144Hz",
+    "Gaming Cable",
+    "Monitor Cable",
+    "1 Year Official Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "Cougar-EGY DisplayPort to DisplayPort 3M Cable (Male to Male Connection / Gold-Plated Connectors / Supports 4K Resolution at 60Hz Refresh Rate / Supports 2K Resolution at 144Hz Refresh Rate / High-Speed Video Transmissio",
+  "descriptionHtml": "<p><span>Cougar-EGY DisplayPort to DisplayPort 3M Cable (Male to Male Connection / Gold-Plated Connectors / Supports 4K Resolution at 60Hz Refresh Rate / Supports 2K Resolution at 144Hz Refresh Rate / High-Speed Video Transmission / Durable Shielding / 1-Year Official Agent Warranty)</span></p><p>Experience crystal-clear visual quality and high-refresh-rate performance with the Cougar-EGY DisplayPort to DisplayPort 3M Cable, available at Turbo Computer Egypt with a 1-Year Official Agent Warranty (ضمان سنة من الوكيل). Built with corrosion-resistant gold-plated connectors and heavy-duty shielding, this 3-meter male-to-male DP cable seamlessly connects your gaming graphics card to high-resolution monitors, supporting up to 4K resolution at 60Hz and high-speed 2K gaming at 144Hz without signal loss or latency.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand</td><td>Cougar-EGY</td></tr><tr><td>Product Type</td><td>DisplayPort to DisplayPort Male to Male Cable</td></tr><tr><td>Cable Length</td><td>3 Meters (3M)</td></tr><tr><td>Warranty Period</td><td>1-Year Official Agent Warranty (ضمان سنة من الوكيل)</td></tr><tr><td>Resolution &amp; Refresh Rate</td><td>Supports 4K @ 60Hz and 2K (1440p) @ 144Hz</td></tr><tr><td>Connector Plating</td><td>Gold-Plated Connectors for Superior Conductivity</td></tr><tr><td>Cable Shielding</td><td>Multi-Layer Shielding (Protects Against EMI / RFI Interference)</td></tr><tr><td>Audio Support</td><td>Pass-through Uncompressed Digital Audio Channels (7.1, 5.1, or 2)</td></tr><tr><td>Connector Interface</td><td>DisplayPort Male (20-Pin) to DisplayPort Male (20-Pin)</td></tr><tr><td>Compatibility</td><td>Gaming Monitors, Desktop PC Graphics Cards (NVIDIA / AMD), Laptops, Projectors</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "Cougar-EGY"
+    },
+    {
+      "group": "specs",
+      "label": "Product Type",
+      "value": "DisplayPort to DisplayPort Male to Male Cable"
+    },
+    {
+      "group": "specs",
+      "label": "Cable Length",
+      "value": "3 Meters (3M)"
+    },
+    {
+      "group": "specs",
+      "label": "Warranty Period",
+      "value": "1-Year Official Agent Warranty (ضمان سنة من الوكيل)"
+    },
+    {
+      "group": "specs",
+      "label": "Resolution & Refresh Rate",
+      "value": "Supports 4K @ 60Hz and 2K (1440p) @ 144Hz"
+    },
+    {
+      "group": "specs",
+      "label": "Connector Plating",
+      "value": "Gold-Plated Connectors for Superior Conductivity"
+    },
+    {
+      "group": "specs",
+      "label": "Cable Shielding",
+      "value": "Multi-Layer Shielding (Protects Against EMI / RFI Interference)"
+    },
+    {
+      "group": "specs",
+      "label": "Audio Support",
+      "value": "Pass-through Uncompressed Digital Audio Channels (7.1, 5.1, or 2)"
+    },
+    {
+      "group": "specs",
+      "label": "Connector Interface",
+      "value": "DisplayPort Male (20-Pin) to DisplayPort Male (20-Pin)"
+    },
+    {
+      "group": "specs",
+      "label": "Compatibility",
+      "value": "Gaming Monitors, Desktop PC Graphics Cards (NVIDIA / AMD), Laptops, Projectors"
+    }
+  ],
+  "rating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-05-22",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 3,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-06-27",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 3,
+      "comment": "Solid build and the performance matches the specs.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 4,
+      "comment": "Turbo support answered all my questions before I bought.",
+      "date": "2026-08-19",
+      "demo": true
+    }
+  ]
+}

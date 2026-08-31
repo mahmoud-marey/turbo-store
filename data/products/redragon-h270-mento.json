@@ -1,0 +1,80 @@
+{
+  "id": 652,
+  "slug": "redragon-h270-mento",
+  "name": "Redragon H270 MENTO RGB Gaming Headphone",
+  "model": "H270 MENTO",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 1100,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234354-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234354-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234354-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234354-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234337-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234337-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234337-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234319-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234319-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011_260311234319-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Redragon",
+    "H270",
+    "MENTO",
+    "RGB",
+    "Gaming",
+    "Headphone"
+  ],
+  "shortDescription": "ضمان عام من الوكيلRedragon H270 MENTO RGB Gaming Headset – SpecificationsGeneralType: Wired Gaming HeadsetLighting: RGB BacklightConnectivity: USB + 3.5 mm JackCompatibility: PC, Laptop, PS4 / PS5, Xbox, MobileHeadphoneD",
+  "descriptionHtml": "<p><strong><br></strong></p><p>ضمان عام من الوكيل</p><p><br></p><p><strong>Redragon H270 MENTO RGB Gaming Headset – Specifications</strong></p><p><strong>General</strong></p><ul><li><p>Type: Wired Gaming Headset</p></li><li><p>Lighting: RGB Backlight</p></li><li><p>Connectivity: USB + 3.5 mm Jack</p></li><li><p>Compatibility: PC, Laptop, PS4 / PS5, Xbox, Mobile</p></li></ul><p><strong>Headphone</strong></p><ul><li><p>Driver Diameter: 50 mm</p></li><li><p>Frequency Response: 20 Hz – 20 kHz</p></li><li><p>Sensitivity: 110 ± 3 dB</p></li><li><p>Impedance: 32 Ω</p></li></ul><p><strong>Microphone</strong></p><ul><li><p>Type: Adjustable Boom Microphone</p></li><li><p>Direction: Omnidirectional</p></li><li><p>Frequency Response: 100 Hz – 10 kHz</p></li><li><p>Sensitivity: −42 ± 3 dB</p></li></ul><p><strong>Design &amp; Features</strong></p><ul><li><p>Comfortable <strong>soft ear cushions</strong></p></li><li><p>Adjustable headband</p></li><li><p>Inline controller (volume control + mic mute)</p></li><li><p>RGB lighting effect</p></li><li><p>Durable braided cable</p></li></ul><div class=\"",
+  "specs": [],
+  "rating": 4.2,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-14",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-19",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-24",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-11",
+      "demo": true
+    }
+  ]
+}

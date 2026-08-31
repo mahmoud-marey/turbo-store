@@ -1,0 +1,132 @@
+{
+  "id": 1160,
+  "slug": "st-standard-ice-07-rgb-gaming-laptop-cooling-pad-6-fans-lcd",
+  "name": "ST-Standard ICE-07 RGB Gaming Laptop Cooling Pad",
+  "model": "ICE-07",
+  "brand": "STANDARD",
+  "brandSlug": "standard",
+  "categorySlugs": [
+    "laptops"
+  ],
+  "price": 1099,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice07-rgb-pad-top-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice07-rgb-pad-top-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice07-rgb-pad-top-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice07-rgb-pad-top-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice07-6-fan-airflow-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice07-6-fan-airflow-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/st-standard-ice07-6-fan-airflow-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "ST-Standard",
+    "ICE-07",
+    "RGB Cooling Pad",
+    "Laptop Cooler",
+    "6 Fans",
+    "LCD Display",
+    "RGB Lighting",
+    "Adjustable Stand",
+    "Dual USB Ports",
+    "Gaming Accessories",
+    "Agent Warranty",
+    "Turbo Computer"
+  ],
+  "shortDescription": "ST-Standard ICE-07 RGB High-Performance Gaming Laptop Cooling Pad (6-Fan Powerful Cooling Array / Dynamic RGB Accent Lighting / Digital LCD Display Panel / Multi-Angle Ergonomic Stand / Dual USB Ports / 1-Year Local Warr",
+  "descriptionHtml": "<p><span>ST-Standard ICE-07 RGB High-Performance Gaming Laptop Cooling Pad (6-Fan Powerful Cooling Array / Dynamic RGB Accent Lighting / Digital LCD Display Panel / Multi-Angle Ergonomic Stand / Dual USB Ports / 1-Year Local Warranty)</span></p><p>Keep your gaming laptop operating at peak thermal efficiency with the ST-Standard ICE-07 RGB High-Performance Gaming Laptop Cooling Pad, available at Turbo Computer Egypt backed by a comprehensive 1-Year official local agent warranty layout. Engineered with a heavy-duty iron mesh surface and an impact-resistant ABS frame chassis, this cooling stand is optimized to support laptops up to 17 Inch display formats seamlessly. Powered by an advanced 6-fan active thermal layout, it delivers consistent high-volume airflow across major hardware exhaust zones to suppress thermal throttling during extended gaming or rendering workloads. The pad features dynamic RGB side accent lighting setups to complement your gaming environment aesthetics. Equipped with an integrated LCD digital control screen for real-time fan power adjustment, ergonomic height elevation angles, and dual USB pass-through ports, this low-noise cooler provides complete operational stability.</p><h3>Technical Specifications</h3><table><thead><tr><th>Feature</th><th>Specification Details</th></tr></thead><tbody><tr><td>Brand &amp; Maker</td><td>ST-Standard Hardware</td></tr><tr><td>Model Specification</td><td>ICE-07 RGB Gaming Cooling Pad Framework</td></tr><tr><td>Laptop Compatibility</td><td>Designed for Laptops Up To 17 Inch Screen Size</td></tr><tr><td>Cooling System Setup</td><td>6 Integrated High-Speed Cooling Fans System</td></tr><tr><td>Lighting FX</td><td>Dynamic Multi-Color RGB Edge Lighting Effects</td></tr><tr><td>Control Interface</td><td>Digital LCD Screen with Multi-Speed Manual Speed Controls</td></tr><tr><td>Ergonomic Height Stand</td><td>Multi-Position Adjustable Elevation Stand Structure</td></tr><tr><td>Pass-Through Interface</td><td>2x USB Pass-Through Ports (DC 5V Input)</td></tr><tr><td>Surface Construction</td><td>High-Density Iron Mesh Vent + Anti-Slip Stopper Baffle</td></tr><tr><td>Product Warranty</td><td>1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand & Maker",
+      "value": "ST-Standard Hardware"
+    },
+    {
+      "group": "specs",
+      "label": "Model Specification",
+      "value": "ICE-07 RGB Gaming Cooling Pad Framework"
+    },
+    {
+      "group": "specs",
+      "label": "Laptop Compatibility",
+      "value": "Designed for Laptops Up To 17 Inch Screen Size"
+    },
+    {
+      "group": "specs",
+      "label": "Cooling System Setup",
+      "value": "6 Integrated High-Speed Cooling Fans System"
+    },
+    {
+      "group": "specs",
+      "label": "Lighting FX",
+      "value": "Dynamic Multi-Color RGB Edge Lighting Effects"
+    },
+    {
+      "group": "specs",
+      "label": "Control Interface",
+      "value": "Digital LCD Screen with Multi-Speed Manual Speed Controls"
+    },
+    {
+      "group": "specs",
+      "label": "Ergonomic Height Stand",
+      "value": "Multi-Position Adjustable Elevation Stand Structure"
+    },
+    {
+      "group": "specs",
+      "label": "Pass-Through Interface",
+      "value": "2x USB Pass-Through Ports (DC 5V Input)"
+    },
+    {
+      "group": "specs",
+      "label": "Surface Construction",
+      "value": "High-Density Iron Mesh Vent + Anti-Slip Stopper Baffle"
+    },
+    {
+      "group": "specs",
+      "label": "Product Warranty",
+      "value": "1-Year Official Local Agent Warranty (ضمان سنة من الوكيل)"
+    }
+  ],
+  "rating": 4.7,
+  "reviewCount": 29,
+  "reviews": [
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-27",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-14",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-04-19",
+      "demo": true
+    },
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-24",
+      "demo": true
+    }
+  ]
+}

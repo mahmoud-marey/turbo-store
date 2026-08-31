@@ -1,0 +1,74 @@
+{
+  "id": 554,
+  "slug": "redragon-cybill-h312",
+  "name": "Redragon Cybill H312 Gaming Headset",
+  "model": "H312",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "headphones-headsets"
+  ],
+  "price": 2400,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260211153927-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260211153927-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260211153927-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260211153927-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260211153719-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260211153719-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/IMG-20260201-WA0011(1)_260211153719-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Redragon",
+    "Cybill",
+    "H312",
+    "Gaming",
+    "Headset"
+  ],
+  "shortDescription": "ضمان عام من الوكيل...",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل</p><p><br></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/RedragonH312WiredGamingHeadset_7.jpg\"></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/RedragonH312WiredGamingHeadset_4.jpg\"></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/RedragonH312WiredGamingHeadset_3.jpg\"></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/RedragonH312WiredGamingHeadset_5.jpg\"></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/RedragonH312WiredGamingHeadset_6.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/RedragonH312WiredGamingHeadset_1.jpg\"><img src=\"https://turbo-computer.com/image/catalog/accessories/RedragonH312WiredGamingHeadset_8.jpg\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-20",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-25",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-12",
+      "demo": true
+    }
+  ]
+}

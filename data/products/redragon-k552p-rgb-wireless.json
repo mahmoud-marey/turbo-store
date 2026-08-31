@@ -1,0 +1,75 @@
+{
+  "id": 600,
+  "slug": "redragon-k552p-rgb-wireless",
+  "name": "Redragon Kumara K552P-KBS Blue Switch RGB wireless Mechanical Gaming Keyboard",
+  "model": "KUMARA K552P-KBS Blue Switch RGB wireless",
+  "brand": "Redragon",
+  "brandSlug": "redragon",
+  "categorySlugs": [
+    "keyboards-input-devices"
+  ],
+  "price": 2500,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 2,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/accessories/K552p10-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/accessories/K552p10-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/accessories/K552p10-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/accessories/K552p10-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Redragon",
+    "Kumara",
+    "K552P-KBS",
+    "Blue",
+    "Switch",
+    "RGB",
+    "wireless",
+    "Mechanical",
+    "Gaming",
+    "Keyboard"
+  ],
+  "shortDescription": "ضمان عام من الوكيل...",
+  "descriptionHtml": "<p><br></p><p>ضمان عام من الوكيل</p><p><br></p><p><img src=\"https://turbo-computer.com/image/catalog/accessories/K552p3.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/K552-KUMARA-PRO-Wireless-Keyboard-K552P-KS-1.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/K552p4.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/K552p2.png\"><img src=\"https://turbo-computer.com/image/catalog/accessories/K552p1.png\"><br></p><div class=\"",
+  "specs": [],
+  "rating": 3.9,
+  "reviewCount": 7,
+  "reviews": [
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-21",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-03-18",
+      "demo": true
+    }
+  ]
+}

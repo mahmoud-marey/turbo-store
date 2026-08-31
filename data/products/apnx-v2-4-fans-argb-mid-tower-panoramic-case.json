@@ -1,0 +1,81 @@
+{
+  "id": 849,
+  "slug": "apnx-v2-4-fans-argb-mid-tower-panoramic-case",
+  "name": "APNX V2 4 Fans ARGB Case",
+  "model": "APNX V2",
+  "brand": "APNX",
+  "brandSlug": "apnx",
+  "categorySlugs": [
+    "pc-cases-chasses"
+  ],
+  "price": 6999,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233912-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233912-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233912-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233912-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233945-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233945-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233945-1500x1500.png.webp"
+    },
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233929-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233929-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260504233929-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "APNX",
+    "V2",
+    "4 Fans",
+    "ARGB",
+    "Mid-Tower",
+    "Panoramic",
+    "Case"
+  ],
+  "shortDescription": "Technical SpecificationsThe APNX V2 is a refined mid-tower chassis that builds on the \"performance-meets-aesthetics\" philosophy of the brand. It features a seamless panoramic view (no pillar at the corner) and comes pre-",
+  "descriptionHtml": "<div _ngcontent-ng-c2096913378=\"\" inline-copy-host=\"\" id=\"model-response-message-contentr_b4311ef6bd57d592\" aria-live=\"polite\" aria-busy=\"false\" dir=\"ltr\"><h3><br></h3><p></p><h3><b>Technical Specifications</b></h3><p>The <b>APNX V2</b> is a refined mid-tower chassis that builds on the \"performance-meets-aesthetics\" philosophy of the brand. It features a seamless panoramic view (no pillar at the corner) and comes pre-installed with four high-performance ARGB fans.</p><table><thead><tr><td><strong>Feature</strong></td><td><strong>Specification</strong></td></tr></thead><tbody><tr><td><span><b>Model</b></span></td><td><span>APNX V2 ARGB</span></td></tr><tr><td><span><b>Case Type</b></span></td><td><span>Mid-Tower</span></td></tr><tr><td><span><b>Dimensions (DWH)</b></span></td><td><span>465 x 230 x 490 mm</span></td></tr><tr><td><span><b>Motherboard Support</b></span></td><td><span>ATX, Micro-ATX, ITX</span></td></tr><tr><td><span><b>Included Fans</b></span></td><td><span>4 x 120mm ARGB PWM Fans (3 Side Intake, 1 Rear Exhaust)</span></td></tr><tr><td><span><b>Total Fan Support</b></span></td><td><span>Up to 9 x 120mm fans</span></td></tr><tr><td><span><b>Radiator Support</b></span></td><td><span>Top: Up to 360mm; Side: Up to 360mm; Rear: 120mm</span></td></tr><tr><td><span><b>Max GPU Length</b></span></td><td",
+  "specs": [],
+  "rating": 4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "author": "Omar H.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-26",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-13",
+      "demo": true
+    },
+    {
+      "author": "Karim S.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-03-18",
+      "demo": true
+    },
+    {
+      "author": "Yasmin M.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-04-23",
+      "demo": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 937,
+  "slug": "gigabyte-b850m-gaming-x-wifi6e-motherboard",
+  "name": "Gigabyte B850M GAMING X WIFI6E Motherboard",
+  "model": "B850M GAMING X WIFI6E",
+  "brand": "GIGABYTE",
+  "brandSlug": "gigabyte",
+  "categorySlugs": [
+    "motherboards"
+  ],
+  "price": 9800,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 1,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850m-gaming-x-wifi6e-rev11-front-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850m-gaming-x-wifi6e-rev11-front-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850m-gaming-x-wifi6e-rev11-front-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/MBS/gigabyte-b850m-gaming-x-wifi6e-rev11-front-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "New"
+  ],
+  "tags": [
+    "Gigabyte",
+    "B850M",
+    "GAMING",
+    "X",
+    "WIFI6E",
+    "Motherboard"
+  ],
+  "shortDescription": "https://www.gigabyte.com/Motherboard/B850M-GAMING-X-WIFI6E-rev-10GIGABYTE B850M GAMING X WIFI6E — MotherboardPlatform\r\n\r\n\r\nSpec\r\nDetail\r\n\r\n\r\n\r\n\r\nBrand\r\nGIGABYTE\r\n\r\n\r\nModel\r\nB850M GAMING X WIFI6E (B850M GAMING X WF6E)\r\n\r\n",
+  "descriptionHtml": "<p><a href=\"https://www.gigabyte.com/Motherboard/B850M-GAMING-X-WIFI6E-rev-10\" target=\"_blank\">https://www.gigabyte.com/Motherboard/B850M-GAMING-X-WIFI6E-rev-10</a></p><p><br></p><p><strong>GIGABYTE B850M GAMING X WIFI6E — Motherboard</strong></p><h3>Platform</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Brand</strong></td><td>GIGABYTE</td></tr><tr><td><strong>Model</strong></td><td>B850M GAMING X WIFI6E (B850M GAMING X WF6E)</td></tr><tr><td><strong>Chipset</strong></td><td>AMD B850</td></tr><tr><td><strong>Socket</strong></td><td>AMD Socket AM5</td></tr><tr><td><strong>Form Factor</strong></td><td>Micro-ATX (mATX)</td></tr></tbody></table><h3>CPU Support</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Supported Processors</strong></td><td>AMD Ryzen 9000 Series / Ryzen 8000 Series / Ryzen 7000 Series</td></tr><tr><td><strong>X3D Turbo Mode</strong></td><td>Yes — single-click FPS performance boost for Ryzen X3D &amp; non-X3D CPUs</td></tr></tbody></table><h3>VRM</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Power Phases</strong></td><td>10+2+2 Twin Digital VRM (5+5 parallel phase design)</td></tr><tr><td><strong>PCB</strong></td><td>6-Layer, Mid-Loss, 2× Copper PCB</td></tr><tr><td><strong>Thermal</strong></td><td>VRM Thermal Armor Advanced — 5 W/mk thermal pad</td></tr><tr><td><strong>Power Connector</strong></td><td>24-pin ATX + 8-pin CPU with UD Solid Pin</td></tr></tbody></table><h3>Memory</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Slots</strong></td><td>4× DDR5 DIMM — Dual Channel</td></tr><tr><td><strong>Max Capacity</strong></td><td>256 GB (64 GB per single DIMM)</td></tr><tr><td><strong>Supported Speeds</strong></td><td>DDR5 4400 / 4800 / 5200 native — OC up to 8200 MT/s</td></tr><tr><td><strong>OC Profiles</strong></td><td>AMD EXPO and Intel XMP supported</td></tr><tr><td><strong>ECC</strong></td><td>Non-ECC Un-buffered DIMM</td></tr></tbody></table><h3>Onboard Graphics</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>HDMI</strong></td><td>1× HDMI 2.1 — max resolution 4096×2160 @ 60Hz, HDCP 2.3, HDR</td></tr></tbody></table><h3>Storage</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>M.2 Slot 1 (CPU)</strong></td><td>1× PCIe 5.0 M.2 — Socket 3, M-Key, type 2580/25110</td></tr><tr><td><strong>M.2 Slot 2 (Chipset)</strong></td><td>1× PCIe 4.0 M.2 — Socket 3, M-Key, type 2580/25110</td></tr><tr><td><strong>M.2 Thermal Guard</strong></td><td>Yes</td></tr><tr><td><strong>SATA Ports</strong></td><td>4× SATA 6Gb/s</td></tr><tr><td><strong>RAID</strong></td><td>RAID 0, RAID 1, RAID 10</td></tr></tbody></table><h3>Expansion Slots</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>PCIe x16 (CPU)</strong></td><td>1× PCIe 5.0 x16 — PCIe UD Slot (reinforced stainless steel)</td></tr><tr><td><strong>PCIe x16/x4 (Chipset)</strong></td><td>1× PCIe 3.0 running at x4</td></tr></tbody></table><h3>USB &amp; Back Panel</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>USB-C (Back Panel)</strong></td><td>1× USB Type-C — USB 3.2 Gen 2 (CPU)</td></tr><tr><td><strong>USB 3.2 Gen 2 Type-A (Back Panel)</strong></td><td>1× USB 3.2 Gen 2 Type-A (red, CPU)</td></tr><tr><td><strong>USB 3.2 Gen 1 (Back Panel)</strong></td><td>2× USB 3.2 Gen 1 (Chipset)</td></tr><tr><td><strong>USB 2.0 (Back Panel)</strong></td><td>4× USB 2.0/1.1 (CPU + USB 2.0 Hub)</td></tr><tr><td><strong>USB Internal Headers</strong></td><td>1× USB-C Gen 2 header / 1× USB 3.2 Gen 1 header / 2× USB 2.0 headers</td></tr></tbody></table><h3>Networking</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>LAN</strong></td><td>Realtek 2.5 GbE LAN</td></tr><tr><td><strong>Wi-Fi</strong></td><td>Wi-Fi 6E (802.11ax, 2.4/5/6 GHz tri-band)</td></tr><tr><td><strong>Bluetooth</strong></td><td>Yes (included with Wi-Fi module)</td></tr></tbody></table><h3>Audio</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Audio Codec</strong></td><td>Realtek HD Audio</td></tr><tr><td><strong>Channels</strong></td><td>2 / 4 / 5.1 / 7.1-channel</td></tr><tr><td><strong>Audio Jacks (Rear)</strong></td><td>3× audio jacks</td></tr></tbody></table><h3>Fan &amp; RGB Headers</h3><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>Fan Headers</strong></td><td>4× PWM/DC fan headers (1× CPU fan, 1× CPU/pump, 1× SYS fan, 1× SYS/pump)</td></tr><tr><td><strong>Fan Control</strong></td><td>Smart Fan 6 — Dual Fan Curve Mode</td></tr><tr><td><strong>ARGB Headers</strong></td><td>3× Addressable RGB Gen2 + 1× RGB LED strip header</td></tr></tbody></table><h3>BIOS &amp; Features</h3><p></p><table><thead><tr><th>Spec</th><th>Detail</th></tr></thead><tbody><tr><td><strong>BIOS</strong></td><td>AMI UEFI BIOS</td></tr><tr><td><strong>Q-Flash Plus</strong></td><td>Yes — auto scan BIOS file, flash without CPU/RAM/GPU installed</td></tr><tr><td><strong>POST LEDs</strong></td><td>Status LEDs for CPU, memory, GPU, and OS</td></tr><tr><td><strong>Warranty</strong></td><td>5 Years</td></tr><tr><td><strong>OS Support</strong></td><td>Windows 10 64-bit / Windows 11 64-bit</td></tr><tr><td><strong>Software</strong></td><td>@BIOS, EasyTune, RGB Fusion, Smart Backup, System Information Viewer</td></tr></tbody></table><div class=\"",
+  "specs": [
+    {
+      "group": "specs",
+      "label": "Brand",
+      "value": "GIGABYTE"
+    },
+    {
+      "group": "specs",
+      "label": "Model",
+      "value": "B850M GAMING X WIFI6E (B850M GAMING X WF6E)"
+    },
+    {
+      "group": "specs",
+      "label": "Chipset",
+      "value": "AMD B850"
+    },
+    {
+      "group": "specs",
+      "label": "Socket",
+      "value": "AMD Socket AM5"
+    },
+    {
+      "group": "specs",
+      "label": "Form Factor",
+      "value": "Micro-ATX (mATX)"
+    }
+  ],
+  "rating": 4,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "author": "Ahmed R.",
+      "rating": 4,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-07-26",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-08-13",
+      "demo": true
+    },
+    {
+      "author": "Omar H.",
+      "rating": 5,
+      "comment": "Exactly as described. Would buy again.",
+      "date": "2026-01-18",
+      "demo": true
+    },
+    {
+      "author": "Nour A.",
+      "rating": 5,
+      "comment": "Arrived quickly, packing was excellent.",
+      "date": "2026-02-23",
+      "demo": true
+    }
+  ]
+}

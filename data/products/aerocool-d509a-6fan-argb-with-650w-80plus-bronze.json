@@ -1,0 +1,74 @@
+{
+  "id": 852,
+  "slug": "aerocool-d509a-6fan-argb-with-650w-80plus-bronze",
+  "name": "Aerocool D509A 6 Fan ARGB with 650w 80plus Bronze Case",
+  "model": "D509A",
+  "brand": "Aerocool",
+  "brandSlug": "aerocool",
+  "categorySlugs": [
+    "power-supplies"
+  ],
+  "price": 4200,
+  "oldPrice": null,
+  "currency": "EGP",
+  "stock": 3,
+  "inStock": true,
+  "image": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509171220-600x600.png.webp",
+  "images": [
+    {
+      "thumb": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509171220-100x100.png.webp",
+      "medium": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509171220-600x600.png.webp",
+      "large": "https://turbo-computer.com/image/cache/catalog/case/IMG-20260201-WA0012_260509171220-1500x1500.png.webp"
+    }
+  ],
+  "labels": [
+    "Out Of Stock",
+    "New"
+  ],
+  "tags": [
+    "Aerocool",
+    "D509A",
+    "6Fan",
+    "ARGB",
+    "with",
+    "650w",
+    "80plus",
+    "Bronze",
+    "Case"
+  ],
+  "shortDescription": "Aerocool D509A 6 Fan ARGB (650W Bundle) SpecificationsCase SpecificationsModel: Aerocool D509ACase Type: Mid-TowerMotherboard Support: ATX, Micro-ATX, Mini-ITXSide Panel: Tempered GlassFront Panel: Mesh design for optimi",
+  "descriptionHtml": "",
+  "specs": [],
+  "rating": 4.8,
+  "reviewCount": 16,
+  "reviews": [
+    {
+      "author": "Mostafa E.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-05-18",
+      "demo": true
+    },
+    {
+      "author": "Laila K.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-06-23",
+      "demo": true
+    },
+    {
+      "author": "Ahmed R.",
+      "rating": 5,
+      "comment": "Great value compared to other stores.",
+      "date": "2026-07-10",
+      "demo": true
+    },
+    {
+      "author": "Salma F.",
+      "rating": 5,
+      "comment": "Runs cool and quiet under load.",
+      "date": "2026-08-15",
+      "demo": true
+    }
+  ]
+}
